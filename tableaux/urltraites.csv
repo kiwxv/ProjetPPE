@@ -1,0 +1,37 @@
+<html>
+  <head>
+          <meta charset="UTF-8" />
+           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css" />
+          <style>
+          body {
+            font-family: Arial, sans-serif; }
+          </style>
+  </head>
+  <body>
+   <article class="message is-dark is small">
+  <div class="message-body">
+    Bienvenue sur ce site. Vous y trouverez les résultats des extractions de données du mini-projet 1.
+  </div>
+</article>
+<div class="container">
+<h2 class="title is-2 has-text-centered">Tableaux analyse URLS</h2>
+      <table class="table is-striped is-fullwidth is-bordered is-hoverable is-narrow">
+          <thead><tr class="has-background-light">
+                <th>Ligne</th>
+                <th>Code_HTTP</th>
+                <th>Encodage</th>
+                <th>Mots</th>
+                <th>URL</th>
+          </tr></thead><tbody>
+          <tr>
+                <td>1</td>
+                <td>000</td>
+                <td>Absence d'encodage</td>
+                <td>0</td>
+          </tr>
+          <tr>
+          </tr>
+      </table>
+ 		</div>
+  </body>
+</html>
