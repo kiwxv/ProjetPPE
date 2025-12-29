@@ -11,7 +11,6 @@ fi
 compteur=1
 
 SORTIE=$2
-
 #on crée le fichier dans lequel va être stocké notre résultat
 >$2
 
@@ -23,11 +22,14 @@ while read -r line;
 do
 	#pour un des lien on a un soucis de redirection, donc on ajoute -L, avec -I on ne récupère que l'entête du site
 	# -s pour ne pas avoir la barre de progression, -o /dev/null pour récupérer le contenu de la page dans un fichier qui n'existe pas, donc on ne garde que le -w
+	echo "Traitement url $compteur"
 	code=$(curl -s -I -L -o /dev/null -w "%{http_code}" "$line")
 
 	#utiliser plusieur curl faisait bloquer wikimedia car trop de requêtes, j'en utilise donc seulement 1 que je met dans une variable contenu
+	echo "Traitement url $compteur."
 	contenu=$(curl -s -L "$line")
 
+	echo "Traitement url $compteur.."
 	encodage=$(echo "$contenu"| grep -i 'charset=' | sed 's/.*charset=//I')
 	#dans le cas la variable encodage est vide, au lieu de l'afficher tel quel on la remplie par "absence d'encodage"
 	if [ -z "$encodage" ]
@@ -35,12 +37,13 @@ do
 		encodage="Absence d'encodage"
 	fi
 
+	echo "Traitement url $compteur..."
 	mots=$(echo "$contenu"| wc -w)
 
 	#on ajoute nos infos dans la varibale TSV
+	echo "Traitement url $compteur...."
 	TSV+="${compteur}"$'\t'"${code}"$'\t'"${encodage}"$'\t'"${mots}"$'\t'"${line}"$'\n'
 
-	echo "Url $compteur traité"
 	#incrémentation compteur
 	compteur=$((compteur + 1))
 	#pour éviter de recevoir le code 429 "too many request" j'impose un temps de latence d'une seconde entre les requêtes
