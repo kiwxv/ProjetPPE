@@ -27,8 +27,10 @@ do
 
 	#utiliser plusieur curl faisait bloquer wikimedia car trop de requêtes, j'en utilise donc seulement 1 que je met dans une variable contenu
 	contenu=$(curl -s -L "$line")
+	echo "$contenu" > "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt"
 
-	encodage=$(echo "$contenu" | grep -ioP "charset=[\"\']?\K[\w-]+" | head -n 1)
+
+	encodage=$(echo "$contenu" | grep -ioP "charset=[\"']?\K[\w-]+" | head -n 1)
 	if [ -z "$encodage" ]
 		then
 		encodage=$(curl -s -I -L "$line" | grep -i 'content-type' | sed 's/.*charset=//I' | tr -d '\r')
