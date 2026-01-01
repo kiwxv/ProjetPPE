@@ -1,0 +1,556 @@
+<!DOCTYPE html><html lang="nb" class="__className_b92217"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="preload" as="image" href="https://cdn.sanity.io/images/g9i3uvwd/production/34b18667028c4c65e343be80f4aab35577655e9b-513x181.png"/><link rel="stylesheet" href="/_next/static/css/d3dd5e7b0adc6ffd.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/94d0244887e25d47.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/3fcae155cf7b3cac.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/a2be4adc2e2e73b8.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/56797b0848f50414.css" data-precedence="next"/><link rel="preload" as="script" fetchPriority="low" href="/_next/static/chunks/webpack-316dc2184a04143d.js"/><script src="/_next/static/chunks/4bd1b696-21f374d1156f834a.js" async=""></script><script src="/_next/static/chunks/255-9005173036ce53dc.js" async=""></script><script src="/_next/static/chunks/main-app-af08afe34a317ab5.js" async=""></script><script src="/_next/static/chunks/619-ba102abea3e3d0e4.js" async=""></script><script src="/_next/static/chunks/318-5085a9fd31175c8a.js" async=""></script><script src="/_next/static/chunks/356-c5e20c4b262af940.js" async=""></script><script src="/_next/static/chunks/107-130e321352f26776.js" async=""></script><script src="/_next/static/chunks/959-6b521ae6a3535e92.js" async=""></script><script src="/_next/static/chunks/app/layout-f8468daafa7eb792.js" async=""></script><script src="/_next/static/chunks/347-5d33662091c1e68a.js" async=""></script><script src="/_next/static/chunks/app/ordbok/%5Bslug%5D/page-76095a48872b08e9.js" async=""></script><link rel="preload" href="https://plausible.io/js/script.js" as="script"/><meta name="next-size-adjust" content=""/><meta name="yandex-verification" content="90ce1c4e7c95d482"/><link rel="manifest" href="/manifest.json"/><link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png"/><link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png"/><link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png"/><link rel="shortcut icon" href="/icons/favicon.ico"/><meta name="theme-color" content="#ffffff"/><meta name="format-detection" content="telephone=no, date=no, email=no, address=no"/><title>flåte - Det Norske Akademis ordbok</title><link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="48x48"/><script src="/_next/static/chunks/polyfills-42372ed130431b0a.js" noModule=""></script></head><body><div hidden=""><!--$--><!--/$--></div><div class="layout_layout__Qn9HX"><header class="Header_header__MwWvM"><div class="l-main"><div class="Header_content__ENXbo"><a class="Header_logoContainer__dC_In" href="/"><img title="Forsiden til Det Norske Akademis ordbok" alt="Det Norske Akademis Ordbok" width="264" height="94" decoding="async" data-nimg="1" class="Header_logo__V9h3K" style="color:transparent" src="/_next/static/media/naob-logo.05620f06.svg"/></a><div class="Header_form__Fhvkt"><!--$?--><template id="B:0"></template><form class="SearchForm_form__cJQu3" action="/søk" method="GET"><div class="SearchForm_inputContainer__pz2eC"><input class="SearchForm_input__AwQbh" type="text" placeholder="Søk etter ord eller uttrykk" name="q" value=""/></div><button class="SearchForm_submitButton__bMN_U" type="submit" aria-label="Søk" disabled=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="SearchForm_submitIcon__g4666"><path fill="currentColor" d="M456.69 421.39L362.6 327.3a173.81 173.81 0 0034.84-104.58C397.44 126.38 319.06 48 222.72 48S48 126.38 48 222.72s78.38 174.72 174.72 174.72A173.81 173.81 0 00327.3 362.6l94.09 94.09a25 25 0 0035.3-35.3zM97.92 222.72a124.8 124.8 0 11124.8 124.8 124.95 124.95 0 01-124.8-124.8z"></path></svg></button><label class="SearchForm_freeText__SNgc2">Fritekst-søk<div class="SearchForm_checkboxContainer__ornFL"><input class="SearchForm_checkbox__v_i1U" type="checkbox" name="fritekst"/><div class="SearchForm_checkmarkContainer__e6oNv"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="SearchForm_checkmark__cWuiz"><path fill="none" stroke="currentColor" stroke-linecap="square" stroke-miterlimit="10" stroke-width="52" d="M416 128L192 384l-96-96"></path></svg></div></div></label></form><!--/$--></div></div></div><div class="Header_menu__oAriL"><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-_R_2db_" data-state="closed" class="Menu_menuButton__AcAnE" aria-label="Vis meny"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="Menu_menuIcon__totRB"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="48" d="M88 152h336M88 256h336M88 360h336"></path></svg></button></div></header><div class="l-main"><div class="layout_main__30FUz"><main><h1 class="u-visually-hidden">flåte</h1><a class="page_searchLink__GXGn4" href="/søk?q=flåte">Likt stavede oppslagsord</a><article class="WordDefinition_root__6HPmg"><div>
+    <div>
+        <div class="article">
+            
+            <div>
+                <div class="oppslagsord_og_ordklasse">
+                    <span class="oppslagsord">fl&aring;te</span>&#160;
+                    <div class="ordklasseledd inline-eske">
+                        <span>substantiv</span>
+                    </div>
+                    <a class="information-link" href="/rettskrivning-og-boyning"><img class="information-link-image" alt="Informasjon" src="/information-circle.svg"></a>
+                </div>
+                <u-details class="expandable-details">
+                    <u-summary class="expandable-details__summary">
+                        <div class="contentheading blcontentheading" id="blcontentheading3768724">
+                            <span class="overskrift">MODERAT BOKMÅL</span><span class="genus">en</span>; <span class="boeyningsform SubstBestEntall">fl&aring;ten</span>, <span class="boeyningsform SubstUbestFlertall">fl&aring;ter</span> <img class="expandable-details__plus-icon" src="/pluss.svg"><img class="expandable-details__minus-icon" src="/minus.svg">
+                        </div>
+                    </u-summary>
+                    <div class="contents boeyningsskjema" id="blcontents3768724">
+                        <div id="resp-table-for-toggle" class="table-for-toggle">
+                            <div id="resp-table-body" class="tbody">
+                                <div class="resp-table-row tr">
+                                    <div class="table-body-cell boeyningsform-ledetekst td">genus</div>
+                                    <div class="table-body-cell  td">
+                                        <span class="genus">maskulinum</span>
+                                    </div>
+                                </div>
+                                <div class="resp-table-row tr">
+                                    <div class="table-body-cell boeyningsform-ledetekst td">ubestemt artikkel</div>
+                                    <div class="table-body-cell boeyningsform-i-skjema td">
+                                        <span class="genus">en</span>
+                                    </div>
+                                </div>
+                                <div class="resp-table-row tr">
+                                    <div class="table-body-cell boeyningsform-ledetekst td">bestemt form entall</div>
+                                    <div class="table-body-cell boeyningsform-i-skjema td">fl&aring;ten</div>
+                                </div>
+                                <div class="resp-table-row tr">
+                                    <div class="table-body-cell boeyningsform-ledetekst td">ubestemt form flertall</div>
+                                    <div class="table-body-cell boeyningsform-i-skjema td">fl&aring;ter</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </u-details>
+                <inflection-table data-lemma-ids="18173">
+                    <u-details class="expandable-details">
+                        <u-summary class="expandable-details__summary">
+                            <div class="contentheading blcontentheading">
+                                <span class="overskrift">FULL BOKM&Aring;LSNORM</span><img class="expandable-details__plus-icon" src="/pluss.svg"><img class="expandable-details__minus-icon" src="/minus.svg">
+                            </div>
+                        </u-summary>
+                        <div class="inflection-table-contents">
+                            <div class="loader"></div>
+                        </div>
+                    </u-details>
+                </inflection-table>
+                <div>
+                    <span class="overskrift">UTTALE</span><span>[fl&aring;:`tə]</span><a class="pronunciation-link" href="/uttale-veiledning"><img class="questionimg" alt="Uttale-veiledning" src="/question.svg"></a>
+                </div>
+                <div>
+                    <span class="overskrift">ETYMOLOGI</span>
+                    <div class="inline-eske">
+                        av <span class="spraak">norr&oslash;nt</span> <span class="histform">floti</span> '<span>noe som flyter, fl&aring;te, t&oslash;mmerfl&aring;te; skipsfl&aring;te</span>'; beslektet med <span title=""><a href="/ordbok/flyte">flyte</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div>
+                <div class="kropp overskrift">BETYDNING OG BRUK</div>
+                <div class="content">
+                    <u-details class="expandable-details">
+                        <u-summary class="expandable-details__summary">
+                            <div class="contentheading" id="aicontentheading3768724">
+                                <span class="overskrift">INNHOLDSFORTEGNELSE</span> <img class="expandable-details__plus-icon" src="/pluss.svg"><img class="expandable-details__minus-icon" src="/minus.svg">
+                            </div>
+                        </u-summary>
+                        <div class="contents" id="aicontents3768724">
+                            <div>
+                                <div style="margin-left: 1em;">
+                                    <div class="betydningsentry">
+                                        <a class="contentlink" href="#52882524">1</a>&#160;
+                                        <div class="inline-eske">enkel flat og bred farkost som stakes frem eller driver
+p&aring; vann</div>
+                                        <div class="inline-eske">; flyteplattform til et bestemt form&aring;l</div>
+                                    </div>
+                                    <div style="margin-left: 1em;">
+                                        <div class="betydningsentry">
+                                            <a class="contentlink" href="#52882527">1.1</a>&#160;
+                                            <div class="betydningsskiller inline-eske">
+                                                <span class="fag">sj&oslash;fart</span>
+                                            </div>
+                                            <div class="inline-eske">
+                                                &#160;<span title="OK - Entydig maskinelt opprettet (1a)"><a href="/ordbok/redningsflåte">redningsfl&aring;te</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div style="margin-left: 1em;">
+                                        <div class="betydningsentry">
+                                            <a class="contentlink" href="#52882528">1.2</a>&#160;
+                                            <div class="betydningsskiller inline-eske">
+                                                <span class="fag">bygningsfag</span>
+                                            </div>
+                                            <div class="inline-eske">&#160;fundament (med st&oslash;rre flate enn bygningen) i form av en
+plattform av t&oslash;mmer, betong e.l., brukt i mangel av fast grunn</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div style="margin-left: 1em;">
+                                    <div class="betydningsentry">
+                                        <a class="contentlink" href="#52882533">2</a>&#160;
+                                        <div class="inline-eske">samlet antall skip som eies av en stat eller et selskap,
+rederi</div>
+                                    </div>
+                                    <div style="margin-left: 1em;">
+                                        <div class="betydningsentry">
+                                            <a class="contentlink" href="#59056331">2.1</a>&#160;
+                                            <div class="betydningsskiller inline-eske">
+                                                <span class="fag">sj&oslash;milit&aelig;rvesen</span>
+                                            </div>
+                                            <div class="inline-eske">&#160;et lands samlede antall krigsskip</div>
+                                            <div class="inline-eske">; krigsfl&aring;te</div>
+                                        </div>
+                                    </div>
+                                    <div style="margin-left: 1em;">
+                                        <div class="betydningsentry">
+                                            <a class="contentlink" href="#52882529">2.2</a>&#160;
+                                            <div class="inline-eske">(stor) samling av (krigs)skip som seiler eller skal seile
+sammen</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div style="margin-left: 1em;">
+                                    <div class="betydningsentry">
+                                        <a class="contentlink" href="#52882534">3</a>&#160;
+                                        <div class="betydningsskiller inline-eske">
+                                            <span class="stil">overf&oslash;rt</span>
+                                        </div>
+                                        <div class="inline-eske">&#160;samlet antall fly eller andre transportmidler (ikke skip)
+som eies av et selskap, finnes p&aring; et bestemt sted e.l.</div>
+                                    </div>
+                                </div>
+                                <div style="margin-left: 1em;">
+                                    <div class="betydningsentry">
+                                        <a class="contentlink" href="#52882532">4</a>&#160;
+                                        <div class="betydningsskiller inline-eske">
+                                            <span class="stil">overf&oslash;rt</span>, <span class="stil">sjelden</span>
+                                        </div>
+                                        <div class="inline-eske">&#160;samlet flokk, formasjon (av fugler)</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </u-details>
+                </div>
+                
+                <div id="52882524">
+                    <div>
+                        <div class="betydning">
+                            <span class="betydningnr">1&#160;</span>
+
+                            <div class="inline-eske">enkel flat og bred farkost som stakes frem eller driver
+p&aring; vann</div>
+                            
+                            <div class="inline-eske">; flyteplattform til et bestemt form&aring;l</div>
+                            
+                            <div class="inline-eske">
+                                &#160;| jf. <span title="OK - Entydig maskinelt opprettet (1a)"><a href="/ordbok/tømmerflåte">t&oslash;mmerfl&aring;te</a></span>, <span title=""><a href="/ordbok/badeflåte">badefl&aring;te</a></span>
+                            </div>
+                            
+                            <div class="redeksseksjon">
+                                <div class="overskrift">EKSEMPLER</div>
+                                <ul>
+                                    
+                                    <li>
+                                        
+                                        <div class="redeks inline-eske">bygge fl&aring;te av t&oslash;mmer, greiner, planker</div>
+                                        
+                                    </li>
+                                    
+                                    <li>
+                                        
+                                        <div class="redeks inline-eske">de ble fraktet over elven p&aring; fl&aring;ter</div>
+                                        
+                                    </li>
+                                    
+                                    <li>
+                                        
+                                        <div class="redeks inline-eske">bade fra en fl&aring;te</div>
+                                        
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                            
+                            <div class="sitatseksjon">
+                                <div class="overskrift">SITAT</div>
+                                <ul>
+                                    
+                                    <li>
+                                        
+                                        <div class="sitat inline-eske">dere lager en fl&aring;te av t&oslash;mmerstokker og kasser &hellip; Dere
+spikrer kj&oslash;l og lager ror, reiser mast, heiser seil av sekker</div>
+                                        
+                                        <div class="inline-eske">
+                                            &#160;(<span>Olav Angell</span> <a class="verk" target="_blank" href="https://www.nb.no/items/URN:NBN:no-nb_digibok_2007100404051?searchText=%22seil av sekker%22">Oslo i skumring</a> <span>229</span> <span class="aar">1991</span>)
+                                        </div>
+                                        
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                            
+                            <div id="52882527">
+                                <div>
+                                    <div class="betydning">
+                                        <span class="betydningnr">1.1&#160;</span>
+
+                                        <div class="betydningsskiller inline-eske">
+                                            <span class="fag">sj&oslash;fart</span>
+                                        </div>
+                                        
+                                        <div class="inline-eske">
+                                            &#160;<span title="OK - Entydig maskinelt opprettet (1a)"><a href="/ordbok/redningsflåte">redningsfl&aring;te</a></span>
+                                        </div>
+                                        
+                                        <div class="inline-eske">
+                                            &#160;| jf. <span title=""><a href="/ordbok/gummiflåte">gummifl&aring;te</a></span>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div id="52882528">
+                                <div>
+                                    <div class="betydning">
+                                        <span class="betydningnr">1.2&#160;</span>
+
+                                        <div class="betydningsskiller inline-eske">
+                                            <span class="fag">bygningsfag</span>
+                                        </div>
+                                        
+                                        <div class="inline-eske">&#160;fundament (med st&oslash;rre flate enn bygningen) i form av en
+plattform av t&oslash;mmer, betong e.l., brukt i mangel av fast grunn</div>
+                                        
+                                        <div class="redeksseksjon">
+                                            <div class="overskrift">EKSEMPEL</div>
+                                            <ul>
+                                                
+                                                <li>
+                                                    
+                                                    <div class="redeks inline-eske">bygge p&aring; fl&aring;ter</div>
+                                                    
+                                                </li>
+                                                
+                                            </ul>
+                                        </div>
+                                        
+                                        <div class="sitatseksjon">
+                                            <div class="overskrift">SITAT</div>
+                                            <ul>
+                                                
+                                                <li>
+                                                    
+                                                    <div class="sitat inline-eske">mange av husene som er bygget i Niels Carlsens gate er bygget
+p&aring; fl&aring;ter i leire</div>
+                                                    
+                                                    <div class="inline-eske">
+                                                        &#160;(<span class="verk">Akershus Amtstidende</span> <span>13.10.2014/5</span>)
+                                                    </div>
+                                                    
+                                                </li>
+                                                
+                                            </ul>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="52882533">
+                    <div>
+                        <div class="betydning">
+                            <span class="betydningnr">2&#160;</span>
+
+                            <div class="inline-eske">samlet antall skip som eies av en stat eller et selskap,
+rederi</div>
+                            
+                            <div class="inline-eske">
+                                &#160;| jf. <span title=""><a href="/ordbok/handelsflåte">handelsfl&aring;te</a></span>, <span title=""><a href="/ordbok/fiskeflåte">fiskefl&aring;te</a></span>, <span title=""><a href="/ordbok/tankflåte">tankfl&aring;te</a></span>
+                            </div>
+                            
+                            <div class="redeksseksjon">
+                                <div class="overskrift">EKSEMPLER</div>
+                                <ul>
+                                    
+                                    <li>
+                                        
+                                        <div class="redeks inline-eske">rederiets fl&aring;te</div>
+                                        
+                                    </li>
+                                    
+                                    <li>
+                                        
+                                        <div class="redeks inline-eske">fl&aring;ten ligger i opplag</div>
+                                        
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                            
+                            <div class="sitatseksjon">
+                                <div class="overskrift">SITATER</div>
+                                <ul>
+                                    
+                                    <li>
+                                        
+                                        <div class="sitat inline-eske">under krigen mistet vi noen og femti prosent av v&aring;r fl&aring;te</div>
+                                        
+                                        <div class="inline-eske">
+                                            &#160;(<span class="verk">Norges Handels- og Sj&oslash;fartstidende</span> <span>1954/286/3/4</span>)
+                                        </div>
+                                        
+                                        <div class="inline-eske">&#160;| av v&aring;r handelsfl&aring;te</div>
+                                        
+                                    </li>
+                                    
+                                    <li>
+                                        
+                                        <div class="sitat inline-eske">innsatsen den norske fl&aring;ten utf&oslash;rte fikk en avgj&oslash;rende betydning
+for krigens utvikling</div>
+                                        
+                                        <div class="inline-eske">
+                                            &#160;(<span class="verk">Nationen</span> <span>23.11.2015/19</span>)
+                                        </div>
+                                        
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                            
+                            <div id="59056331">
+                                <div>
+                                    <div class="betydning">
+                                        <span class="betydningnr">2.1&#160;</span>
+
+                                        <div class="betydningsskiller inline-eske">
+                                            <span class="fag">sj&oslash;milit&aelig;rvesen</span>
+                                        </div>
+                                        
+                                        <div class="inline-eske">&#160;et lands samlede antall krigsskip</div>
+                                        
+                                        <div class="inline-eske">; krigsfl&aring;te</div>
+                                        
+                                        <div class="sitatseksjon">
+                                            <div class="overskrift">SITATER</div>
+                                            <ul>
+                                                
+                                                <li>
+                                                    
+                                                    <div class="sitat inline-eske">den engelske flaate burde l&aelig;gge hovedvakten paa den submarine
+avdeling</div>
+                                                    
+                                                    <div class="inline-eske">
+                                                        &#160;(<span>&Oslash;vre Richter Frich</span> <a class="verk" target="_blank" href="https://www.nb.no/items/URN:NBN:no-nb_digibok_2013080208078?searchText=%22den submarine avdeling%22">Kaperens kl&oslash;r</a> <span>54</span> <span class="aar">1915</span>)
+                                                    </div>
+                                                    
+                                                </li>
+                                                
+                                                <li>
+                                                    
+                                                    <div class="sitat inline-eske">Tyskland fikk ikke ha noen fl&aring;te etter fredsslutningen</div>
+                                                    
+                                                    <div class="inline-eske">
+                                                        &#160;(<span>P&aring;l Gerhard Olsen</span> <a class="verk" target="_blank" href="https://www.nb.no/items/URN:NBN:no-nb_digibok_2008101704080?searchText=%22fl%C3%A5te etter fredsslutningen%22">Fredstid</a> <span>160</span> <span class="aar">2000</span>)
+                                                    </div>
+                                                    
+                                                </li>
+                                                
+                                            </ul>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div id="52882529">
+                                <div>
+                                    <div class="betydning">
+                                        <span class="betydningnr">2.2&#160;</span>
+
+                                        <div class="inline-eske">(stor) samling av (krigs)skip som seiler eller skal seile
+sammen</div>
+                                        
+                                        <div class="sitatseksjon">
+                                            <div class="overskrift">SITATER</div>
+                                            <ul>
+                                                
+                                                <li>
+                                                    
+                                                    <div class="sitat inline-eske">H&aring;kon H&aring;konss&oslash;n ligger ved Elgjarn&aelig;ss med hele sin fl&aring;de</div>
+                                                    
+                                                    <div class="inline-eske">
+                                                        &#160;(<span>Henrik Ibsen</span> <a class="verk" target="_blank" href="http://ibsen.uio.no/DRVIT_KE|KE72.xhtml">Kongs-Emnerne</a> <span>149</span> <span class="aar">1872</span>)
+                                                    </div>
+                                                    
+                                                </li>
+                                                
+                                                <li>
+                                                    
+                                                    <div class="sitat inline-eske">danske fl&aring;den er i fjorden</div>
+                                                    
+                                                    <div class="inline-eske">
+                                                        &#160;(<span>Henrik Ibsen</span> <a class="verk" target="_blank" href="https://www.nb.no/items/URN:NBN:no-nb_digibok_2010040912002?searchText=%22er i fjorden%22">Digte</a> <span>11</span> <span class="aar">1875</span>)
+                                                    </div>
+                                                    
+                                                </li>
+                                                
+                                                <li>
+                                                    
+                                                    <div class="sitat inline-eske">Norge &hellip; var en eneste tanksperring fra naturens side,
+skj&aelig;rg&aring;rden langs kysten var skapt til &aring; bli en kirkeg&aring;rd for en fremmed
+fl&aring;te</div>
+                                                    
+                                                    <div class="inline-eske">
+                                                        &#160;(<span>Jens Bj&oslash;rneboe</span> <a class="verk" target="_blank" href="https://www.nb.no/items/URN:NBN:no-nb_digibok_2012021508001?searchText=%22en fremmed fl%C3%A5te%22">Under en h&aring;rdere himmel</a> <span>88</span> <span class="aar">1957</span>)
+                                                    </div>
+                                                    
+                                                </li>
+                                                
+                                                <li>
+                                                    
+                                                    <div class="sitat inline-eske">i 1529 reiste [S&uuml;leyman den store] fra det beleirede Wien til
+Valencia for &aring; lede fl&aring;ten som var i ferd med &aring; innta byen</div>
+                                                    
+                                                    <div class="inline-eske">
+                                                        &#160;(<span>Thorvald Steen</span> <a class="verk" target="_blank" href="https://www.nb.no/items/URN:NBN:no-nb_digibok_2011050408190?searchText=%22%C3%A5 innta byen%22">Fra Reykholt til Bosporus</a> <span>LBK</span> <span class="aar">2003</span>)
+                                                    </div>
+                                                    
+                                                </li>
+                                                
+                                            </ul>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="52882534">
+                    <div>
+                        <div class="betydning">
+                            <span class="betydningnr">3&#160;</span>
+
+                            <div class="betydningsskiller inline-eske">
+                                <span class="stil">overf&oslash;rt</span>
+                            </div>
+                            
+                            <div class="inline-eske">&#160;samlet antall fly eller andre transportmidler (ikke skip)
+som eies av et selskap, finnes p&aring; et bestemt sted e.l.</div>
+                            
+                            <div class="inline-eske">
+                                &#160;| jf. ogs&aring; <span title="OK - Entydig maskinelt opprettet (1a)"><a href="/ordbok/luftflåte">luftfl&aring;te</a></span>
+                            </div>
+                            
+                            <div class="redeksseksjon">
+                                <div class="overskrift">EKSEMPEL</div>
+                                <ul>
+                                    
+                                    <li>
+                                        
+                                        <div class="redeks inline-eske">flyselskapet fornyet fl&aring;ten med 10 fly</div>
+                                        
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                            
+                            <div class="sitatseksjon">
+                                <div class="overskrift">SITATER</div>
+                                <ul>
+                                    
+                                    <li>
+                                        
+                                        <div class="sitat inline-eske">SAS setter inn en fl&aring;te p&aring; 10 busser mellom Oslo og G&ouml;teborg</div>
+                                        
+                                        <div class="inline-eske">
+                                            &#160;(<span class="verk">Dagbladet</span> <span>1971/246/3/4</span>)
+                                        </div>
+                                        
+                                    </li>
+                                    
+                                    <li>
+                                        
+                                        <div class="sitat inline-eske">Oslo f&aring;r Nordens st&oslash;rste fl&aring;te av elektriske busser</div>
+                                        
+                                        <div class="inline-eske">
+                                            &#160;(<span class="verk">klimaoslo.no</span> <span>20.05.2019</span>)
+                                        </div>
+                                        
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="52882532">
+                    <div>
+                        <div class="betydning">
+                            <span class="betydningnr">4&#160;</span>
+
+                            <div class="betydningsskiller inline-eske">
+                                <span class="stil">overf&oslash;rt</span>, <span class="stil">sjelden</span>
+                            </div>
+                            
+                            <div class="inline-eske">&#160;samlet flokk, formasjon (av fugler)</div>
+                            
+                            <div class="sitatseksjon">
+                                <div class="overskrift">SITAT</div>
+                                <ul>
+                                    
+                                    <li>
+                                        
+                                        <div class="sitat inline-eske">hver h&oslash;st og vaar saa de graagaasen seile i flaate over vildmarken</div>
+                                        
+                                        <div class="inline-eske">
+                                            &#160;(<span>Knut Hamsun</span> <a class="verk" target="_blank" href="https://www.nb.no/items/URN:NBN:no-nb_digibok_2010061108018?searchText=%22flaate over vildmarken%22">Markens Gr&oslash;de I</a> <span>210</span> <span class="aar">1917</span>)
+                                        </div>
+                                        
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            
+        </div>
+    </div>
+</div>
+</article><div class="page_citation__fL1Gq"><div data-state="closed" class="AccordionRoot"><button type="button" aria-controls="radix-_R_hbsnpflb_" aria-expanded="false" data-state="closed" class="Citation_button__E0Dm0">Siter denne ordartikkelen</button><div data-state="closed" id="radix-_R_hbsnpflb_" hidden="" class="Citation_content__jpsRC"></div></div></div><div class="page_vipps__KD1SL"></div></main><!--$--><!--/$--></div></div><footer class="Footer_footer__OYoYH"><div class="l-main"><div class="Footer_content__V9MfQ"><div class="Footer_text__zmW1j"><div class="PageContent_content__bddf2"><div class="PageContent_content__bddf2"><p>© <a href="http://www.detnorskeakademi.no/" rel="noreferrer noopener">Det Norske Akademi for Språk og Litteratur</a> 2026<br/><a href="/dagens-redaksjon">Redaksjonen</a> holder til i Grensen 3, 0159 Oslo. <a href="/kontakt">Kontakt NAOB-redaksjonen</a>.</p><p><img src="https://cdn.sanity.io/images/g9i3uvwd/production/608e54f5bb7d2b2e09c4bd794a6705cc791f2f77-582x178.svg" alt="Det Norske Akademi for Språk og Litteratur" class=""/></p><p><a href="/informasjonskapsler">Om bruk av informasjonskapsler/cookies på naob.no</a></p></div></div></div><article><div><h2 class="Footer_patronTitle__alyqO">NAOBs finansielle støttespillere i 2026</h2><div class="Footer_sectionList__9sEz2"><section class="Footer_section__qKUVy"><h3 class="Footer_sectionTitle__EYflW">Staten</h3><div class="Footer_sectionContent__EI035"><div class="PageContent_content__bddf2"><p></p><ul class="PatronList_list__mjdvX" data-context="footer"><li class="PatronList_patron__OJJQy"><div class="Patron_patron__A80g8" data-context="footer"><a class="Patron_link__T2lEr" href="https://www.regjeringen.no/no/dep/kud/"><img class="Patron_logo__xeoHL" alt="Kulturdepartementet" src="https://cdn.sanity.io/images/g9i3uvwd/production/01504b44b4338ca3998879121964a0eeb9b0cf5a-191x43.svg"/></a></div></li></ul><p></p></div></div></section><section class="Footer_section__qKUVy"><h3 class="Footer_sectionTitle__EYflW">Private stiftelser</h3><div class="Footer_sectionContent__EI035"><div class="PageContent_content__bddf2"><p></p><ul class="PatronList_list__mjdvX" data-context="footer"><li class="PatronList_patron__OJJQy"><div class="Patron_patron__A80g8" data-context="footer"><a class="Patron_link__T2lEr" href="https://sparebankstiftelsen.no/"><img class="Patron_logo__xeoHL" alt="Sparebankstiftelsen DNB" src="https://cdn.sanity.io/images/g9i3uvwd/production/4695f06abd55a084d3dc72a7afa4aaa24af24b8d-1820x1580.png"/></a></div></li><li class="PatronList_patron__OJJQy"><div class="Patron_patron__A80g8" data-context="footer"><a class="Patron_link__T2lEr" href="https://bergesenstiftelsen.no/"><img class="Patron_logo__xeoHL" alt="Bergesenstiftelsen" src="https://cdn.sanity.io/images/g9i3uvwd/production/4b3a60fe4df31db4f08bf7e3a5381a590b40739f-1038x411.svg"/></a></div></li><li class="PatronList_patron__OJJQy"><div class="Patron_patron__A80g8" data-context="footer"><a class="Patron_link__T2lEr" href="https://www.eckbos-legat.no/"><img class="Patron_logo__xeoHL" alt="Eckbos legat" src="https://cdn.sanity.io/images/g9i3uvwd/production/34b18667028c4c65e343be80f4aab35577655e9b-513x181.png"/></a></div></li><li class="PatronList_patron__OJJQy"><div class="Patron_patron__A80g8" data-context="footer"><a class="Patron_link__T2lEr" href="https://www.hoeghstiftelsene.no/lucy-hoegh-stiftelse/"><div class="Patron_textLogo__6Ph2w">Leif og Lucy Høegh Stiftelse</div></a></div></li></ul></div></div></section><section class="Footer_section__qKUVy"><h3 class="Footer_sectionTitle__EYflW">Ordbokens brukere</h3><div class="Footer_sectionContent__EI035"><div class="PageContent_content__bddf2"><p>Er du fornøyd med NAOB? Store og små gaver mottas med stor takk.</p><p>Vårt Vipps-nummer er <b>629219</b></p><p>Vårt kontonummer er: <b>1506 30 88258</b></p><p></p></div></div></section></div></div></article></div></div></footer></div><script>requestAnimationFrame(function(){$RT=performance.now()});</script><script src="/_next/static/chunks/webpack-316dc2184a04143d.js" id="_R_" async=""></script><div hidden id="S:0"><form class="SearchForm_form__cJQu3" action="/søk" method="GET"><div class="SearchForm_inputContainer__pz2eC"><input class="SearchForm_input__AwQbh" type="text" placeholder="Søk etter ord eller uttrykk" name="q" value=""/></div><button class="SearchForm_submitButton__bMN_U" type="submit" aria-label="Søk" disabled=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="SearchForm_submitIcon__g4666"><path fill="currentColor" d="M456.69 421.39L362.6 327.3a173.81 173.81 0 0034.84-104.58C397.44 126.38 319.06 48 222.72 48S48 126.38 48 222.72s78.38 174.72 174.72 174.72A173.81 173.81 0 00327.3 362.6l94.09 94.09a25 25 0 0035.3-35.3zM97.92 222.72a124.8 124.8 0 11124.8 124.8 124.95 124.95 0 01-124.8-124.8z"></path></svg></button><label class="SearchForm_freeText__SNgc2">Fritekst-søk<div class="SearchForm_checkboxContainer__ornFL"><input class="SearchForm_checkbox__v_i1U" type="checkbox" name="fritekst"/><div class="SearchForm_checkmarkContainer__e6oNv"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="SearchForm_checkmark__cWuiz"><path fill="none" stroke="currentColor" stroke-linecap="square" stroke-miterlimit="10" stroke-width="52" d="M416 128L192 384l-96-96"></path></svg></div></div></label></form></div><script>$RB=[];$RV=function(a){$RT=performance.now();for(var b=0;b<a.length;b+=2){var c=a[b],e=a[b+1];null!==e.parentNode&&e.parentNode.removeChild(e);var f=c.parentNode;if(f){var g=c.previousSibling,h=0;do{if(c&&8===c.nodeType){var d=c.data;if("/$"===d||"/&"===d)if(0===h)break;else h--;else"$"!==d&&"$?"!==d&&"$~"!==d&&"$!"!==d&&"&"!==d||h++}d=c.nextSibling;f.removeChild(c);c=d}while(c);for(;e.firstChild;)f.insertBefore(e.firstChild,c);g.data="$";g._reactRetry&&requestAnimationFrame(g._reactRetry)}}a.length=0};
+$RC=function(a,b){if(b=document.getElementById(b))(a=document.getElementById(a))?(a.previousSibling.data="$~",$RB.push(a,b),2===$RB.length&&("number"!==typeof $RT?requestAnimationFrame($RV.bind(null,$RB)):(a=performance.now(),setTimeout($RV.bind(null,$RB),2300>a&&2E3<a?2300-a:$RT+300-a)))):b.parentNode.removeChild(b)};$RC("B:0","S:0")</script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,"1:\"$Sreact.fragment\"\n3:I[9766,[],\"\"]\n4:I[8924,[],\"\"]\n6:I[4431,[],\"OutletBoundary\"]\n8:I[5278,[],\"AsyncMetadataOutlet\"]\na:I[4431,[],\"ViewportBoundary\"]\nc:I[4431,[],\"MetadataBoundary\"]\nd:\"$Sreact.suspense\"\nf:I[7150,[],\"\"]\n10:I[1402,[\"619\",\"static/chunks/619-ba102abea3e3d0e4.js\",\"318\",\"static/chunks/318-5085a9fd31175c8a.js\",\"356\",\"static/chunks/356-c5e20c4b262af940.js\",\"107\",\"static/chunks/107-130e321352f26776.js\",\"959\",\"static/chunks/959-6b521ae6a3535e92.js\",\"177\",\"static/chunks/app/layout-f8468daafa7eb792.js\"],\"\"]\n11:I[2314,[\"619\",\"static/chunks/619-ba102abea3e3d0e4.js\",\"318\",\"static/chunks/318-5085a9fd31175c8a.js\",\"356\",\"static/chunks/356-c5e20c4b262af940.js\",\"107\",\"static/chunks/107-130e321352f26776.js\",\"959\",\"static/chunks/959-6b521ae6a3535e92.js\",\"177\",\"static/chunks/app/layout-f8468daafa7eb792.js\"],\"Header\"]\n:HL[\"/_next/static/media/851c14db057e20c2-s.p.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n:HL[\"/_next/static/media/e807dee2426166ad-s.p.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n:HL[\"/_next/static/css/d3dd5e7b0adc6ffd.css\",\"style\"]\n:HL[\"/_next/static/css/94d0244887e25d47.css\",\"style\"]\n:HL[\"/_next/static/css/3fcae155cf7b3cac.css\",\"style\"]\n:HL[\"/_next/static/css/a2be4adc2e2e73b8.css\",\"style\"]\n:HL[\"/_next/static/css/56797b0848f50414.css\",\"style\"]\n"])</script><script>self.__next_f.push([1,"0:{\"P\":null,\"b\":\"0JcF6fKRwFX6a0gNacsHJ\",\"p\":\"\",\"c\":[\"\",\"ordbok\",\"fl%c3%a5te_2\"],\"i\":false,\"f\":[[[\"\",{\"children\":[\"ordbok\",{\"children\":[[\"slug\",\"fl%C3%A5te_2\",\"d\"],{\"children\":[\"__PAGE__\",{}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/d3dd5e7b0adc6ffd.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/94d0244887e25d47.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"link\",\"2\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/3fcae155cf7b3cac.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"link\",\"3\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/a2be4adc2e2e73b8.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}]],\"$L2\"]}],{\"children\":[\"ordbok\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L4\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}]]}],{\"children\":[[\"slug\",\"fl%C3%A5te_2\",\"d\"],[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L4\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}]]}],{\"children\":[\"__PAGE__\",[\"$\",\"$1\",\"c\",{\"children\":[\"$L5\",[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/56797b0848f50414.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}]],[\"$\",\"$L6\",null,{\"children\":[\"$L7\",[\"$\",\"$L8\",null,{\"promise\":\"$@9\"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],[\"$\",\"$1\",\"h\",{\"children\":[null,[[\"$\",\"$La\",null,{\"children\":\"$Lb\"}],[\"$\",\"meta\",null,{\"name\":\"next-size-adjust\",\"content\":\"\"}]],[\"$\",\"$Lc\",null,{\"children\":[\"$\",\"div\",null,{\"hidden\":true,\"children\":[\"$\",\"$d\",null,{\"fallback\":null,\"children\":\"$Le\"}]}]}]]}],false]],\"m\":\"$undefined\",\"G\":[\"$f\",[]],\"s\":false,\"S\":false}\n"])</script><script>self.__next_f.push([1,"b:[[\"$\",\"meta\",\"0\",{\"charSet\":\"utf-8\"}],[\"$\",\"meta\",\"1\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}]]\n7:null\n"])</script><script>self.__next_f.push([1,"2:[\"$\",\"html\",null,{\"lang\":\"nb\",\"className\":\"__className_b92217\",\"children\":[[\"$\",\"head\",null,{\"children\":[[[\"$\",\"$L10\",null,{\"async\":true,\"defer\":true,\"data-api\":\"$undefined\",\"data-domain\":\"naob.no\",\"data-exclude\":\"$undefined\",\"src\":\"https://plausible.io/js/script.js\",\"integrity\":\"$undefined\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"$L10\",null,{\"id\":\"next-plausible-init\",\"dangerouslySetInnerHTML\":{\"__html\":\"window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }\"},\"nonce\":\"$undefined\"}],\"$undefined\"],[\"$\",\"meta\",null,{\"name\":\"yandex-verification\",\"content\":\"90ce1c4e7c95d482\"}],[\"$\",\"link\",null,{\"rel\":\"manifest\",\"href\":\"/manifest.json\"}],[\"$\",\"link\",null,{\"rel\":\"apple-touch-icon\",\"sizes\":\"180x180\",\"href\":\"/icons/apple-touch-icon.png\"}],[\"$\",\"link\",null,{\"rel\":\"icon\",\"type\":\"image/png\",\"sizes\":\"32x32\",\"href\":\"/icons/favicon-32x32.png\"}],[\"$\",\"link\",null,{\"rel\":\"icon\",\"type\":\"image/png\",\"sizes\":\"16x16\",\"href\":\"/icons/favicon-16x16.png\"}],[\"$\",\"link\",null,{\"rel\":\"shortcut icon\",\"href\":\"/icons/favicon.ico\"}],[\"$\",\"meta\",null,{\"name\":\"theme-color\",\"content\":\"#ffffff\"}],[\"$\",\"meta\",null,{\"name\":\"format-detection\",\"content\":\"telephone=no, date=no, email=no, address=no\"}]]}],[\"$\",\"body\",null,{\"children\":[\"$\",\"div\",null,{\"className\":\"layout_layout__Qn9HX\",\"children\":[[\"$\",\"$L11\",null,{\"menuItems\":[{\"slug\":\"veiledning\",\"title\":\"Veiledning\"},{\"slug\":\"om\",\"title\":\"Om NAOB\"},{\"slug\":\"naob-i-skolen\",\"title\":\"NAOB i skolen\"},{\"slug\":\"naob-i-skolen-oppgaver\",\"title\":\"NAOB i skolen - oppgaver\"},{\"slug\":\"finansiering\",\"title\":\"Finansiering\"},{\"slug\":\"stott-oss\",\"title\":\"Hvorfor trenger NAOB støtte?\"},{\"slug\":\"redaksjon\",\"title\":\"Redaksjon, administrasjon\"},{\"slug\":\"litteratur\",\"title\":\"Litteratur\"},{\"slug\":\"kontakt\",\"title\":\"Kontakt\"},{\"slug\":\"smarttelefon\",\"title\":\"NAOB på smarttelefon\"}]}],[\"$\",\"div\",null,{\"className\":\"l-main\",\"children\":[\"$\",\"div\",null,{\"className\":\"layout_main__30FUz\",\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L4\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[[\"$\",\"div\",null,{\"className\":\"not-found_root__vwgBX\",\"children\":[[\"$\",\"h1\",null,{\"className\":\"not-found_title__HIivx\",\"children\":\"404 - Denne siden finnes ikke\"}],[\"$\",\"div\",null,{\"className\":\"$undefined\",\"children\":[[\"$\",\"p\",null,{\"children\":\"Siden du forsøker å se på, finnes ikke. Den kan være flyttet eller slettet, eller så kan du ha fulgt en ødelagt lenke.\"}],[\"$\",\"p\",null,{\"children\":\"Hvis det er en ordbokartikkel du prøvde å gå inn på, kan du forsøke å søke etter den i søkefeltet på toppen av siden.\"}],[\"$\",\"p\",null,{\"children\":\"Er det en redaksjonell side du ikke finner, kan du forsøke å finne den ved hjelp av menyen bak hamburgerikonet øverst til høyre på siden.\"}]]}]]}],[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/2e6afacd7c69801c.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}]]],\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}]}]}],[\"$\",\"footer\",null,{\"className\":\"Footer_footer__OYoYH\",\"children\":[\"$\",\"div\",null,{\"className\":\"l-main\",\"children\":[\"$\",\"div\",null,{\"className\":\"Footer_content__V9MfQ\",\"children\":[[\"$\",\"div\",null,{\"className\":\"Footer_text__zmW1j\",\"children\":[\"$\",\"div\",null,{\"className\":\"PageContent_content__bddf2\",\"children\":[[\"$\",\"$1\",\"31ee3bb2baf3\",{\"children\":[null,[\"$\",\"div\",null,{\"className\":\"PageContent_content__bddf2\",\"children\":[[\"$\",\"p\",\"40884b917e38\",{\"children\":[\"© \",[\"$\",\"a\",\"b9f0afe550561\",{\"href\":\"http://www.detnorskeakademi.no/\",\"rel\":\"noreferrer noopener\",\"children\":[\"Det Norske Akademi for Språk og Litteratur\"]}],\" 2026\",[\"$\",\"br\",\"node-3\",{}],\"\",[\"$\",\"a\",\"0c2e1ebcba87\",{\"href\":\"/dagens-redaksjon\",\"children\":[\"Redaksjonen\"]}],\" holder til i Grensen 3, 0159 Oslo. \",[\"$\",\"a\",\"eac4cf51793a\",{\"href\":\"/kontakt\",\"children\":[\"Kontakt NAOB-redaksjonen\"]}],\".\"]}],[\"$\",\"p\",\"ffa2787d53c7\",{\"children\":[\"\",[\"$\",\"img\",\"8c69c8352731\",{\"src\":\"https://cdn.sanity.io/images/g9i3uvwd/production/608e54f5bb7d2b2e09c4bd794a6705cc791f2f77-582x178.svg\",\"alt\":\"Det Norske Akademi for Språk og Litteratur\",\"className\":\"\"}],\"\"]}],[\"$\",\"p\",\"58bf2645b13a\",{\"children\":[[\"$\",\"a\",\"5ba4f13136d5\",{\"href\":\"/informasjonskapsler\",\"children\":[\"Om bruk av informasjonskapsler/cookies på naob.no\"]}]]}]]}]]}]]}]}],[\"$\",\"article\",null,{\"children\":[[\"$\",\"div\",\"a24be0d167ba\",{\"children\":[[\"$\",\"h2\",null,{\"className\":\"Footer_patronTitle__alyqO\",\"children\":\"NAOBs finansielle støttespillere i 2026\"}],\"$L12\"]}]]}]]}]}]}]]}]}]]}]\n"])</script><script>self.__next_f.push([1,"12:[\"$\",\"div\",null,{\"className\":\"Footer_sectionList__9sEz2\",\"children\":[[\"$\",\"section\",\"36e2a40bf0ae\",{\"className\":\"Footer_section__qKUVy\",\"children\":[[\"$\",\"h3\",null,{\"className\":\"Footer_sectionTitle__EYflW\",\"children\":\"Staten\"}],[\"$\",\"div\",null,{\"className\":\"Footer_sectionContent__EI035\",\"children\":[\"$\",\"div\",null,{\"className\":\"PageContent_content__bddf2\",\"children\":[[\"$\",\"p\",\"3605a7aa7683\",{\"children\":[\"\"]}],[\"$\",\"ul\",\"1433d291d04f\",{\"className\":\"PatronList_list__mjdvX\",\"data-context\":\"footer\",\"children\":[[\"$\",\"li\",\"087c95d6-e893-4189-9380-3e286bd478a5\",{\"className\":\"PatronList_patron__OJJQy\",\"children\":[\"$\",\"div\",null,{\"className\":\"Patron_patron__A80g8\",\"data-context\":\"footer\",\"children\":[\"$\",\"a\",null,{\"className\":\"Patron_link__T2lEr\",\"href\":\"https://www.regjeringen.no/no/dep/kud/\",\"children\":[\"$\",\"img\",null,{\"className\":\"Patron_logo__xeoHL\",\"alt\":\"Kulturdepartementet\",\"src\":\"https://cdn.sanity.io/images/g9i3uvwd/production/01504b44b4338ca3998879121964a0eeb9b0cf5a-191x43.svg\"}]}]}]}]]}],[\"$\",\"p\",\"f7bcfbe65ccb\",{\"children\":[\"\"]}]]}]}]]}],[\"$\",\"section\",\"b20a66135ae4\",{\"className\":\"Footer_section__qKUVy\",\"children\":[[\"$\",\"h3\",null,{\"className\":\"Footer_sectionTitle__EYflW\",\"children\":\"Private stiftelser\"}],[\"$\",\"div\",null,{\"className\":\"Footer_sectionContent__EI035\",\"children\":[\"$\",\"div\",null,{\"className\":\"PageContent_content__bddf2\",\"children\":[[\"$\",\"p\",\"f05d50d4c60a\",{\"children\":[\"\"]}],[\"$\",\"ul\",\"f91503bac853\",{\"className\":\"PatronList_list__mjdvX\",\"data-context\":\"footer\",\"children\":[[\"$\",\"li\",\"d8272c6b-2c15-4f6c-a5fe-21b0df0d6671\",{\"className\":\"PatronList_patron__OJJQy\",\"children\":[\"$\",\"div\",null,{\"className\":\"Patron_patron__A80g8\",\"data-context\":\"footer\",\"children\":[\"$\",\"a\",null,{\"className\":\"Patron_link__T2lEr\",\"href\":\"https://sparebankstiftelsen.no/\",\"children\":[\"$\",\"img\",null,{\"className\":\"Patron_logo__xeoHL\",\"alt\":\"Sparebankstiftelsen DNB\",\"src\":\"https://cdn.sanity.io/images/g9i3uvwd/production/4695f06abd55a084d3dc72a7afa4aaa24af24b8d-1820x1580.png\"}]}]}]}],[\"$\",\"li\",\"576faffd-b533-4f6d-8ef2-1722530a7219\",{\"className\":\"PatronList_patron__OJJQy\",\"children\":[\"$\",\"div\",null,{\"className\":\"Patron_patron__A80g8\",\"data-context\":\"footer\",\"children\":[\"$\",\"a\",null,{\"className\":\"Patron_link__T2lEr\",\"href\":\"https://bergesenstiftelsen.no/\",\"children\":[\"$\",\"img\",null,{\"className\":\"Patron_logo__xeoHL\",\"alt\":\"Bergesenstiftelsen\",\"src\":\"https://cdn.sanity.io/images/g9i3uvwd/production/4b3a60fe4df31db4f08bf7e3a5381a590b40739f-1038x411.svg\"}]}]}]}],[\"$\",\"li\",\"8747d812-aa2e-4dc2-843c-f02b2583284f\",{\"className\":\"PatronList_patron__OJJQy\",\"children\":[\"$\",\"div\",null,{\"className\":\"Patron_patron__A80g8\",\"data-context\":\"footer\",\"children\":[\"$\",\"a\",null,{\"className\":\"Patron_link__T2lEr\",\"href\":\"https://www.eckbos-legat.no/\",\"children\":[\"$\",\"img\",null,{\"className\":\"Patron_logo__xeoHL\",\"alt\":\"Eckbos legat\",\"src\":\"https://cdn.sanity.io/images/g9i3uvwd/production/34b18667028c4c65e343be80f4aab35577655e9b-513x181.png\"}]}]}]}],[\"$\",\"li\",\"3bf1480e-8fc2-4978-bf4a-a45514fb2c3a\",{\"className\":\"PatronList_patron__OJJQy\",\"children\":[\"$\",\"div\",null,{\"className\":\"Patron_patron__A80g8\",\"data-context\":\"footer\",\"children\":[\"$\",\"a\",null,{\"className\":\"Patron_link__T2lEr\",\"href\":\"https://www.hoeghstiftelsene.no/lucy-hoegh-stiftelse/\",\"children\":[\"$\",\"div\",null,{\"className\":\"Patron_textLogo__6Ph2w\",\"children\":\"Leif og Lucy Høegh Stiftelse\"}]}]}]}]]}]]}]}]]}],[\"$\",\"section\",\"2561d0316e46\",{\"className\":\"Footer_section__qKUVy\",\"children\":[[\"$\",\"h3\",null,{\"className\":\"Footer_sectionTitle__EYflW\",\"children\":\"Ordbokens brukere\"}],[\"$\",\"div\",null,{\"className\":\"Footer_sectionContent__EI035\",\"children\":[\"$\",\"div\",null,{\"className\":\"PageContent_content__bddf2\",\"children\":[[\"$\",\"p\",\"47dfbf0f2ea0\",{\"children\":[\"Er du fornøyd med NAOB? Store og små gaver mottas med stor takk.\"]}],[\"$\",\"p\",\"7fcb4b95ad8b\",{\"children\":[\"Vårt Vipps-nummer er \",[\"$\",\"b\",\"70a198dd10b1\",{\"children\":[\"629219\"]}]]}],[\"$\",\"p\",\"a690b6434fb4\",{\"children\":[\"Vårt kontonummer er: \",[\"$\",\"b\",\"0f97dc5a1f0d\",{\"children\":[\"1506 30 88258\"]}]]}],[\"$\",\"p\",\"c3e97b50d255\",{\"children\":[\"\"]}]]}]}]]}]]}]\n"])</script><script>self.__next_f.push([1,"13:I[2619,[\"619\",\"static/chunks/619-ba102abea3e3d0e4.js\",\"107\",\"static/chunks/107-130e321352f26776.js\",\"347\",\"static/chunks/347-5d33662091c1e68a.js\",\"238\",\"static/chunks/app/ordbok/%5Bslug%5D/page-76095a48872b08e9.js\"],\"\"]\n14:I[8718,[\"619\",\"static/chunks/619-ba102abea3e3d0e4.js\",\"107\",\"static/chunks/107-130e321352f26776.js\",\"347\",\"static/chunks/347-5d33662091c1e68a.js\",\"238\",\"static/chunks/app/ordbok/%5Bslug%5D/page-76095a48872b08e9.js\"],\"WordDefinition\"]\n18:I[622,[],\"IconMark\"]\n15:T85e2,"])</script><script>self.__next_f.push([1,"\u003cdiv\u003e\n    \u003cdiv\u003e\n        \u003cdiv class=\"article\"\u003e\n            \n            \u003cdiv\u003e\n                \u003cdiv class=\"oppslagsord_og_ordklasse\"\u003e\n                    \u003cspan class=\"oppslagsord\"\u003efl\u0026aring;te\u003c/span\u003e\u0026#160;\n                    \u003cdiv class=\"ordklasseledd inline-eske\"\u003e\n                        \u003cspan\u003esubstantiv\u003c/span\u003e\n                    \u003c/div\u003e\n                    \u003ca class=\"information-link\" href=\"/rettskrivning-og-boyning\"\u003e\u003cimg class=\"information-link-image\" alt=\"Informasjon\" src=\"/information-circle.svg\"\u003e\u003c/a\u003e\n                \u003c/div\u003e\n                \u003cu-details class=\"expandable-details\"\u003e\n                    \u003cu-summary class=\"expandable-details__summary\"\u003e\n                        \u003cdiv class=\"contentheading blcontentheading\" id=\"blcontentheading3768724\"\u003e\n                            \u003cspan class=\"overskrift\"\u003eMODERAT BOKMÅL\u003c/span\u003e\u003cspan class=\"genus\"\u003een\u003c/span\u003e; \u003cspan class=\"boeyningsform SubstBestEntall\"\u003efl\u0026aring;ten\u003c/span\u003e, \u003cspan class=\"boeyningsform SubstUbestFlertall\"\u003efl\u0026aring;ter\u003c/span\u003e \u003cimg class=\"expandable-details__plus-icon\" src=\"/pluss.svg\"\u003e\u003cimg class=\"expandable-details__minus-icon\" src=\"/minus.svg\"\u003e\n                        \u003c/div\u003e\n                    \u003c/u-summary\u003e\n                    \u003cdiv class=\"contents boeyningsskjema\" id=\"blcontents3768724\"\u003e\n                        \u003cdiv id=\"resp-table-for-toggle\" class=\"table-for-toggle\"\u003e\n                            \u003cdiv id=\"resp-table-body\" class=\"tbody\"\u003e\n                                \u003cdiv class=\"resp-table-row tr\"\u003e\n                                    \u003cdiv class=\"table-body-cell boeyningsform-ledetekst td\"\u003egenus\u003c/div\u003e\n                                    \u003cdiv class=\"table-body-cell  td\"\u003e\n                                        \u003cspan class=\"genus\"\u003emaskulinum\u003c/span\u003e\n                                    \u003c/div\u003e\n                                \u003c/div\u003e\n                                \u003cdiv class=\"resp-table-row tr\"\u003e\n                                    \u003cdiv class=\"table-body-cell boeyningsform-ledetekst td\"\u003eubestemt artikkel\u003c/div\u003e\n                                    \u003cdiv class=\"table-body-cell boeyningsform-i-skjema td\"\u003e\n                                        \u003cspan class=\"genus\"\u003een\u003c/span\u003e\n                                    \u003c/div\u003e\n                                \u003c/div\u003e\n                                \u003cdiv class=\"resp-table-row tr\"\u003e\n                                    \u003cdiv class=\"table-body-cell boeyningsform-ledetekst td\"\u003ebestemt form entall\u003c/div\u003e\n                                    \u003cdiv class=\"table-body-cell boeyningsform-i-skjema td\"\u003efl\u0026aring;ten\u003c/div\u003e\n                                \u003c/div\u003e\n                                \u003cdiv class=\"resp-table-row tr\"\u003e\n                                    \u003cdiv class=\"table-body-cell boeyningsform-ledetekst td\"\u003eubestemt form flertall\u003c/div\u003e\n                                    \u003cdiv class=\"table-body-cell boeyningsform-i-skjema td\"\u003efl\u0026aring;ter\u003c/div\u003e\n                                \u003c/div\u003e\n                            \u003c/div\u003e\n                        \u003c/div\u003e\n                    \u003c/div\u003e\n                \u003c/u-details\u003e\n                \u003cinflection-table data-lemma-ids=\"18173\"\u003e\n                    \u003cu-details class=\"expandable-details\"\u003e\n                        \u003cu-summary class=\"expandable-details__summary\"\u003e\n                            \u003cdiv class=\"contentheading blcontentheading\"\u003e\n                                \u003cspan class=\"overskrift\"\u003eFULL BOKM\u0026Aring;LSNORM\u003c/span\u003e\u003cimg class=\"expandable-details__plus-icon\" src=\"/pluss.svg\"\u003e\u003cimg class=\"expandable-details__minus-icon\" src=\"/minus.svg\"\u003e\n                            \u003c/div\u003e\n                        \u003c/u-summary\u003e\n                        \u003cdiv class=\"inflection-table-contents\"\u003e\n                            \u003cdiv class=\"loader\"\u003e\u003c/div\u003e\n                        \u003c/div\u003e\n                    \u003c/u-details\u003e\n                \u003c/inflection-table\u003e\n                \u003cdiv\u003e\n                    \u003cspan class=\"overskrift\"\u003eUTTALE\u003c/span\u003e\u003cspan\u003e[fl\u0026aring;:`tə]\u003c/span\u003e\u003ca class=\"pronunciation-link\" href=\"/uttale-veiledning\"\u003e\u003cimg class=\"questionimg\" alt=\"Uttale-veiledning\" src=\"/question.svg\"\u003e\u003c/a\u003e\n                \u003c/div\u003e\n                \u003cdiv\u003e\n                    \u003cspan class=\"overskrift\"\u003eETYMOLOGI\u003c/span\u003e\n                    \u003cdiv class=\"inline-eske\"\u003e\n                        av \u003cspan class=\"spraak\"\u003enorr\u0026oslash;nt\u003c/span\u003e \u003cspan class=\"histform\"\u003efloti\u003c/span\u003e '\u003cspan\u003enoe som flyter, fl\u0026aring;te, t\u0026oslash;mmerfl\u0026aring;te; skipsfl\u0026aring;te\u003c/span\u003e'; beslektet med \u003cspan title=\"\"\u003e\u003ca href=\"/ordbok/flyte\"\u003eflyte\u003c/a\u003e\u003c/span\u003e\n                    \u003c/div\u003e\n                \u003c/div\u003e\n            \u003c/div\u003e\n            \n            \u003cdiv\u003e\n                \u003cdiv class=\"kropp overskrift\"\u003eBETYDNING OG BRUK\u003c/div\u003e\n                \u003cdiv class=\"content\"\u003e\n                    \u003cu-details class=\"expandable-details\"\u003e\n                        \u003cu-summary class=\"expandable-details__summary\"\u003e\n                            \u003cdiv class=\"contentheading\" id=\"aicontentheading3768724\"\u003e\n                                \u003cspan class=\"overskrift\"\u003eINNHOLDSFORTEGNELSE\u003c/span\u003e \u003cimg class=\"expandable-details__plus-icon\" src=\"/pluss.svg\"\u003e\u003cimg class=\"expandable-details__minus-icon\" src=\"/minus.svg\"\u003e\n                            \u003c/div\u003e\n                        \u003c/u-summary\u003e\n                        \u003cdiv class=\"contents\" id=\"aicontents3768724\"\u003e\n                            \u003cdiv\u003e\n                                \u003cdiv style=\"margin-left: 1em;\"\u003e\n                                    \u003cdiv class=\"betydningsentry\"\u003e\n                                        \u003ca class=\"contentlink\" href=\"#52882524\"\u003e1\u003c/a\u003e\u0026#160;\n                                        \u003cdiv class=\"inline-eske\"\u003eenkel flat og bred farkost som stakes frem eller driver\np\u0026aring; vann\u003c/div\u003e\n                                        \u003cdiv class=\"inline-eske\"\u003e; flyteplattform til et bestemt form\u0026aring;l\u003c/div\u003e\n                                    \u003c/div\u003e\n                                    \u003cdiv style=\"margin-left: 1em;\"\u003e\n                                        \u003cdiv class=\"betydningsentry\"\u003e\n                                            \u003ca class=\"contentlink\" href=\"#52882527\"\u003e1.1\u003c/a\u003e\u0026#160;\n                                            \u003cdiv class=\"betydningsskiller inline-eske\"\u003e\n                                                \u003cspan class=\"fag\"\u003esj\u0026oslash;fart\u003c/span\u003e\n                                            \u003c/div\u003e\n                                            \u003cdiv class=\"inline-eske\"\u003e\n                                                \u0026#160;\u003cspan title=\"OK - Entydig maskinelt opprettet (1a)\"\u003e\u003ca href=\"/ordbok/redningsflåte\"\u003eredningsfl\u0026aring;te\u003c/a\u003e\u003c/span\u003e\n                                            \u003c/div\u003e\n                                        \u003c/div\u003e\n                                    \u003c/div\u003e\n                                    \u003cdiv style=\"margin-left: 1em;\"\u003e\n                                        \u003cdiv class=\"betydningsentry\"\u003e\n                                            \u003ca class=\"contentlink\" href=\"#52882528\"\u003e1.2\u003c/a\u003e\u0026#160;\n                                            \u003cdiv class=\"betydningsskiller inline-eske\"\u003e\n                                                \u003cspan class=\"fag\"\u003ebygningsfag\u003c/span\u003e\n                                            \u003c/div\u003e\n                                            \u003cdiv class=\"inline-eske\"\u003e\u0026#160;fundament (med st\u0026oslash;rre flate enn bygningen) i form av en\nplattform av t\u0026oslash;mmer, betong e.l., brukt i mangel av fast grunn\u003c/div\u003e\n                                        \u003c/div\u003e\n                                    \u003c/div\u003e\n                                \u003c/div\u003e\n                                \u003cdiv style=\"margin-left: 1em;\"\u003e\n                                    \u003cdiv class=\"betydningsentry\"\u003e\n                                        \u003ca class=\"contentlink\" href=\"#52882533\"\u003e2\u003c/a\u003e\u0026#160;\n                                        \u003cdiv class=\"inline-eske\"\u003esamlet antall skip som eies av en stat eller et selskap,\nrederi\u003c/div\u003e\n                                    \u003c/div\u003e\n                                    \u003cdiv style=\"margin-left: 1em;\"\u003e\n                                        \u003cdiv class=\"betydningsentry\"\u003e\n                                            \u003ca class=\"contentlink\" href=\"#59056331\"\u003e2.1\u003c/a\u003e\u0026#160;\n                                            \u003cdiv class=\"betydningsskiller inline-eske\"\u003e\n                                                \u003cspan class=\"fag\"\u003esj\u0026oslash;milit\u0026aelig;rvesen\u003c/span\u003e\n                                            \u003c/div\u003e\n                                            \u003cdiv class=\"inline-eske\"\u003e\u0026#160;et lands samlede antall krigsskip\u003c/div\u003e\n                                            \u003cdiv class=\"inline-eske\"\u003e; krigsfl\u0026aring;te\u003c/div\u003e\n                                        \u003c/div\u003e\n                                    \u003c/div\u003e\n                                    \u003cdiv style=\"margin-left: 1em;\"\u003e\n                                        \u003cdiv class=\"betydningsentry\"\u003e\n                                            \u003ca class=\"contentlink\" href=\"#52882529\"\u003e2.2\u003c/a\u003e\u0026#160;\n                                            \u003cdiv class=\"inline-eske\"\u003e(stor) samling av (krigs)skip som seiler eller skal seile\nsammen\u003c/div\u003e\n                                        \u003c/div\u003e\n                                    \u003c/div\u003e\n                                \u003c/div\u003e\n                                \u003cdiv style=\"margin-left: 1em;\"\u003e\n                                    \u003cdiv class=\"betydningsentry\"\u003e\n                                        \u003ca class=\"contentlink\" href=\"#52882534\"\u003e3\u003c/a\u003e\u0026#160;\n                                        \u003cdiv class=\"betydningsskiller inline-eske\"\u003e\n                                            \u003cspan class=\"stil\"\u003eoverf\u0026oslash;rt\u003c/span\u003e\n                                        \u003c/div\u003e\n                                        \u003cdiv class=\"inline-eske\"\u003e\u0026#160;samlet antall fly eller andre transportmidler (ikke skip)\nsom eies av et selskap, finnes p\u0026aring; et bestemt sted e.l.\u003c/div\u003e\n                                    \u003c/div\u003e\n                                \u003c/div\u003e\n                                \u003cdiv style=\"margin-left: 1em;\"\u003e\n                                    \u003cdiv class=\"betydningsentry\"\u003e\n                                        \u003ca class=\"contentlink\" href=\"#52882532\"\u003e4\u003c/a\u003e\u0026#160;\n                                        \u003cdiv class=\"betydningsskiller inline-eske\"\u003e\n                                            \u003cspan class=\"stil\"\u003eoverf\u0026oslash;rt\u003c/span\u003e, \u003cspan class=\"stil\"\u003esjelden\u003c/span\u003e\n                                        \u003c/div\u003e\n                                        \u003cdiv class=\"inline-eske\"\u003e\u0026#160;samlet flokk, formasjon (av fugler)\u003c/div\u003e\n                                    \u003c/div\u003e\n                                \u003c/div\u003e\n                            \u003c/div\u003e\n                        \u003c/div\u003e\n                    \u003c/u-details\u003e\n                \u003c/div\u003e\n                \n                \u003cdiv id=\"52882524\"\u003e\n                    \u003cdiv\u003e\n                        \u003cdiv class=\"betydning\"\u003e\n                            \u003cspan class=\"betydningnr\"\u003e1\u0026#160;\u003c/span\u003e\n\n                            \u003cdiv class=\"inline-eske\"\u003eenkel flat og bred farkost som stakes frem eller driver\np\u0026aring; vann\u003c/div\u003e\n                            \n                            \u003cdiv class=\"inline-eske\"\u003e; flyteplattform til et bestemt form\u0026aring;l\u003c/div\u003e\n                            \n                            \u003cdiv class=\"inline-eske\"\u003e\n                                \u0026#160;| jf. \u003cspan title=\"OK - Entydig maskinelt opprettet (1a)\"\u003e\u003ca href=\"/ordbok/tømmerflåte\"\u003et\u0026oslash;mmerfl\u0026aring;te\u003c/a\u003e\u003c/span\u003e, \u003cspan title=\"\"\u003e\u003ca href=\"/ordbok/badeflåte\"\u003ebadefl\u0026aring;te\u003c/a\u003e\u003c/span\u003e\n                            \u003c/div\u003e\n                            \n                            \u003cdiv class=\"redeksseksjon\"\u003e\n                                \u003cdiv class=\"overskrift\"\u003eEKSEMPLER\u003c/div\u003e\n                                \u003cul\u003e\n                                    \n                                    \u003cli\u003e\n                                        \n                                        \u003cdiv class=\"redeks inline-eske\"\u003ebygge fl\u0026aring;te av t\u0026oslash;mmer, greiner, planker\u003c/div\u003e\n                                        \n                                    \u003c/li\u003e\n                                    \n                                    \u003cli\u003e\n                                        \n                                        \u003cdiv class=\"redeks inline-eske\"\u003ede ble fraktet over elven p\u0026aring; fl\u0026aring;ter\u003c/div\u003e\n                                        \n                                    \u003c/li\u003e\n                                    \n                                    \u003cli\u003e\n                                        \n                                        \u003cdiv class=\"redeks inline-eske\"\u003ebade fra en fl\u0026aring;te\u003c/div\u003e\n                                        \n                                    \u003c/li\u003e\n                                    \n                                \u003c/ul\u003e\n                            \u003c/div\u003e\n                            \n                            \u003cdiv class=\"sitatseksjon\"\u003e\n                                \u003cdiv class=\"overskrift\"\u003eSITAT\u003c/div\u003e\n                                \u003cul\u003e\n                                    \n                                    \u003cli\u003e\n                                        \n                                        \u003cdiv class=\"sitat inline-eske\"\u003edere lager en fl\u0026aring;te av t\u0026oslash;mmerstokker og kasser \u0026hellip; Dere\nspikrer kj\u0026oslash;l og lager ror, reiser mast, heiser seil av sekker\u003c/div\u003e\n                                        \n                                        \u003cdiv class=\"inline-eske\"\u003e\n                                            \u0026#160;(\u003cspan\u003eOlav Angell\u003c/span\u003e \u003ca class=\"verk\" target=\"_blank\" href=\"https://www.nb.no/items/URN:NBN:no-nb_digibok_2007100404051?searchText=%22seil av sekker%22\"\u003eOslo i skumring\u003c/a\u003e \u003cspan\u003e229\u003c/span\u003e \u003cspan class=\"aar\"\u003e1991\u003c/span\u003e)\n                                        \u003c/div\u003e\n                                        \n                                    \u003c/li\u003e\n                                    \n                                \u003c/ul\u003e\n                            \u003c/div\u003e\n                            \n                            \u003cdiv id=\"52882527\"\u003e\n                                \u003cdiv\u003e\n                                    \u003cdiv class=\"betydning\"\u003e\n                                        \u003cspan class=\"betydningnr\"\u003e1.1\u0026#160;\u003c/span\u003e\n\n                                        \u003cdiv class=\"betydningsskiller inline-eske\"\u003e\n                                            \u003cspan class=\"fag\"\u003esj\u0026oslash;fart\u003c/span\u003e\n                                        \u003c/div\u003e\n                                        \n                                        \u003cdiv class=\"inline-eske\"\u003e\n                                            \u0026#160;\u003cspan title=\"OK - Entydig maskinelt opprettet (1a)\"\u003e\u003ca href=\"/ordbok/redningsflåte\"\u003eredningsfl\u0026aring;te\u003c/a\u003e\u003c/span\u003e\n                                        \u003c/div\u003e\n                                        \n                                        \u003cdiv class=\"inline-eske\"\u003e\n                                            \u0026#160;| jf. \u003cspan title=\"\"\u003e\u003ca href=\"/ordbok/gummiflåte\"\u003egummifl\u0026aring;te\u003c/a\u003e\u003c/span\u003e\n                                        \u003c/div\u003e\n                                        \n                                    \u003c/div\u003e\n                                \u003c/div\u003e\n                            \u003c/div\u003e\n                            \n                            \u003cdiv id=\"52882528\"\u003e\n                                \u003cdiv\u003e\n                                    \u003cdiv class=\"betydning\"\u003e\n                                        \u003cspan class=\"betydningnr\"\u003e1.2\u0026#160;\u003c/span\u003e\n\n                                        \u003cdiv class=\"betydningsskiller inline-eske\"\u003e\n                                            \u003cspan class=\"fag\"\u003ebygningsfag\u003c/span\u003e\n                                        \u003c/div\u003e\n                                        \n                                        \u003cdiv class=\"inline-eske\"\u003e\u0026#160;fundament (med st\u0026oslash;rre flate enn bygningen) i form av en\nplattform av t\u0026oslash;mmer, betong e.l., brukt i mangel av fast grunn\u003c/div\u003e\n                                        \n                                        \u003cdiv class=\"redeksseksjon\"\u003e\n                                            \u003cdiv class=\"overskrift\"\u003eEKSEMPEL\u003c/div\u003e\n                                            \u003cul\u003e\n                                                \n                                                \u003cli\u003e\n                                                    \n                                                    \u003cdiv class=\"redeks inline-eske\"\u003ebygge p\u0026aring; fl\u0026aring;ter\u003c/div\u003e\n                                                    \n                                                \u003c/li\u003e\n                                                \n                                            \u003c/ul\u003e\n                                        \u003c/div\u003e\n                                        \n                                        \u003cdiv class=\"sitatseksjon\"\u003e\n                                            \u003cdiv class=\"overskrift\"\u003eSITAT\u003c/div\u003e\n                                            \u003cul\u003e\n                                                \n                                                \u003cli\u003e\n                                                    \n                                                    \u003cdiv class=\"sitat inline-eske\"\u003emange av husene som er bygget i Niels Carlsens gate er bygget\np\u0026aring; fl\u0026aring;ter i leire\u003c/div\u003e\n                                                    \n                                                    \u003cdiv class=\"inline-eske\"\u003e\n                                                        \u0026#160;(\u003cspan class=\"verk\"\u003eAkershus Amtstidende\u003c/span\u003e \u003cspan\u003e13.10.2014/5\u003c/span\u003e)\n                                                    \u003c/div\u003e\n                                                    \n                                                \u003c/li\u003e\n                                                \n                                            \u003c/ul\u003e\n                                        \u003c/div\u003e\n                                        \n                                    \u003c/div\u003e\n                                \u003c/div\u003e\n                            \u003c/div\u003e\n                            \n                        \u003c/div\u003e\n                    \u003c/div\u003e\n                \u003c/div\u003e\n                \n                \u003cdiv id=\"52882533\"\u003e\n                    \u003cdiv\u003e\n                        \u003cdiv class=\"betydning\"\u003e\n                            \u003cspan class=\"betydningnr\"\u003e2\u0026#160;\u003c/span\u003e\n\n                            \u003cdiv class=\"inline-eske\"\u003esamlet antall skip som eies av en stat eller et selskap,\nrederi\u003c/div\u003e\n                            \n                            \u003cdiv class=\"inline-eske\"\u003e\n                                \u0026#160;| jf. \u003cspan title=\"\"\u003e\u003ca href=\"/ordbok/handelsflåte\"\u003ehandelsfl\u0026aring;te\u003c/a\u003e\u003c/span\u003e, \u003cspan title=\"\"\u003e\u003ca href=\"/ordbok/fiskeflåte\"\u003efiskefl\u0026aring;te\u003c/a\u003e\u003c/span\u003e, \u003cspan title=\"\"\u003e\u003ca href=\"/ordbok/tankflåte\"\u003etankfl\u0026aring;te\u003c/a\u003e\u003c/span\u003e\n                            \u003c/div\u003e\n                            \n                            \u003cdiv class=\"redeksseksjon\"\u003e\n                                \u003cdiv class=\"overskrift\"\u003eEKSEMPLER\u003c/div\u003e\n                                \u003cul\u003e\n                                    \n                                    \u003cli\u003e\n                                        \n                                        \u003cdiv class=\"redeks inline-eske\"\u003erederiets fl\u0026aring;te\u003c/div\u003e\n                                        \n                                    \u003c/li\u003e\n                                    \n                                    \u003cli\u003e\n                                        \n                                        \u003cdiv class=\"redeks inline-eske\"\u003efl\u0026aring;ten ligger i opplag\u003c/div\u003e\n                                        \n                                    \u003c/li\u003e\n                                    \n                                \u003c/ul\u003e\n                            \u003c/div\u003e\n                            \n                            \u003cdiv class=\"sitatseksjon\"\u003e\n                                \u003cdiv class=\"overskrift\"\u003eSITATER\u003c/div\u003e\n                                \u003cul\u003e\n                                    \n                                    \u003cli\u003e\n                                        \n                                        \u003cdiv class=\"sitat inline-eske\"\u003eunder krigen mistet vi noen og femti prosent av v\u0026aring;r fl\u0026aring;te\u003c/div\u003e\n                                        \n                                        \u003cdiv class=\"inline-eske\"\u003e\n                                            \u0026#160;(\u003cspan class=\"verk\"\u003eNorges Handels- og Sj\u0026oslash;fartstidende\u003c/span\u003e \u003cspan\u003e1954/286/3/4\u003c/span\u003e)\n                                        \u003c/div\u003e\n                                        \n                                        \u003cdiv class=\"inline-eske\"\u003e\u0026#160;| av v\u0026aring;r handelsfl\u0026aring;te\u003c/div\u003e\n                                        \n                                    \u003c/li\u003e\n                                    \n                                    \u003cli\u003e\n                                        \n                                        \u003cdiv class=\"sitat inline-eske\"\u003einnsatsen den norske fl\u0026aring;ten utf\u0026oslash;rte fikk en avgj\u0026oslash;rende betydning\nfor krigens utvikling\u003c/div\u003e\n                                        \n                                        \u003cdiv class=\"inline-eske\"\u003e\n                                            \u0026#160;(\u003cspan class=\"verk\"\u003eNationen\u003c/span\u003e \u003cspan\u003e23.11.2015/19\u003c/span\u003e)\n                                        \u003c/div\u003e\n                                        \n                                    \u003c/li\u003e\n                                    \n                                \u003c/ul\u003e\n                            \u003c/div\u003e\n                            \n                            \u003cdiv id=\"59056331\"\u003e\n                                \u003cdiv\u003e\n                                    \u003cdiv class=\"betydning\"\u003e\n                                        \u003cspan class=\"betydningnr\"\u003e2.1\u0026#160;\u003c/span\u003e\n\n                                        \u003cdiv class=\"betydningsskiller inline-eske\"\u003e\n                                            \u003cspan class=\"fag\"\u003esj\u0026oslash;milit\u0026aelig;rvesen\u003c/span\u003e\n                                        \u003c/div\u003e\n                                        \n                                        \u003cdiv class=\"inline-eske\"\u003e\u0026#160;et lands samlede antall krigsskip\u003c/div\u003e\n                                        \n                                        \u003cdiv class=\"inline-eske\"\u003e; krigsfl\u0026aring;te\u003c/div\u003e\n                                        \n                                        \u003cdiv class=\"sitatseksjon\"\u003e\n                                            \u003cdiv class=\"overskrift\"\u003eSITATER\u003c/div\u003e\n                                            \u003cul\u003e\n                                                \n                                                \u003cli\u003e\n                                                    \n                                                    \u003cdiv class=\"sitat inline-eske\"\u003eden engelske flaate burde l\u0026aelig;gge hovedvakten paa den submarine\navdeling\u003c/div\u003e\n                                                    \n                                                    \u003cdiv class=\"inline-eske\"\u003e\n                                                        \u0026#160;(\u003cspan\u003e\u0026Oslash;vre Richter Frich\u003c/span\u003e \u003ca class=\"verk\" target=\"_blank\" href=\"https://www.nb.no/items/URN:NBN:no-nb_digibok_2013080208078?searchText=%22den submarine avdeling%22\"\u003eKaperens kl\u0026oslash;r\u003c/a\u003e \u003cspan\u003e54\u003c/span\u003e \u003cspan class=\"aar\"\u003e1915\u003c/span\u003e)\n                                                    \u003c/div\u003e\n                                                    \n                                                \u003c/li\u003e\n                                                \n                                                \u003cli\u003e\n                                                    \n                                                    \u003cdiv class=\"sitat inline-eske\"\u003eTyskland fikk ikke ha noen fl\u0026aring;te etter fredsslutningen\u003c/div\u003e\n                                                    \n                                                    \u003cdiv class=\"inline-eske\"\u003e\n                                                        \u0026#160;(\u003cspan\u003eP\u0026aring;l Gerhard Olsen\u003c/span\u003e \u003ca class=\"verk\" target=\"_blank\" href=\"https://www.nb.no/items/URN:NBN:no-nb_digibok_2008101704080?searchText=%22fl%C3%A5te etter fredsslutningen%22\"\u003eFredstid\u003c/a\u003e \u003cspan\u003e160\u003c/span\u003e \u003cspan class=\"aar\"\u003e2000\u003c/span\u003e)\n                                                    \u003c/div\u003e\n                                                    \n                                                \u003c/li\u003e\n                                                \n                                            \u003c/ul\u003e\n                                        \u003c/div\u003e\n                                        \n                                    \u003c/div\u003e\n                                \u003c/div\u003e\n                            \u003c/div\u003e\n                            \n                            \u003cdiv id=\"52882529\"\u003e\n                                \u003cdiv\u003e\n                                    \u003cdiv class=\"betydning\"\u003e\n                                        \u003cspan class=\"betydningnr\"\u003e2.2\u0026#160;\u003c/span\u003e\n\n                                        \u003cdiv class=\"inline-eske\"\u003e(stor) samling av (krigs)skip som seiler eller skal seile\nsammen\u003c/div\u003e\n                                        \n                                        \u003cdiv class=\"sitatseksjon\"\u003e\n                                            \u003cdiv class=\"overskrift\"\u003eSITATER\u003c/div\u003e\n                                            \u003cul\u003e\n                                                \n                                                \u003cli\u003e\n                                                    \n                                                    \u003cdiv class=\"sitat inline-eske\"\u003eH\u0026aring;kon H\u0026aring;konss\u0026oslash;n ligger ved Elgjarn\u0026aelig;ss med hele sin fl\u0026aring;de\u003c/div\u003e\n                                                    \n                                                    \u003cdiv class=\"inline-eske\"\u003e\n                                                        \u0026#160;(\u003cspan\u003eHenrik Ibsen\u003c/span\u003e \u003ca class=\"verk\" target=\"_blank\" href=\"http://ibsen.uio.no/DRVIT_KE|KE72.xhtml\"\u003eKongs-Emnerne\u003c/a\u003e \u003cspan\u003e149\u003c/span\u003e \u003cspan class=\"aar\"\u003e1872\u003c/span\u003e)\n                                                    \u003c/div\u003e\n                                                    \n                                                \u003c/li\u003e\n                                                \n                                                \u003cli\u003e\n                                                    \n                                                    \u003cdiv class=\"sitat inline-eske\"\u003edanske fl\u0026aring;den er i fjorden\u003c/div\u003e\n                                                    \n                                                    \u003cdiv class=\"inline-eske\"\u003e\n                                                        \u0026#160;(\u003cspan\u003eHenrik Ibsen\u003c/span\u003e \u003ca class=\"verk\" target=\"_blank\" href=\"https://www.nb.no/items/URN:NBN:no-nb_digibok_2010040912002?searchText=%22er i fjorden%22\"\u003eDigte\u003c/a\u003e \u003cspan\u003e11\u003c/span\u003e \u003cspan class=\"aar\"\u003e1875\u003c/span\u003e)\n                                                    \u003c/div\u003e\n                                                    \n                                                \u003c/li\u003e\n                                                \n                                                \u003cli\u003e\n                                                    \n                                                    \u003cdiv class=\"sitat inline-eske\"\u003eNorge \u0026hellip; var en eneste tanksperring fra naturens side,\nskj\u0026aelig;rg\u0026aring;rden langs kysten var skapt til \u0026aring; bli en kirkeg\u0026aring;rd for en fremmed\nfl\u0026aring;te\u003c/div\u003e\n                                                    \n                                                    \u003cdiv class=\"inline-eske\"\u003e\n                                                        \u0026#160;(\u003cspan\u003eJens Bj\u0026oslash;rneboe\u003c/span\u003e \u003ca class=\"verk\" target=\"_blank\" href=\"https://www.nb.no/items/URN:NBN:no-nb_digibok_2012021508001?searchText=%22en fremmed fl%C3%A5te%22\"\u003eUnder en h\u0026aring;rdere himmel\u003c/a\u003e \u003cspan\u003e88\u003c/span\u003e \u003cspan class=\"aar\"\u003e1957\u003c/span\u003e)\n                                                    \u003c/div\u003e\n                                                    \n                                                \u003c/li\u003e\n                                                \n                                                \u003cli\u003e\n                                                    \n                                                    \u003cdiv class=\"sitat inline-eske\"\u003ei 1529 reiste [S\u0026uuml;leyman den store] fra det beleirede Wien til\nValencia for \u0026aring; lede fl\u0026aring;ten som var i ferd med \u0026aring; innta byen\u003c/div\u003e\n                                                    \n                                                    \u003cdiv class=\"inline-eske\"\u003e\n                                                        \u0026#160;(\u003cspan\u003eThorvald Steen\u003c/span\u003e \u003ca class=\"verk\" target=\"_blank\" href=\"https://www.nb.no/items/URN:NBN:no-nb_digibok_2011050408190?searchText=%22%C3%A5 innta byen%22\"\u003eFra Reykholt til Bosporus\u003c/a\u003e \u003cspan\u003eLBK\u003c/span\u003e \u003cspan class=\"aar\"\u003e2003\u003c/span\u003e)\n                                                    \u003c/div\u003e\n                                                    \n                                                \u003c/li\u003e\n                                                \n                                            \u003c/ul\u003e\n                                        \u003c/div\u003e\n                                        \n                                    \u003c/div\u003e\n                                \u003c/div\u003e\n                            \u003c/div\u003e\n                            \n                        \u003c/div\u003e\n                    \u003c/div\u003e\n                \u003c/div\u003e\n                \n                \u003cdiv id=\"52882534\"\u003e\n                    \u003cdiv\u003e\n                        \u003cdiv class=\"betydning\"\u003e\n                            \u003cspan class=\"betydningnr\"\u003e3\u0026#160;\u003c/span\u003e\n\n                            \u003cdiv class=\"betydningsskiller inline-eske\"\u003e\n                                \u003cspan class=\"stil\"\u003eoverf\u0026oslash;rt\u003c/span\u003e\n                            \u003c/div\u003e\n                            \n                            \u003cdiv class=\"inline-eske\"\u003e\u0026#160;samlet antall fly eller andre transportmidler (ikke skip)\nsom eies av et selskap, finnes p\u0026aring; et bestemt sted e.l.\u003c/div\u003e\n                            \n                            \u003cdiv class=\"inline-eske\"\u003e\n                                \u0026#160;| jf. ogs\u0026aring; \u003cspan title=\"OK - Entydig maskinelt opprettet (1a)\"\u003e\u003ca href=\"/ordbok/luftflåte\"\u003eluftfl\u0026aring;te\u003c/a\u003e\u003c/span\u003e\n                            \u003c/div\u003e\n                            \n                            \u003cdiv class=\"redeksseksjon\"\u003e\n                                \u003cdiv class=\"overskrift\"\u003eEKSEMPEL\u003c/div\u003e\n                                \u003cul\u003e\n                                    \n                                    \u003cli\u003e\n                                        \n                                        \u003cdiv class=\"redeks inline-eske\"\u003eflyselskapet fornyet fl\u0026aring;ten med 10 fly\u003c/div\u003e\n                                        \n                                    \u003c/li\u003e\n                                    \n                                \u003c/ul\u003e\n                            \u003c/div\u003e\n                            \n                            \u003cdiv class=\"sitatseksjon\"\u003e\n                                \u003cdiv class=\"overskrift\"\u003eSITATER\u003c/div\u003e\n                                \u003cul\u003e\n                                    \n                                    \u003cli\u003e\n                                        \n                                        \u003cdiv class=\"sitat inline-eske\"\u003eSAS setter inn en fl\u0026aring;te p\u0026aring; 10 busser mellom Oslo og G\u0026ouml;teborg\u003c/div\u003e\n                                        \n                                        \u003cdiv class=\"inline-eske\"\u003e\n                                            \u0026#160;(\u003cspan class=\"verk\"\u003eDagbladet\u003c/span\u003e \u003cspan\u003e1971/246/3/4\u003c/span\u003e)\n                                        \u003c/div\u003e\n                                        \n                                    \u003c/li\u003e\n                                    \n                                    \u003cli\u003e\n                                        \n                                        \u003cdiv class=\"sitat inline-eske\"\u003eOslo f\u0026aring;r Nordens st\u0026oslash;rste fl\u0026aring;te av elektriske busser\u003c/div\u003e\n                                        \n                                        \u003cdiv class=\"inline-eske\"\u003e\n                                            \u0026#160;(\u003cspan class=\"verk\"\u003eklimaoslo.no\u003c/span\u003e \u003cspan\u003e20.05.2019\u003c/span\u003e)\n                                        \u003c/div\u003e\n                                        \n                                    \u003c/li\u003e\n                                    \n                                \u003c/ul\u003e\n                            \u003c/div\u003e\n                            \n                        \u003c/div\u003e\n                    \u003c/div\u003e\n                \u003c/div\u003e\n                \n                \u003cdiv id=\"52882532\"\u003e\n                    \u003cdiv\u003e\n                        \u003cdiv class=\"betydning\"\u003e\n                            \u003cspan class=\"betydningnr\"\u003e4\u0026#160;\u003c/span\u003e\n\n                            \u003cdiv class=\"betydningsskiller inline-eske\"\u003e\n                                \u003cspan class=\"stil\"\u003eoverf\u0026oslash;rt\u003c/span\u003e, \u003cspan class=\"stil\"\u003esjelden\u003c/span\u003e\n                            \u003c/div\u003e\n                            \n                            \u003cdiv class=\"inline-eske\"\u003e\u0026#160;samlet flokk, formasjon (av fugler)\u003c/div\u003e\n                            \n                            \u003cdiv class=\"sitatseksjon\"\u003e\n                                \u003cdiv class=\"overskrift\"\u003eSITAT\u003c/div\u003e\n                                \u003cul\u003e\n                                    \n                                    \u003cli\u003e\n                                        \n                                        \u003cdiv class=\"sitat inline-eske\"\u003ehver h\u0026oslash;st og vaar saa de graagaasen seile i flaate over vildmarken\u003c/div\u003e\n                                        \n                                        \u003cdiv class=\"inline-eske\"\u003e\n                                            \u0026#160;(\u003cspan\u003eKnut Hamsun\u003c/span\u003e \u003ca class=\"verk\" target=\"_blank\" href=\"https://www.nb.no/items/URN:NBN:no-nb_digibok_2010061108018?searchText=%22flaate over vildmarken%22\"\u003eMarkens Gr\u0026oslash;de I\u003c/a\u003e \u003cspan\u003e210\u003c/span\u003e \u003cspan class=\"aar\"\u003e1917\u003c/span\u003e)\n                                        \u003c/div\u003e\n                                        \n                                    \u003c/li\u003e\n                                    \n                                \u003c/ul\u003e\n                            \u003c/div\u003e\n                            \n                        \u003c/div\u003e\n                    \u003c/div\u003e\n                \u003c/div\u003e\n                \n            \u003c/div\u003e\n            \n        \u003c/div\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n"])</script><script>self.__next_f.push([1,"5:[\"$\",\"main\",null,{\"children\":[[\"$\",\"h1\",null,{\"className\":\"u-visually-hidden\",\"children\":\"flåte\"}],[\"$\",\"$L13\",null,{\"className\":\"page_searchLink__GXGn4\",\"href\":\"/søk?q=flåte\",\"children\":\"Likt stavede oppslagsord\"}],[\"$\",\"$L14\",null,{\"html\":\"$15\"}],\"$L16\",\"$L17\"]}]\n9:{\"metadata\":[[\"$\",\"title\",\"0\",{\"children\":\"flåte - Det Norske Akademis ordbok\"}],[\"$\",\"link\",\"1\",{\"rel\":\"icon\",\"href\":\"/favicon.ico\",\"type\":\"image/x-icon\",\"sizes\":\"48x48\"}],[\"$\",\"$L18\",\"2\",{}]],\"error\":null,\"digest\":\"$undefined\"}\ne:\"$9:metadata\"\n"])</script><script>self.__next_f.push([1,"19:I[721,[\"619\",\"static/chunks/619-ba102abea3e3d0e4.js\",\"107\",\"static/chunks/107-130e321352f26776.js\",\"347\",\"static/chunks/347-5d33662091c1e68a.js\",\"238\",\"static/chunks/app/ordbok/%5Bslug%5D/page-76095a48872b08e9.js\"],\"Citation\"]\n1a:I[1882,[\"619\",\"static/chunks/619-ba102abea3e3d0e4.js\",\"107\",\"static/chunks/107-130e321352f26776.js\",\"347\",\"static/chunks/347-5d33662091c1e68a.js\",\"238\",\"static/chunks/app/ordbok/%5Bslug%5D/page-76095a48872b08e9.js\"],\"VippsBox\"]\n16:[\"$\",\"div\",null,{\"className\":\"page_citation__fL1Gq\",\"children\":[\"$\",\"$L19\",null,{\"slug\":\"flåte_2\"}]}]\n17:[\"$\",\"div\",null,{\"className\":\"page_vipps__KD1SL\",\"children\":[\"$\",\"$L1a\",null,{}]}]\n"])</script></body></html>

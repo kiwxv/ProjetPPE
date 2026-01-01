@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="no" data-locale="nn"
+<html lang="no" data-locale="nb"
     class="theme-snl">
   <head>
     <meta charset="utf-8">
@@ -27,15 +27,15 @@
 
 
 
-    <title>flåte – Store norske leksikon</title>
-      <meta name="description" content="Ein flåte er noko som flyt. Ordet er oftast brukt om ein enkel, flat og brei farkost av tre, strå eller liknande, som flyt på vatn.">
+    <title>flåte – skipsfart – Store norske leksikon</title>
+      <meta name="description" content="I skipsfarten brukes ordet flåte om to ting. En primitiv farkost, ofte av tre, tønner eller jern. Samlet antall skip som et rederi eller et land har. Flåter kan gjerne være inndelt etter formål. For eksempel et lands handelsflåte, krigsflåte eller tankflåte.">
     <meta name="google-site-verification"
       content="DwZjvVshXtvwxWrYJ6jvFu2URfuNBZxghWTANRxo6NE">
 
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-      <script>dataLayer = [{"mediaCount":0,"characterCount":676,"internalLinkCount":6,"articleId":74787,"breadcrumb":"Store norske leksikon | Ordforklaringer | Norske ord og uttrykk","userType":"gjest","environment":"production"}]</script>
+      <script>dataLayer = [{"mediaCount":0,"characterCount":1540,"internalLinkCount":6,"articleId":79253,"breadcrumb":"Store norske leksikon | Teknologi og industri | Transport | Sjøfart og skipsindustri | Skipstekniske og nautiske begrep | Skipstekniske begrep","userType":"gjest","environment":"production"}]</script>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -56,7 +56,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     autocompleteResultsFound: ' søkeforslag funnet',
     autocompleteResultItem: '{label} Søkeforslag {index} av {total}',
       days: [
-        "søndag","måndag","tysdag","onsdag","torsdag","fredag","laurdag",
+        "søndag","mandag","tirsdag","onsdag","torsdag","fredag","lørdag",
       ],
       decimalSeparator: ',',
       months: [
@@ -73,20 +73,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="/packs/js/application-redesign-3366b412b2603084ea53.js" defer="defer"></script>
 
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="ifsTQaIHyFuLkjsuv1TyZJ4T73mhfSntGqR5tvhiV7scPInwdwFIxXC09g9VDIVOPZzE7IuOLmt-B7x_4Y7seQ" />
+<meta name="csrf-token" content="PA8F2wsB_Q_Ylh5zuN_qnDT7BpMpFiO1UivJrbNJqdWb3iiwvhK4EA0PMkvsJZNzieBnXYkLEcntsj9xc21oyQ" />
 
-    <meta property="og:title" content="flåte – Store norske leksikon">
+    <meta property="og:title" content="flåte – skipsfart – Store norske leksikon">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="Store norske leksikon">
 
-    <meta property="og:url" content="https://snl.no/fl%C3%A5te">
-    <link rel="canonical" href="https://snl.no/fl%C3%A5te">
+    <meta property="og:url" content="https://snl.no/fl%C3%A5te_-_skipsfart">
+    <link rel="canonical" href="https://snl.no/fl%C3%A5te_-_skipsfart">
 
 
     <meta name="format-detection" content="telephone=no">
 
 
-      <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"flåte","inLanguage":"no","url":"https://snl.no/fl%C3%A5te","mainEntityOfPage":{"@type":"WebPage","@id":"https://snl.no/fl%C3%A5te"},"isAccessibleForFree":true,"author":[{"@type":"Person","name":"Børge Nordbø","hasCredential":{"@type":"EducationalOccupationalCredential","educationalLevel":"Magister i norrøn filologi"},"url":"https://brukere.snl.no/34906","sameAs":["https://nva.sikt.no/research-profile/11924"],"identifier":[{"@type":"PropertyValue","propertyID":"NVA","value":"11924","url":"https://nva.sikt.no/research-profile/11924"}]}],"publisher":{"@type":"Organization","name":"Store norske leksikon","url":"https://snl.no/","logo":{"@type":"ImageObject","url":"https://snl.no/packs/static/images/snl_logo_fb-3fbaed5c3a1078259bd2.png"},"publishingPrinciples":"https://meta.snl.no/Om_Store_norske_leksikon","ownershipFundingInfo":"https://meta.snl.no/Foreningen_Store_norske_leksikon"},"accountablePerson":{"@type":"Person","name":"Erik Bolstad","jobTitle":"Ansvarlig redaktør","affiliation":{"@type":"Organization","name":"Store norske leksikon","alternateName":"Great Norwegian Encyclopedia","sameAs":["https://ror.org/03tnagf06"],"identifier":[{"@type":"PropertyValue","propertyID":"ROR","value":"03tnagf06","url":"https://ror.org/03tnagf06"}]},"url":"https://brukere.snl.no/34880","sameAs":["https://orcid.org/0009-0002-0757-3090","https://scholar.google.com/citations?user=CQ9yeKMAAAAJ"],"identifier":[{"@type":"PropertyValue","propertyID":"ORCID","value":"0009-0002-0757-3090","url":"https://orcid.org/0009-0002-0757-3090"},{"@type":"PropertyValue","propertyID":"Google Scholar","value":"CQ9yeKMAAAAJ","url":"https://scholar.google.com/citations?user=CQ9yeKMAAAAJ"}],"worksFor":{"@type":"Organization","name":"Store norske leksikon","url":"https://snl.no/"}},"editor":{"@type":"Person","name":"Erik Bolstad","jobTitle":"Sjefredaktør","affiliation":{"@type":"Organization","name":"Store norske leksikon","alternateName":"Great Norwegian Encyclopedia","sameAs":["https://ror.org/03tnagf06"],"identifier":[{"@type":"PropertyValue","propertyID":"ROR","value":"03tnagf06","url":"https://ror.org/03tnagf06"}]},"url":"https://brukere.snl.no/34880","sameAs":["https://orcid.org/0009-0002-0757-3090","https://scholar.google.com/citations?user=CQ9yeKMAAAAJ"],"identifier":[{"@type":"PropertyValue","propertyID":"ORCID","value":"0009-0002-0757-3090","url":"https://orcid.org/0009-0002-0757-3090"},{"@type":"PropertyValue","propertyID":"Google Scholar","value":"CQ9yeKMAAAAJ","url":"https://scholar.google.com/citations?user=CQ9yeKMAAAAJ"}],"worksFor":{"@type":"Organization","name":"Store norske leksikon","url":"https://snl.no/"}}}</script>
+      <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"flåte - skipsfart","inLanguage":"no","url":"https://snl.no/fl%C3%A5te_-_skipsfart","mainEntityOfPage":{"@type":"WebPage","@id":"https://snl.no/fl%C3%A5te_-_skipsfart","reviewedBy":{"@type":"Person","name":"Andreas Osnes","jobTitle":"Styrmann","hasCredential":{"@type":"EducationalOccupationalCredential","educationalLevel":"Master i sjøfartshistorie"},"url":"https://brukere.snl.no/54906","worksFor":{"@type":"Organization","name":"Store norske leksikon","url":"https://snl.no/"}}},"isAccessibleForFree":true,"publisher":{"@type":"Organization","name":"Store norske leksikon","url":"https://snl.no/","logo":{"@type":"ImageObject","url":"https://snl.no/packs/static/images/snl_logo_fb-3fbaed5c3a1078259bd2.png"},"publishingPrinciples":"https://meta.snl.no/Om_Store_norske_leksikon","ownershipFundingInfo":"https://meta.snl.no/Foreningen_Store_norske_leksikon"},"accountablePerson":{"@type":"Person","name":"Erik Bolstad","jobTitle":"Ansvarlig redaktør","affiliation":{"@type":"Organization","name":"Store norske leksikon","alternateName":"Great Norwegian Encyclopedia","sameAs":["https://ror.org/03tnagf06"],"identifier":[{"@type":"PropertyValue","propertyID":"ROR","value":"03tnagf06","url":"https://ror.org/03tnagf06"}]},"url":"https://brukere.snl.no/34880","sameAs":["https://orcid.org/0009-0002-0757-3090","https://scholar.google.com/citations?user=CQ9yeKMAAAAJ"],"identifier":[{"@type":"PropertyValue","propertyID":"ORCID","value":"0009-0002-0757-3090","url":"https://orcid.org/0009-0002-0757-3090"},{"@type":"PropertyValue","propertyID":"Google Scholar","value":"CQ9yeKMAAAAJ","url":"https://scholar.google.com/citations?user=CQ9yeKMAAAAJ"}],"worksFor":{"@type":"Organization","name":"Store norske leksikon","url":"https://snl.no/"}},"editor":{"@type":"Person","name":"Åsmund Gram Dokka","affiliation":{"@type":"Organization","name":"Store norske leksikon","alternateName":"Great Norwegian Encyclopedia","sameAs":["https://ror.org/03tnagf06"],"identifier":[{"@type":"PropertyValue","propertyID":"ROR","value":"03tnagf06","url":"https://ror.org/03tnagf06"}]},"url":"https://brukere.snl.no/59347","worksFor":{"@type":"Organization","name":"Store norske leksikon","url":"https://snl.no/"}}}</script>
 
   </head>
   <body itemscope itemtype="http://schema.org/WebPage">
@@ -163,6 +163,9 @@ leksikon</span>
       <div class="page-header__heading">
         <h1 class="page-title">
   flåte
+    <span class="page-title__clarification">
+      (skipsfart)
+    </span>
 </h1>
 
       </div>
@@ -183,17 +186,38 @@ leksikon</span>
         </li>
         <li class="breadcrumbs__item" itemprop="itemListElement" itemscope
                                       itemtype="http://schema.org/ListItem">
-            <a href="https://snl.no/.taxonomy/253" itemprop="item" class="breadcrumbs__link">
-              <span itemprop="name">Ordforklaringer</span>
+            <a href="https://snl.no/.taxonomy/3122" itemprop="item" class="breadcrumbs__link">
+              <span itemprop="name">Teknologi og industri</span>
             </a>
             <meta itemprop="position" content="2">
         </li>
         <li class="breadcrumbs__item" itemprop="itemListElement" itemscope
                                       itemtype="http://schema.org/ListItem">
-            <a href="https://snl.no/.taxonomy/4133" itemprop="item" class="breadcrumbs__link">
-              <span itemprop="name">Norske ord og uttrykk</span>
+            <a href="https://snl.no/.taxonomy/1517" itemprop="item" class="breadcrumbs__link">
+              <span itemprop="name">Transport</span>
             </a>
             <meta itemprop="position" content="3">
+        </li>
+        <li class="breadcrumbs__item" itemprop="itemListElement" itemscope
+                                      itemtype="http://schema.org/ListItem">
+            <a href="https://snl.no/.taxonomy/1523" itemprop="item" class="breadcrumbs__link">
+              <span itemprop="name">Sjøfart og skipsindustri</span>
+            </a>
+            <meta itemprop="position" content="4">
+        </li>
+        <li class="breadcrumbs__item" itemprop="itemListElement" itemscope
+                                      itemtype="http://schema.org/ListItem">
+            <a href="https://snl.no/.taxonomy/1524" itemprop="item" class="breadcrumbs__link">
+              <span itemprop="name">Skipstekniske og nautiske begrep</span>
+            </a>
+            <meta itemprop="position" content="5">
+        </li>
+        <li class="breadcrumbs__item" itemprop="itemListElement" itemscope
+                                      itemtype="http://schema.org/ListItem">
+            <a href="https://snl.no/.taxonomy/3226" itemprop="item" class="breadcrumbs__link">
+              <span itemprop="name">Skipstekniske begrep</span>
+            </a>
+            <meta itemprop="position" content="6">
         </li>
     </ol>
   </nav>
@@ -202,50 +226,22 @@ leksikon</span>
 
       <div class="l-article__menu">
         <div class="l-article__toc">
-            <nav class="toc" aria-label="Innhald">
+            <nav class="toc" aria-label="Innhold">
     <ul class="toc__list">
         <li class="toc__item">
-            <a href="/fl%C3%A5te#-Om_b%C3%A5tar" class="toc__link">Om båtar</a>
+            <a href="/fl%C3%A5te_-_skipsfart#-Farkost" class="toc__link">Farkost</a>
         </li>
         <li class="toc__item">
-            <a href="/fl%C3%A5te#-Om_fly" class="toc__link">Om fly</a>
+            <a href="/fl%C3%A5te_-_skipsfart#-Samlet_antall_skip" class="toc__link">Samlet antall skip</a>
         </li>
         <li class="toc__item">
-            <a href="/fl%C3%A5te#-Byggteknisk" class="toc__link">Byggteknisk</a>
-        </li>
-        <li class="toc__item">
-            <a href="/fl%C3%A5te#-Les_meir_i_Store_norske_leksikon" class="toc__link">Les meir i Store norske leksikon</a>
+            <a href="/fl%C3%A5te_-_skipsfart#-Les_mer_i_Store_norske_leksikon" class="toc__link">Les mer i Store norske leksikon</a>
         </li>
     </ul>
   </nav>
 
         </div>
-          <aside class="highlighted-authors highlighted-authors--single">
-    <h2 class="highlighted-authors__heading">
-      Skriven av
-    </h2>
-    <ul class="highlighted-authors__list">
-        <li class="highlighted-authors__item">
-          <a href="https://brukere.snl.no/34906"
-              class="highlighted-authors__author-link">
-            <div class="highlighted-authors__image">
-              
-<figure class="profile-image">
-  <img src="https://media.snl.no/users/34906/thumb_borge-nordbo1-300x300.jpg" alt="" class="profile-image__image">
-</figure>
-
-            </div>
-              <div class="highlighted-authors__author-academic-title">
-                Magister i norrøn filologi
-              </div>
-            <span class="highlighted-authors__author-name">
-              Børge Nordbø
-            </span>
-          </a>
-        </li>
-    </ul>
-  </aside>
-
+        
 
       </div>
 
@@ -259,7 +255,7 @@ leksikon</span>
 
   <section class="l-article__body-text" id="_article-top">
     <div class="article-text">
-  <p>Ein flåte er noko som flyt. Ordet er oftast brukt om ein enkel, flat og brei farkost av <a class="crossref" href="https://snl.no/tre">tre</a>, <a class="crossref" href="https://snl.no/str%C3%A5">strå</a> eller liknande, som flyt på vatn.</p>
+  <p>I skipsfarten brukes ordet flåte om to ting.</p>
 </div>
 
 
@@ -274,74 +270,71 @@ leksikon</span>
                 <a href="https://snl.no/etymologi">Etymologi</a>
               </dt>
               <dd class="factbox__fact-description">
-                <p>av <a href="https://snl.no/norr%C3%B8nt">norrønt</a> <em>floti</em>; heng saman med verbet <em>flyte</em></p>               </dd>
+                av <a href="https://snl.no/norr%C3%B8nt">norrønt</a> <em>floti</em>, beslektet med ‘å flyte’               </dd>
             </div>
         </dl>
     </div>
   </section>
 
       </div>
+      <div class="article-text">
+  <ul>
+<li>En primitiv farkost, ofte av tre, tønner eller jern.</li>
+<li>Samlet antall skip som et rederi eller et land har. Flåter kan gjerne være inndelt etter formål. For eksempel et lands <em>handelsflåte</em>, <em>krigsflåte</em> eller <em>tankflåte.</em>
+</li>
+</ul>
+</div>
+
+
   </section>
 </div>
 
 
 
-  <section class="l-article__section" id="-Om_b%C3%A5tar">
+  <section class="l-article__section" id="-Farkost">
     <h2 class="l-article__subheading">
-      Om båtar
+      Farkost
     </h2>
 
 
     <div class="l-article__body-text">
       <div class="article-text">
-  <p>Ein flåte er dessutan ei større samling <a class="crossref" href="https://snl.no/b%C3%A5t">båtar</a> og <a class="crossref" href="https://snl.no/skip">skip</a>, til dømes alle skipa i eit <a class="crossref" href="https://snl.no/rederi">rederi</a>, eller alle fartøy av same slag innanfor eit område, til dømes ein fiskeflåte, og alle krigsskipa som eit land har, ein krigsflåte.</p>
+  <p>En flåte er en primitiv farkost, oftest firkantet, laget av tre, siv, tønner eller som en lukket kasse av jern, betong eller andre materialer. Den tjener som regel som arbeidsplattform ved bygging, reparasjon eller vedlikehold av skip, kaier, broer og lignende.</p><ul>
+<li>
+<a class="crossref" href="https://snl.no/redningsfl%C3%A5te">Redningsflåter</a> skal finnes på alle norske skip, og er på moderne skip oppblåsbare og selvutløsende om skipet synker.</li>
+<li>
+<a class="crossref" href="https://snl.no/Kon-Tiki">Kon Tiki-ekspidisjonen</a>, ledet av <a class="crossref" href="https://snl.no/Thor_Heyerdahl">Thor Hyerdahl</a>, ble gjennomført med en flåte bygget av balsatre og tau av hamp og ble seilt fra Peru til Raroia i Polynesia.</li>
+</ul>
 </div>
 
 
     </div>
   </section>
-  <section class="l-article__section" id="-Om_fly">
+  <section class="l-article__section" id="-Samlet_antall_skip">
     <h2 class="l-article__subheading">
-      Om fly
+      Samlet antall skip
     </h2>
 
 
     <div class="l-article__body-text">
       <div class="article-text">
-  <p>Overført kan flåte også brukast ei større samling av andre fartøy, til dømes om alle <a class="crossref" href="https://snl.no/fly">flya</a> i eit flyselskap.</p>
+  <p>Ordet flåte kan også vise til det samlede antallet skip av en viss type. Et lands <em><a class="crossref" href="https://snl.no/handelsfl%C3%A5te">handelsflåte</a>,</em> eller tidligere brukt <em>koffardiflåte,</em> består av alle sivile fartøy som er registrert i landet. En inndeler gjerne flåten etter fartøyenes formål: tankflåte, linjeflåte, trampflåte, fangstflåte eller fiskeflåte. Uteflåten er den del av handelsflåten som seiler mellom andre land og bare sjelden kommer til hjemlandet.</p><p>Et lands <em>krigsflåte,</em> eller <em>orlogsflåte,</em> er landets samtlige krigsfartøyer (med hjelpefartøyer). Flåte betegner også en større, selvstendig opererende del av et lands krigsflåte. For eksempel USAs 6. flåte i Middelhavet, 3. flåte i Stillehavet og 2. flåte i Atlanterhavet.</p>
 </div>
 
 
     </div>
   </section>
-  <section class="l-article__section" id="-Byggteknisk">
+  <section class="l-article__section" id="-Les_mer_i_Store_norske_leksikon">
     <h2 class="l-article__subheading">
-      Byggteknisk
-    </h2>
-
-
-    <div class="l-article__body-text">
-      <div class="article-text">
-  <p>I bygningsfag er flåte ein plattform av tre, betong eller liknande, brukt til fundament over grunn som ikkje er fast nok.</p>
-</div>
-
-
-    </div>
-  </section>
-  <section class="l-article__section" id="-Les_meir_i_Store_norske_leksikon">
-    <h2 class="l-article__subheading">
-      Les meir i Store norske leksikon
+      Les mer i Store norske leksikon
     </h2>
 
 
     <div class="l-article__body-text">
       <div class="article-text">
   <ul>
-
-<li><a href="https://snl.no/fl%C3%A5te_-_skipsfart">flåte – skipsfart</a></li>
-
-<li><a href="https://snl.no/fl%C3%A5te_-_bygningsteknikk">flåte – bygningsteknikk</a></li>
-
+<li><a class="crossref" href="https://snl.no/skipsfart">skipsfart</a></li>
+<li><a class="crossref" href="https://snl.no/skip">skip</a></li>
 </ul>
 </div>
 
@@ -358,15 +351,15 @@ leksikon</span>
           <aside class="article-info">
   <dl class="article-info__items">
       <dt class="article-info__item-name">
-        Skriven av:
+        Artikkelen inneholder tekst fra:
       </dt>
       <dd class="article-info__item-value">
         <ul class="author-list">
     <li class="author-list__author" itemprop="author" itemscope
-        itemtype="http://schema.org/Person"
+        itemtype="http://schema.org/Thing"
         data-conjunction=" og ">
-        <a href="https://brukere.snl.no/34906">
-          <span itemprop="name">Børge Nordbø</span></a></li>
+        <a href="https://brukere.snl.no/1660">
+          <span itemprop="name"> Store norske leksikon (2005-2007)</span></a></li>
 </ul>
 
       </dd>
@@ -374,25 +367,22 @@ leksikon</span>
         Sist oppdatert:
       </dt>
       <dd class="article-info__item-value">
-        <time datetime="2024-11-27T00:19:50+01:00">
-          27. november 2024</time>,
-        <a href="https://snl.no/.versions/list/74787">sjå alle endringar</a>
+        <time datetime="2024-11-26T16:56:45+01:00">
+          26. november 2024</time>,
+        <a href="https://snl.no/.versions/list/79253">se alle endringer</a>
       </dd>
     <dt class="article-info__item-name">
       VILKÅR FOR GJENBRUK: 
     </dt>
     <dd class="article-info__item-value">
-      <a class="" href="/.licenses/free">fri gjenbruk</a>
-        <img src="/packs/static/images/cc-848fbd3e8217f234625c.svg"
-             alt="Creative Commons" width="20" height="20"
-             class="article-info__license-image">
+      <a class="" href="/.licenses/restricted">begrenset gjenbruk</a>
     </dd>
   </dl>
   <div class="article-info__citation">
-    Vil du sitere denne artikkelen? Kopier denne teksten og lim han inn i litteraturlista di:
+    Vil du sitere denne artikkelen? Kopier denne teksten og lim den inn i litteraturlisten din:
     <cite class="article-info__cite">
-      Nordbø, Børge: <i>flåte</i> i <i>Store norske leksikon</i> på snl.no.
-      Henta <span class="js-current-date"></span> frå https://snl.no/fl%C3%A5te
+      <i>flåte - skipsfart</i> i <i>Store norske leksikon</i> på snl.no.
+      Hentet <span class="js-current-date"></span> fra https://snl.no/fl%C3%A5te_-_skipsfart
     </cite>
   </div>
 </aside>
@@ -405,10 +395,10 @@ leksikon</span>
   </h2>
   <ul class="article-contributions__items">
     <li class="article-contributions__item">
-      <a rel="nofollow" href="https://snl.no/.improvements/xhtml/74787">Føreslå endringar i artikkelen</a>
+      <a rel="nofollow" href="https://snl.no/.improvements/xhtml/79253">Foreslå endringer i artikkelen</a>
     </li>
     <li class="article-contributions__item">
-      <a rel="nofollow" href="https://snl.no/.articles/74787/media/new?media%5Bfigure_type%5D=picture">Føreslå bilete til artikkelen</a>
+      <a rel="nofollow" href="https://snl.no/.articles/79253/media/new?media%5Bfigure_type%5D=picture">Foreslå bilder til artikkelen</a>
     </li>
       <li class="article-contributions__item">
         <button class="link-button js-toggle-comments" type='button' data-target='article-comments'>
@@ -426,19 +416,19 @@ leksikon</span>
       </div>
         <div id="article-comments" class="l-article__comments">
           <div class="l-article__comments-contents">
-            <h2>Kommentarar
+            <h2>Kommentarer
               
 
             </h2>
             <div class="create-comment" id="new-comment">
     <p class="create-comment__intro">
-      Kommentarar til artikkelen blir synleg for alle. Ikkje skriv inn sensitive opplysningar, for eksempel helseopplysningar. Fagansvarleg eller redaktør svarar når dei kan. Det kan ta tid før du får svar.
+      Kommentarer til artikkelen blir synlig for alle. Ikke skriv inn sensitive opplysninger, for eksempel helseopplysninger. Fagansvarlig eller redaktør svarer når de kan. Det kan ta tid før du får svar.
     </p>
     <p class="create-comment__intro">
-      Du må vere logga inn for å kommentere.
+      Du må være logget inn for å kommentere.
     </p>
     <form action=".login" accept-charset="UTF-8" method="get">
-      <input type="hidden" name="return_to" id="return_to" value="https://snl.no/fl%C3%A5te#new-comment" autocomplete="off" />
+      <input type="hidden" name="return_to" id="return_to" value="https://snl.no/fl%C3%A5te_-_skipsfart#new-comment" autocomplete="off" />
       <button type="submit" class="button button--standalone">
   <span class="button__text">Logg inn</span>
 </button>
@@ -455,21 +445,21 @@ leksikon</span>
             <div class="l-article__authoritative-editor">
               <div class="authoritative-editor">
   <h2 class="authoritative-editor__heading">
-        <a class="authoritative-editor__secondary-link" href="https://meta.snl.no/Fagansvarlige">Fagansvarleg</a> for <a class="authoritative-editor__secondary-link" href="https://snl.no/.taxonomy/4133">Norske ord og uttrykk</a>
+        <a class="authoritative-editor__secondary-link" href="https://meta.snl.no/Fagansvarlige">Fagansvarlig</a> for <a class="authoritative-editor__secondary-link" href="https://snl.no/.taxonomy/3226">Skipstekniske begrep</a>
   </h2>
-    <a href="https://brukere.snl.no/34906">
+    <a href="https://brukere.snl.no/54906">
       <div class="authoritative-editor__image">
         
 <figure class="profile-image">
-  <img src="https://media.snl.no/users/34906/thumb_borge-nordbo1-300x300.jpg" alt="" class="profile-image__image">
+  <img src="https://media.snl.no/users/54906/thumb_Osnes597636.jpg" alt="" class="profile-image__image">
 </figure>
 
       </div>
       <div class="authoritative-editor__name">
-        Børge Nordbø
+        Andreas Osnes
       </div>
     </a>
-    <div class="authoritative-editor__suffix">Magister i norrøn filologi</div>
+    <div class="authoritative-editor__suffix">Styrmann, Master i sjøfartshistorie</div>
 </div>
 
             </div>

@@ -716,9 +716,9 @@ var k5aMeta = { "paid": 0, "wordCount": "136", "lix": "49", "author": ["Angelica
 
 
         <section id="mainArticleSection" class="main article">
-            <div data-element-guid="641f7384-fa6b-492c-89b2-10b7284f189c" class="placeholder placement-top">
+            <div data-element-guid="7e06301b-bab0-4936-c15d-e05d8abe1558" class="placeholder placement-top">
 
-<div class="column adnuntius-ad small-12 large-12 display-label" style="" data-element-guid="6c7a467b-f2a7-4d2b-93c1-3b2505e071e8">
+<div class="column adnuntius-ad small-12 large-12 display-label" style="" data-element-guid="fa62cb0a-270d-4184-b019-d3f5fbb6c092">
     <div id="adn-00000000000df8db" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -820,7 +820,7 @@ var k5aMeta = { "paid": 0, "wordCount": "136", "lix": "49", "author": ["Angelica
 
 
 
-        <div data-element-guid="c13945da-bf05-4f2d-f033-b1f71fc39de8" class="meta">
+        <div data-element-guid="13046273-3f6b-462c-9e17-03a06a718c91" class="meta">
     
 
     <div class="bylines">
@@ -876,7 +876,7 @@ var k5aMeta = { "paid": 0, "wordCount": "136", "lix": "49", "author": ["Angelica
 
                         
 
-                        <div data-element-guid="c13945da-bf05-4f2d-f033-b1f71fc39de8" class="bodytext large-12 small-12 medium-12">
+                        <div data-element-guid="13046273-3f6b-462c-9e17-03a06a718c91" class="bodytext large-12 small-12 medium-12">
     
     
 
@@ -918,7 +918,7 @@ var k5aMeta = { "paid": 0, "wordCount": "136", "lix": "49", "author": ["Angelica
     </script>
 </div>
 <p>Romania nærmer seg en avtale om å skaffe seg et offshore patruljefartøy i Hisar-klassen fra Tyrkia, ifølge Defense News.&nbsp;</p>
-<div class="column adnuntius-ad display-label floatRight widthAuto" style="" data-element-guid="bc742c9e-05b6-4a2a-b405-07b4be0676b8">
+<div class="column adnuntius-ad display-label floatRight widthAuto" style="" data-element-guid="687c91c5-19be-4847-e876-b06d94bcd2b1">
     <div id="adn-00000000000f8dd8" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -1197,7 +1197,7 @@ Nyheter
 
 
                         
-<div data-element-guid="c13945da-bf05-4f2d-f033-b1f71fc39de8" class="column articleFooter">
+<div data-element-guid="13046273-3f6b-462c-9e17-03a06a718c91" class="column articleFooter">
     <span class="tags">
         <a href="/tag/nyheter">nyheter</a>
         <a href="/tag/fl%C3%A5te">flåte</a>
@@ -1225,8 +1225,8 @@ Nyheter
                     
                 </article>
                 <section class="related desktop-fullWidth mobile-fullWidth fullwidthTarget">
-                <div data-element-guid="cb5f0895-d6ec-4cb9-e27a-858f0447d6ac" class="page-content"><div data-element-guid="1e613833-27e0-418d-8629-ed3992a94911" class="row small-12 large-12" style="">
-<div class="column adnuntius-ad small-12 large-12 display-label large-12 small-12" style="" data-element-guid="6db28b48-0094-4152-eedf-49c56078492f">
+                <div data-element-guid="cb5f0895-d6ec-4cb9-e27a-858f0447d6ac" class="page-content"><div data-element-guid="e5c12dd7-2ae9-4720-ee01-98b26d467938" class="row small-12 large-12" style="">
+<div class="column adnuntius-ad small-12 large-12 display-label large-12 small-12" style="" data-element-guid="833af242-565c-4e0e-c3a6-f77ab2d77313">
     <div id="adn-00000000000df8dc" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -1261,7 +1261,7 @@ Nyheter
     
     <div class="content" style="">
         
-        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/kina-taiwan-utenriks/en-apenbar-provokasjon/475281" data-k5a-url="https://www.forsvaretsforum.no/a/475281" rel="">
+        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/boeing-israel-kontrakt/pentagon-inngar-avtale-om-kampfly-til-israel/475350" data-k5a-url="https://www.forsvaretsforum.no/a/475350" rel="">
 
 
         <div class="media desktop-floatNone mobile-floatNone">
@@ -1270,30 +1270,30 @@ Nyheter
                 <figure data-element-guid="3a0562f9-28f5-4b69-e2b5-7e585400106a" class="desktop-floatNone mobile-floatNone" >
     <div class="img fullwidthTarget">
         <picture>
-            <source srcset="https://image.forsvaretsforum.no/475296.jpg?imageId=475296&panox=0.00&panoy=8.88&panow=100.00&panoh=84.87&heightx=9.89&heighty=0.00&heightw=34.76&heighth=100.00&width=1048&height=536&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/475367.jpg?imageId=475367&panox=0.00&panoy=10.50&panow=100.00&panoh=71.27&heightx=39.81&heighty=0.00&heightw=41.43&heighth=100.00&width=1048&height=536&format=webp&format=webp" 
                 width="524"
                 height="268"
                 media="(min-width: 768px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475296.jpg?imageId=475296&panox=0.00&panoy=8.88&panow=100.00&panoh=84.87&heightx=9.89&heighty=0.00&heightw=34.76&heighth=100.00&width=1048&height=536&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/475367.jpg?imageId=475367&panox=0.00&panoy=10.50&panow=100.00&panoh=71.27&heightx=39.81&heighty=0.00&heightw=41.43&heighth=100.00&width=1048&height=536&format=webp&format=jpg" 
                 width="524"
                 height="268"
                 media="(min-width: 768px)"
                 type="image/jpeg">    
-            <source srcset="https://image.forsvaretsforum.no/475296.jpg?imageId=475296&panox=0.00&panoy=8.88&panow=100.00&panoh=84.87&heightx=9.89&heighty=0.00&heightw=34.76&heighth=100.00&width=474&height=242&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/475367.jpg?imageId=475367&panox=0.00&panoy=10.50&panow=100.00&panoh=71.27&heightx=39.81&heighty=0.00&heightw=41.43&heighth=100.00&width=474&height=242&format=webp&format=webp" 
                 width="237"
                 height="121"
                 media="(max-width: 767px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475296.jpg?imageId=475296&panox=0.00&panoy=8.88&panow=100.00&panoh=84.87&heightx=9.89&heighty=0.00&heightw=34.76&heighth=100.00&width=474&height=242&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/475367.jpg?imageId=475367&panox=0.00&panoy=10.50&panow=100.00&panoh=71.27&heightx=39.81&heighty=0.00&heightw=41.43&heighth=100.00&width=474&height=242&format=webp&format=jpg" 
                 width="237"
                 height="121"
                 media="(max-width: 767px)"
                 type="image/jpeg">    
-            <img src="https://image.forsvaretsforum.no/475296.jpg?imageId=475296&panox=0.00&panoy=8.88&panow=100.00&panoh=84.87&heightx=9.89&heighty=0.00&heightw=34.76&heighth=100.00&width=474&height=242&format=webp&format=jpg"
+            <img src="https://image.forsvaretsforum.no/475367.jpg?imageId=475367&panox=0.00&panoy=10.50&panow=100.00&panoh=71.27&heightx=39.81&heighty=0.00&heightw=41.43&heighth=100.00&width=474&height=242&format=webp&format=jpg"
                 width="237"
                 height="121"
-                title="– En åpenbar provokasjon"
+                title="Pentagon inngår avtale om kampfly til Israel"
                 alt="" 
                 loading="lazy"
                 style=""    
@@ -1325,7 +1325,7 @@ Nyheter
             <h2 itemprop="headline" 
     class="headline t45 tm20"
     style=""
-    >– En åpenbar provokasjon
+    >Pentagon: Kampfly til Israel i ny Boeing-kontrakt
 </h2>
 
         
@@ -1335,14 +1335,14 @@ Nyheter
 
         </a>
 
-        <time itemprop="datePublished" datetime="2025-12-30T16:41:09+01:00"></time>
+        <time itemprop="datePublished" datetime="2026-01-01T11:59:47+01:00"></time>
     </div>
 </article>
 <article data-element-guid="99e350bc-7933-4b9d-8f5e-3505828bde41" class="column small-6 large-6 small-abs-6 large-abs-6 " data-site-alias="forsvaretsforum" data-section="nyheter" data-instance="100125" data-image-float="floatNone" itemscope>
     
     <div class="content" style="">
         
-        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/hypersonisk-hypersoniske-missiler-materiell/usas-hypersoniske-missil-kan-treffe-moskva-fra-london/473734" data-k5a-url="https://www.forsvaretsforum.no/a/473734" rel="">
+        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/russland-ukraina-zelenskyj/zelenskyj-vil-ikke-signere-en-darlig-fredsavtale/475415" data-k5a-url="https://www.forsvaretsforum.no/a/475415" rel="">
 
 
         <div class="media desktop-floatNone mobile-floatNone">
@@ -1351,30 +1351,30 @@ Nyheter
                 <figure data-element-guid="c1125064-c879-4235-8b7d-ae89d7013a4e" class="desktop-floatNone mobile-floatNone" >
     <div class="img fullwidthTarget">
         <picture>
-            <source srcset="https://image.forsvaretsforum.no/473906.jpg?imageId=473906&panox=0.00&panoy=5.28&panow=100.00&panoh=71.67&heightx=42.04&heighty=0.00&heightw=41.43&heighth=100.00&width=1042&height=534&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/475420.jpg?imageId=475420&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=1042&height=534&format=webp&format=webp" 
                 width="521"
                 height="267"
                 media="(min-width: 768px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/473906.jpg?imageId=473906&panox=0.00&panoy=5.28&panow=100.00&panoh=71.67&heightx=42.04&heighty=0.00&heightw=41.43&heighth=100.00&width=1042&height=534&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/475420.jpg?imageId=475420&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=1042&height=534&format=webp&format=jpg" 
                 width="521"
                 height="267"
                 media="(min-width: 768px)"
                 type="image/jpeg">    
-            <source srcset="https://image.forsvaretsforum.no/473906.jpg?imageId=473906&panox=0.00&panoy=5.28&panow=100.00&panoh=71.67&heightx=42.04&heighty=0.00&heightw=41.43&heighth=100.00&width=474&height=244&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/475420.jpg?imageId=475420&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=474&height=244&format=webp&format=webp" 
                 width="237"
                 height="122"
                 media="(max-width: 767px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/473906.jpg?imageId=473906&panox=0.00&panoy=5.28&panow=100.00&panoh=71.67&heightx=42.04&heighty=0.00&heightw=41.43&heighth=100.00&width=474&height=244&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/475420.jpg?imageId=475420&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=474&height=244&format=webp&format=jpg" 
                 width="237"
                 height="122"
                 media="(max-width: 767px)"
                 type="image/jpeg">    
-            <img src="https://image.forsvaretsforum.no/473906.jpg?imageId=473906&panox=0.00&panoy=5.28&panow=100.00&panoh=71.67&heightx=42.04&heighty=0.00&heightw=41.43&heighth=100.00&width=474&height=244&format=webp&format=jpg"
+            <img src="https://image.forsvaretsforum.no/475420.jpg?imageId=475420&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=474&height=244&format=webp&format=jpg"
                 width="237"
                 height="122"
-                title="USAs hypersoniske missil kan treffe Moskva fra London"
+                title="Zelenskyj: Vil ikke signere en dårlig fredsavtale"
                 alt="" 
                 loading="lazy"
                 style=""    
@@ -1406,7 +1406,7 @@ Nyheter
             <h2 itemprop="headline" 
     class="headline t45 tm20"
     style=""
-    >USAs hypersoniske våpen har økt rekkevidden
+    >Zelenskyj: Vil ikke signere en dårlig fredsavtale
 </h2>
 
         
@@ -1416,7 +1416,7 @@ Nyheter
 
         </a>
 
-        <time itemprop="datePublished" datetime="2025-12-30T09:24:00+01:00"></time>
+        <time itemprop="datePublished" datetime="2026-01-01T09:57:46+01:00"></time>
     </div>
 </article>
 </div>
@@ -1559,7 +1559,7 @@ Nyheter
     
     <div class="content" style="">
         
-        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/asia-kina-konflikt/lover-a-ikke-eskalere-konflikten/475191" data-k5a-url="https://www.forsvaretsforum.no/a/475191" rel="">
+        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/kim-jong-un-nord-korea-russland/kim-jong-un-hyllet-landets-soldater-i-nyttarstale/475403" data-k5a-url="https://www.forsvaretsforum.no/a/475403" rel="">
 
 
         <div class="media desktop-floatNone mobile-floatRight">
@@ -1568,30 +1568,30 @@ Nyheter
                 <figure data-element-guid="1150a477-6e18-4245-c031-99daeed7d73f" class="desktop-floatNone mobile-floatRight" >
     <div class="img fullwidthTarget">
         <picture>
-            <source srcset="https://image.forsvaretsforum.no/475203.jpg?imageId=475203&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=35.67&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/475408.jpg?imageId=475408&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=664&height=426&format=webp&format=webp" 
                 width="332"
                 height="213"
                 media="(min-width: 768px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475203.jpg?imageId=475203&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=35.67&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/475408.jpg?imageId=475408&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=664&height=426&format=webp&format=jpg" 
                 width="332"
                 height="213"
                 media="(min-width: 768px)"
                 type="image/jpeg">    
-            <source srcset="https://image.forsvaretsforum.no/475203.jpg?imageId=475203&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=35.67&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/475408.jpg?imageId=475408&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=202&height=176&format=webp&format=webp" 
                 width="101"
                 height="88"
                 media="(max-width: 767px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475203.jpg?imageId=475203&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=35.67&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/475408.jpg?imageId=475408&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=202&height=176&format=webp&format=jpg" 
                 width="101"
                 height="88"
                 media="(max-width: 767px)"
                 type="image/jpeg">    
-            <img src="https://image.forsvaretsforum.no/475203.jpg?imageId=475203&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=35.67&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=jpg"
+            <img src="https://image.forsvaretsforum.no/475408.jpg?imageId=475408&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=202&height=176&format=webp&format=jpg"
                 width="101"
                 height="88"
-                title="Lover å ikke eskalere konflikten"
+                title="Kim Jong-un hyllet landets soldater i nyttårstale"
                 alt="" 
                 loading="lazy"
                 style=""    
@@ -1623,7 +1623,7 @@ Nyheter
             <h2 itemprop="headline" 
     class="headline t30 tm20"
     style=""
-    >Lover å ikke eskalere konflikten
+    >Kim Jong-un hyllet landets soldater i nyttårstale
 </h2>
 
         
@@ -1633,14 +1633,14 @@ Nyheter
 
         </a>
 
-        <time itemprop="datePublished" datetime="2025-12-30T08:47:27+01:00"></time>
+        <time itemprop="datePublished" datetime="2026-01-01T08:37:10+01:00"></time>
     </div>
 </article>
 <article data-element-guid="ddff46aa-261b-4da1-fd4f-3a744f462b3b" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="forsvaretsforum" data-section="nyheter" data-instance="131115" data-image-float="floatNone" itemscope>
     
     <div class="content" style="">
         
-        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/fredsbevarende-styrker-russland-ukraina/vil-ha-utenlandske-styrker-i-ukraina/475150" data-k5a-url="https://www.forsvaretsforum.no/a/475150" rel="">
+        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/nato-russland-sikkerhetspolitikk/fredsavtale-i-ukraina-kan-undergrave-svensk-sikkerhet/475392" data-k5a-url="https://www.forsvaretsforum.no/a/475392" rel="">
 
 
         <div class="media desktop-floatNone mobile-floatRight">
@@ -1649,30 +1649,30 @@ Nyheter
                 <figure data-element-guid="7f9982eb-ea3f-4652-b1b0-47943679ca3b" class="desktop-floatNone mobile-floatRight" >
     <div class="img fullwidthTarget">
         <picture>
-            <source srcset="https://image.forsvaretsforum.no/475157.jpg?imageId=475157&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=0.64&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/365522.jpg?imageId=365522&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=664&height=426&format=webp&format=webp" 
                 width="332"
                 height="213"
                 media="(min-width: 768px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475157.jpg?imageId=475157&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=0.64&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/365522.jpg?imageId=365522&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=664&height=426&format=webp&format=jpg" 
                 width="332"
                 height="213"
                 media="(min-width: 768px)"
                 type="image/jpeg">    
-            <source srcset="https://image.forsvaretsforum.no/475157.jpg?imageId=475157&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=0.64&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/365522.jpg?imageId=365522&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=202&height=176&format=webp&format=webp" 
                 width="101"
                 height="88"
                 media="(max-width: 767px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475157.jpg?imageId=475157&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=0.64&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/365522.jpg?imageId=365522&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=202&height=176&format=webp&format=jpg" 
                 width="101"
                 height="88"
                 media="(max-width: 767px)"
                 type="image/jpeg">    
-            <img src="https://image.forsvaretsforum.no/475157.jpg?imageId=475157&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=0.64&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=jpg"
+            <img src="https://image.forsvaretsforum.no/365522.jpg?imageId=365522&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=202&height=176&format=webp&format=jpg"
                 width="101"
                 height="88"
-                title="Vil ha utenlandske styrker i Ukraina"
+                title="– Fredsavtale i Ukraina kan undergrave svensk sikkerhet"
                 alt="" 
                 loading="lazy"
                 style=""    
@@ -1704,7 +1704,7 @@ Nyheter
             <h2 itemprop="headline" 
     class="headline t30 tm20"
     style=""
-    >Vil ha utenlandske styrker i Ukraina
+    >– Fredsavtale i Ukraina kan undergrave svensk sikkerhet
 </h2>
 
         
@@ -1714,14 +1714,14 @@ Nyheter
 
         </a>
 
-        <time itemprop="datePublished" datetime="2025-12-29T14:28:30+01:00"></time>
+        <time itemprop="datePublished" datetime="2026-01-01T08:19:52+01:00"></time>
     </div>
 </article>
-<article data-element-guid="bb8cd3ee-870f-4d86-c028-39665b17b996" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="forsvaretsforum" data-section="nyheter" data-instance="131113" data-image-float="floatNone" itemscope>
+<article data-element-guid="bb8cd3ee-870f-4d86-c028-39665b17b996" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="forsvaretsforum" data-section="portrett" data-instance="131113" data-image-float="floatNone" itemscope>
     
     <div class="content" style="">
         
-        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/artilleri-samarbeid-storbritannia/inngar-vapenavtale-pa-700-millioner-kroner/475037" data-k5a-url="https://www.forsvaretsforum.no/a/475037" rel="">
+        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/eirik-kristoffersen-f24-forsvaret/vanskelig-a-se-for-seg-en-militaer-losning-i-ukraina/473411" data-k5a-url="https://www.forsvaretsforum.no/a/473411" rel="">
 
 
         <div class="media desktop-floatNone mobile-floatRight">
@@ -1730,30 +1730,30 @@ Nyheter
                 <figure data-element-guid="1f8e3fd4-5439-4706-fb71-29af5fe3a995" class="desktop-floatNone mobile-floatRight" >
     <div class="img fullwidthTarget">
         <picture>
-            <source srcset="https://image.forsvaretsforum.no/475058.jpg?imageId=475058&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=29.94&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/473478.jpg?imageId=473478&panox=9.49&panoy=33.14&panow=66.15&panoh=39.45&heightx=17.87&heighty=0.00&heightw=49.52&heighth=100.00&width=664&height=426&format=webp&format=webp" 
                 width="332"
                 height="213"
                 media="(min-width: 768px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475058.jpg?imageId=475058&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=29.94&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/473478.jpg?imageId=473478&panox=9.49&panoy=33.14&panow=66.15&panoh=39.45&heightx=17.87&heighty=0.00&heightw=49.52&heighth=100.00&width=664&height=426&format=webp&format=jpg" 
                 width="332"
                 height="213"
                 media="(min-width: 768px)"
                 type="image/jpeg">    
-            <source srcset="https://image.forsvaretsforum.no/475058.jpg?imageId=475058&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=29.94&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/473478.jpg?imageId=473478&panox=9.49&panoy=33.14&panow=66.15&panoh=39.45&heightx=17.87&heighty=0.00&heightw=49.52&heighth=100.00&width=202&height=176&format=webp&format=webp" 
                 width="101"
                 height="88"
                 media="(max-width: 767px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475058.jpg?imageId=475058&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=29.94&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/473478.jpg?imageId=473478&panox=9.49&panoy=33.14&panow=66.15&panoh=39.45&heightx=17.87&heighty=0.00&heightw=49.52&heighth=100.00&width=202&height=176&format=webp&format=jpg" 
                 width="101"
                 height="88"
                 media="(max-width: 767px)"
                 type="image/jpeg">    
-            <img src="https://image.forsvaretsforum.no/475058.jpg?imageId=475058&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=29.94&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=jpg"
+            <img src="https://image.forsvaretsforum.no/473478.jpg?imageId=473478&panox=9.49&panoy=33.14&panow=66.15&panoh=39.45&heightx=17.87&heighty=0.00&heightw=49.52&heighth=100.00&width=202&height=176&format=webp&format=jpg"
                 width="101"
                 height="88"
-                title="Inngår våpenavtale på 700 millioner kroner"
+                title="– Vanskelig å se for seg en militær løsning i Ukraina"
                 alt="" 
                 loading="lazy"
                 style=""    
@@ -1785,7 +1785,7 @@ Nyheter
             <h2 itemprop="headline" 
     class="headline t30 tm20"
     style=""
-    >Inngår våpenavtale på 700 millioner kroner
+    >– Vanskelig å se for seg en militær løsning i Ukraina
 </h2>
 
         
@@ -1795,7 +1795,7 @@ Nyheter
 
         </a>
 
-        <time itemprop="datePublished" datetime="2025-12-29T10:03:31+01:00"></time>
+        <time itemprop="datePublished" datetime="2026-01-01T05:17:00+01:00"></time>
     </div>
 </article>
 </div>
@@ -1803,7 +1803,7 @@ Nyheter
     
     <div class="content" style="">
         
-        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/kina-taiwan-utenriks/kina-har-startet-stor-ovelse-rundt-taiwan/475018" data-k5a-url="https://www.forsvaretsforum.no/a/475018" rel="">
+        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/asia-eu-kina/bekymret-over-taiwan-ovelser/475321" data-k5a-url="https://www.forsvaretsforum.no/a/475321" rel="">
 
 
         <div class="media mobile-floatRight">
@@ -1812,30 +1812,30 @@ Nyheter
                 <figure data-element-guid="55d18483-4b9e-4dc4-c302-fe45101b06be" class="mobile-floatRight" >
     <div class="img fullwidthTarget">
         <picture>
-            <source srcset="https://image.forsvaretsforum.no/475043.jpg?imageId=475043&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=41.08&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/475357.jpg?imageId=475357&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=36.62&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=webp" 
                 width="332"
                 height="213"
                 media="(min-width: 768px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475043.jpg?imageId=475043&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=41.08&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/475357.jpg?imageId=475357&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=36.62&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=jpg" 
                 width="332"
                 height="213"
                 media="(min-width: 768px)"
                 type="image/jpeg">    
-            <source srcset="https://image.forsvaretsforum.no/475043.jpg?imageId=475043&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=41.08&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/475357.jpg?imageId=475357&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=36.62&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=webp" 
                 width="101"
                 height="88"
                 media="(max-width: 767px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475043.jpg?imageId=475043&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=41.08&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/475357.jpg?imageId=475357&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=36.62&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=jpg" 
                 width="101"
                 height="88"
                 media="(max-width: 767px)"
                 type="image/jpeg">    
-            <img src="https://image.forsvaretsforum.no/475043.jpg?imageId=475043&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=41.08&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=jpg"
+            <img src="https://image.forsvaretsforum.no/475357.jpg?imageId=475357&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=36.62&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=jpg"
                 width="101"
                 height="88"
-                title="Kina har startet stor øvelse rundt Taiwan"
+                title="Bekymret over Taiwan-øvelser"
                 alt="" 
                 loading="lazy"
                 style=""    
@@ -1867,7 +1867,7 @@ Nyheter
             <h2 itemprop="headline" 
     class="headline t30 tm20"
     style=""
-    >Har startet stor øvelse rundt Taiwan
+    >Bekymret over Taiwan-øvelser
 </h2>
 
         
@@ -1877,14 +1877,14 @@ Nyheter
 
         </a>
 
-        <time itemprop="datePublished" datetime="2025-12-29T09:54:36+01:00"></time>
+        <time itemprop="datePublished" datetime="2025-12-31T08:40:47+01:00"></time>
     </div>
 </article>
 <article data-element-guid="5eb9024d-3962-4ac8-8858-645887a5fb5a" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="forsvaretsforum" data-section="nyheter" data-instance="100129" itemscope>
     
     <div class="content" style="">
         
-        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/russland-spionasje-usa/russisk-eksdiplomat-domt-for-spionasje/475007" data-k5a-url="https://www.forsvaretsforum.no/a/475007" rel="">
+        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/belarus-materiell-missil/video-viser-angivelig-oresjnik-missiler-utplassert-i-belarus/475304" data-k5a-url="https://www.forsvaretsforum.no/a/475304" rel="">
 
 
         <div class="media mobile-floatRight">
@@ -1893,30 +1893,30 @@ Nyheter
                 <figure data-element-guid="7d4ce0da-53ad-4aae-d0d7-92e6eddcb1c3" class="mobile-floatRight" >
     <div class="img fullwidthTarget">
         <picture>
-            <source srcset="https://image.forsvaretsforum.no/475014.jpg?imageId=475014&panox=0.00&panoy=14.17&panow=100.00&panoh=71.67&heightx=35.67&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/475311.jpg?imageId=475311&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=17.52&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=webp" 
                 width="332"
                 height="213"
                 media="(min-width: 768px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475014.jpg?imageId=475014&panox=0.00&panoy=14.17&panow=100.00&panoh=71.67&heightx=35.67&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/475311.jpg?imageId=475311&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=17.52&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=jpg" 
                 width="332"
                 height="213"
                 media="(min-width: 768px)"
                 type="image/jpeg">    
-            <source srcset="https://image.forsvaretsforum.no/475014.jpg?imageId=475014&panox=0.00&panoy=14.17&panow=100.00&panoh=71.67&heightx=35.67&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/475311.jpg?imageId=475311&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=17.52&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=webp" 
                 width="101"
                 height="88"
                 media="(max-width: 767px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475014.jpg?imageId=475014&panox=0.00&panoy=14.17&panow=100.00&panoh=71.67&heightx=35.67&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/475311.jpg?imageId=475311&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=17.52&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=jpg" 
                 width="101"
                 height="88"
                 media="(max-width: 767px)"
                 type="image/jpeg">    
-            <img src="https://image.forsvaretsforum.no/475014.jpg?imageId=475014&panox=0.00&panoy=14.17&panow=100.00&panoh=71.67&heightx=35.67&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=jpg"
+            <img src="https://image.forsvaretsforum.no/475311.jpg?imageId=475311&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=17.52&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=jpg"
                 width="101"
                 height="88"
-                title="Russisk eksdiplomat dømt for spionasje"
+                title="Video viser angivelig Oresjnik-missiler utplassert i Belarus"
                 alt="" 
                 loading="lazy"
                 style=""    
@@ -1948,7 +1948,7 @@ Nyheter
             <h2 itemprop="headline" 
     class="headline t30 tm20"
     style=""
-    >Russisk eksdiplomat dømt for spionasje
+    >Video viser angivelig Oresjnik-missiler utplassert i Belarus
 </h2>
 
         
@@ -1958,14 +1958,14 @@ Nyheter
 
         </a>
 
-        <time itemprop="datePublished" datetime="2025-12-29T09:40:11+01:00"></time>
+        <time itemprop="datePublished" datetime="2025-12-31T08:29:31+01:00"></time>
     </div>
 </article>
-<article data-element-guid="3eb58618-2d30-4457-91f3-86dc3809a859" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="forsvaretsforum" data-section="nyheter" data-instance="100131" itemscope>
+<article data-element-guid="3eb58618-2d30-4457-91f3-86dc3809a859" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="forsvaretsforum" data-section="reportasje" data-instance="100131" itemscope>
     
     <div class="content" style="">
         
-        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/kim-jong-un-kryssermissil-missil/testet-missiler-over-gulehavet/474988" data-k5a-url="https://www.forsvaretsforum.no/a/474988" rel="">
+        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/forum-aret-i-bilder/473658" data-k5a-url="https://www.forsvaretsforum.no/a/473658" rel="">
 
 
         <div class="media mobile-floatRight">
@@ -1974,30 +1974,30 @@ Nyheter
                 <figure data-element-guid="6b1106d0-f7de-42c9-d55d-a2e4e599a350" class="mobile-floatRight" >
     <div class="img fullwidthTarget">
         <picture>
-            <source srcset="https://image.forsvaretsforum.no/474995.jpg?imageId=474995&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=664&height=426&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/474126.jpg?imageId=474126&panox=0.00&panoy=0.00&panow=99.44&panoh=71.27&heightx=0.00&heighty=0.00&heightw=99.44&heighth=100.00&width=664&height=426&format=webp&format=webp" 
                 width="332"
                 height="213"
                 media="(min-width: 768px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/474995.jpg?imageId=474995&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=664&height=426&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/474126.jpg?imageId=474126&panox=0.00&panoy=0.00&panow=99.44&panoh=71.27&heightx=0.00&heighty=0.00&heightw=99.44&heighth=100.00&width=664&height=426&format=webp&format=jpg" 
                 width="332"
                 height="213"
                 media="(min-width: 768px)"
                 type="image/jpeg">    
-            <source srcset="https://image.forsvaretsforum.no/474995.jpg?imageId=474995&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=202&height=176&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/474126.jpg?imageId=474126&panox=0.00&panoy=0.00&panow=99.44&panoh=71.27&heightx=0.00&heighty=0.00&heightw=99.44&heighth=100.00&width=202&height=176&format=webp&format=webp" 
                 width="101"
                 height="88"
                 media="(max-width: 767px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/474995.jpg?imageId=474995&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=202&height=176&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/474126.jpg?imageId=474126&panox=0.00&panoy=0.00&panow=99.44&panoh=71.27&heightx=0.00&heighty=0.00&heightw=99.44&heighth=100.00&width=202&height=176&format=webp&format=jpg" 
                 width="101"
                 height="88"
                 media="(max-width: 767px)"
                 type="image/jpeg">    
-            <img src="https://image.forsvaretsforum.no/474995.jpg?imageId=474995&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=202&height=176&format=webp&format=jpg"
+            <img src="https://image.forsvaretsforum.no/474126.jpg?imageId=474126&panox=0.00&panoy=0.00&panow=99.44&panoh=71.27&heightx=0.00&heighty=0.00&heightw=99.44&heighth=100.00&width=202&height=176&format=webp&format=jpg"
                 width="101"
                 height="88"
-                title="Testet missiler over Gulehavet"
+                title="Forum-året i bilder"
                 alt="" 
                 loading="lazy"
                 style=""    
@@ -2029,7 +2029,7 @@ Nyheter
             <h2 itemprop="headline" 
     class="headline t30 tm20"
     style=""
-    >Testet missiler over Gulehavet
+    >Forum-året i bilder
 </h2>
 
         
@@ -2039,7 +2039,7 @@ Nyheter
 
         </a>
 
-        <time itemprop="datePublished" datetime="2025-12-29T08:42:34+01:00"></time>
+        <time itemprop="datePublished" datetime="2025-12-31T06:00:00+01:00"></time>
     </div>
 </article>
 </div>
@@ -2621,9 +2621,9 @@ Nyheter
 
                 </section>
             </main>
-            <div data-element-guid="6c2f47ce-a4e8-435b-971d-dd052f1d6c82" class="placeholder placement-left">
+            <div data-element-guid="c88390ba-9b3d-4748-e63f-27cf24f288d7" class="placeholder placement-left">
 
-<div class="column adnuntius-ad small-12 large-12 sticky display-label" style="top: 120px;" data-element-guid="eb9acfaa-58bc-49a8-9bc2-9a8ab4aee2a8">
+<div class="column adnuntius-ad small-12 large-12 sticky display-label" style="top: 120px;" data-element-guid="f1c82ed7-7587-4684-c4ee-594f0bcdbf80">
     <div id="adn-00000000000df8e1" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -2631,9 +2631,9 @@ Nyheter
 
 
 </div>
-            <div data-element-guid="1496bbc0-eed6-43ee-dda8-0f71304be49d" class="placeholder placement-right">
+            <div data-element-guid="e440c60b-af56-4cf6-f929-bf4edbb93273" class="placeholder placement-right">
 
-<div class="column adnuntius-ad small-12 large-12 sticky display-label" style="top: 120px;" data-element-guid="37ebc238-4d1b-40e1-a5ca-16ad4bb1e214">
+<div class="column adnuntius-ad small-12 large-12 sticky display-label" style="top: 120px;" data-element-guid="cb74fc82-3df1-479b-e3d3-622405f2cce5">
     <div id="adn-00000000000df8e0" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>

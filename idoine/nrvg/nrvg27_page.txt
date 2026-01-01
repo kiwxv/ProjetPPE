@@ -1,0 +1,235 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <title>Norges speiderforbund</title>
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+    <meta name="title" content="">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+
+    <meta property="og:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="">
+    <meta property="og:site_name" content="">
+    <meta property="og:type" content="">
+
+    <meta name="article:published_time" content="">
+    <meta name="article:modified_time" content="">
+    <meta name="article:tag" content="">
+
+    <meta name="twitter:card" content="">
+    <meta name="twitter:site" content="">
+    <meta name="twitter:creator" content="">
+
+    <meta property="fb:app_id" content="">
+
+    <style>
+      app {
+        z-index: -1;
+      }
+
+      #prerender {
+        z-index: 999;
+      }
+
+      .pre_header {
+        width: 100%;
+      }
+
+      .pre_header .topnav {
+        height: 40px;
+        background-color: #367f99;
+      }
+
+      .pre_header .main-menu-container {
+        height: 80px;
+        position: relative;
+      }
+
+      .pre_header .main-menu-container .logo {
+        height: 120px;
+        position: absolute;
+        bottom: -43px;
+      }
+
+      .pre_center {
+        display: block;
+        width: 100%;
+        height: 510px;
+      }
+
+      .pre_body {
+        height: 75%;
+        width: 100%;
+        display: block;
+      }
+
+      .page_loader {
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background-color: white;
+        background-image: url("/assets/images/ajax-loader.gif");
+        background-position: 50%;
+        background-repeat: no-repeat;
+        opacity: 0;
+        z-index: -9999;
+        transition: opacity 500ms ease;
+        -webkit-transition: opacity 500ms ease;
+      }
+
+      .page_loader.active {
+        opacity: 1;
+        z-index: 9999;
+        transition: opacity 500ms ease;
+        -webkit-transition: opacity 500ms ease;
+      }
+
+      .pre_body > .page_loader {
+        position: relative;
+        display: block;
+      }
+
+      .pre_body > .page_loader.active {
+        z-index: 9997;
+      }
+
+      .page_content {
+        opacity: 0;
+        transition: opacity 750ms ease;
+        -webkit-transition: opacity 750ms ease;
+      }
+
+      .page_content.active {
+        opacity: 1;
+        transition: opacity 750ms ease;
+        -webkit-transition: opacity 750ms ease;
+      }
+
+      .pre_footer {
+        height: 300px;
+        width: 100%;
+        position: fixed;
+        bottom: 0;
+        background: #33778f;
+        background-image: url("/assets/images/footer.png");
+      }
+    </style>
+
+    <!-- Google Tag Manager -->
+    <script>
+      if (
+        !(
+          navigator &&
+          navigator.userAgent &&
+          navigator.userAgent.includes("prerender")
+        )
+      ) {
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-TLPDXSL');
+      }
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Facebook Pixel Code -->
+    <script>
+      if (
+        !(
+          navigator &&
+          navigator.userAgent &&
+          navigator.userAgent.includes("prerender")
+        )
+      ) {
+        !(function (f, b, e, v, n, t, s) {
+          if (f.fbq) return;
+          n = f.fbq = function () {
+            n.callMethod
+              ? n.callMethod.apply(n, arguments)
+              : n.queue.push(arguments);
+          };
+          if (!f._fbq) f._fbq = n;
+          n.push = n;
+          n.loaded = !0;
+          n.version = "2.0";
+          n.queue = [];
+          t = b.createElement(e);
+          t.async = !0;
+          t.src = v;
+          s = b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t, s);
+        })(
+          window,
+          document,
+          "script",
+          "https://connect.facebook.net/en_US/fbevents.js"
+        );
+
+        fbq("init", "2549863025252970");
+        fbq("track", "PageView");
+      }
+    </script>
+    <!-- End Facebook Pixel Code -->
+  <style>@import"https://fonts.googleapis.com/css?family=Lato:300,400,700,900";:root{--swiper-theme-color:#007aff}:root{--swiper-navigation-size:44px}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}a{background-color:transparent}a:active,a:hover{outline:0}img{border:0}@media print{*,:after,:before{color:#000!important;text-shadow:none!important;background:0 0!important;box-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}a[href^="#"]:after{content:""}img{page-break-inside:avoid}img{max-width:100%!important}}*{box-sizing:border-box}:after,:before{box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:rgba(0,0,0,0)}body{font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}img{vertical-align:middle}html{font-size:16px}body{font-family:Lato,sans-serif;color:#333;line-height:20px;font-weight:400;position:relative}:root{--swiper-theme-color:#fff}*{-webkit-font-smoothing:antialiased}img{max-width:100%}@media print{.page_loader{display:none!important}*{font-size:medium}}@page{size:A4;margin:1.5cm}</style><link rel="stylesheet" href="styles.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.css"></noscript></head>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-TLPDXSL"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Facebook Pixel Code (noscript) -->
+    <noscript><img
+        height="1"
+        width="1"
+        style="display: none"
+        src="https://www.facebook.com/tr?id=2549863025252970&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code (noscript) -->
+    <app>
+      <div class="pre_header">
+        <div class="navbar-scroll w-nav" data-animation="over-right" data-collapse="medium" data-doc-height="1" data-duration="400">
+          <div class="topnav">
+            <div class="topnav-left">
+              <!-- topnav left menu -->
+            </div>
+            <div class="topnav-right">
+              <!-- topnav right menu -->
+            </div>
+          </div>
+          <div class="main-menu-container">
+            <a class="brand w-nav-brand" href="#">
+              <img class="logo" alt="Norges Speiderforbund" src="/assets/images/logo.png">
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="pre_body">
+        <div class="page_loader active"></div>
+      </div>
+      <div class="pre_footer">
+        <div class="footer-left">
+          <!-- footer left -->
+        </div>
+        <div class="footer-centre">
+          <!-- footer centre -->
+        </div>
+        <div class="footer-right">
+          <!-- footer right -->
+        </div>
+      </div>
+    </app>
+  <script src="runtime.js" type="module"></script><script src="polyfills.js" type="module"></script><script src="main.js" type="module"></script>
+
+</body></html>
