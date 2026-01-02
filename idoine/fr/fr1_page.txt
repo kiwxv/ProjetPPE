@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr" itemscope itemtype="http://schema.org/WebPage"> 
 <!-- infos siteWeb: Larousse[.fr/.com] -->
-<!-- hostName: [https://www.larousse.fr], machineName: [HLAZPLARWFO01], dateTime: [30/12/2025 20:06:31] -->
+<!-- hostName: [https://www.larousse.fr], machineName: [HLAZPLARWFO02], dateTime: [02/01/2026 18:09:00] -->
 <script>
     // Problème compatiblitiy [<head></head>] & [Modify by C#]
     dataLayer = [{'lang':"fr", 'page_type':"editorial", 'page_category':"langue francaise", 'page_subcategory':"dictionnaire de francais"}, { advertisement: {env: 'production', brand: {name: 'Larousse', abbr: 'lar', domain: 'larousse.fr', subDomain: 'www', isPrisma: false}, page: {path: '/', contentObjectId: '', pageType: "Article", pageCategory: "article-dictionnaires", pageSubCategory: "content", title: "", author: "", keywords: ""}} }];      // (DataLayer GTM: Default + Prisma)        
@@ -585,22 +585,22 @@
 
 <section class="article-quizz">
 		<div class="groupe-consigne-quizz">
-			<p class="consigne-quizz">Quand on mesure le degré d'humidité de l'air, on parle de&nbsp;:</p>
+			<p class="consigne-quizz">À quelle forme est employé le verbe dans la phrase&nbsp;: «&nbsp;Ce matin, il souffle un vent glacial&nbsp;»&nbsp;?</p>
 		</div>
 		<ul class="liste-choix-unique">
 			<li class="item-choix-unique">
-				<ul class="liste-options" data-reponse="1" id="question1">
+				<ul class="liste-options" data-reponse="3" id="question1">
 					<li class="item-options">
-					<input class="radiobutton" type="radio" name="question1"  value="1"  id="question-5974" />
-					<label class="radiobutton-label"  for="question-5974">l'hygrométrie</label>
+					<input class="radiobutton" type="radio" name="question1"  value="1"  id="question-5419" />
+					<label class="radiobutton-label"  for="question-5419">la forme passive</label>
 					</li>
 					<li class="item-options">
-					<input class="radiobutton" type="radio" name="question1"  value="2"  id="question-5975" />
-					<label class="radiobutton-label"  for="question-5975">l'hydrométrie</label>
+					<input class="radiobutton" type="radio" name="question1"  value="2"  id="question-5420" />
+					<label class="radiobutton-label"  for="question-5420">la forme exceptionnelle</label>
 					</li>
 					<li class="item-options">
-					<input class="radiobutton" type="radio" name="question1"  value="3"  id="question-5976" />
-					<label class="radiobutton-label"  for="question-5976">l'aquamétrie</label>
+					<input class="radiobutton" type="radio" name="question1"  value="3"  id="question-5421" />
+					<label class="radiobutton-label"  for="question-5421">la forme impersonnelle</label>
 					</li>
 				</ul></li>
 		</ul>

@@ -34,8 +34,8 @@
 	<link rel="canonical" href="https://kmspeider.no/speiderprogram/aktivitetsbanken/aktiviteter/tommerflate" />
 	<link rel="alternate" type="text/html" lang="no-NO" title="Tømmerflåte" hreflang="no-NO" href="https://kmspeider.no/speiderprogram/aktivitetsbanken/aktiviteter/tommerflate" />
 
-	<script src="https://kmspeider.no/corepublish/cplib-common/corepublish.js?appver=1798ac5f6b" nonce="5d394d0aee" async="async"></script>
-	<script nonce="5d394d0aee" data-ctnsh="90b692fbd5ee93bdc92d96b98f1a6928" id="cpstartupscript">
+	<script src="https://kmspeider.no/corepublish/cplib-common/corepublish.js?appver=1798ac5f6b" nonce="c20f9702b5" async="async"></script>
+	<script nonce="c20f9702b5" data-ctnsh="850e703d4cf21a174b8fbd9f65a294dd" id="cpstartupscript">
 	<!--
 	if (typeof window.corepublish === 'undefined') { window.corepublish = {}; } 
   window.corepublish.mode = 'cplib'; 
@@ -52,13 +52,13 @@
 	</script>
 	<script src="https://kmspeider.no/javascript/root.js?version=1ebaee37abb2151a336483884bbef8a0" defer></script>
 
-<script nonce="5d394d0aee">
+<script nonce="c20f9702b5">
 
 
 window.dataLayer = window.dataLayer || [];
 
 var f = document.getElementsByTagName('script')[0],j = document.createElement('script');
-j.async = true;j.setAttribute('nonce', '5d394d0aee');j.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-WX5HSG2';f.parentNode.insertBefore(j, f);
+j.async = true;j.setAttribute('nonce', 'c20f9702b5');j.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-WX5HSG2';f.parentNode.insertBefore(j, f);
 
 var hasCustomConfig = false;
 
@@ -196,7 +196,7 @@ function addToDataLayer(configData) {
                     <input type="hidden" name="categoryID" value="14" />
                     <input type="hidden" name="tileInstanceId" value="2448" />
                                                                     <div class="has-clear-input">
-                            <input autocomplete="off" placeholder="Hva kan vi hjelpe deg med?" title="Hva kan vi hjelpe deg med?" id="searchBar_element_0ff32a04_1" class="searchBar has-clear" type="text" name="q" value="" />
+                            <input autocomplete="off" placeholder="Hva kan vi hjelpe deg med?" title="Hva kan vi hjelpe deg med?" id="searchBar_element_c2b1efcf_1" class="searchBar has-clear" type="text" name="q" value="" />
                             <span class="clear-input d-none"></span>
                         </div>
                         <button type="submit" class="search">
@@ -216,7 +216,7 @@ function addToDataLayer(configData) {
     
             </div>
     <script>ctAddEventListener('corepublishInitLoaded',function() { setWord('mobilemenutile.back', 'Tilbake'); });</script>
-<div class="tile-common mobilemenu" data-toggleable='{"standalone":false}' data-linkUrl="https://kmspeider.no/" data-ajaxUrl="https://kmspeider.no/service.php?service=frontend.category.menu&amp;__anticsrftoken=cpxte8c38ab257929f6fbe6991186ad38020&amp;v=2">
+<div class="tile-common mobilemenu" data-toggleable='{"standalone":false}' data-linkUrl="https://kmspeider.no/" data-ajaxUrl="https://kmspeider.no/service.php?service=frontend.category.menu&amp;__anticsrftoken=cpxt0140f02d2a0d2919b81bce9f0e772a59&amp;v=2">
 
     <div class="toggle-link-wrapper">
         <a tabindex="0" role="button" href="#" class="content-toggler" >
@@ -1021,10 +1021,10 @@ function addToDataLayer(configData) {
 </div>
 
 
-<script nonce="5d394d0aee">window.cpstatInfo = '{"l":"no_NO","i":1,"h":"kmspeider.no","q":200,"n":"html","o":"6152032-6152041-658210-612433-6169991-64017-657528-680454"}';
+<script nonce="c20f9702b5">window.cpstatInfo = '{"l":"no_NO","i":1,"h":"kmspeider.no","q":200,"n":"html","o":"6152032-6152041-658210-612433-6169991-64017-657528-680454"}';
 window.cpstatDomain = "kmspeider."+"no";
 ctAddEventListener('corepublishInitLoaded',function() { cpRegisterStatistics(); } );
-</script><noscript><iframe id="ctstatistics-noscript-iframe" style="border:0;" height="60" width="300" src="https://kmspeider.no/regstat.php/2026-01-01/?l=no_NO&amp;i=1&amp;h=kmspeider.no&amp;q=200&amp;n=html&amp;o=6152032-6152041-658210-612433-6169991-64017-657528-680454&amp;m=1&amp;a=https%3A%2F%2Fkmspeider.no%2Fspeiderprogram%2Faktivitetsbanken%2Faktiviteter%2Ftommerflate"></iframe>
+</script><noscript><iframe id="ctstatistics-noscript-iframe" style="border:0;" height="60" width="300" src="https://kmspeider.no/regstat.php/2026-01-02/?l=no_NO&amp;i=1&amp;h=kmspeider.no&amp;q=200&amp;n=html&amp;o=6152032-6152041-658210-612433-6169991-64017-657528-680454&amp;m=1&amp;a=https%3A%2F%2Fkmspeider.no%2Fspeiderprogram%2Faktivitetsbanken%2Faktiviteter%2Ftommerflate"></iframe>
 </noscript>
 
 

@@ -870,9 +870,9 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
 
 
         <section id="mainArticleSection" class="main article">
-            <div data-element-guid="a7430499-00ad-4bcc-f7da-2ef1efb45b2d" class="placeholder placement-top">
+            <div data-element-guid="1689488a-e1e9-479c-a247-0b23add0a54c" class="placeholder placement-top">
 
-<div class="column adnuntius-ad small-12 large-12 display-label" style="" data-element-guid="353dca6b-6f73-493f-f2d3-8099727e58cd">
+<div class="column adnuntius-ad small-12 large-12 display-label" style="" data-element-guid="9b6100b1-c98a-49c5-cbc2-84a357c9ee4c">
     <div id="adn-00000000001c9af0" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -962,7 +962,7 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
     
 
 
-        <div data-element-guid="c9f97ca1-2cb7-4035-b57c-da5a2b3403e2" class="meta">
+        <div data-element-guid="78352746-45a9-43a7-cfdc-c6028b9bf033" class="meta">
     
 
     <div class="bylines">
@@ -1001,7 +1001,7 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
 
                         
 
-                        <div data-element-guid="c9f97ca1-2cb7-4035-b57c-da5a2b3403e2" class="bodytext large-12 small-12 medium-12 teaserContent">
+                        <div data-element-guid="78352746-45a9-43a7-cfdc-c6028b9bf033" class="bodytext large-12 small-12 medium-12 teaserContent">
     
     
 
@@ -1056,7 +1056,7 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
 
 
                         
-<div data-element-guid="c9f97ca1-2cb7-4035-b57c-da5a2b3403e2" class="column articleFooter">
+<div data-element-guid="78352746-45a9-43a7-cfdc-c6028b9bf033" class="column articleFooter">
     <span class="tags">
         <a href="/tag/fart%C3%B8ysdrift">fartøysdrift</a>
         <a href="/tag/vekststrategi">vekststrategi</a>
@@ -1082,8 +1082,8 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
                     
                 </article>
                 <section class="related desktop-fullWidth mobile-fullWidth fullwidthTarget">
-                <div data-element-guid="02460f89-48f4-4db7-bf69-71f50e89e98d" class="page-content"><div data-element-guid="d99e6fd3-f9a9-4811-ed05-6f353c6d5f2f" class="row small-12 large-12" style="">
-<div class="column adnuntius-ad small-12 large-12 display-label large-12 small-12" style="" data-element-guid="eb428b2b-31fa-4de4-f16a-fb04ee6bc39e">
+                <div data-element-guid="02460f89-48f4-4db7-bf69-71f50e89e98d" class="page-content"><div data-element-guid="21d2e40f-0ce6-4647-b94a-eec89b6b2738" class="row small-12 large-12" style="">
+<div class="column adnuntius-ad small-12 large-12 display-label large-12 small-12" style="" data-element-guid="bbf2395c-f0b7-4f0d-df79-7841c2e24c81">
     <div id="adn-00000000001c9ad7" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -1100,7 +1100,7 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
     
     <div class="content" style="">
         
-        <a itemprop="url" class="" href="https://www.skipsrevyen.no/arets-mest-leste-saker/2045496" data-k5a-url="https://www.skipsrevyen.no/a/2045496" rel="">
+        <a itemprop="url" class="" href="https://www.skipsrevyen.no/asle-stronen-ship-of-the-year/pangstart-for-prisen/2047055" data-k5a-url="https://www.skipsrevyen.no/a/2047055" rel="">
 
 
         <div class="media ">
@@ -1109,19 +1109,237 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
                 <figure data-element-guid="d11ae9ad-ebc9-4da2-cce3-24b22e99558c" class="" >
     <div class="img fullwidthTarget">
         <picture>
-            <source srcset="https://image.skipsrevyen.no/2045867.jpg?imageId=2045867&panox=0.00&panoy=0.00&panow=97.65&panoh=100.00&heightx=0.00&heighty=0.00&heightw=97.65&heighth=100.00&width=1058&height=478&format=jpg" 
+            <source srcset="https://image.skipsrevyen.no/2047105.jpg?imageId=2047105&panox=0.00&panoy=5.92&panow=100.00&panoh=84.87&heightx=49.20&heighty=0.00&heightw=34.76&heighth=100.00&width=1058&height=478&format=jpg" 
                 width="529"
                 height="239"
                 media="(min-width: 768px)"
                 type="image/jpeg">    
-            <source srcset="https://image.skipsrevyen.no/2045867.jpg?imageId=2045867&panox=0.00&panoy=0.00&panow=97.65&panoh=100.00&heightx=0.00&heighty=0.00&heightw=97.65&heighth=100.00&width=960&height=432&format=jpg" 
+            <source srcset="https://image.skipsrevyen.no/2047105.jpg?imageId=2047105&panox=0.00&panoy=5.92&panow=100.00&panoh=84.87&heightx=49.20&heighty=0.00&heightw=34.76&heighth=100.00&width=960&height=432&format=jpg" 
                 width="480"
                 height="216"
                 media="(max-width: 767px)"
                 type="image/jpeg">    
-            <img src="https://image.skipsrevyen.no/2045867.jpg?imageId=2045867&panox=0.00&panoy=0.00&panow=97.65&panoh=100.00&heightx=0.00&heighty=0.00&heightw=97.65&heighth=100.00&width=960&height=432&format=jpg"
+            <img src="https://image.skipsrevyen.no/2047105.jpg?imageId=2047105&panox=0.00&panoy=5.92&panow=100.00&panoh=84.87&heightx=49.20&heighty=0.00&heightw=34.76&heighth=100.00&width=960&height=432&format=jpg"
                 width="480"
                 height="216"
+                title="Pangstart for prisen"
+                alt="" 
+                loading="lazy"
+                style=""    
+                >
+        </picture>        
+            </div>
+    
+</figure>
+
+                
+                
+                
+                
+                
+                
+                
+            
+            <div class="floatingText">
+
+                <div class="labels">
+                </div>
+            </div>
+            
+
+        </div>
+
+
+        
+            <h2 itemprop="headline" 
+    class="headline "
+    style=""
+    >Pangstart for prisen
+</h2>
+
+        
+
+
+
+
+        </a>
+
+        <time itemprop="datePublished" datetime="2026-01-02T13:08:16+01:00"></time>
+    </div>
+</article>
+<article data-element-guid="69c1121f-7660-4ee5-dd1a-2da5672a8ac1" class="column paywall small-12 large-6 small-abs-12 large-abs-6 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101392" itemscope>
+    
+    <div class="content" style="">
+        
+        <a itemprop="url" class="" href="https://www.skipsrevyen.no/vi-ma-effektivisere-na-og-pilotere-for-i-morgen/2046997" data-k5a-url="https://www.skipsrevyen.no/a/2046997" rel="">
+
+
+        <div class="media ">
+                
+
+                <figure data-element-guid="5092bc86-e947-429a-a502-4d5b5d59434f" class="" >
+    <div class="img fullwidthTarget">
+        <picture>
+            <source srcset="https://image.skipsrevyen.no/2047002.jpg?imageId=2047002&panox=0.00&panoy=16.76&panow=100.00&panoh=69.73&heightx=38.76&heighty=0.00&heightw=42.38&heighth=100.00&width=1058&height=478&format=jpg" 
+                width="529"
+                height="239"
+                media="(min-width: 768px)"
+                type="image/jpeg">    
+            <source srcset="https://image.skipsrevyen.no/2047002.jpg?imageId=2047002&panox=0.00&panoy=16.76&panow=100.00&panoh=69.73&heightx=38.76&heighty=0.00&heightw=42.38&heighth=100.00&width=960&height=432&format=jpg" 
+                width="480"
+                height="216"
+                media="(max-width: 767px)"
+                type="image/jpeg">    
+            <img src="https://image.skipsrevyen.no/2047002.jpg?imageId=2047002&panox=0.00&panoy=16.76&panow=100.00&panoh=69.73&heightx=38.76&heighty=0.00&heightw=42.38&heighth=100.00&width=960&height=432&format=jpg"
+                width="480"
+                height="216"
+                title="– Vi må effektivisere nå og pilotere for i morgen"
+                alt="" 
+                loading="lazy"
+                style=""    
+                >
+        </picture>        
+            </div>
+    
+</figure>
+
+                
+                
+                
+                
+                
+                
+                
+            
+            <div class="floatingText">
+
+                <div class="labels">
+                </div>
+            </div>
+            
+<div class="paywallLabel  "><span class="fi-plus"></span> </div>
+
+        </div>
+
+<div class="paywallLabel  "><span class="fi-plus"></span> </div>
+
+        
+            <h2 itemprop="headline" 
+    class="headline "
+    style=""
+    >– Vi må effektivisere nå og pilotere for i morgen
+</h2>
+
+        
+
+
+
+
+        </a>
+
+        <time itemprop="datePublished" datetime="2026-01-02T11:58:36+01:00"></time>
+    </div>
+</article>
+</div>
+<div data-element-guid="e304d22d-16c1-417d-9ef5-58efedeb6eb1" class="row small-12 large-12" style=""><article data-element-guid="c375cbfe-da7e-4166-a385-894adb16c1d0" class="column paywall small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101390" itemscope>
+    
+    <div class="content" style="">
+        
+        <a itemprop="url" class="" href="https://www.skipsrevyen.no/lederintervju-siri-anne-mjatvedt-utkilen/du-vet-aldri-hva-et-menneske-kan-bringe-deg/2046816" data-k5a-url="https://www.skipsrevyen.no/a/2046816" rel="">
+
+
+        <div class="media ">
+                
+
+                <figure data-element-guid="a2a47b6e-6a63-427a-dc45-839c5936a617" class="" >
+    <div class="img fullwidthTarget">
+        <picture>
+            <source srcset="https://image.skipsrevyen.no/2046821.jpg?imageId=2046821&panox=0.00&panoy=57.22&panow=100.00&panoh=35.15&heightx=33.32&heighty=51.68&heightw=39.78&heighth=47.19&width=706&height=318&format=jpg" 
+                width="353"
+                height="159"
+                media="(min-width: 768px)"
+                type="image/jpeg">    
+            <source srcset="https://image.skipsrevyen.no/2046821.jpg?imageId=2046821&panox=0.00&panoy=57.22&panow=100.00&panoh=35.15&heightx=33.32&heighty=51.68&heightw=39.78&heighth=47.19&width=960&height=432&format=jpg" 
+                width="480"
+                height="216"
+                media="(max-width: 767px)"
+                type="image/jpeg">    
+            <img src="https://image.skipsrevyen.no/2046821.jpg?imageId=2046821&panox=0.00&panoy=57.22&panow=100.00&panoh=35.15&heightx=33.32&heighty=51.68&heightw=39.78&heighth=47.19&width=960&height=432&format=jpg"
+                width="480"
+                height="216"
+                title="– Du vet aldri hva et menneske kan bringe deg"
+                alt="" 
+                loading="lazy"
+                style=""    
+                >
+        </picture>        
+            </div>
+    
+</figure>
+
+                
+                
+                
+                
+                
+                
+                
+            
+            <div class="floatingText">
+
+                <div class="labels">
+                </div>
+            </div>
+            
+<div class="paywallLabel  "><span class="fi-plus"></span> </div>
+
+        </div>
+
+<div class="paywallLabel  "><span class="fi-plus"></span> </div>
+
+        
+            <h2 itemprop="headline" 
+    class="headline "
+    style=""
+    >– Du vet aldri hva et menneske kan bringe deg
+</h2>
+
+        
+
+
+
+
+        </a>
+
+        <time itemprop="datePublished" datetime="2026-01-02T07:59:21+01:00"></time>
+    </div>
+</article>
+<article data-element-guid="4523c506-d94a-48b8-f7f8-c6d769f6e769" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101396" itemscope>
+    
+    <div class="content" style="">
+        
+        <a itemprop="url" class="" href="https://www.skipsrevyen.no/arets-mest-leste-saker/2045496" data-k5a-url="https://www.skipsrevyen.no/a/2045496" rel="">
+
+
+        <div class="media ">
+                
+
+                <figure data-element-guid="f243a41c-6408-497c-9071-ecb33f969712" class="" >
+    <div class="img fullwidthTarget">
+        <picture>
+            <source srcset="https://image.skipsrevyen.no/2045867.jpg?imageId=2045867&panox=0.00&panoy=0.00&panow=97.65&panoh=100.00&heightx=0.00&heighty=0.00&heightw=97.65&heighth=100.00&width=698&height=316&format=jpg" 
+                width="349"
+                height="158"
+                media="(min-width: 768px)"
+                type="image/jpeg">    
+            <source srcset="https://image.skipsrevyen.no/2045867.jpg?imageId=2045867&panox=0.00&panoy=0.00&panow=97.65&panoh=100.00&heightx=0.00&heighty=0.00&heightw=97.65&heighth=100.00&width=948&height=430&format=jpg" 
+                width="474"
+                height="215"
+                media="(max-width: 767px)"
+                type="image/jpeg">    
+            <img src="https://image.skipsrevyen.no/2045867.jpg?imageId=2045867&panox=0.00&panoy=0.00&panow=97.65&panoh=100.00&heightx=0.00&heighty=0.00&heightw=97.65&heighth=100.00&width=948&height=430&format=jpg"
+                width="474"
+                height="215"
                 title="Årets mest leste saker"
                 alt="" 
                 loading="lazy"
@@ -1167,7 +1385,7 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
         <time itemprop="datePublished" datetime="2025-12-31T11:58:41+01:00"></time>
     </div>
 </article>
-<article data-element-guid="69c1121f-7660-4ee5-dd1a-2da5672a8ac1" class="column small-12 large-6 small-abs-12 large-abs-6 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101392" itemscope>
+<article data-element-guid="00556420-8134-4c17-ea78-8eaa66d78d81" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101398" itemscope>
     
     <div class="content" style="">
         
@@ -1177,12 +1395,12 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
         <div class="media ">
                 
 
-                <figure data-element-guid="5092bc86-e947-429a-a502-4d5b5d59434f" class="" >
+                <figure data-element-guid="c0242bd1-71dc-4c10-a930-972643250f3b" class="" >
     <div class="img fullwidthTarget">
         <picture>
-            <source srcset="https://image.skipsrevyen.no/2046346.jpg?imageId=2046346&panox=0.00&panoy=11.39&panow=100.00&panoh=71.67&heightx=42.68&heighty=0.00&heightw=41.43&heighth=100.00&width=1058&height=478&format=jpg" 
-                width="529"
-                height="239"
+            <source srcset="https://image.skipsrevyen.no/2046346.jpg?imageId=2046346&panox=0.00&panoy=11.39&panow=100.00&panoh=71.67&heightx=42.68&heighty=0.00&heightw=41.43&heighth=100.00&width=706&height=318&format=jpg" 
+                width="353"
+                height="159"
                 media="(min-width: 768px)"
                 type="image/jpeg">    
             <source srcset="https://image.skipsrevyen.no/2046346.jpg?imageId=2046346&panox=0.00&panoy=11.39&panow=100.00&panoh=71.67&heightx=42.68&heighty=0.00&heightw=41.43&heighth=100.00&width=960&height=432&format=jpg" 
@@ -1239,32 +1457,32 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
     </div>
 </article>
 </div>
-<div data-element-guid="e304d22d-16c1-417d-9ef5-58efedeb6eb1" class="row small-12 large-12" style=""><article data-element-guid="c375cbfe-da7e-4166-a385-894adb16c1d0" class="column paywall small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101390" itemscope>
+<div data-element-guid="77d750dc-5f6f-45f6-b7af-93c9a87f7cca" class="row small-12 large-12" style=""><article data-element-guid="50aab7d2-976c-4751-aa2f-96f7a7ca1865" class="column paywall small-12 large-6 small-abs-12 large-abs-6 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101432" data-image-float="floatNone" itemscope>
     
     <div class="content" style="">
         
         <a itemprop="url" class="" href="https://www.skipsrevyen.no/nedgangen-er-alvorlig-for-hele-klyngen/2045899" data-k5a-url="https://www.skipsrevyen.no/a/2045899" rel="">
 
 
-        <div class="media ">
+        <div class="media desktop-floatNone mobile-floatNone">
                 
 
-                <figure data-element-guid="a2a47b6e-6a63-427a-dc45-839c5936a617" class="" >
+                <figure data-element-guid="2a661a62-d0fc-486e-87ec-346c82c1042f" class="desktop-floatNone mobile-floatNone" >
     <div class="img fullwidthTarget">
         <picture>
-            <source srcset="https://image.skipsrevyen.no/1918048.jpg?imageId=1918048&panox=0.00&panoy=3.11&panow=100.00&panoh=66.84&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=706&height=318&format=jpg" 
-                width="353"
-                height="159"
+            <source srcset="https://image.skipsrevyen.no/1918048.jpg?imageId=1918048&panox=0.00&panoy=3.11&panow=100.00&panoh=66.84&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=1046&height=474&format=jpg" 
+                width="523"
+                height="237"
                 media="(min-width: 768px)"
                 type="image/jpeg">    
-            <source srcset="https://image.skipsrevyen.no/1918048.jpg?imageId=1918048&panox=0.00&panoy=3.11&panow=100.00&panoh=66.84&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=jpg" 
-                width="480"
-                height="216"
+            <source srcset="https://image.skipsrevyen.no/1918048.jpg?imageId=1918048&panox=0.00&panoy=3.11&panow=100.00&panoh=66.84&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=948&height=430&format=jpg" 
+                width="474"
+                height="215"
                 media="(max-width: 767px)"
                 type="image/jpeg">    
-            <img src="https://image.skipsrevyen.no/1918048.jpg?imageId=1918048&panox=0.00&panoy=3.11&panow=100.00&panoh=66.84&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=jpg"
-                width="480"
-                height="216"
+            <img src="https://image.skipsrevyen.no/1918048.jpg?imageId=1918048&panox=0.00&panoy=3.11&panow=100.00&panoh=66.84&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=948&height=430&format=jpg"
+                width="474"
+                height="215"
                 title="– Nedgangen er alvorlig for hele klyngen"
                 alt="" 
                 loading="lazy"
@@ -1289,11 +1507,11 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
                 </div>
             </div>
             
-<div class="paywallLabel  "><span class="fi-plus"></span> </div>
+<div class="paywallLabel  floatNone"><span class="fi-plus"></span> </div>
 
         </div>
 
-<div class="paywallLabel  "><span class="fi-plus"></span> </div>
+<div class="paywallLabel  floatNone"><span class="fi-plus"></span> </div>
 
         
             <h2 itemprop="headline" 
@@ -1312,7 +1530,7 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
         <time itemprop="datePublished" datetime="2025-12-30T11:28:46+01:00"></time>
     </div>
 </article>
-<article data-element-guid="4523c506-d94a-48b8-f7f8-c6d769f6e769" class="column paywall small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101396" itemscope>
+<article data-element-guid="b03b2631-3b30-4e03-a2c0-77caaa2c88cb" class="column paywall small-12 large-6 small-abs-12 large-abs-6 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101402" itemscope>
     
     <div class="content" style="">
         
@@ -1322,22 +1540,22 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
         <div class="media ">
                 
 
-                <figure data-element-guid="f243a41c-6408-497c-9071-ecb33f969712" class="" >
+                <figure data-element-guid="9c9e675d-28c7-4fe9-fe0c-8f5dd9f10506" class="" >
     <div class="img fullwidthTarget">
         <picture>
-            <source srcset="https://image.skipsrevyen.no/2037628.jpg?imageId=2037628&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=698&height=316&format=jpg" 
-                width="349"
-                height="158"
+            <source srcset="https://image.skipsrevyen.no/2037628.jpg?imageId=2037628&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=1058&height=478&format=jpg" 
+                width="529"
+                height="239"
                 media="(min-width: 768px)"
                 type="image/jpeg">    
-            <source srcset="https://image.skipsrevyen.no/2037628.jpg?imageId=2037628&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=948&height=430&format=jpg" 
-                width="474"
-                height="215"
+            <source srcset="https://image.skipsrevyen.no/2037628.jpg?imageId=2037628&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=jpg" 
+                width="480"
+                height="216"
                 media="(max-width: 767px)"
                 type="image/jpeg">    
-            <img src="https://image.skipsrevyen.no/2037628.jpg?imageId=2037628&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=948&height=430&format=jpg"
-                width="474"
-                height="215"
+            <img src="https://image.skipsrevyen.no/2037628.jpg?imageId=2037628&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=jpg"
+                width="480"
+                height="216"
                 title="På vei til Norge"
                 alt="" 
                 loading="lazy"
@@ -1385,7 +1603,8 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
         <time itemprop="datePublished" datetime="2025-12-30T08:06:55+01:00"></time>
     </div>
 </article>
-<article data-element-guid="00556420-8134-4c17-ea78-8eaa66d78d81" class="column paywall small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101398" itemscope>
+</div>
+<div data-element-guid="8feac992-c065-4deb-dbe3-c985d214339c" class="row small-12 large-12" style=""><article data-element-guid="b1103f06-dae6-4a2f-d008-c84aa766d5bf" class="column paywall small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101400" itemscope>
     
     <div class="content" style="">
         
@@ -1395,7 +1614,7 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
         <div class="media ">
                 
 
-                <figure data-element-guid="c0242bd1-71dc-4c10-a930-972643250f3b" class="" >
+                <figure data-element-guid="b1b4c751-6ecd-4294-9931-364164819b70" class="" >
     <div class="img fullwidthTarget">
         <picture>
             <source srcset="https://image.skipsrevyen.no/2045424.jpg?imageId=2045424&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=706&height=318&format=jpg" 
@@ -1458,33 +1677,32 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
         <time itemprop="datePublished" datetime="2025-12-29T12:03:38+01:00"></time>
     </div>
 </article>
-</div>
-<div data-element-guid="77d750dc-5f6f-45f6-b7af-93c9a87f7cca" class="row small-12 large-12" style=""><article data-element-guid="50aab7d2-976c-4751-aa2f-96f7a7ca1865" class="column paywall small-12 large-6 small-abs-12 large-abs-6 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101432" data-image-float="floatNone" itemscope>
+<article data-element-guid="0b52e234-fb26-4a4e-8eb5-05979ee59157" class="column paywall small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101420" itemscope>
     
     <div class="content" style="">
         
         <a itemprop="url" class="" href="https://www.skipsrevyen.no/internasjonalt-samarbeid-maritim-naering-norge/hun-vil-samle-naeringen-rundt-samme-bord/2043716" data-k5a-url="https://www.skipsrevyen.no/a/2043716" rel="">
 
 
-        <div class="media desktop-floatNone mobile-floatNone">
+        <div class="media ">
                 
 
-                <figure data-element-guid="2a661a62-d0fc-486e-87ec-346c82c1042f" class="desktop-floatNone mobile-floatNone" >
+                <figure data-element-guid="f53539f2-6f7e-45ef-90fd-07a1d6b7f2c2" class="" >
     <div class="img fullwidthTarget">
         <picture>
-            <source srcset="https://image.skipsrevyen.no/2043889.jpg?imageId=2043889&panox=0.00&panoy=40.69&panow=100.00&panoh=35.83&heightx=17.62&heighty=0.00&heightw=82.38&heighth=100.00&width=1046&height=474&format=jpg" 
-                width="523"
-                height="237"
+            <source srcset="https://image.skipsrevyen.no/2043889.jpg?imageId=2043889&panox=0.00&panoy=40.69&panow=100.00&panoh=35.83&heightx=17.62&heighty=0.00&heightw=82.38&heighth=100.00&width=706&height=318&format=jpg" 
+                width="353"
+                height="159"
                 media="(min-width: 768px)"
                 type="image/jpeg">    
-            <source srcset="https://image.skipsrevyen.no/2043889.jpg?imageId=2043889&panox=0.00&panoy=40.69&panow=100.00&panoh=35.83&heightx=17.62&heighty=0.00&heightw=82.38&heighth=100.00&width=948&height=430&format=jpg" 
-                width="474"
-                height="215"
+            <source srcset="https://image.skipsrevyen.no/2043889.jpg?imageId=2043889&panox=0.00&panoy=40.69&panow=100.00&panoh=35.83&heightx=17.62&heighty=0.00&heightw=82.38&heighth=100.00&width=960&height=432&format=jpg" 
+                width="480"
+                height="216"
                 media="(max-width: 767px)"
                 type="image/jpeg">    
-            <img src="https://image.skipsrevyen.no/2043889.jpg?imageId=2043889&panox=0.00&panoy=40.69&panow=100.00&panoh=35.83&heightx=17.62&heighty=0.00&heightw=82.38&heighth=100.00&width=948&height=430&format=jpg"
-                width="474"
-                height="215"
+            <img src="https://image.skipsrevyen.no/2043889.jpg?imageId=2043889&panox=0.00&panoy=40.69&panow=100.00&panoh=35.83&heightx=17.62&heighty=0.00&heightw=82.38&heighth=100.00&width=960&height=432&format=jpg"
+                width="480"
+                height="216"
                 title="Hun vil samle næringen rundt samme bord"
                 alt="" 
                 loading="lazy"
@@ -1509,11 +1727,11 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
                 </div>
             </div>
             
-<div class="paywallLabel  floatNone"><span class="fi-plus"></span> </div>
+<div class="paywallLabel  "><span class="fi-plus"></span> </div>
 
         </div>
 
-<div class="paywallLabel  floatNone"><span class="fi-plus"></span> </div>
+<div class="paywallLabel  "><span class="fi-plus"></span> </div>
 
         
             <h2 itemprop="headline" 
@@ -1532,7 +1750,7 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
         <time itemprop="datePublished" datetime="2025-12-29T08:00:42+01:00"></time>
     </div>
 </article>
-<article data-element-guid="b03b2631-3b30-4e03-a2c0-77caaa2c88cb" class="column small-12 large-6 small-abs-12 large-abs-6 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101402" itemscope>
+<article data-element-guid="7094b2a9-d0fb-40c0-fb4c-d8b81b0de3f1" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101406" itemscope>
     
     <div class="content" style="">
         
@@ -1542,12 +1760,12 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
         <div class="media ">
                 
 
-                <figure data-element-guid="9c9e675d-28c7-4fe9-fe0c-8f5dd9f10506" class="" >
+                <figure data-element-guid="a19b615a-dd8d-4692-9141-5369a4085334" class="" >
     <div class="img fullwidthTarget">
         <picture>
-            <source srcset="https://image.skipsrevyen.no/2044664.jpg?imageId=2044664&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=1058&height=478&format=jpg" 
-                width="529"
-                height="239"
+            <source srcset="https://image.skipsrevyen.no/2044664.jpg?imageId=2044664&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=706&height=318&format=jpg" 
+                width="353"
+                height="159"
                 media="(min-width: 768px)"
                 type="image/jpeg">    
             <source srcset="https://image.skipsrevyen.no/2044664.jpg?imageId=2044664&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=jpg" 
@@ -1604,7 +1822,7 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
     </div>
 </article>
 </div>
-<div data-element-guid="8feac992-c065-4deb-dbe3-c985d214339c" class="row small-12 large-12" style=""><article data-element-guid="b1103f06-dae6-4a2f-d008-c84aa766d5bf" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101400" itemscope>
+<div data-element-guid="18a0e035-2c90-410a-e4a1-33684f234074" class="row small-12 large-12" style=""><article data-element-guid="e874a7c5-bde1-413e-f692-f598e872db2f" class="column small-12 large-6 small-abs-12 large-abs-6 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101408" itemscope>
     
     <div class="content" style="">
         
@@ -1614,12 +1832,12 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
         <div class="media ">
                 
 
-                <figure data-element-guid="b1b4c751-6ecd-4294-9931-364164819b70" class="" >
+                <figure data-element-guid="100a4ee0-fdb5-4ac8-e8a8-f854deca8edd" class="" >
     <div class="img fullwidthTarget">
         <picture>
-            <source srcset="https://image.skipsrevyen.no/2044107.jpg?imageId=2044107&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=24.66&heighty=0.00&heightw=35.24&heighth=100.00&width=706&height=318&format=jpg" 
-                width="353"
-                height="159"
+            <source srcset="https://image.skipsrevyen.no/2044107.jpg?imageId=2044107&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=24.66&heighty=0.00&heightw=35.24&heighth=100.00&width=1058&height=478&format=jpg" 
+                width="529"
+                height="239"
                 media="(min-width: 768px)"
                 type="image/jpeg">    
             <source srcset="https://image.skipsrevyen.no/2044107.jpg?imageId=2044107&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=24.66&heighty=0.00&heightw=35.24&heighth=100.00&width=960&height=432&format=jpg" 
@@ -1675,7 +1893,7 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
         <time itemprop="datePublished" datetime="2025-12-24T08:01:27+01:00"></time>
     </div>
 </article>
-<article data-element-guid="0b52e234-fb26-4a4e-8eb5-05979ee59157" class="column paywall small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101420" itemscope>
+<article data-element-guid="f5ee2f21-07e0-4c37-fa96-ffe4c702e50c" class="column paywall small-12 large-6 small-abs-12 large-abs-6 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101410" itemscope>
     
     <div class="content" style="">
         
@@ -1685,12 +1903,12 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
         <div class="media ">
                 
 
-                <figure data-element-guid="f53539f2-6f7e-45ef-90fd-07a1d6b7f2c2" class="" >
+                <figure data-element-guid="0c7b8045-3864-45f5-924a-f7576d99484c" class="" >
     <div class="img fullwidthTarget">
         <picture>
-            <source srcset="https://image.skipsrevyen.no/2043722.jpg?imageId=2043722&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=706&height=318&format=jpg" 
-                width="353"
-                height="159"
+            <source srcset="https://image.skipsrevyen.no/2043722.jpg?imageId=2043722&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=1058&height=478&format=jpg" 
+                width="529"
+                height="239"
                 media="(min-width: 768px)"
                 type="image/jpeg">    
             <source srcset="https://image.skipsrevyen.no/2043722.jpg?imageId=2043722&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=jpg" 
@@ -1748,222 +1966,6 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
         <time itemprop="datePublished" datetime="2025-12-23T11:59:45+01:00"></time>
     </div>
 </article>
-<article data-element-guid="7094b2a9-d0fb-40c0-fb4c-d8b81b0de3f1" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101406" itemscope>
-    
-    <div class="content" style="">
-        
-        <a itemprop="url" class="" href="https://www.skipsrevyen.no/elektrifisering-frydenbo-elmarin-geirangerfjorden/sikrer-sin-forste-batterikontrakt/2041825" data-k5a-url="https://www.skipsrevyen.no/a/2041825" rel="">
-
-
-        <div class="media ">
-                
-
-                <figure data-element-guid="a19b615a-dd8d-4692-9141-5369a4085334" class="" >
-    <div class="img fullwidthTarget">
-        <picture>
-            <source srcset="https://image.skipsrevyen.no/2041850.jpg?imageId=2041850&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=706&height=318&format=jpg" 
-                width="353"
-                height="159"
-                media="(min-width: 768px)"
-                type="image/jpeg">    
-            <source srcset="https://image.skipsrevyen.no/2041850.jpg?imageId=2041850&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=jpg" 
-                width="480"
-                height="216"
-                media="(max-width: 767px)"
-                type="image/jpeg">    
-            <img src="https://image.skipsrevyen.no/2041850.jpg?imageId=2041850&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=jpg"
-                width="480"
-                height="216"
-                title="Sikrer sin første batterikontrakt"
-                alt="" 
-                loading="lazy"
-                style=""    
-                >
-        </picture>        
-            </div>
-    
-</figure>
-
-                
-                
-                
-                
-                
-                
-                
-            
-            <div class="floatingText">
-
-                <div class="labels">
-                </div>
-            </div>
-            
-
-        </div>
-
-
-        
-            <h2 itemprop="headline" 
-    class="headline "
-    style=""
-    >Sikrer sin første batterikontrakt
-</h2>
-
-        
-
-
-
-
-        </a>
-
-        <time itemprop="datePublished" datetime="2025-12-23T09:37:16+01:00"></time>
-    </div>
-</article>
-</div>
-<div data-element-guid="18a0e035-2c90-410a-e4a1-33684f234074" class="row small-12 large-12" style=""><article data-element-guid="e874a7c5-bde1-413e-f692-f598e872db2f" class="column paywall small-12 large-6 small-abs-12 large-abs-6 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101408" itemscope>
-    
-    <div class="content" style="">
-        
-        <a itemprop="url" class="" href="https://www.skipsrevyen.no/gangveioperasjoner-havvind-iws-fleet/satser-pa-simulatortrening-for-kritiske-gangveioperasjoner/2041624" data-k5a-url="https://www.skipsrevyen.no/a/2041624" rel="">
-
-
-        <div class="media ">
-                
-
-                <figure data-element-guid="100a4ee0-fdb5-4ac8-e8a8-f854deca8edd" class="" >
-    <div class="img fullwidthTarget">
-        <picture>
-            <source srcset="https://image.skipsrevyen.no/2041891.jpg?imageId=2041891&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=37.26&heighty=0.00&heightw=41.43&heighth=100.00&width=1058&height=478&format=jpg" 
-                width="529"
-                height="239"
-                media="(min-width: 768px)"
-                type="image/jpeg">    
-            <source srcset="https://image.skipsrevyen.no/2041891.jpg?imageId=2041891&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=37.26&heighty=0.00&heightw=41.43&heighth=100.00&width=960&height=432&format=jpg" 
-                width="480"
-                height="216"
-                media="(max-width: 767px)"
-                type="image/jpeg">    
-            <img src="https://image.skipsrevyen.no/2041891.jpg?imageId=2041891&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=37.26&heighty=0.00&heightw=41.43&heighth=100.00&width=960&height=432&format=jpg"
-                width="480"
-                height="216"
-                title="Satser på simulatortrening for kritiske gangveioperasjoner"
-                alt="" 
-                loading="lazy"
-                style=""    
-                >
-        </picture>        
-            </div>
-    
-</figure>
-
-                
-                
-                
-                
-                
-                
-                
-            
-            <div class="floatingText">
-
-                <div class="labels">
-                </div>
-            </div>
-            
-<div class="paywallLabel  "><span class="fi-plus"></span> </div>
-
-        </div>
-
-<div class="paywallLabel  "><span class="fi-plus"></span> </div>
-
-        
-            <h2 itemprop="headline" 
-    class="headline "
-    style=""
-    >Satser på simulatortrening for kritiske gangveioperasjoner
-</h2>
-
-        
-
-
-
-
-        </a>
-
-        <time itemprop="datePublished" datetime="2025-12-23T07:59:53+01:00"></time>
-    </div>
-</article>
-<article data-element-guid="f5ee2f21-07e0-4c37-fa96-ffe4c702e50c" class="column small-12 large-6 small-abs-12 large-abs-6 " data-site-alias="osm_skipsrevyen" data-section="nyheter" data-instance="101410" itemscope>
-    
-    <div class="content" style="">
-        
-        <a itemprop="url" class="" href="https://www.skipsrevyen.no/ammoniakkbunkring-azane-infrastructure-as-enova/far-442-millioner-i-stotte-til-ammoniakkterminaler/2040767" data-k5a-url="https://www.skipsrevyen.no/a/2040767" rel="">
-
-
-        <div class="media ">
-                
-
-                <figure data-element-guid="0c7b8045-3864-45f5-924a-f7576d99484c" class="" >
-    <div class="img fullwidthTarget">
-        <picture>
-            <source srcset="https://image.skipsrevyen.no/2040792.jpg?imageId=2040792&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=1058&height=478&format=jpg" 
-                width="529"
-                height="239"
-                media="(min-width: 768px)"
-                type="image/jpeg">    
-            <source srcset="https://image.skipsrevyen.no/2040792.jpg?imageId=2040792&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=jpg" 
-                width="480"
-                height="216"
-                media="(max-width: 767px)"
-                type="image/jpeg">    
-            <img src="https://image.skipsrevyen.no/2040792.jpg?imageId=2040792&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=jpg"
-                width="480"
-                height="216"
-                title="Får 442 millioner i støtte til ammoniakkterminaler"
-                alt="" 
-                loading="lazy"
-                style=""    
-                >
-        </picture>        
-            </div>
-    
-</figure>
-
-                
-                
-                
-                
-                
-                
-                
-            
-            <div class="floatingText">
-
-                <div class="labels">
-                </div>
-            </div>
-            
-
-        </div>
-
-
-        
-            <h2 itemprop="headline" 
-    class="headline "
-    style=""
-    >Får 442 millioner i støtte til ammoniakkterminaler
-</h2>
-
-        
-
-
-
-
-        </a>
-
-        <time itemprop="datePublished" datetime="2025-12-22T13:50:38+01:00"></time>
-    </div>
-</article>
 </div>
 
     </div>
@@ -1974,9 +1976,9 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
 
                 </section>
             </main>
-            <div data-element-guid="28bfc492-1fe7-493c-daae-69c966870b20" class="placeholder placement-left">
+            <div data-element-guid="0627d332-6583-4a4c-f3cd-a1626ece0acc" class="placeholder placement-left">
 
-<div class="column adnuntius-ad small-12 large-12 sticky display-label" style="top: 120px;" data-element-guid="174bab54-21b8-4a3c-d9b2-cd09e1cf317d">
+<div class="column adnuntius-ad small-12 large-12 sticky display-label" style="top: 120px;" data-element-guid="f78b64a9-7eba-40df-f3e2-9c60a3304297">
     <div id="adn-000000000039beee" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -1984,9 +1986,9 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
 
 
 </div>
-            <div data-element-guid="0f70462e-4039-4eb1-9f86-93b8123ba9fc" class="placeholder placement-right">
+            <div data-element-guid="1f01e34d-f25f-464c-c588-fe735d27d83d" class="placeholder placement-right">
 
-<div class="column adnuntius-ad small-12 large-12 sticky" style="top: 120px;" data-element-guid="b46344bd-b8f8-4c30-d906-6d1ec07c3b31">
+<div class="column adnuntius-ad small-12 large-12 sticky" style="top: 120px;" data-element-guid="4b68a24f-41a8-496f-daa4-6993231c0201">
     <div id="adn-00000000001d96b0" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>

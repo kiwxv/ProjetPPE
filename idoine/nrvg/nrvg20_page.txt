@@ -38,7 +38,7 @@
 <meta name="description" content="Seilspesialisten best på seilutstyr, båtutstyr og sikkerhetsutstyr">
 
 
-            <meta name="csrf-token" content="4_C8CEv87TbMA2ctnKWiszZxbshZlsH3rwdaTEyGlh" />
+            <meta name="csrf-token" content="4_DJdBEANHRZP4lVHVxI0BzAOD30rBwhYkYS2RFJk3" />
     
 
 <base href="//www.seilspesialisten.no">
@@ -103,7 +103,7 @@
     <script type="text/javascript">
     
         
-        gtag('event', 'view_item_list', {"items":[{"item_id":"383","item_name":"Redningsfl\u00e5te ISO 9650-1 ...","quantity":0,"category":"Category","list_name":"Category","list_position":1}]})
+        
     
 </script>
 
@@ -220,7 +220,7 @@
 
   	
     
-              <link rel="stylesheet" href="users/seilspesialisten_mystore_no/templates/custom_stylesheet.css?v=1767277015">
+              <link rel="stylesheet" href="users/seilspesialisten_mystore_no/templates/custom_stylesheet.css?v=1767371252">
     	  <style type="text/css">
     .klarna-widget { height: 90px !important;}
     .sidebar .box-leftbar > h3 {
@@ -2220,7 +2220,7 @@ function getCookie(cname) {
          }
        });
 	</script>
-			<script src="/templates/newyork/js/newyork.generic.js?v=1767277015"></script>
+			<script src="/templates/newyork/js/newyork.generic.js?v=1767371252"></script>
 				
 	<script>
       $(document).ready(function preventSearchWithNoInput () {

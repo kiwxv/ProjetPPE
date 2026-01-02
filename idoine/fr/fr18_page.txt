@@ -47,7 +47,7 @@
 				var mi_version = '9.11.0';
 				var mi_track_user = true;
 				var mi_no_track_reason = '';
-								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/www.channelnews.fr\/bien-piloter-sa-flotte-mobile-un-projet-qui-ne-simprovise-pas-153283\/","page_referrer":"https:\/\/www.channelnews.fr\/?p=153283"};
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/www.channelnews.fr\/bien-piloter-sa-flotte-mobile-un-projet-qui-ne-simprovise-pas-153283\/"};
 								if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
 					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
 				} else {
@@ -1469,7 +1469,7 @@ oneSignal_options['promptOptions']['autoAcceptTitle'] = "Cliquez sur Autoriser";
 </script>
 <script type="text/javascript" id="smu-js-extra">
 /* <![CDATA[ */
-var smu = {"ajax_url":"https:\/\/www.channelnews.fr\/wp-admin\/admin-ajax.php?action=smu&_wpnonce=7af4756e89"};
+var smu = {"ajax_url":"https:\/\/www.channelnews.fr\/wp-admin\/admin-ajax.php?action=smu&_wpnonce=2cb23802c1"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://www.channelnews.fr/wp-content/plugins/sign-me-up/assets/js/magic.js?ver=1.0" id="smu-js"></script>
@@ -1535,4 +1535,4 @@ jQuery( document ).ready( function($) {
 	</body>
 </html>
 
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1767093558 -->
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1767361079 -->

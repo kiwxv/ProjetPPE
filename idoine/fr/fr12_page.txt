@@ -1127,7 +1127,7 @@
     <div class="o-aside-content__row m-section-title m-section-title--no-border">
                                     <div class="m-section-title__content">
                 <span class="a-section-color"></span>
-                <p role="heading" aria-level="2">L’essentiel du 30 décembre</p>
+                <p role="heading" aria-level="2">L’essentiel du 2 janvier</p>
             </div>
         </div>
                 
@@ -1135,8 +1135,8 @@
                                     
             
             <li class="o-daily-news__item">
-                <a class="a-daily-news-link" href="/fr/moyen-orient/20251230-yemen-coalition-arabie-saoudite-vise-armements-venus-des-emirats-stc" title="Yémen : après un ultimatum de l&#039;Arabie saoudite, les Émirats annoncent le retrait de leurs forces">
-                    <h2 class="a-daily-news-link__title" aria-level="3">Yémen : après un ultimatum de l&#039;Arabie saoudite, les Émirats annoncent le retrait de leurs forces</h2>
+                <a class="a-daily-news-link" href="/fr/asie-pacifique/20260102-si-iran-tue-manifestants-etats-unis-viendront-secours-assure-donald-trump" title="Manifestations en Iran : Trump menace d&#039;intervenir, Téhéran le met en garde">
+                    <h2 class="a-daily-news-link__title" aria-level="3">Manifestations en Iran : Trump menace d&#039;intervenir, Téhéran le met en garde</h2>
                 </a>
 
                 
@@ -1148,7 +1148,7 @@
         
                                 <div class="a-tag-section">
                 <span class="a-section-color"></span>
-                                    Moyen-Orient
+                                    Asie-Pacifique
                             </div>
             </div>
         
@@ -1158,32 +1158,8 @@
                                     
             
             <li class="o-daily-news__item">
-                <a class="a-daily-news-link" href="/fr/info-en-continu/20251230-eurostar-invite-les-passagers-%C3%A0-reporter-leur-voyage-en-raison-d-une-perturbation-majeure" title="Eurostar : le retour à la normale attendu &quot;dans la nuit&quot; après un problème technique">
-                    <h2 class="a-daily-news-link__title" aria-level="3">Eurostar : le retour à la normale attendu &quot;dans la nuit&quot; après un problème technique</h2>
-                </a>
-
-                
-                        
-    
-    <div class="m-content-typology">
-                    
-    <div class="m-master-tag">
-        
-                                <div class="a-tag-section">
-                <span class="a-section-color"></span>
-                                    Europe
-                            </div>
-            </div>
-        
-        
-                    <span class="a-content-icon a-content-icon--dark"><i class="a-svg a-svg--icon-play"></i></span>
-            </div>
-            </li>
-                                    
-            
-            <li class="o-daily-news__item">
-                <a class="a-daily-news-link" href="/fr/europe/20251230-en-direct-trump-critique-l-attaque-ukrainienne-pr%C3%A9sum%C3%A9e-contre-une-r%C3%A9sidence-de-poutine-ukraine-russie-guerre-zelensky-dementi-mensonge-attaques" title="En direct : la Russie frappe les ports de la mer Noire et endommage deux navires civils, selon Kiev">
-                    <h2 class="a-daily-news-link__title" aria-level="3">En direct : la Russie frappe les ports de la mer Noire et endommage deux navires civils, selon Kiev</h2>
+                <a class="a-daily-news-link" href="/fr/europe/20260102-en-direct-ukraine-assure-frapper-uniquement-cibles-militaires-russes" title="En direct : Zelensky choisit le chef du renseignement militaire pour diriger son cabinet">
+                    <h2 class="a-daily-news-link__title" aria-level="3">En direct : Zelensky choisit le chef du renseignement militaire pour diriger son cabinet</h2>
                 </a>
 
                 
@@ -1205,8 +1181,8 @@
                                     
             
             <li class="o-daily-news__item">
-                <a class="a-daily-news-link" href="/fr/afrique/20251230-crise-france-algerie-2025-sansal-oqtf-sahara" title="Crise diplomatique France-Algérie : en 2025, une bascule irrémédiable ?">
-                    <h2 class="a-daily-news-link__title" aria-level="3">Crise diplomatique France-Algérie : en 2025, une bascule irrémédiable ?</h2>
+                <a class="a-daily-news-link" href="/fr/france/20260102-municipales-2026-consequences-nationales-elections" title="Municipales 2026 : le test décisif avant la présidentielle 2027">
+                    <h2 class="a-daily-news-link__title" aria-level="3">Municipales 2026 : le test décisif avant la présidentielle 2027</h2>
                 </a>
 
                 
@@ -1218,7 +1194,7 @@
         
                                 <div class="a-tag-section">
                 <span class="a-section-color"></span>
-                                    Afrique
+                                    France
                             </div>
             </div>
         
@@ -1228,8 +1204,31 @@
                                     
             
             <li class="o-daily-news__item">
-                <a class="a-daily-news-link" href="/fr/sports/20251230-can-2025-tanzanie-tunisie-direct-qualification" title="Tanzanie - Tunisie : un nul qui arrange tout le monde">
-                    <h2 class="a-daily-news-link__title" aria-level="3">Tanzanie - Tunisie : un nul qui arrange tout le monde</h2>
+                <a class="a-daily-news-link" href="/fr/europe/20260102-en-direct-suivez-conference-presse-lendemain-incendie-suisse-crans-montana" title="Quarante morts, 119 blessés, bougies au cœur de l&#039;enquête : le point sur l&#039;incendie de Crans-Montana">
+                    <h2 class="a-daily-news-link__title" aria-level="3">Quarante morts, 119 blessés, bougies au cœur de l&#039;enquête : le point sur l&#039;incendie de Crans-Montana</h2>
+                </a>
+
+                
+                        
+    
+    <div class="m-content-typology">
+                    
+    <div class="m-master-tag">
+        
+                                <div class="a-tag-section">
+                <span class="a-section-color"></span>
+                                    Europe
+                            </div>
+            </div>
+        
+        
+            </div>
+            </li>
+                                    
+            
+            <li class="o-daily-news__item">
+                <a class="a-daily-news-link" href="/fr/sports/20260102-%C3%A0-17-ans-%C3%A0-ce-niveau-c-est-impressionnant-ibrahim-mbaye-encens%C3%A9-par-les-cadres-du-s%C3%A9n%C3%A9gal" title="&quot;À 17 ans, à ce niveau, c’est impressionnant&quot; : Ibrahim Mbaye encensé par les cadres du Sénégal">
+                    <h2 class="a-daily-news-link__title" aria-level="3">&quot;À 17 ans, à ce niveau, c’est impressionnant&quot; : Ibrahim Mbaye encensé par les cadres du Sénégal</h2>
                 </a>
 
                 
@@ -1301,8 +1300,8 @@
                                         
                                                     <div class="article__infos">
                                         <div class="article__top-number">1</div><div class="article__title ">
-    <a href="/fr/sports/20251226-can-2025-programme-huitiemes-8es-finale" data-article-item-link>
-                            <h2 aria-level="3">Le programme des huitièmes de finale de la CAN 2025</h2>
+    <a href="/fr/europe/20260101-explosion-fait-plusieurs-morts-station-ski-suisse-crans-montana" data-article-item-link>
+                            <h2 aria-level="3">Incendie d&#039;un bar en Suisse : la police annonce une quarantaine de décès et 115 blessés</h2>
                         </a></div>                                                                    
             
     
@@ -1310,14 +1309,14 @@
         <div class="m-content-typology">
                     
     <div class="m-master-tag">
-        <div class="a-tag-cartouche">Récap</div>
         
                                 <div class="a-tag-section">
-                <span class="a-section-color" style="background-color: #FF8B04"></span>
-                                    Sports
+                <span class="a-section-color"></span>
+                                    Europe
                             </div>
             </div>
-                            </div>
+                                    <span class="a-content-icon a-content-icon--dark"><i class="a-svg a-svg--icon-play"></i></span>
+            </div>
                     </div>
             </div>
                     </li><li class="o-layout-list__item">
@@ -1331,8 +1330,8 @@
                                         
                                                     <div class="article__infos">
                                         <div class="article__top-number">2</div><div class="article__title ">
-    <a href="/fr/sports/20251229-can-2025-luca-zidane-france-24-exp%C3%A9rience-d%C3%A9fendre-pays-algerie" data-article-item-link>
-                            <h2 aria-level="3">Luca Zidane à France 24 : &quot;Une expérience incroyable de défendre son pays&quot; à la CAN</h2>
+    <a href="/fr/sports/20251231-can-2025-rd-congo-huitiemes-algerie-armes-fiert%C3%A9" data-article-item-link>
+                            <h2 aria-level="3">&quot;On y va avec nos armes et notre fierté&quot; : les Congolais n&#039;ont pas peur de l&#039;Algérie</h2>
                         </a></div>                                                                    
             
     
@@ -1361,8 +1360,8 @@
                                         
                                                     <div class="article__infos">
                                         <div class="article__top-number">3</div><div class="article__title ">
-    <a href="/fr/sports/20251228-can-2025-khaya-supporters-algerie-savourent-maroc" data-article-item-link>
-                            <h2 aria-level="3">CAN 2025 : &quot;Vous les Algériens, vous êtes nos frères !&quot;, des scènes de joie entre supporters à Rabat</h2>
+    <a href="/fr/moyen-orient/20251230-yemen-arabie-saoudite-bombardement-stc-emirats-arabes-unis" data-article-item-link>
+                            <h2 aria-level="3">Au Yémen, l’Arabie saoudite bombarde pour rappeler ses &quot;alliés&quot; à l’ordre</h2>
                         </a></div>                                                                    
             
     
@@ -1370,15 +1369,14 @@
         <div class="m-content-typology">
                     
     <div class="m-master-tag">
-        <div class="a-tag-cartouche">Reportage</div>
+        <div class="a-tag-cartouche">Comprendre</div>
         
                                 <div class="a-tag-section">
-                <span class="a-section-color" style="background-color: #FF8B04"></span>
-                                    Sports
+                <span class="a-section-color"></span>
+                                    Moyen-Orient
                             </div>
             </div>
-                                    <span class="a-content-icon a-content-icon--dark"><i class="a-svg a-svg--icon-play"></i></span>
-            </div>
+                            </div>
                     </div>
             </div>
                     </li><li class="o-layout-list__item">
@@ -1392,8 +1390,8 @@
                                         
                                                     <div class="article__infos">
                                         <div class="article__top-number">4</div><div class="article__title ">
-    <a href="/fr/asie-pacifique/20251229-chine-annonce-exercices-militaires-majeurs-autour-taiwan-provoquant-ire-ile-operation-munitions-indignation" data-article-item-link>
-                            <h2 aria-level="3">La Chine engage des exercices militaires d’ampleur autour de Taïwan</h2>
+    <a href="/fr/sports/20251231-can-2025-final-fou-dans-le-groupe-f-la-c%C3%B4te-d-ivoire-leader-sur-le-fil-devant-le-cameroun" data-article-item-link>
+                            <h2 aria-level="3">CAN 2025 : final fou dans le groupe F, la Côte d&#039;Ivoire leader sur le fil devant le Cameroun</h2>
                         </a></div>                                                                    
             
     
@@ -1401,14 +1399,14 @@
         <div class="m-content-typology">
                     
     <div class="m-master-tag">
+        <div class="a-tag-cartouche">Résumé</div>
         
                                 <div class="a-tag-section">
-                <span class="a-section-color"></span>
-                                    Asie-Pacifique
+                <span class="a-section-color" style="background-color: #FF8B04"></span>
+                                    Sports
                             </div>
             </div>
-                                    <span class="a-content-icon a-content-icon--dark"><i class="a-svg a-svg--icon-play"></i></span>
-            </div>
+                            </div>
                     </div>
             </div>
                     </li><li class="o-layout-list__item">
@@ -1422,8 +1420,8 @@
                                         
                                                     <div class="article__infos">
                                         <div class="article__top-number">5</div><div class="article__title ">
-    <a href="/fr/france/20251228-brigitte-bardot-ic%C3%B4ne-extr%C3%AAme-droite-le-pen-haine-raciale-condamnations-mort" data-article-item-link>
-                            <h2 aria-level="3">L&#039;icône Brigitte Bardot, de la cause animale à l’extrême droite</h2>
+    <a href="/fr/plan%C3%A8te/20251231-alaska-eau-rivi%C3%A8res-se-colore-en-orange-d%C3%A9r%C3%A8glement-climatique" data-article-item-link>
+                            <h2 aria-level="3">En Alaska, l&#039;eau des rivières se colore en orange à cause du dérèglement climatique</h2>
                         </a></div>                                                                    
             
     
@@ -1431,14 +1429,14 @@
         <div class="m-content-typology">
                     
     <div class="m-master-tag">
+        <div class="a-tag-cartouche">Comprendre</div>
         
                                 <div class="a-tag-section">
-                <span class="a-section-color"></span>
-                                    France
+                <span class="a-section-color" style="background-color: #009B76"></span>
+                                    Environnement
                             </div>
             </div>
-                                    <span class="a-content-icon a-content-icon--dark"><i class="a-svg a-svg--icon-play"></i></span>
-            </div>
+                            </div>
                     </div>
             </div>
                     </li><li class="o-layout-list__item">
@@ -1452,8 +1450,8 @@
                                         
                                                     <div class="article__infos">
                                         <div class="article__top-number">6</div><div class="article__title ">
-    <a href="/fr/info-en-continu/20251229-george-clooney-sa-femme-et-leurs-enfants-obtiennent-la-nationalit%C3%A9-fran%C3%A7aise" data-article-item-link>
-                            <h2 aria-level="3">George Clooney et sa famille sont désormais français</h2>
+    <a href="/fr/afrique/20251230-crise-france-algerie-2025-sansal-oqtf-sahara" data-article-item-link>
+                            <h2 aria-level="3">Crise diplomatique France-Algérie : en 2025, une bascule irrémédiable ?</h2>
                         </a></div>                                                                    
             
     
@@ -1461,10 +1459,11 @@
         <div class="m-content-typology">
                     
     <div class="m-master-tag">
+        <div class="a-tag-cartouche">Comprendre</div>
         
                                 <div class="a-tag-section">
                 <span class="a-section-color"></span>
-                                    France
+                                    Afrique
                             </div>
             </div>
                             </div>
@@ -1505,11 +1504,11 @@
         <div class="o-footer__block o-footer__block--news">
                             <div class="m-nav-list m-nav-list--rows m-nav-list--tags">
     <div class="m-nav-list__title">Dans l&#039;actualité</div>    <ul class="m-nav-list__list">
-        <li class="m-nav-list__list__item"><a href="/fr/tag/can-2025/" class="a-hot-tag ">    CAN 2025</a>
-</li><li class="m-nav-list__list__item"><a href="/fr/tag/football/" class="a-hot-tag ">    Football</a>
-</li><li class="m-nav-list__list__item"><a href="/fr/tag/maroc/" class="a-hot-tag ">    Maroc</a>
-</li><li class="m-nav-list__list__item"><a href="/fr/tag/alg%C3%A9rie/" class="a-hot-tag ">    Algérie</a>
+        <li class="m-nav-list__list__item"><a href="/fr/tag/football/" class="a-hot-tag ">    Football</a>
+</li><li class="m-nav-list__list__item"><a href="/fr/tag/can-2025/" class="a-hot-tag ">    CAN 2025</a>
 </li><li class="m-nav-list__list__item"><a href="/fr/tag/pour-aller-plus-loin/" class="a-hot-tag ">    Pour aller plus loin</a>
+</li><li class="m-nav-list__list__item"><a href="/fr/tag/alg%C3%A9rie/" class="a-hot-tag ">    Algérie</a>
+</li><li class="m-nav-list__list__item"><a href="/fr/tag/rd-congo/" class="a-hot-tag ">    RD Congo</a>
 </li>    </ul>
 </div>
             
@@ -1761,7 +1760,7 @@
                                     </ul>
             </div>
                 <p class="o-footer__block o-footer__block--fullwidth a-footer-credits">
-            © 2025 Copyright France 24 - Tous droits réservés. France 24 n&#039;est pas responsable des contenus provenant de sites Internet externes. Fréquentation certifiée par l&#039;ACPM.<a href="https://www.acpm.fr/Support-Numerique/site/france24-com" class="a-brand-logo a-svg a-svg--logo-acpm" target="_blank" rel="noopener nofollow" title="ACPM">    ACPM</a>
+            © 2026 Copyright France 24 - Tous droits réservés. France 24 n&#039;est pas responsable des contenus provenant de sites Internet externes. Fréquentation certifiée par l&#039;ACPM.<a href="https://www.acpm.fr/Support-Numerique/site/france24-com" class="a-brand-logo a-svg a-svg--logo-acpm" target="_blank" rel="noopener nofollow" title="ACPM">    ACPM</a>
         </p>
     </div>
 </footer>

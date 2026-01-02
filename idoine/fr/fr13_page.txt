@@ -1512,6 +1512,37 @@ Commenter&nbsp; <span class="js-forum-nb-comments">(1)</span></button>
 <article class="row ln__vr--16 ln__list--16">
             <aside class="col-sm-4 col-xs-12">
             
+<a aria-label="Nissan résout le principal problème des chargeurs sans fil pour voiture en adoptant le standard Qi2" href="/voiture/nissan-resout-le-principal-probleme-des-chargeurs-sans-fil-pour-voiture-en-adoptant-le-standard-qi2-n248840.html" class="js-track-personalized-content" >
+        <article class="ed__i-act__sm ln__level-one">
+            <figure>
+                                    
+<picture>
+                                                                                                            <!--[if IE 9]><video style="display: none;"><![endif]-->                                                                                                                                                                                                                            <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/248840/ef395ab0-nissan-resout-le-principal-probleme-des-chargeurs-sans-fil-pour-voiture-en-adoptant-le-standard-qi2__312_176__overflow.webp" type="image/webp" data-img-src-default size="312,176">
+                                        <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/248840/ef395ab0-nissan-resout-le-principal-probleme-des-chargeurs-sans-fil-pour-voiture-en-adoptant-le-standard-qi2__312_176__overflow.jpg" data-img-src-default size="312,176">
+                            <!--[if IE 9]></video><![endif]-->
+            <img src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039;%3E%3C/svg%3E" draggable="false" width="312" height="176" class="ed__title-xxs" alt="Nissan résout le principal problème des chargeurs sans fil pour voiture en adoptant le standard Qi2">
+        </picture><span class="ln__g__c13 ln__hvr-img"></span>
+                            <span class="ln__g__c13--to-left ed__i-act__sm__brd"></span>
+                    </figure>
+        
+        
+                <div class="ln__pnl--sm">
+                    <div class="ed__i-act__sm__cntnt row">
+                <span class="ed__a-ed-t-c is--inline is--c13 ln__font--500 ln__body-xs">NEWS&nbsp;:&nbsp;<span>Voiture</span></span>
+                <div class="ed__i-act__sm__t ln__font--500 ln__body-lg">Nissan résout le principal problème des chargeurs sans fil pour voiture en adoptant le standard Qi2</div>
+            </div>
+            <div class="ed__i-act__sm__info row end-xs">
+                
+<time datetime="2025-12-31T11:37:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="31-12-2025 11:37:00">
+            il y a 2 jours
+    </time>
+            </div>
+                </div>
+            </article>
+</a>
+        </aside>
+            <aside class="col-sm-4 col-xs-12">
+            
 <a aria-label="Des caméras qui scannent votre plaque : la France prépare un réseau de surveillance automobile sans précédent" href="/voiture/des-cameras-qui-scannent-votre-plaque-la-france-prepare-un-reseau-de-surveillance-automobile-sans-precedent-n248776.html" class="js-track-personalized-content" >
         <article class="ed__i-act__sm ln__level-one">
             <figure>
@@ -1537,7 +1568,7 @@ Commenter&nbsp; <span class="js-forum-nb-comments">(1)</span></button>
             <div class="ed__i-act__sm__info row end-xs">
                 
 <time datetime="2025-12-30T07:00:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="30-12-2025 07:00:00">
-            07:00
+            il y a 3 jours
     </time>
             </div>
                 </div>
@@ -1568,7 +1599,7 @@ Commenter&nbsp; <span class="js-forum-nb-comments">(1)</span></button>
             <div class="ed__i-act__sm__info row end-xs">
                 
 <time datetime="2025-12-26T11:15:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="26-12-2025 11:15:00">
-            il y a 4 jours
+            il y a 7 jours
     </time>
             </div>
                 </div>
@@ -1602,7 +1633,7 @@ Commenter&nbsp; <span class="js-forum-nb-comments">(1)</span></button>
             <div class="ed__i-act__sm__info row end-xs">
                 
 <time datetime="2025-12-19T07:00:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="19-12-2025 07:00:00">
-            il y a 11 jours
+            il y a 14 jours
     </time>
             </div>
                 </div>
@@ -1633,7 +1664,7 @@ Commenter&nbsp; <span class="js-forum-nb-comments">(1)</span></button>
             <div class="ed__i-act__sm__info row end-xs">
                 
 <time datetime="2025-12-15T07:15:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="15-12-2025 07:15:00">
-            il y a 15 jours
+            il y a 18 jours
     </time>
             </div>
                 </div>
@@ -1667,38 +1698,7 @@ Commenter&nbsp; <span class="js-forum-nb-comments">(1)</span></button>
             <div class="ed__i-act__sm__info row end-xs">
                 
 <time datetime="2025-12-10T15:40:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="10-12-2025 15:40:00">
-            il y a 20 jours
-    </time>
-            </div>
-                </div>
-            </article>
-</a>
-        </aside>
-            <aside class="col-sm-4 col-xs-12">
-            
-<a aria-label="Immobilisation immédiate : le contrôle technique se durcit en 2026 face aux airbags Takata" href="/voiture/immobilisation-immediate-le-controle-technique-se-durcit-en-2026-face-aux-airbags-takata-n247856.html" class="js-track-personalized-content" >
-        <article class="ed__i-act__sm ln__level-one">
-            <figure>
-                                    
-<picture>
-                                                                                                            <!--[if IE 9]><video style="display: none;"><![endif]-->                                                                                                                                                                                                                            <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/247856/6b08955b-immobilisation-immediate-le-controle-technique-se-durci-en-2026-face-aux-airbags-takata__312_176__0-71-2158-1288.webp" type="image/webp" data-img-src-default size="312,176">
-                                        <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/247856/6b08955b-immobilisation-immediate-le-controle-technique-se-durci-en-2026-face-aux-airbags-takata__312_176__0-71-2158-1288.jpg" data-img-src-default size="312,176">
-                            <!--[if IE 9]></video><![endif]-->
-            <img src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039;%3E%3C/svg%3E" draggable="false" width="312" height="176" class="ed__title-xxs" alt="Immobilisation immédiate : le contrôle technique se durci en 2026 face aux airbags Takata">
-        </picture><span class="ln__g__c13 ln__hvr-img"></span>
-                            <span class="ln__g__c13--to-left ed__i-act__sm__brd"></span>
-                    </figure>
-        
-        
-                <div class="ln__pnl--sm">
-                    <div class="ed__i-act__sm__cntnt row">
-                <span class="ed__a-ed-t-c is--inline is--c13 ln__font--500 ln__body-xs">NEWS&nbsp;:&nbsp;<span>Voiture</span></span>
-                <div class="ed__i-act__sm__t ln__font--500 ln__body-lg">Immobilisation immédiate : le contrôle technique se durcit en 2026 face aux airbags Takata</div>
-            </div>
-            <div class="ed__i-act__sm__info row end-xs">
-                
-<time datetime="2025-12-09T15:26:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="09-12-2025 15:26:00">
-            il y a 21 jours
+            il y a 23 jours
     </time>
             </div>
                 </div>
@@ -1732,7 +1732,7 @@ Commenter&nbsp; <span class="js-forum-nb-comments">(1)</span></button>
             <div class="ed__i-act__sm__info row end-xs">
                 
 <time datetime="2025-12-04T09:00:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="04-12-2025 09:00:00">
-            il y a 26 jours
+            il y a 29 jours
     </time>
             </div>
                 </div>
@@ -1766,7 +1766,7 @@ Commenter&nbsp; <span class="js-forum-nb-comments">(1)</span></button>
             <div class="ed__i-act__sm__info row end-xs">
                 
 <time datetime="2025-12-01T12:01:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="01-12-2025 12:01:00">
-            il y a 29 jours
+            il y a 1 mois
     </time>
             </div>
                 </div>
@@ -1800,7 +1800,7 @@ Commenter&nbsp; <span class="js-forum-nb-comments">(1)</span></button>
             <div class="ed__i-act__sm__info row end-xs">
                 
 <time datetime="2025-12-01T12:00:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="01-12-2025 12:00:00">
-            il y a 29 jours
+            il y a 1 mois
     </time>
             </div>
                 </div>
@@ -2017,7 +2017,7 @@ Commenter&nbsp; <span class="js-forum-nb-comments">(1)</span></button>
                                                             <span data-a-link="javascript:Didomi.preferences.show()">Paramétrer les cookies</span>
                                                     </li>
                                         <li>
-                        <span>Tout droits réservés&nbsp;&copy;&nbsp;2025</span>
+                        <span>Tout droits réservés&nbsp;&copy;&nbsp;2026</span>
                     </li>
                 </ul>
             </div>

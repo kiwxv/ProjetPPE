@@ -1485,4 +1485,4 @@ bowser.isUnsupportedBrowser=isUnsupportedBrowser;bowser.compareVersions=compareV
 $('.uabb-row-separator').parents('html').css('overflow-x','hidden');});jQuery(function($){$(function(){$('.fl-node-60369b34c4c5c .fl-photo-img').on('mouseenter',function(e){$(this).data('title',$(this).attr('title')).removeAttr('title');}).on('mouseleave',function(e){$(this).attr('title',$(this).data('title')).data('title',null);});});window._fl_string_to_slug_regex='a-zA-Z0-9';});</script></body>
 </html>
 
-<!-- Cache served by breeze CACHE - Last modified: Thu, 01 Jan 2026 09:27:18 GMT -->
+<!-- Cache served by breeze CACHE - Last modified: Fri, 02 Jan 2026 07:57:37 GMT -->

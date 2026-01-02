@@ -46,7 +46,7 @@
   <!-- CMP Didomi ------------------------------------------------------------------------------------>
   <script>
   window.gdprAppliesGlobally=true;
-  (function(){function n(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var r=document.createElement("iframe");r.style.display="none";r.name=e;r.title=e;t.insertBefore(r,t.firstChild)}else{setTimeout(function(){n(e)},5)}}}function e(r,a,o,s,c){function e(e,t,r,n){if(typeof r!=="function"){return}if(!window[a]){window[a]=[]}var i=false;if(c){i=c(e,n,r)}if(!i){window[a].push({command:e,version:t,callback:r,parameter:n})}}e.stub=true;e.stubVersion=2;function t(n){if(!window[r]||window[r].stub!==true){return}if(!n.data){return}var i=typeof n.data==="string";var e;try{e=i?JSON.parse(n.data):n.data}catch(t){return}if(e[o]){var a=e[o];window[r](a.command,a.version,function(e,t){var r={};r[s]={returnValue:e,success:t,callId:a.callId};n.source.postMessage(i?JSON.stringify(r):r,"*")},a.parameter)}}if(typeof window[r]!=="function"){window[r]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__uspapi","__uspapiBuffer","__uspapiCall","__uspapiReturn");n("__uspapiLocator");e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");n("__tcfapiLocator");(function(e){var t=document.createElement("link");t.rel="preconnect";t.as="script";var r=document.createElement("link");r.rel="dns-prefetch";r.as="script";var n=document.createElement("link");n.rel="preload";n.as="script";var i=document.createElement("script");i.id="spcloader";i.type="text/javascript";i["async"]=true;i.charset="utf-8";var a="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname+"&bust="+1767100126450;if(window.didomiConfig&&window.didomiConfig.user){var o=window.didomiConfig.user;var s=o.country;var c=o.region;if(s){a=a+"&country="+s;if(c){a=a+"&region="+c}}}t.href="https://sdk.privacy-center.org/";r.href="https://sdk.privacy-center.org/";n.href=a;i.src=a;var d=document.getElementsByTagName("script")[0];d.parentNode.insertBefore(t,d);d.parentNode.insertBefore(r,d);d.parentNode.insertBefore(n,d);d.parentNode.insertBefore(i,d)})("97d9cc3e-4f0e-4d58-ad0e-4b418ce971c9")})();</script>
+  (function(){function n(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var r=document.createElement("iframe");r.style.display="none";r.name=e;r.title=e;t.insertBefore(r,t.firstChild)}else{setTimeout(function(){n(e)},5)}}}function e(r,a,o,s,c){function e(e,t,r,n){if(typeof r!=="function"){return}if(!window[a]){window[a]=[]}var i=false;if(c){i=c(e,n,r)}if(!i){window[a].push({command:e,version:t,callback:r,parameter:n})}}e.stub=true;e.stubVersion=2;function t(n){if(!window[r]||window[r].stub!==true){return}if(!n.data){return}var i=typeof n.data==="string";var e;try{e=i?JSON.parse(n.data):n.data}catch(t){return}if(e[o]){var a=e[o];window[r](a.command,a.version,function(e,t){var r={};r[s]={returnValue:e,success:t,callId:a.callId};n.source.postMessage(i?JSON.stringify(r):r,"*")},a.parameter)}}if(typeof window[r]!=="function"){window[r]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__uspapi","__uspapiBuffer","__uspapiCall","__uspapiReturn");n("__uspapiLocator");e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");n("__tcfapiLocator");(function(e){var t=document.createElement("link");t.rel="preconnect";t.as="script";var r=document.createElement("link");r.rel="dns-prefetch";r.as="script";var n=document.createElement("link");n.rel="preload";n.as="script";var i=document.createElement("script");i.id="spcloader";i.type="text/javascript";i["async"]=true;i.charset="utf-8";var a="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname+"&bust="+1767022376527;if(window.didomiConfig&&window.didomiConfig.user){var o=window.didomiConfig.user;var s=o.country;var c=o.region;if(s){a=a+"&country="+s;if(c){a=a+"&region="+c}}}t.href="https://sdk.privacy-center.org/";r.href="https://sdk.privacy-center.org/";n.href=a;i.src=a;var d=document.getElementsByTagName("script")[0];d.parentNode.insertBefore(t,d);d.parentNode.insertBefore(r,d);d.parentNode.insertBefore(n,d);d.parentNode.insertBefore(i,d)})("97d9cc3e-4f0e-4d58-ad0e-4b418ce971c9")})();</script>
 
   <script type="text/javascript" charset="UTF-8">
     window.isGDPRMode = function() { return true; };
@@ -863,7 +863,7 @@
      }
   </style>
 
-		<script async src="/statics/js/audioplayer.js?bust=1767100126450"></script>
+		<script async src="/statics/js/audioplayer.js?bust=1767022376527"></script>
         
 	</head>
 
@@ -976,7 +976,7 @@
     <a onclick="gtag2('clic', 'header', 'instagram');" class="sp sp-instagram_footer_black" href="https://www.instagram.com/lerobert_com/" target="_blank" title="Instagram" rel="noopener"></a>
     <a onclick="gtag2('clic', 'header', 'linkedin');" class="sp sp-linkedin_footer_black" href="https://fr.linkedin.com/company/dictionnaires-le-robert" target="_blank" title="LinkedIn" rel="noopener"></a>
     
-    <a onclick="sendGAEvent('gymglish', 'click_menu_fr');" target="_black" rel="nofollow" class="gymglish-burger-menu gymglish-fr-2" href="https://www.gymglish.com/partner/pylwnnvwlw/109417?rfextension=DICO_MULTI_7DAYS" alt="gymglish &amp; Le Robert"></a>
+    <a onclick="sendGAEvent('gymglish', 'click_menu_fr');" target="_black" rel="nofollow" class="gymglish-burger-menu gymglish-fr-1" href="https://www.gymglish.com/partner/pylwnnvwlw/109417?rfextension=DICO_MULTI_7DAYS" alt="gymglish &amp; Le Robert"></a>
     <a onclick="gtag2('clic_cta', 'Découvrez nos offres premium', 'je_mabonne');" class="btn-jaune fr" target="_blank" href="https://www.lerobert.com/offres-premium.html" rel="noopener"></a>
     <a onclick="sidemenu" href="#mailcatcher" class="btn-email-catcher"><img  src="/statics/medias/images/btn-email-catcher-fr.png" alt=""/></a>
 </div>
@@ -1013,7 +1013,7 @@
                 <a onclick="gtag2('clic_cta', 'Découvrez nos offres premium', 'je_mabonne');" class="btn-jaune" th:classappend="${#strings.substring(#locale,0,2)}" target="_blank" href="https://www.lerobert.com/offres-premium.html" rel="noopener"></a>
                 -->
                 
-                <a onclick="sendGAEvent('gymglish', 'click_banner_fr');" target="_black" rel="nofollow" class="gymglish gymglish-fr-2" href="https://www.gymglish.com/partner/pylwnnvwlw/109417?rfextension=DICO_MULTI_7DAYS" alt="gymglish &amp; Le Robert"></a>
+                <a onclick="sendGAEvent('gymglish', 'click_banner_fr');" target="_black" rel="nofollow" class="gymglish gymglish-fr-1" href="https://www.gymglish.com/partner/pylwnnvwlw/109417?rfextension=DICO_MULTI_7DAYS" alt="gymglish &amp; Le Robert"></a>
             </div>
         </div>
     
@@ -1327,8 +1327,8 @@
 
 		<!-- Content -->
 		<div class="ws-c">
-			<link rel="stylesheet" href="/statics/css/aside.css?bust=1767100126450">
-			<link rel="stylesheet" href="/statics/css/commons.css?bust=1767100126450">
+			<link rel="stylesheet" href="/statics/css/aside.css?bust=1767022376527">
+			<link rel="stylesheet" href="/statics/css/commons.css?bust=1767022376527">
 			
   <div class="leftslot-wrapper">
     <div id="ad_leftslot">
@@ -1448,23 +1448,23 @@ flotte<span class="d_sound_cont"><sound class="d_sound">
               <div class="slide first">
                 
   <div class="g4 b blog">
-    <a href="/dis-moi-robert/raconte-moi-robert/top-10-mots-plus-etonnants">
+    <a href="/dis-moi-robert/raconte-moi-robert/coin-pedago">
       <span class="blog-w-c">
-          <span class="blog-c" style="background-color:#9a59b5">Top 10 des mots</span>
+          <span class="blog-c" style="background-color:#9a59b5">Le coin pédago</span>
       </span>
     </a>
-    <a onclick="gtag2(&#39;clic_blog&#39;, &#39;billet_blog&#39;, &quot;Top 10 des mots de No\u00EBl&quot;);" title="Top 10 des mots de Noël" href="/dis-moi-robert/raconte-moi-robert/top-10-mots-plus-etonnants/top-10-des-mots-de-noel.html">
+    <a onclick="gtag2(&#39;clic_blog&#39;, &#39;billet_blog&#39;, &quot;Le Robert pr\u00E9sente Gymglish&quot;);" title="Le Robert présente Gymglish" href="https://www.gymglish.com/partner/pylwnnvwlw/109417?rfextension=DICO_MULTI_7DAYS">
       <picture>
-          <img src="/statics/medias/images/blog/2397/interview_1_1.png" alt="Top 10 des mots de Noël" />
+          <img src="/statics/medias/images/blog/103/banner_learning-serie_new-year_le-robert_2000x1000.png" alt="Le Robert présente Gymglish" />
       </picture>
-      <span class="blog-t">Top 10 des mots de Noël</span>
+      <span class="blog-t">Le Robert présente Gymglish</span>
     </a>
-    <span class="blog-d"><p>«&nbsp;Ho, ho, ho !&nbsp;» Décembre est enfin là, et vous frétillez d’impatience à l’approche de Noël&nbsp;? Attention&nbsp;: engloutir d’un seul coup...</p></span>
+    <span class="blog-d"><p>10 minutes par jour sur mesure pour maîtriser une langue et sa culture. Humour inclus.&nbsp;<a href="https://www.gymglish.com/partner/pylwnnvwlw/109417?rfextension=DICO_MULTI_7DAYS" target="_blank">Testez gratuitement</a></p></span>
     <div class="blog-da">
-      <span class="blog-a">Marjorie  Jean</span>
-      <span class="blog-date">30/11/2025</span>
+      <span class="blog-a"></span>
+      <span class="blog-date">26/11/2024</span>
     </div>
-    <a onclick="gtag2(&#39;clic_blog&#39;, &#39;billet_blog&#39;, &quot;Top 10 des mots de No\u00EBl&quot;);" title="Top 10 des mots de Noël" href="/dis-moi-robert/raconte-moi-robert/top-10-mots-plus-etonnants/top-10-des-mots-de-noel.html" >
+    <a onclick="gtag2(&#39;clic_blog&#39;, &#39;billet_blog&#39;, &quot;Le Robert pr\u00E9sente Gymglish&quot;);" title="Le Robert présente Gymglish" href="https://www.gymglish.com/partner/pylwnnvwlw/109417?rfextension=DICO_MULTI_7DAYS" >
       <span class="blog-e">…</span>
     </a>
   </div>
@@ -1521,8 +1521,8 @@ flotte<span class="d_sound_cont"><sound class="d_sound">
         <td>
           <a href="/definition/zele?source=tendances">
           
-          <i class="gg-arrow-top-right"></i>
           
+          <i class="gg-arrow-right"></i>
           </a>
         </td>
       </tr>
@@ -1543,6 +1543,28 @@ flotte<span class="d_sound_cont"><sound class="d_sound">
         <td>
           <a href="/definition/aspe?source=tendances">
           
+          
+          <i class="gg-arrow-right"></i>
+          </a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td  style="text-align:center;">
+          <a href="/definition/bette?source=tendances">
+            <div class="round-number Mots-round">
+              <span style="margin-right:0px; color:white;">3</span>
+            </div>
+          </a>
+        </td>
+        <td>
+            <a href="/definition/bette?source=tendances">
+              <span style="margin-right:10px; color:black;">bette</span>
+            </a>
+        </td>
+        <td>
+          <a href="/definition/bette?source=tendances">
+          
           <i class="gg-arrow-top-right"></i>
           
           </a>
@@ -1551,19 +1573,19 @@ flotte<span class="d_sound_cont"><sound class="d_sound">
     
       <tr>
         <td  style="text-align:center;">
-          <a href="/definition/nubile?source=tendances">
+          <a href="/definition/reduction?source=tendances">
             <div class="round-number Mots-round">
-              <span style="margin-right:0px; color:white;">3</span>
+              <span style="margin-right:0px; color:white;">4</span>
             </div>
           </a>
         </td>
         <td>
-            <a href="/definition/nubile?source=tendances">
-              <span style="margin-right:10px; color:black;">nubile</span>
+            <a href="/definition/reduction?source=tendances">
+              <span style="margin-right:10px; color:black;">réduction</span>
             </a>
         </td>
         <td>
-          <a href="/definition/nubile?source=tendances">
+          <a href="/definition/reduction?source=tendances">
           
           <i class="gg-arrow-top-right"></i>
           
@@ -1575,7 +1597,7 @@ flotte<span class="d_sound_cont"><sound class="d_sound">
         <td  style="text-align:center;">
           <a href="/definition/verbeux?source=tendances">
             <div class="round-number Mots-round">
-              <span style="margin-right:0px; color:white;">4</span>
+              <span style="margin-right:0px; color:white;">5</span>
             </div>
           </a>
         </td>
@@ -1595,41 +1617,19 @@ flotte<span class="d_sound_cont"><sound class="d_sound">
     
       <tr>
         <td  style="text-align:center;">
-          <a href="/definition/dictionnaire-en-ligne?source=tendances">
-            <div class="round-number Mots-round">
-              <span style="margin-right:0px; color:white;">5</span>
-            </div>
-          </a>
-        </td>
-        <td>
-            <a href="/definition/dictionnaire-en-ligne?source=tendances">
-              <span style="margin-right:10px; color:black;">dictionnaire en ligne</span>
-            </a>
-        </td>
-        <td>
-          <a href="/definition/dictionnaire-en-ligne?source=tendances">
-          
-          <i class="gg-arrow-top-right"></i>
-          
-          </a>
-        </td>
-      </tr>
-    
-      <tr>
-        <td  style="text-align:center;">
-          <a href="/definition/happer?source=tendances">
+          <a href="/definition/pietre?source=tendances">
             <div class="round-number Mots-round">
               <span style="margin-right:0px; color:white;">6</span>
             </div>
           </a>
         </td>
         <td>
-            <a href="/definition/happer?source=tendances">
-              <span style="margin-right:10px; color:black;">happer</span>
+            <a href="/definition/pietre?source=tendances">
+              <span style="margin-right:10px; color:black;">piètre</span>
             </a>
         </td>
         <td>
-          <a href="/definition/happer?source=tendances">
+          <a href="/definition/pietre?source=tendances">
           
           <i class="gg-arrow-top-right"></i>
           
@@ -1661,22 +1661,44 @@ flotte<span class="d_sound_cont"><sound class="d_sound">
     
       <tr>
         <td  style="text-align:center;">
-          <a href="/definition/focal?source=tendances">
+          <a href="/definition/epiphanie?source=tendances">
             <div class="round-number Mots-round">
               <span style="margin-right:0px; color:white;">8</span>
             </div>
           </a>
         </td>
         <td>
-            <a href="/definition/focal?source=tendances">
-              <span style="margin-right:10px; color:black;">focal</span>
+            <a href="/definition/epiphanie?source=tendances">
+              <span style="margin-right:10px; color:black;">épiphanie</span>
             </a>
         </td>
         <td>
-          <a href="/definition/focal?source=tendances">
+          <a href="/definition/epiphanie?source=tendances">
           
+          <i class="gg-arrow-top-right"></i>
           
-          <i class="gg-arrow-right"></i>
+          </a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td  style="text-align:center;">
+          <a href="/definition/reine-des-pres?source=tendances">
+            <div class="round-number Mots-round">
+              <span style="margin-right:0px; color:white;">9</span>
+            </div>
+          </a>
+        </td>
+        <td>
+            <a href="/definition/reine-des-pres?source=tendances">
+              <span style="margin-right:10px; color:black;">reine-des-prés</span>
+            </a>
+        </td>
+        <td>
+          <a href="/definition/reine-des-pres?source=tendances">
+          
+          <i class="gg-arrow-top-right"></i>
+          
           </a>
         </td>
       </tr>
@@ -1685,7 +1707,7 @@ flotte<span class="d_sound_cont"><sound class="d_sound">
         <td  style="text-align:center;">
           <a href="/definition/wokisme?source=tendances">
             <div class="round-number Mots-round">
-              <span style="margin-right:0px; color:white;">9</span>
+              <span style="margin-right:0px; color:white;">10</span>
             </div>
           </a>
         </td>
@@ -1699,28 +1721,6 @@ flotte<span class="d_sound_cont"><sound class="d_sound">
           
           <i class="gg-arrow-top-right"></i>
           
-          </a>
-        </td>
-      </tr>
-    
-      <tr>
-        <td  style="text-align:center;">
-          <a href="/definition/test?source=tendances">
-            <div class="round-number Mots-round">
-              <span style="margin-right:0px; color:white;">10</span>
-            </div>
-          </a>
-        </td>
-        <td>
-            <a href="/definition/test?source=tendances">
-              <span style="margin-right:10px; color:black;">test</span>
-            </a>
-        </td>
-        <td>
-          <a href="/definition/test?source=tendances">
-          
-          
-          <i class="gg-arrow-right"></i>
           </a>
         </td>
       </tr>
@@ -1918,7 +1918,7 @@ flotte<span class="d_sound_cont"><sound class="d_sound">
 </footer>
 
 
-		<script async src="/statics/js/commons.js?bust=1767100126450"></script>
+		<script async src="/statics/js/commons.js?bust=1767022376527"></script>
 		<iframe name="__cmpLocator" style="display: none;"></iframe>
 	</body>
 </html>

@@ -1,22 +1,19 @@
 #!/bin/bash
 
-# 1. Vérification de l'argument (Code langue)
-if [ $# -ne 1 ]; then
-    echo "Erreur : Ce programme demande exactement un argument (ex: fr, nrvg)."
-    exit 1
+#Pour vérifier que l'utilisateur a bien entré un argument
+if [ $# -ne 1 ]
+	then
+	echo "Ce programme demande un argument."
+	exit
 fi
 
 LANGUE=$1
 compteur=1
 
-# 2. Définition des chemins (Respect de l'arborescence)
+# Définition des chemins (Respect de l'arborescence)
 FICHIER_URLS="../URLs/${LANGUE}_url.txt"
 DOSSIER_IDOINE="../idoine/${LANGUE}"
 FICHIER_HTML="../tableaux/${LANGUE}_site.html"
-
-# Création des dossiers nécessaires s'ils n'existent pas
-mkdir -p "../tableaux"
-mkdir -p "$DOSSIER_IDOINE"
 
 # Vérification que le fichier d'URLs existe
 if [ ! -f "$FICHIER_URLS" ]; then
@@ -24,7 +21,8 @@ if [ ! -f "$FICHIER_URLS" ]; then
     exit 1
 fi
 
-# 3. Écriture de l'en-tête HTML
+
+# Écriture de l'en-tête HTML
 echo "Création de l'en-tête HTML..."
 cat <<EOF > "$FICHIER_HTML"
 <!DOCTYPE html>
@@ -97,44 +95,86 @@ cat <<EOF > "$FICHIER_HTML"
             <tbody>
 EOF
 
-# 4. Boucle de traitement ligne par ligne
+# Boucle de traitement ligne par ligne
 echo "Traitement des URLs en cours..."
 
-while read -r line; do
-    # -- A. Récupération --
-    code_http=$(curl -s -L -o "page_temp.html" -w "%{http_code}" "$line")
 
-    # -- B. Encodage --
-    encodage=$(file -b --mime-encoding "page_temp.html" 2>/dev/null)
-    if [ -z "$encodage" ]; then
-        encodage="inconnu"
-    fi
+while read -r line;
+do
+	#pour un des lien on a un soucis de redirection, donc on ajoute -L, avec -I on ne récupère que l'entête du site
+	# -s pour ne pas avoir la barre de progression, -o /dev/null pour récupérer le contenu de la page dans un fichier qui n'existe pas, donc on ne garde que le -w
+	code=$(curl -s -I -L -o /dev/null -w "%{http_code}" "$line")
 
-    # -- C. Comptage --
-    nb_mots=$(sed 's/<[^>]*>/ /g' "page_temp.html" | wc -w)
+	#utiliser plusieur curl faisait bloquer wikimedia car trop de requêtes, j'en utilise donc seulement 1 que je met dans une variable contenu
+	contenu=$(curl -s -L "$line")
+	#on stock chaque page dans le dossier idoine, avec un sous dossier par langue. Grace a notre variable "LANGUE" on peut directement naviguer entre ces dossiers sans avoir à spécifier le chemin en argument
+	echo "$contenu" > "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt"
 
-    # -- D. Sauvegarde --
-    mv "page_temp.html" "${DOSSIER_IDOINE}/${LANGUE}-${compteur}.txt"
 
-    # -- E. Nettoyage --
-    code_http=$(echo "$code_http" | tr -d '\n\r')
-    encodage=$(echo "$encodage" | tr -d '\n\r')
-    nb_mots=$(echo "$nb_mots" | tr -d '\n\r')
+	encodage=$(echo "$contenu" | grep -ioP "charset=[\"']?\K[\w-]+" | head -n 1)
+	if [ -z "$encodage" ]
+		then
+		encodage=$(curl -s -I -L "$line" | grep -i 'content-type' | sed 's/.*charset=//I' | tr -d '\r')
+	fi
 
-    # -- F. Écriture HTML --
-    echo "                <tr>" >> "$FICHIER_HTML"
+	#dans le cas la variable encodage est vide, au lieu de l'afficher tel quel on la remplie par "absence d'encodage"
+	if [ -z "$encodage" ]
+		then
+		encodage="Absence d'encodage"
+	fi
+
+	if [[ "${encodage,,}" == *"utf-8"* ]] ; then
+			echo "$contenu" | lynx -stdin -dump -nolist > "../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt"
+			#en fonction de la langue le mot cherché est différent
+			if [[ $LANGUE == "fr" ]]; then
+				mot="flotte"
+			elif [[ $LANGUE == "ang" ]]; then
+				mot="fleet"
+			elif [[ $LANGUE == "nrvg" ]]; then
+				mot=""
+			#si la langue n'est pas une des langues que nous étudions, on affiche un message d'erreur
+			else
+				echo "Le langage choisi n'est pas reconnu."
+			fi
+			#on extrait les contexte autour des mots
+			egrep -i -C 2 "$mot" "../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt" > "../contextes/${LANGUE}/${LANGUE}${compteur}_contexte.txt"
+		#si l'encodage n'est pas UTF-8
+	else
+		#on trouve l'encodage pas en UTF-8
+		encodage_autre=$(file -b --mime-encoding "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt")
+		echo "URL $compteur : Encodage autre que UTF-8 : $encodage_autre"
+		if [[ "$encodage_autre" != "binary" && "$encodage_autre" != "unknown"* ]]; then
+            iconv -f "$encodage_autre" -t utf-8 "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt" > "../idoine/${LANGUE}/${LANGUE}${compteur}_page.tmp"
+            #on remplace l'ancien fichier par celui qui vient de réencoder
+			mv "../idoine/${LANGUE}/${LANGUE}${compteur}_page.tmp" "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt"
+			echo "Fichier URL $compteur converti de $encodage_autre vers UTF-8"
+			encodage="$encodage_autre (converti)"
+			lynx -dump -nolist "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt" > "../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt"
+			egrep -i -C 2 "$mot" "../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt" > "../contextes/${LANGUE}/${LANGUE}${compteur}_contexte.txt"
+		else
+		echo "Encodage non reconnu, pas d'extraction de contextes"
+		fi
+	fi
+
+	mots=$(echo "$contenu"| wc -w)
+
+
+    { echo "                <tr>" >> "$FICHIER_HTML"
     echo "                    <td style=\"text-align:center\">$compteur</td>" >> "$FICHIER_HTML"
     echo "                    <td style=\"text-align:center\">$code_http</td>" >> "$FICHIER_HTML"
     echo "                    <td style=\"text-align:center\">$encodage</td>" >> "$FICHIER_HTML"
     echo "                    <td style=\"text-align:center\">$nb_mots</td>" >> "$FICHIER_HTML"
     # La colonne URL n'a pas de style spécial ici, c'est le CSS global qui gère la coupe
     echo "                    <td><a href=\"$line\" target=\"_blank\">$line</a></td>" >> "$FICHIER_HTML"
-    echo "                </tr>" >> "$FICHIER_HTML"
+    echo "                </tr>" } >> "$FICHIER_HTML"
 
-    echo "Url $compteur traitée : $line"
-    compteur=$((compteur + 1))
+    echo "Url $compteur traité"
 
-done < "$FICHIER_URLS"
+	#incrémentation compteur
+	compteur=$((compteur + 1))
+	#pour éviter de recevoir le code 429 "too many request" j'impose un temps de latence d'une seconde entre les requêtes
+	sleep 1
+done < "../URLs/${LANGUE}_url.txt";
 
 # 5. Fermeture du fichier HTML
 echo "            </tbody>" >> "$FICHIER_HTML"

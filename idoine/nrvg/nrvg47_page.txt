@@ -624,11 +624,11 @@
     <div class="col-xs-12 col-md-6">
       <h2 class="h2 nb">Siste søk</h2>
       <div class="similar-words">
-                      <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Norsk Bokmål - Japansk" href="/norsk-japansk/?q=Blitzkrieg">Blitzkrieg</a>
-                      <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Norsk Bokmål - Nordsamisk" href="/norsk-samisk/?q=vakker">vakker</a>
-                      <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Sørsamisk - Norsk Bokmål" href="/sorsamisk-norsk/?q=%C3%85erjelhsaemien+Teatere">Åerjelhsaemien Teatere</a>
-                      <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Norsk Bokmål - Katalansk" href="/norsk-katalansk/?q=Fargeblindhet">Fargeblindhet</a>
                       <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Norsk Bokmål - Norsk Nynorsk" href="/norsk-nynorsk/?q=fl%C3%A5te">flåte</a>
+                      <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Norsk Bokmål - Norsk Nynorsk" href="/norsk-nynorsk/?q=fl%C3%A5te">flåte</a>
+                      <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Norsk Bokmål - Spansk" href="/norsk-spansk/?q=godt+nytt%C3%A5r">godt nyttår</a>
+                      <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Tysk - Norsk Bokmål" href="/tysk-norsk/?q=unterhalten">unterhalten</a>
+                      <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Spansk - Norsk Bokmål" href="/spansk-norsk/?q=seg%C3%BAn">según</a>
             </div>
     </div>
   </div>
@@ -650,18 +650,18 @@
                 <div class="panel panel-primary suggestion">
       <div class="panel-heading">Legg til en oversettelse</div>
       <div class="panel-body text-center">
-          <p id="quest">Vet du hva den nynorske oversettelsen for det norske ordet "<b>jage på</b>" er?</p>
+          <p id="quest">Vet du hva den nynorske oversettelsen for det norske ordet "<b>ragge kunder</b>" er?</p>
           <form onsubmit="submitSuggestion(this); return false;" class="form-inline">
             <input type="hidden" name="from_l" value="norwegian"> 
             <input type="hidden" name="to_l" value="newnorwegian"> 
-            <input type="hidden" name="keyword_id" value="23165"> 
-            <input type="hidden" name="keyword" value="jage på"> 
+            <input type="hidden" name="keyword_id" value="39859"> 
+            <input type="hidden" name="keyword" value="ragge kunder"> 
             <div>
 
               <div class="input-group">
                 <span class="input-group-addon"><div title="Norsk Bokmål" class="from fi fi-no sm"></div></span>
                 <span class="word">
-                                    <span></span><input class="ls form-control" type="text" id="sto" name="keyword" value="jage på" placeholder="Norsk Bokmål" readonly autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" aria-label="ord">
+                                    <span></span><input class="ls form-control" type="text" id="sto" name="keyword" value="ragge kunder" placeholder="Norsk Bokmål" readonly autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" aria-label="ord">
                 </span>
               </div>
 
@@ -696,27 +696,27 @@
                 <div class="panel panel-primary suggestion">
       <div class="panel-heading">Stem dette riktig eller galt</div>
       <div class="panel-body text-center">
-          <p id="voting-question">Er det nynorske ordet <b>dampstrykejern</b> en god oversettelse for det norske ordet <b>dampstrykjern</b>?</p>
+          <p id="voting-question">Er det nynorske ordet <b>ståstad</b> en god oversettelse for det norske ordet <b>ståsted</b>?</p>
           <div id="voting-buttons" class="form-inline">
 
             <div class="input-group">
               <span class="input-group-addon"><div title="Norsk Bokmål" class="from fi fi-no sm"></div></span>
               <span class="word">
-                                <span></span><input class="ls form-control" type="text" id="sto" name="keyword" value="dampstrykjern" aria-label="ord" readonly>
+                                <span></span><input class="ls form-control" type="text" id="sto" name="keyword" value="ståsted" aria-label="ord" readonly>
               </span>
             </div>
 
             <div class="input-group">
               <span class="input-group-addon"><div title="Norsk Nynorsk" class="to fi fi-nn sm grayscale"></div></span>
               <span class="word">
-                                <span></span><input class="ls form-control" type="text" id="su" name="su" value="dampstrykejern" aria-label="oversettelse" readonly>
+                                <span></span><input class="ls form-control" type="text" id="su" name="su" value="ståstad" aria-label="oversettelse" readonly>
               </span>
             </div>
 
             <div class="mt">
-              <input class="btn btn-primary" type="button" id="syes" value="Ja" onclick="voteOnSuggestion('yes', '31787', 'norwegian', 'newnorwegian')">
-              <input class="btn btn-primary" type="button" id="sno" value="Nei" onclick="voteOnSuggestion('no', '31787', 'norwegian', 'newnorwegian')">
-              <input class="btn btn-primary" type="button" id="sdn" value="Vet ikke" onclick="voteOnSuggestion('dn', '31787', 'norwegian', 'newnorwegian')">
+              <input class="btn btn-primary" type="button" id="syes" value="Ja" onclick="voteOnSuggestion('yes', '32709', 'norwegian', 'newnorwegian')">
+              <input class="btn btn-primary" type="button" id="sno" value="Nei" onclick="voteOnSuggestion('no', '32709', 'norwegian', 'newnorwegian')">
+              <input class="btn btn-primary" type="button" id="sdn" value="Vet ikke" onclick="voteOnSuggestion('dn', '32709', 'norwegian', 'newnorwegian')">
             </div>
 
           </div>

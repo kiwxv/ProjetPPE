@@ -1720,12 +1720,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </ul>
                     </li>
                 <li class="menu-item">
-            <a id="16113" class=" main " href="/utforsk">Gruppeinitiativer</a>
+            <a id="16113" class=" main active active-trail " href="/utforsk">Gruppeinitiativer</a>
                             <ul class="dropdown menu-group bg-gray simple-menu">
                     <div class="menu-group-container js-auto-height row">
                         <div class="d-block d-lg-none mobile-header">
                             <li>
-                                <a id="16113" class=" main " href="/utforsk">Gruppeinitiativer</a>
+                                <a id="16113" class=" main active active-trail " href="/utforsk">Gruppeinitiativer</a>
                             </li>
                         </div>
                                                                                                                                                                                                                                                     <div class="col-lg-4">
@@ -1738,11 +1738,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                                                     <div class="col-lg-4">
                                                                     <li class="submenu-items-group">
-        <a id="19362" class=" submenu-header" href="/utforsk/discover">Oppdag Powertex og Ropetex<button type="button" class="collapse-toggle collapsed"></button></a>
+        <a id="19362" class=" active active-trail submenu-header" href="/utforsk/discover">Oppdag Powertex og Ropetex<button type="button" class="collapse-toggle collapsed"></button></a>
                     <ul class="submenu-items dropdown collapse">
                 <div class="js-auto-height">
                     <li class="d-block d-lg-none mobile-header">
-                        <a id="19362" class=" " href="/utforsk/discover">Oppdag Powertex og Ropetex</a>
+                        <a id="19362" class=" active active-trail " href="/utforsk/discover">Oppdag Powertex og Ropetex</a>
                     </li>
                                             <li>
                             <a id="19363" class=" submenu-item" href="/utforsk/discover/cost-effective-and-reliable-products">Kostnadseffektive og pålitelige produkter</a>
@@ -1754,7 +1754,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <a id="19365" class=" submenu-item" href="/utforsk/discover/sustainable-and-ethical-practices">Bærekraftige og etiske praksiser</a>
                         </li>
                                             <li>
-                            <a id="19366" class=" submenu-item" href="/utforsk/discover/expert-guidance-and-support">Ekspertråd og støtte</a>
+                            <a id="19366" class=" active submenu-item" href="/utforsk/discover/expert-guidance-and-support">Ekspertråd og støtte</a>
                         </li>
                                     </div>
             </ul>
@@ -1856,7 +1856,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <label class="required" for="_password">Passord</label>
                                     <div><input type="password" id="_password" name="_password" required="required" class="form-control" /></div>
                                 </div>
-                                <input type="hidden" id="_token" name="_token" value="b38e3636d75994e4c1c.smCHgDy_UfNySResVmkkuHFHTj2X43Tf8TNi99S4_sw.9U3-2V_gNakXO0_lHBxxjTYrDXfisyLuxVAIo6f-vajTTfS4W_s9nRF_Tg" />
+                                <input type="hidden" id="_token" name="_token" value="2253566dd898ef90.D8epmABF-4B3i8qLetMOyK_XEGn9iPL02ZyYavDM-aQ.WPSQ6zN8vdcQ5Im5O4ZI-PruZ1jF_pm5rfbaAse5sO9erPzUQxSctB_cgw" />
                                 <button id="btn-login" type="submit" class="btn btn-primary d-block mx-auto px-7 mt-6">Logg inn</button>
                                 </form>
 

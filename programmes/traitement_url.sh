@@ -7,16 +7,29 @@ if [ $# -ne 1 ]
 	exit
 fi
 
+LANGUE=$1
+
+#Définition des chemins (Respect de l'arborescence)
+FICHIER_URLS="../URLs/${LANGUE}_url.txt"
+DOSSIER_IDOINE="../idoine/${LANGUE}"
+FICHIER_HTML="../tableaux/${LANGUE}_site.html"
+
+
+# Vérification que le fichier d'URLs existe
+if [ ! -f "$FICHIER_URLS" ]; then
+    echo "Le fichier $FICHIER_URLS est introuvable."
+    exit 1
+fi
+
 #initialisation d'une variable comptant les lignes
 compteur=1
 
-LANGUE=$1
 
-#on crée le fichier dans lequel va être stocké notre résultat
->../tableaux/${LANGUE}_site.html
+
+
 
 #on crée une variable qui va stocker nos données extraites dans un tableau pour les traiter ensuite
-TSV+=$'Ligne\tCode_HTTP\tEncodage\tMots\tURL\n'
+TSV+=$'Ligne\tCode_HTTP\tEncodage\tMots\tURL\nAspiration\nDump\nContexte\n'
 
 echo "Traitement des urls..."
 while read -r line;
@@ -27,6 +40,7 @@ do
 
 	#utiliser plusieur curl faisait bloquer wikimedia car trop de requêtes, j'en utilise donc seulement 1 que je met dans une variable contenu
 	contenu=$(curl -s -L "$line")
+	#on stock chaque page dans le dossier idoine, avec un sous dossier par langue. Grace a notre variable "LANGUE" on peut directement naviguer entre ces dossiers sans avoir à spécifier le chemin en argument
 	echo "$contenu" > "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt"
 
 
@@ -40,6 +54,39 @@ do
 	if [ -z "$encodage" ]
 		then
 		encodage="Absence d'encodage"
+	fi
+
+	if [[ "${encodage,,}" == *"utf-8"* ]] ; then
+			echo "$contenu" | lynx -stdin -dump -nolist > "../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt"
+			#en fonction de la langue le mot cherché est différent
+			if [[ $LANGUE == "fr" ]]; then
+				mot="flotte"
+			elif [[ $LANGUE == "ang" ]]; then
+				mot="fleet"
+			elif [[ $LANGUE == "nrvg" ]]; then
+				mot=""
+			#si la langue n'est pas une des langues que nous étudions, on affiche un message d'erreur
+			else
+				echo "Le langage choisi n'est pas reconnu."
+			fi
+			#on extrait les contexte autour des mots
+			egrep -i -C 2 "$mot" "../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt" > "../contextes/${LANGUE}/${LANGUE}${compteur}_contexte.txt"
+		#si l'encodage n'est pas UTF-8
+	else
+		#on trouve l'encodage pas en UTF-8
+		encodage_autre=$(file -b --mime-encoding "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt")
+		echo "URL $compteur : Encodage autre que UTF-8 : $encodage_autre"
+		if [[ "$encodage_autre" != "binary" && "$encodage_autre" != "unknown"* ]]; then
+            iconv -f "$encodage_autre" -t utf-8 "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt" > "../idoine/${LANGUE}/${LANGUE}${compteur}_page.tmp"
+            #on remplace l'ancien fichier par celui qui vient de réencoder
+			mv "../idoine/${LANGUE}/${LANGUE}${compteur}_page.tmp" "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt"
+			echo "Fichier URL $compteur converti de $encodage_autre vers UTF-8"
+			encodage="$encodage_autre (converti)"
+			lynx -dump -nolist "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt" > "../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt"
+			egrep -i -C 2 "$mot" "../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt" > "../contextes/${LANGUE}/${LANGUE}${compteur}_contexte.txt"
+		else
+		echo "Encodage non reconnu, pas d'extraction de contextes"
+		fi
 	fi
 
 	mots=$(echo "$contenu"| wc -w)

@@ -278,14 +278,6 @@
         <noscript>
             <link href="/build/modern/css/fig-ranking-profile-media-small-picture.be96b80f0b4a33f4.css" rel="stylesheet"/>
         </noscript>
-            <link rel="stylesheet" href="/build/modern/css/fig-ranking-profile-media-main-media-video.ff4d4783a8c63be7.css" crossorigin="anonymous" id="fig-async-style-fig-ranking-profile-media-main-media-video" media="print" onload="this.media=&#039;all&#039;" integrity="sha384-8HXcp5Ob0wQnx2X/WKtvHNQFwgAro4I55meU/I4M5e7JmFizlBtDhdoDwnsKcs9Z">
-        <noscript>
-            <link href="/build/modern/css/fig-ranking-profile-media-main-media-video.ff4d4783a8c63be7.css" rel="stylesheet"/>
-        </noscript>
-            <link rel="stylesheet" href="/build/modern/css/fig-ranking-profile-media-small-picture-main-media-video.eb3ed9c9c0ded1b3.css" crossorigin="anonymous" id="fig-async-style-fig-ranking-profile-media-small-picture-main-media-video" media="print" onload="this.media=&#039;all&#039;" integrity="sha384-ICl+U00ShXOWdTR7hwQgdchF2oSCyVjiFImzmNBkpcWQFdMrIkDxljLWkMRlqMPf">
-        <noscript>
-            <link href="/build/modern/css/fig-ranking-profile-media-small-picture-main-media-video.eb3ed9c9c0ded1b3.css" rel="stylesheet"/>
-        </noscript>
             <link rel="stylesheet" href="/build/modern/css/fig-ranking-profile-standfirst.1a387b0d8c2dfe8b.css" crossorigin="anonymous" id="fig-async-style-fig-ranking-profile-standfirst" media="print" onload="this.media=&#039;all&#039;" integrity="sha384-hnmixvk/Y6q71b/Se/eyKYaRoQT3xpchmOwG/bHY2AhKX8E4Q1bu5YHDefx5svTn">
         <noscript>
             <link href="/build/modern/css/fig-ranking-profile-standfirst.1a387b0d8c2dfe8b.css" rel="stylesheet"/>
@@ -293,6 +285,14 @@
             <link rel="stylesheet" href="/build/modern/css/fig-ranking-profile-standfirst-small-picture.920e5fce373c57f0.css" crossorigin="anonymous" id="fig-async-style-fig-ranking-profile-standfirst-small-picture" media="print" onload="this.media=&#039;all&#039;" integrity="sha384-1vY81Ii8ezxV808ZqpUjtbOkETzknfdVAlSVbTpQ4cqEf5I6Vb+tA28WIQGCY4qP">
         <noscript>
             <link href="/build/modern/css/fig-ranking-profile-standfirst-small-picture.920e5fce373c57f0.css" rel="stylesheet"/>
+        </noscript>
+            <link rel="stylesheet" href="/build/modern/css/fig-ranking-profile-media-main-media-video.ff4d4783a8c63be7.css" crossorigin="anonymous" id="fig-async-style-fig-ranking-profile-media-main-media-video" media="print" onload="this.media=&#039;all&#039;" integrity="sha384-8HXcp5Ob0wQnx2X/WKtvHNQFwgAro4I55meU/I4M5e7JmFizlBtDhdoDwnsKcs9Z">
+        <noscript>
+            <link href="/build/modern/css/fig-ranking-profile-media-main-media-video.ff4d4783a8c63be7.css" rel="stylesheet"/>
+        </noscript>
+            <link rel="stylesheet" href="/build/modern/css/fig-ranking-profile-media-small-picture-main-media-video.eb3ed9c9c0ded1b3.css" crossorigin="anonymous" id="fig-async-style-fig-ranking-profile-media-small-picture-main-media-video" media="print" onload="this.media=&#039;all&#039;" integrity="sha384-ICl+U00ShXOWdTR7hwQgdchF2oSCyVjiFImzmNBkpcWQFdMrIkDxljLWkMRlqMPf">
+        <noscript>
+            <link href="/build/modern/css/fig-ranking-profile-media-small-picture-main-media-video.eb3ed9c9c0ded1b3.css" rel="stylesheet"/>
         </noscript>
             <link rel="stylesheet" href="/build/modern/css/fig-related-content.ba34b49717001593.css" crossorigin="anonymous" id="fig-async-style-fig-related-content" media="print" onload="this.media=&#039;all&#039;" integrity="sha384-vbhX94kZwzNwxhm/ejBtW+gmMUTc7stsTUagtJPR6KR9rsaNqTCGZ4fVVSzlzdQu">
         <noscript>
@@ -1575,127 +1575,6 @@
                                     </div>
                                     <article
         class="fig-ranking-profile-container fig-ranking-profile-small-picture
-                 fig-ranking-profile--suggested"
-        data-content-name="article"
-                            >
-        
-                        
-                                                                                                                                                                                                                                                            <a
-            href="https://www.lefigaro.fr/international/etats-unis-un-ticket-oublie-rend-un-homme-quasi-millionnaire-20251201"
-            class="fig-ranking-profile-link"
-                                                                                    data-fig-domain="LEFIGARO"
-        >
-    
-                
-                            
-    
-    
-    
-
-
-
-        <h2
-        class="fig-ranking-profile-headline
-                "
-    >
-        États-Unis&nbsp;: un ticket oublié rend un homme quasi-millionnaire</h2>
-
-                
-                                                </a>
-    
-                
-                            
-    
-    
-            
-                            
-        <div class="fig-ranking-profile-main-media-video">
-            <svg
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 24 24"
-                height="24"
-                width="24"
-                class="fig-ranking-profile-main-media-video__svg"
-                aria-hidden="true"
-                focusable="false"
-            >
-                <use href="#fig-svg__video"/>
-            </svg>
-        <figure class="fig-ranking-profile-media-small-picture"><div class="fig-placeholder fig-placeholder--16-9 fig-lazy"><img data-srcset="https://i.f1g.fr/media/cms/120x68_crop/2025/12/01/3f7143ae837d9cc150b3d1045f8937a7ff27303766321862c4e2bed1503e1ed9.JPG 120w, https://i.f1g.fr/media/cms/224x126_crop/2025/12/01/3f7143ae837d9cc150b3d1045f8937a7ff27303766321862c4e2bed1503e1ed9.JPG 224w, https://i.f1g.fr/media/cms/282x159_crop/2025/12/01/3f7143ae837d9cc150b3d1045f8937a7ff27303766321862c4e2bed1503e1ed9.JPG 282w" sizes="(min-width: 64em) 224px, (min-width: 48em) 282px, 120px" class="fig-img fig-ranking-profile-media-small-picture__photo" alt="États-Unis : un ticket oublié rend un homme quasi-millionnaire" height="1687" width="3000"/><noscript><img srcset="https://i.f1g.fr/media/cms/120x68_crop/2025/12/01/3f7143ae837d9cc150b3d1045f8937a7ff27303766321862c4e2bed1503e1ed9.JPG 120w, https://i.f1g.fr/media/cms/224x126_crop/2025/12/01/3f7143ae837d9cc150b3d1045f8937a7ff27303766321862c4e2bed1503e1ed9.JPG 224w, https://i.f1g.fr/media/cms/282x159_crop/2025/12/01/3f7143ae837d9cc150b3d1045f8937a7ff27303766321862c4e2bed1503e1ed9.JPG 282w" sizes="(min-width: 64em) 224px, (min-width: 48em) 282px, 120px" class="fig-img--complete fig-img fig-ranking-profile-media-small-picture__photo" alt="États-Unis : un ticket oublié rend un homme quasi-millionnaire" height="1687" width="3000"/></noscript></div></figure>
-            </div>
-    
-                
-                            
-    
-    
-    
-
-<p class="fig-ranking-profile-standfirst">
-    «J’ai gratté le billet et je n’en croyais pas mes yeux quand j’ai vu que c’était un billet gagnant d’un million de dollars&nbsp;!» s’est remémoré cet originaire du comté de Wayne.
-</p>
-
-                
-                        
-                        
-                        
-        
-                    </article>
-                                    <article
-        class="fig-ranking-profile-container fig-ranking-profile-small-picture
-         fig-ranking-profile--premium         fig-ranking-profile--suggested"
-        data-content-name="article"
-                            >
-        
-                        
-                                                                                                                                                                                                                                                            <a
-            href="https://www.lefigaro.fr/international/pourquoi-si-peu-de-pays-reconnaissent-taiwan-20220805"
-            class="fig-ranking-profile-link"
-                            aria-label="Pourquoi si peu de pays reconnaissent Taïwan? (article Premium)"
-                title="Pourquoi si peu de pays reconnaissent Taïwan? (article Premium)"
-                                                                                    data-fig-domain="LEFIGARO"
-        >
-    
-                
-                            
-    
-    
-    
-
-
-
-        <h2
-        class="fig-ranking-profile-headline
-         fig-premium-mark        "
-    >
-        Pourquoi si peu de pays reconnaissent Taïwan?</h2>
-
-                
-                                                </a>
-    
-                
-                            
-    
-    
-        <figure class="fig-ranking-profile-media-small-picture"><div class="fig-placeholder fig-placeholder--16-9 fig-lazy"><img data-srcset="https://i.f1g.fr/media/cms/120x68_crop/2022/08/05/2bd6938cf9051cea849016d93a3c6356454eba3b72866114b3697cff0ec15fcd.jpg 120w, https://i.f1g.fr/media/cms/224x126_crop/2022/08/05/2bd6938cf9051cea849016d93a3c6356454eba3b72866114b3697cff0ec15fcd.jpg 224w, https://i.f1g.fr/media/cms/282x159_crop/2022/08/05/2bd6938cf9051cea849016d93a3c6356454eba3b72866114b3697cff0ec15fcd.jpg 282w" sizes="(min-width: 64em) 224px, (min-width: 48em) 282px, 120px" class="fig-img fig-ranking-profile-media-small-picture__photo" alt="Pourquoi si peu de pays reconnaissent Taïwan?" height="1862" width="3000"/><noscript><img srcset="https://i.f1g.fr/media/cms/120x68_crop/2022/08/05/2bd6938cf9051cea849016d93a3c6356454eba3b72866114b3697cff0ec15fcd.jpg 120w, https://i.f1g.fr/media/cms/224x126_crop/2022/08/05/2bd6938cf9051cea849016d93a3c6356454eba3b72866114b3697cff0ec15fcd.jpg 224w, https://i.f1g.fr/media/cms/282x159_crop/2022/08/05/2bd6938cf9051cea849016d93a3c6356454eba3b72866114b3697cff0ec15fcd.jpg 282w" sizes="(min-width: 64em) 224px, (min-width: 48em) 282px, 120px" class="fig-img--complete fig-img fig-ranking-profile-media-small-picture__photo" alt="Pourquoi si peu de pays reconnaissent Taïwan?" height="1862" width="3000"/></noscript></div></figure>
-    
-                
-                            
-    
-    
-    
-
-<p class="fig-ranking-profile-standfirst">
-    <strong>FOCUS -</strong> Au fil des décennies, beaucoup de pays qui soutenaient le régime de Taïpei sont revenus sur leur position, pour favoriser le dialogue avec la Chine.
-</p>
-
-                
-                        
-                        
-                        
-        
-                    </article>
-                                    <article
-        class="fig-ranking-profile-container fig-ranking-profile-small-picture
          fig-ranking-profile--premium         fig-ranking-profile--suggested"
         data-content-name="article"
                             >
@@ -1740,6 +1619,127 @@
 
 <p class="fig-ranking-profile-standfirst">
     <strong>RÉCIT – </strong>Engagé depuis toujours au service des autres, l’infirmier militaire de 33 ans s’est suicidé à Fresnes après quatre jours de détention provisoire pour meurtre. Un an et demi plus tard, ses parents pointent de nombreuses zones d’ombre et exigent des réponses.
+</p>
+
+                
+                        
+                        
+                        
+        
+                    </article>
+                                    <article
+        class="fig-ranking-profile-container fig-ranking-profile-small-picture
+         fig-ranking-profile--premium         fig-ranking-profile--suggested"
+        data-content-name="article"
+                            >
+        
+                        
+                                                                                                                                                                                                                                                            <a
+            href="https://www.lefigaro.fr/international/l-enigmatique-portrait-de-maffeo-barberini-du-caravage-bientot-expose-a-rome-20241116"
+            class="fig-ranking-profile-link"
+                            aria-label="L’énigmatique Portrait de Maffeo Barberini du Caravage, bientôt exposé à Rome (article Premium)"
+                title="L’énigmatique Portrait de Maffeo Barberini du Caravage, bientôt exposé à Rome (article Premium)"
+                                                                                    data-fig-domain="LEFIGARO"
+        >
+    
+                
+                            
+    
+    
+    
+
+
+
+        <h2
+        class="fig-ranking-profile-headline
+         fig-premium-mark        "
+    >
+        L’énigmatique <i>Portrait de Maffeo Barberini</i> du Caravage, bientôt exposé à Rome</h2>
+
+                
+                                                </a>
+    
+                
+                            
+    
+    
+        <figure class="fig-ranking-profile-media-small-picture"><div class="fig-placeholder fig-placeholder--16-9 fig-lazy"><img data-srcset="https://i.f1g.fr/media/cms/120x68_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 120w, https://i.f1g.fr/media/cms/224x126_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 224w, https://i.f1g.fr/media/cms/282x159_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 282w" sizes="(min-width: 64em) 224px, (min-width: 48em) 282px, 120px" class="fig-img fig-ranking-profile-media-small-picture__photo" alt="L’énigmatique Portrait de Maffeo Barberini du Caravage, bientôt exposé à Rome" height="720" width="1280"/><noscript><img srcset="https://i.f1g.fr/media/cms/120x68_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 120w, https://i.f1g.fr/media/cms/224x126_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 224w, https://i.f1g.fr/media/cms/282x159_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 282w" sizes="(min-width: 64em) 224px, (min-width: 48em) 282px, 120px" class="fig-img--complete fig-img fig-ranking-profile-media-small-picture__photo" alt="L’énigmatique Portrait de Maffeo Barberini du Caravage, bientôt exposé à Rome" height="720" width="1280"/></noscript></div></figure>
+    
+                
+                            
+    
+    
+    
+
+<p class="fig-ranking-profile-standfirst">
+    <strong>VU D’AILLEURS -</strong> Resté introuvable pendant plusieurs décennies, ce tableau du Caravage sera exposé pour la toute première fois à Rome, au Palazzo Barberini, à partir du 22 novembre prochain.
+</p>
+
+                
+                        
+                        
+                        
+        
+                    </article>
+                                    <article
+        class="fig-ranking-profile-container fig-ranking-profile-small-picture
+                 fig-ranking-profile--suggested"
+        data-content-name="newsflash"
+                            >
+        
+                        
+                                                                                                                                                                                                                                                            <a
+            href="https://www.lefigaro.fr/international/attentat-de-sydney-quelques-heures-apres-le-drame-un-cimetiere-musulman-profane-avec-des-tetes-de-porc-20251215"
+            class="fig-ranking-profile-link"
+                                                                                    data-fig-domain="LEFIGARO"
+        >
+    
+                
+                            
+    
+    
+    
+
+
+
+        <h2
+        class="fig-ranking-profile-headline
+                "
+    >
+        Attentat de Sydney&nbsp;: quelques heures après le drame, un cimetière musulman profané avec des têtes de porc</h2>
+
+                
+                                                </a>
+    
+                
+                            
+    
+    
+            
+                            
+        <div class="fig-ranking-profile-main-media-video">
+            <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                height="24"
+                width="24"
+                class="fig-ranking-profile-main-media-video__svg"
+                aria-hidden="true"
+                focusable="false"
+            >
+                <use href="#fig-svg__video"/>
+            </svg>
+        <figure class="fig-ranking-profile-media-small-picture"><div class="fig-placeholder fig-placeholder--16-9 fig-lazy"><img data-srcset="https://i.f1g.fr/media/cms/120x68_crop/2025/12/15/68a2b4e13ca3324482f3334cb2ae061dca058a1f0fdd2d71b67fa51d8b4a3a61.JPG 120w, https://i.f1g.fr/media/cms/224x126_crop/2025/12/15/68a2b4e13ca3324482f3334cb2ae061dca058a1f0fdd2d71b67fa51d8b4a3a61.JPG 224w, https://i.f1g.fr/media/cms/282x159_crop/2025/12/15/68a2b4e13ca3324482f3334cb2ae061dca058a1f0fdd2d71b67fa51d8b4a3a61.JPG 282w" sizes="(min-width: 64em) 224px, (min-width: 48em) 282px, 120px" class="fig-img fig-ranking-profile-media-small-picture__photo" alt="Attentat de Sydney : quelques heures après le drame, un cimetière musulman profané avec des têtes de porc" height="1248" width="2220"/><noscript><img srcset="https://i.f1g.fr/media/cms/120x68_crop/2025/12/15/68a2b4e13ca3324482f3334cb2ae061dca058a1f0fdd2d71b67fa51d8b4a3a61.JPG 120w, https://i.f1g.fr/media/cms/224x126_crop/2025/12/15/68a2b4e13ca3324482f3334cb2ae061dca058a1f0fdd2d71b67fa51d8b4a3a61.JPG 224w, https://i.f1g.fr/media/cms/282x159_crop/2025/12/15/68a2b4e13ca3324482f3334cb2ae061dca058a1f0fdd2d71b67fa51d8b4a3a61.JPG 282w" sizes="(min-width: 64em) 224px, (min-width: 48em) 282px, 120px" class="fig-img--complete fig-img fig-ranking-profile-media-small-picture__photo" alt="Attentat de Sydney : quelques heures après le drame, un cimetière musulman profané avec des têtes de porc" height="1248" width="2220"/></noscript></div></figure>
+            </div>
+    
+                
+                            
+    
+    
+    
+
+<p class="fig-ranking-profile-standfirst">
+    Cet acte antimusulman pourrait s’apparenter à une mesure de représailles, alors que plusieurs médias, dont la chaîne américaine ABC News, ont indiqué que l’un des deux auteurs présumés de l’attentat avait fait l’objet d’une enquête pour ses liens supposés avec l’État islamique.
 </p>
 
                 

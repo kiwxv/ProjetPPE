@@ -716,9 +716,9 @@ var k5aMeta = { "paid": 0, "wordCount": "136", "lix": "49", "author": ["Angelica
 
 
         <section id="mainArticleSection" class="main article">
-            <div data-element-guid="d9d21059-2322-451c-ed95-b5f124babaa4" class="placeholder placement-top">
+            <div data-element-guid="5930f2cb-68ea-435a-f2e8-2d903b0a21fa" class="placeholder placement-top">
 
-<div class="column adnuntius-ad small-12 large-12 display-label" style="" data-element-guid="b2cef8f1-3679-47e8-db46-0ea53808666c">
+<div class="column adnuntius-ad small-12 large-12 display-label" style="" data-element-guid="d07552e4-4c26-47f3-eb71-d14cfbc5903c">
     <div id="adn-00000000000df8db" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -820,7 +820,7 @@ var k5aMeta = { "paid": 0, "wordCount": "136", "lix": "49", "author": ["Angelica
 
 
 
-        <div data-element-guid="2784b2de-2c7f-41d1-b4de-9262d63ba9d4" class="meta">
+        <div data-element-guid="6725e201-cd75-4d8c-d287-b5b92ed99ad7" class="meta">
     
 
     <div class="bylines">
@@ -876,7 +876,7 @@ var k5aMeta = { "paid": 0, "wordCount": "136", "lix": "49", "author": ["Angelica
 
                         
 
-                        <div data-element-guid="2784b2de-2c7f-41d1-b4de-9262d63ba9d4" class="bodytext large-12 small-12 medium-12">
+                        <div data-element-guid="6725e201-cd75-4d8c-d287-b5b92ed99ad7" class="bodytext large-12 small-12 medium-12">
     
     
 
@@ -918,7 +918,7 @@ var k5aMeta = { "paid": 0, "wordCount": "136", "lix": "49", "author": ["Angelica
     </script>
 </div>
 <p>Romania nærmer seg en avtale om å skaffe seg et offshore patruljefartøy i Hisar-klassen fra Tyrkia, ifølge Defense News.&nbsp;</p>
-<div class="column adnuntius-ad display-label floatRight widthAuto" style="" data-element-guid="e2b79145-d328-4620-dd34-a1939788206d">
+<div class="column adnuntius-ad display-label floatRight widthAuto" style="" data-element-guid="4b9b95c7-7021-47fa-9e29-dd9615d40240">
     <div id="adn-00000000000f8dd8" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -1197,7 +1197,7 @@ Nyheter
 
 
                         
-<div data-element-guid="2784b2de-2c7f-41d1-b4de-9262d63ba9d4" class="column articleFooter">
+<div data-element-guid="6725e201-cd75-4d8c-d287-b5b92ed99ad7" class="column articleFooter">
     <span class="tags">
         <a href="/tag/nyheter">nyheter</a>
         <a href="/tag/fl%C3%A5te">flåte</a>
@@ -1225,8 +1225,8 @@ Nyheter
                     
                 </article>
                 <section class="related desktop-fullWidth mobile-fullWidth fullwidthTarget">
-                <div data-element-guid="cb5f0895-d6ec-4cb9-e27a-858f0447d6ac" class="page-content"><div data-element-guid="837f67a9-7cbf-4a9a-e6e5-9e67ce60441c" class="row small-12 large-12" style="">
-<div class="column adnuntius-ad small-12 large-12 display-label large-12 small-12" style="" data-element-guid="fc81757a-50c3-4a46-c280-493d69a9ae77">
+                <div data-element-guid="cb5f0895-d6ec-4cb9-e27a-858f0447d6ac" class="page-content"><div data-element-guid="78c633a4-35ea-4f5d-c00c-bfe3bbeca918" class="row small-12 large-12" style="">
+<div class="column adnuntius-ad small-12 large-12 display-label large-12 small-12" style="" data-element-guid="0b56bc55-82dd-488c-e9a9-10dd96a11671">
     <div id="adn-00000000000df8dc" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -1261,7 +1261,7 @@ Nyheter
     
     <div class="content" style="">
         
-        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/fedje-haugesund-kystverket/skal-undersoke-ubatvrak-igjen/475498" data-k5a-url="https://www.forsvaretsforum.no/a/475498" rel="">
+        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/ukraina-ukraina-krigen-utenriks/han-blir-zelenskyjs-nye-stabssjef/475626" data-k5a-url="https://www.forsvaretsforum.no/a/475626" rel="">
 
 
         <div class="media desktop-floatNone mobile-floatNone">
@@ -1270,29 +1270,110 @@ Nyheter
                 <figure data-element-guid="3a0562f9-28f5-4b69-e2b5-7e585400106a" class="desktop-floatNone mobile-floatNone" >
     <div class="img fullwidthTarget">
         <picture>
-            <source srcset="https://image.forsvaretsforum.no/475503.jpg?imageId=475503&panox=0.00&panoy=17.05&panow=100.00&panoh=59.45&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=1048&height=536&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/475639.jpg?imageId=475639&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=29.62&heighty=0.00&heightw=41.43&heighth=100.00&width=1048&height=536&format=webp&format=webp" 
                 width="524"
                 height="268"
                 media="(min-width: 768px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475503.jpg?imageId=475503&panox=0.00&panoy=17.05&panow=100.00&panoh=59.45&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=1048&height=536&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/475639.jpg?imageId=475639&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=29.62&heighty=0.00&heightw=41.43&heighth=100.00&width=1048&height=536&format=webp&format=jpg" 
                 width="524"
                 height="268"
                 media="(min-width: 768px)"
                 type="image/jpeg">    
-            <source srcset="https://image.forsvaretsforum.no/475503.jpg?imageId=475503&panox=0.00&panoy=17.05&panow=100.00&panoh=59.45&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=474&height=242&format=webp&format=webp" 
+            <source srcset="https://image.forsvaretsforum.no/475639.jpg?imageId=475639&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=29.62&heighty=0.00&heightw=41.43&heighth=100.00&width=474&height=242&format=webp&format=webp" 
                 width="237"
                 height="121"
                 media="(max-width: 767px)"
                 type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475503.jpg?imageId=475503&panox=0.00&panoy=17.05&panow=100.00&panoh=59.45&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=474&height=242&format=webp&format=jpg" 
+            <source srcset="https://image.forsvaretsforum.no/475639.jpg?imageId=475639&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=29.62&heighty=0.00&heightw=41.43&heighth=100.00&width=474&height=242&format=webp&format=jpg" 
                 width="237"
                 height="121"
                 media="(max-width: 767px)"
                 type="image/jpeg">    
-            <img src="https://image.forsvaretsforum.no/475503.jpg?imageId=475503&panox=0.00&panoy=17.05&panow=100.00&panoh=59.45&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=474&height=242&format=webp&format=jpg"
+            <img src="https://image.forsvaretsforum.no/475639.jpg?imageId=475639&panox=0.00&panoy=0.00&panow=100.00&panoh=71.67&heightx=29.62&heighty=0.00&heightw=41.43&heighth=100.00&width=474&height=242&format=webp&format=jpg"
                 width="237"
                 height="121"
+                title="Han blir Zelenskyjs nye stabssjef"
+                alt="" 
+                loading="lazy"
+                style=""    
+                >
+        </picture>        
+            </div>
+    
+</figure>
+
+                
+                
+                
+                
+                
+                
+                
+            
+            <div class="floatingText">
+
+                <div class="labels">
+                </div>
+            </div>
+            
+
+        </div>
+
+
+        
+            <h2 itemprop="headline" 
+    class="headline t45 tm20"
+    style=""
+    >Han blir Zelenskyjs nye stabssjef
+</h2>
+
+        
+
+
+
+
+        </a>
+
+        <time itemprop="datePublished" datetime="2026-01-02T15:00:14+01:00"></time>
+    </div>
+</article>
+<article data-element-guid="99e350bc-7933-4b9d-8f5e-3505828bde41" class="column small-6 large-6 small-abs-6 large-abs-6 " data-site-alias="forsvaretsforum" data-section="nyheter" data-instance="100125" data-image-float="floatNone" itemscope>
+    
+    <div class="content" style="">
+        
+        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/fedje-haugesund-kystverket/skal-undersoke-ubatvrak-igjen/475498" data-k5a-url="https://www.forsvaretsforum.no/a/475498" rel="">
+
+
+        <div class="media desktop-floatNone mobile-floatNone">
+                
+
+                <figure data-element-guid="c1125064-c879-4235-8b7d-ae89d7013a4e" class="desktop-floatNone mobile-floatNone" >
+    <div class="img fullwidthTarget">
+        <picture>
+            <source srcset="https://image.forsvaretsforum.no/475503.jpg?imageId=475503&panox=0.00&panoy=17.05&panow=100.00&panoh=59.45&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=1042&height=534&format=webp&format=webp" 
+                width="521"
+                height="267"
+                media="(min-width: 768px)"
+                type="image/webp">    
+            <source srcset="https://image.forsvaretsforum.no/475503.jpg?imageId=475503&panox=0.00&panoy=17.05&panow=100.00&panoh=59.45&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=1042&height=534&format=webp&format=jpg" 
+                width="521"
+                height="267"
+                media="(min-width: 768px)"
+                type="image/jpeg">    
+            <source srcset="https://image.forsvaretsforum.no/475503.jpg?imageId=475503&panox=0.00&panoy=17.05&panow=100.00&panoh=59.45&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=474&height=244&format=webp&format=webp" 
+                width="237"
+                height="122"
+                media="(max-width: 767px)"
+                type="image/webp">    
+            <source srcset="https://image.forsvaretsforum.no/475503.jpg?imageId=475503&panox=0.00&panoy=17.05&panow=100.00&panoh=59.45&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=474&height=244&format=webp&format=jpg" 
+                width="237"
+                height="122"
+                media="(max-width: 767px)"
+                type="image/jpeg">    
+            <img src="https://image.forsvaretsforum.no/475503.jpg?imageId=475503&panox=0.00&panoy=17.05&panow=100.00&panoh=59.45&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=474&height=244&format=webp&format=jpg"
+                width="237"
+                height="122"
                 title="Skal undersøke ubåtvrak igjen"
                 alt="" 
                 loading="lazy"
@@ -1336,87 +1417,6 @@ Nyheter
         </a>
 
         <time itemprop="datePublished" datetime="2026-01-02T10:06:40+01:00"></time>
-    </div>
-</article>
-<article data-element-guid="99e350bc-7933-4b9d-8f5e-3505828bde41" class="column small-6 large-6 small-abs-6 large-abs-6 " data-site-alias="forsvaretsforum" data-section="nyheter" data-instance="100125" data-image-float="floatNone" itemscope>
-    
-    <div class="content" style="">
-        
-        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/forsvar-norden-norge/overtar-ledelsen-av-forsvarssamarbeid/475441" data-k5a-url="https://www.forsvaretsforum.no/a/475441" rel="">
-
-
-        <div class="media desktop-floatNone mobile-floatNone">
-                
-
-                <figure data-element-guid="c1125064-c879-4235-8b7d-ae89d7013a4e" class="desktop-floatNone mobile-floatNone" >
-    <div class="img fullwidthTarget">
-        <picture>
-            <source srcset="https://image.forsvaretsforum.no/475469.jpg?imageId=475469&panox=0.00&panoy=8.61&panow=100.00&panoh=71.67&heightx=32.48&heighty=0.00&heightw=41.43&heighth=100.00&width=1042&height=534&format=webp&format=webp" 
-                width="521"
-                height="267"
-                media="(min-width: 768px)"
-                type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475469.jpg?imageId=475469&panox=0.00&panoy=8.61&panow=100.00&panoh=71.67&heightx=32.48&heighty=0.00&heightw=41.43&heighth=100.00&width=1042&height=534&format=webp&format=jpg" 
-                width="521"
-                height="267"
-                media="(min-width: 768px)"
-                type="image/jpeg">    
-            <source srcset="https://image.forsvaretsforum.no/475469.jpg?imageId=475469&panox=0.00&panoy=8.61&panow=100.00&panoh=71.67&heightx=32.48&heighty=0.00&heightw=41.43&heighth=100.00&width=474&height=244&format=webp&format=webp" 
-                width="237"
-                height="122"
-                media="(max-width: 767px)"
-                type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475469.jpg?imageId=475469&panox=0.00&panoy=8.61&panow=100.00&panoh=71.67&heightx=32.48&heighty=0.00&heightw=41.43&heighth=100.00&width=474&height=244&format=webp&format=jpg" 
-                width="237"
-                height="122"
-                media="(max-width: 767px)"
-                type="image/jpeg">    
-            <img src="https://image.forsvaretsforum.no/475469.jpg?imageId=475469&panox=0.00&panoy=8.61&panow=100.00&panoh=71.67&heightx=32.48&heighty=0.00&heightw=41.43&heighth=100.00&width=474&height=244&format=webp&format=jpg"
-                width="237"
-                height="122"
-                title="Overtar ledelsen av forsvarssamarbeid"
-                alt="" 
-                loading="lazy"
-                style=""    
-                >
-        </picture>        
-            </div>
-    
-</figure>
-
-                
-                
-                
-                
-                
-                
-                
-            
-            <div class="floatingText">
-
-                <div class="labels">
-                </div>
-            </div>
-            
-
-        </div>
-
-
-        
-            <h2 itemprop="headline" 
-    class="headline t45 tm20"
-    style=""
-    >Overtar ledelsen av forsvarssamarbeid
-</h2>
-
-        
-
-
-
-
-        </a>
-
-        <time itemprop="datePublished" datetime="2026-01-02T08:31:08+01:00"></time>
     </div>
 </article>
 </div>
@@ -1559,13 +1559,94 @@ Nyheter
     
     <div class="content" style="">
         
-        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/danmark-gronland-usa/regjeringssjef-gronland-kan-ikke-annekteres/475448" data-k5a-url="https://www.forsvaretsforum.no/a/475448" rel="">
+        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/forsvar-norden-norge/overtar-ledelsen-av-forsvarssamarbeid/475441" data-k5a-url="https://www.forsvaretsforum.no/a/475441" rel="">
 
 
         <div class="media desktop-floatNone mobile-floatRight">
                 
 
                 <figure data-element-guid="1150a477-6e18-4245-c031-99daeed7d73f" class="desktop-floatNone mobile-floatRight" >
+    <div class="img fullwidthTarget">
+        <picture>
+            <source srcset="https://image.forsvaretsforum.no/475469.jpg?imageId=475469&panox=0.00&panoy=8.61&panow=100.00&panoh=71.67&heightx=32.48&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=webp" 
+                width="332"
+                height="213"
+                media="(min-width: 768px)"
+                type="image/webp">    
+            <source srcset="https://image.forsvaretsforum.no/475469.jpg?imageId=475469&panox=0.00&panoy=8.61&panow=100.00&panoh=71.67&heightx=32.48&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=jpg" 
+                width="332"
+                height="213"
+                media="(min-width: 768px)"
+                type="image/jpeg">    
+            <source srcset="https://image.forsvaretsforum.no/475469.jpg?imageId=475469&panox=0.00&panoy=8.61&panow=100.00&panoh=71.67&heightx=32.48&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=webp" 
+                width="101"
+                height="88"
+                media="(max-width: 767px)"
+                type="image/webp">    
+            <source srcset="https://image.forsvaretsforum.no/475469.jpg?imageId=475469&panox=0.00&panoy=8.61&panow=100.00&panoh=71.67&heightx=32.48&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=jpg" 
+                width="101"
+                height="88"
+                media="(max-width: 767px)"
+                type="image/jpeg">    
+            <img src="https://image.forsvaretsforum.no/475469.jpg?imageId=475469&panox=0.00&panoy=8.61&panow=100.00&panoh=71.67&heightx=32.48&heighty=0.00&heightw=41.43&heighth=100.00&width=202&height=176&format=webp&format=jpg"
+                width="101"
+                height="88"
+                title="Overtar ledelsen av forsvarssamarbeid"
+                alt="" 
+                loading="lazy"
+                style=""    
+                >
+        </picture>        
+            </div>
+    
+</figure>
+
+                
+                
+                
+                
+                
+                
+                
+            
+            <div class="floatingText">
+
+                <div class="labels">
+                </div>
+            </div>
+            
+
+        </div>
+
+
+        
+            <h2 itemprop="headline" 
+    class="headline t30 tm20"
+    style=""
+    >Overtar ledelsen av forsvarssamarbeid
+</h2>
+
+        
+
+
+
+
+        </a>
+
+        <time itemprop="datePublished" datetime="2026-01-02T08:31:08+01:00"></time>
+    </div>
+</article>
+<article data-element-guid="ddff46aa-261b-4da1-fd4f-3a744f462b3b" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="forsvaretsforum" data-section="nyheter" data-instance="131115" data-image-float="floatNone" itemscope>
+    
+    <div class="content" style="">
+        
+        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/danmark-gronland-usa/regjeringssjef-gronland-kan-ikke-annekteres/475448" data-k5a-url="https://www.forsvaretsforum.no/a/475448" rel="">
+
+
+        <div class="media desktop-floatNone mobile-floatRight">
+                
+
+                <figure data-element-guid="7f9982eb-ea3f-4652-b1b0-47943679ca3b" class="desktop-floatNone mobile-floatRight" >
     <div class="img fullwidthTarget">
         <picture>
             <source srcset="https://image.forsvaretsforum.no/475454.jpg?imageId=475454&panox=0.00&panoy=12.50&panow=100.00&panoh=71.67&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=664&height=426&format=webp&format=webp" 
@@ -1636,7 +1717,7 @@ Nyheter
         <time itemprop="datePublished" datetime="2026-01-02T08:24:36+01:00"></time>
     </div>
 </article>
-<article data-element-guid="ddff46aa-261b-4da1-fd4f-3a744f462b3b" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="forsvaretsforum" data-section="nyheter" data-instance="131115" data-image-float="floatNone" itemscope>
+<article data-element-guid="bb8cd3ee-870f-4d86-c028-39665b17b996" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="forsvaretsforum" data-section="nyheter" data-instance="131113" data-image-float="floatNone" itemscope>
     
     <div class="content" style="">
         
@@ -1646,7 +1727,7 @@ Nyheter
         <div class="media desktop-floatNone mobile-floatRight">
                 
 
-                <figure data-element-guid="7f9982eb-ea3f-4652-b1b0-47943679ca3b" class="desktop-floatNone mobile-floatRight" >
+                <figure data-element-guid="1f8e3fd4-5439-4706-fb71-29af5fe3a995" class="desktop-floatNone mobile-floatRight" >
     <div class="img fullwidthTarget">
         <picture>
             <source srcset="https://image.forsvaretsforum.no/310060.jpg?imageId=310060&panox=0.00&panoy=13.61&panow=100.00&panoh=71.67&heightx=29.94&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=webp" 
@@ -1717,17 +1798,18 @@ Nyheter
         <time itemprop="datePublished" datetime="2026-01-02T07:55:25+01:00"></time>
     </div>
 </article>
-<article data-element-guid="bb8cd3ee-870f-4d86-c028-39665b17b996" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="forsvaretsforum" data-section="nyheter" data-instance="131113" data-image-float="floatNone" itemscope>
+</div>
+<div data-element-guid="db436e9d-e1d6-437d-f10c-4a80a8e0c5a1" class="row small-12 large-12 mobile_no_border_side" style=""><article data-element-guid="256ca091-4578-4996-c164-021cf2165fb4" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="forsvaretsforum" data-section="nyheter" data-instance="100133" itemscope>
     
     <div class="content" style="">
         
         <a itemprop="url" class="" href="https://www.forsvaretsforum.no/missil-transport-usa/us-navy-jakter-nye-jernbanevogner-for-missiler-uten-aktivt-stridshode/472134" data-k5a-url="https://www.forsvaretsforum.no/a/472134" rel="">
 
 
-        <div class="media desktop-floatNone mobile-floatRight">
+        <div class="media mobile-floatRight">
                 
 
-                <figure data-element-guid="1f8e3fd4-5439-4706-fb71-29af5fe3a995" class="desktop-floatNone mobile-floatRight" >
+                <figure data-element-guid="55d18483-4b9e-4dc4-c302-fe45101b06be" class="mobile-floatRight" >
     <div class="img fullwidthTarget">
         <picture>
             <source srcset="https://image.forsvaretsforum.no/472146.jpg?imageId=472146&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=664&height=426&format=webp&format=webp" 
@@ -1798,8 +1880,7 @@ Nyheter
         <time itemprop="datePublished" datetime="2026-01-02T05:41:00+01:00"></time>
     </div>
 </article>
-</div>
-<div data-element-guid="db436e9d-e1d6-437d-f10c-4a80a8e0c5a1" class="row small-12 large-12 mobile_no_border_side" style=""><article data-element-guid="256ca091-4578-4996-c164-021cf2165fb4" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="forsvaretsforum" data-section="nyheter" data-instance="100133" itemscope>
+<article data-element-guid="5eb9024d-3962-4ac8-8858-645887a5fb5a" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="forsvaretsforum" data-section="nyheter" data-instance="100129" itemscope>
     
     <div class="content" style="">
         
@@ -1809,7 +1890,7 @@ Nyheter
         <div class="media mobile-floatRight">
                 
 
-                <figure data-element-guid="55d18483-4b9e-4dc4-c302-fe45101b06be" class="mobile-floatRight" >
+                <figure data-element-guid="7d4ce0da-53ad-4aae-d0d7-92e6eddcb1c3" class="mobile-floatRight" >
     <div class="img fullwidthTarget">
         <picture>
             <source srcset="https://image.forsvaretsforum.no/475367.jpg?imageId=475367&panox=0.00&panoy=10.50&panow=100.00&panoh=71.27&heightx=39.81&heighty=0.00&heightw=41.43&heighth=100.00&width=664&height=426&format=webp&format=webp" 
@@ -1880,7 +1961,7 @@ Nyheter
         <time itemprop="datePublished" datetime="2026-01-01T11:59:47+01:00"></time>
     </div>
 </article>
-<article data-element-guid="5eb9024d-3962-4ac8-8858-645887a5fb5a" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="forsvaretsforum" data-section="nyheter" data-instance="100129" itemscope>
+<article data-element-guid="3eb58618-2d30-4457-91f3-86dc3809a859" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="forsvaretsforum" data-section="nyheter" data-instance="100131" itemscope>
     
     <div class="content" style="">
         
@@ -1890,7 +1971,7 @@ Nyheter
         <div class="media mobile-floatRight">
                 
 
-                <figure data-element-guid="7d4ce0da-53ad-4aae-d0d7-92e6eddcb1c3" class="mobile-floatRight" >
+                <figure data-element-guid="6b1106d0-f7de-42c9-d55d-a2e4e599a350" class="mobile-floatRight" >
     <div class="img fullwidthTarget">
         <picture>
             <source srcset="https://image.forsvaretsforum.no/475420.jpg?imageId=475420&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=664&height=426&format=webp&format=webp" 
@@ -1959,87 +2040,6 @@ Nyheter
         </a>
 
         <time itemprop="datePublished" datetime="2026-01-01T09:57:46+01:00"></time>
-    </div>
-</article>
-<article data-element-guid="3eb58618-2d30-4457-91f3-86dc3809a859" class="column small-12 large-4 small-abs-12 large-abs-4 " data-site-alias="forsvaretsforum" data-section="nyheter" data-instance="100131" itemscope>
-    
-    <div class="content" style="">
-        
-        <a itemprop="url" class="" href="https://www.forsvaretsforum.no/kim-jong-un-nord-korea-russland/kim-jong-un-hyllet-landets-soldater-i-nyttarstale/475403" data-k5a-url="https://www.forsvaretsforum.no/a/475403" rel="">
-
-
-        <div class="media mobile-floatRight">
-                
-
-                <figure data-element-guid="6b1106d0-f7de-42c9-d55d-a2e4e599a350" class="mobile-floatRight" >
-    <div class="img fullwidthTarget">
-        <picture>
-            <source srcset="https://image.forsvaretsforum.no/475408.jpg?imageId=475408&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=664&height=426&format=webp&format=webp" 
-                width="332"
-                height="213"
-                media="(min-width: 768px)"
-                type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475408.jpg?imageId=475408&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=664&height=426&format=webp&format=jpg" 
-                width="332"
-                height="213"
-                media="(min-width: 768px)"
-                type="image/jpeg">    
-            <source srcset="https://image.forsvaretsforum.no/475408.jpg?imageId=475408&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=202&height=176&format=webp&format=webp" 
-                width="101"
-                height="88"
-                media="(max-width: 767px)"
-                type="image/webp">    
-            <source srcset="https://image.forsvaretsforum.no/475408.jpg?imageId=475408&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=202&height=176&format=webp&format=jpg" 
-                width="101"
-                height="88"
-                media="(max-width: 767px)"
-                type="image/jpeg">    
-            <img src="https://image.forsvaretsforum.no/475408.jpg?imageId=475408&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=202&height=176&format=webp&format=jpg"
-                width="101"
-                height="88"
-                title="Kim Jong-un hyllet landets soldater i nyttårstale"
-                alt="" 
-                loading="lazy"
-                style=""    
-                >
-        </picture>        
-            </div>
-    
-</figure>
-
-                
-                
-                
-                
-                
-                
-                
-            
-            <div class="floatingText">
-
-                <div class="labels">
-                </div>
-            </div>
-            
-
-        </div>
-
-
-        
-            <h2 itemprop="headline" 
-    class="headline t30 tm20"
-    style=""
-    >Kim Jong-un hyllet landets soldater i nyttårstale
-</h2>
-
-        
-
-
-
-
-        </a>
-
-        <time itemprop="datePublished" datetime="2026-01-01T08:37:10+01:00"></time>
     </div>
 </article>
 </div>
@@ -2621,9 +2621,9 @@ Nyheter
 
                 </section>
             </main>
-            <div data-element-guid="45654d07-cbfe-4d2d-bde9-d550906394cf" class="placeholder placement-left">
+            <div data-element-guid="3a5be2c6-79ef-4cec-b578-6c1528ae5bdc" class="placeholder placement-left">
 
-<div class="column adnuntius-ad small-12 large-12 sticky display-label" style="top: 120px;" data-element-guid="6b1eedeb-f8de-40a9-d3b5-72794b15654e">
+<div class="column adnuntius-ad small-12 large-12 sticky display-label" style="top: 120px;" data-element-guid="cbbc619c-5196-45e3-ad75-6e92c8ba53c5">
     <div id="adn-00000000000df8e1" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -2631,9 +2631,9 @@ Nyheter
 
 
 </div>
-            <div data-element-guid="bae46ab9-1d59-4ec0-c40e-f7b2ed6c3d03" class="placeholder placement-right">
+            <div data-element-guid="e68d2b23-edab-42a2-b81b-bd850465a6e6" class="placeholder placement-right">
 
-<div class="column adnuntius-ad small-12 large-12 sticky display-label" style="top: 120px;" data-element-guid="329182bc-aa17-4585-e642-8acfdb702105">
+<div class="column adnuntius-ad small-12 large-12 sticky display-label" style="top: 120px;" data-element-guid="24c565e8-a5ad-4e6f-ef05-0e312f5edd7e">
     <div id="adn-00000000000df8e0" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>

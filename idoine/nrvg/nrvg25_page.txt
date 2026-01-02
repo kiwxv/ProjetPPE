@@ -363,4 +363,4 @@ var wpcf7_recaptcha = {
 </script>
 <script type="text/javascript" src="https://www.nordnesgruppen.no/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.4" id="wpcf7-recaptcha-js"></script>
 </body>
-</html><!-- WP Fastest Cache file was created in 0.477 seconds, on January 1, 2026 @ 3:17 pm --><!-- need to refresh to see cached version -->
+</html><!-- WP Fastest Cache file was created in 0.477 seconds, on January 1, 2026 @ 3:17 pm -->

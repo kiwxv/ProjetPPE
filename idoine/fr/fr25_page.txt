@@ -57,13 +57,13 @@ Barom&egrave;tre OpinionWay pour Leasys &ndash; tendances et d&eacute;fis de la 
     
                     <link rel="canonical" href="https://www.media.stellantis.com/fr-fr/leasys/press/3-dirigeants-sur-5-prets-a-faire-evoluer-leur-flotte-le-tournant-des-mobilites-s-intensifie-sous-la-pression-reglementaire" />
     
-    <!-- server: xemdub07wbxp210.idm.stellantis.com -->
+    <!-- server: xemdub07wbxp220.idm.stellantis.com -->
 
     <script>
                                         
                 
     window.SPA_PAGE_CONTEXT = {
-        ss_event_id: "1766739923.4c65a428d6",
+        ss_event_id: "1767181616.fc0b5ae32a",
         country: 'fr',
         language: 'fr',
         brand: 'leasys',

@@ -34,8 +34,8 @@
 	<link rel="alternate" type="text/html" lang="en-GB" title="Feed barges" hreflang="en-GB" href="https://www.akvagroup.com/sea-based/precision-feeding/feed-barges/" />
 	<link rel="alternate" type="text/html" lang="no-NO" title="Fôrflåter" hreflang="no-NO" href="https://www.akvagroup.no/forflater/" />
 
-	<script src="https://www.akvagroup.no/corepublish/cplib-common/corepublish.js?appver=021d7f73a6" nonce="8a2f69dc51" async="async"></script>
-	<script nonce="8a2f69dc51" data-ctnsh="257dbba2ef8e5ac80425a6c054f712b2" id="cpstartupscript">
+	<script src="https://www.akvagroup.no/corepublish/cplib-common/corepublish.js?appver=021d7f73a6" nonce="de691ca8f6" async="async"></script>
+	<script nonce="de691ca8f6" data-ctnsh="38ec3b15beb3aa9a25e085070bf25dd6" id="cpstartupscript">
 	<!--
 	if (typeof window.corepublish === 'undefined') { window.corepublish = {}; } 
   window.corepublish.mode = 'cplib'; 
@@ -51,13 +51,13 @@
 	-->
 	</script>
 
-<script nonce="8a2f69dc51">
+<script nonce="de691ca8f6">
 
 
 window.dataLayer = window.dataLayer || [];
 
 var f = document.getElementsByTagName('script')[0],j = document.createElement('script');
-j.async = true;j.setAttribute('nonce', '8a2f69dc51');j.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-KQDF2P4J';f.parentNode.insertBefore(j, f);
+j.async = true;j.setAttribute('nonce', 'de691ca8f6');j.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-KQDF2P4J';f.parentNode.insertBefore(j, f);
 
 var hasCustomConfig = false;
 
@@ -205,7 +205,7 @@ function addToDataLayer(configData) {
                                     
                     
         
-                    <script nonce="8a2f69dc51">
+                    <script nonce="de691ca8f6">
             ctRunWhenCplibLoaded(function () {
                 setWord('languageselectortile.back', 'Tilbake');
             });
@@ -213,7 +213,7 @@ function addToDataLayer(configData) {
 
         <div class="nav-item">
             <span>
-                <a href="#element_8db1a21c_1" data-toggle="collapse" class="toggle-link nav-link collapsed" aria-expanded="false">
+                <a href="#element_fcba5ba0_1" data-toggle="collapse" class="toggle-link nav-link collapsed" aria-expanded="false">
                     <i class="icon zmdi zmdi-globe zmdi-hc-lg"></i>
                     Language                     <i class="icon zmdi zmdi-chevron-down zmdi-hc-lg"></i>
                 </a>
@@ -221,7 +221,7 @@ function addToDataLayer(configData) {
         </div>
 
             
-        <div class="language-content  collapse" id="element_8db1a21c_1">
+        <div class="language-content  collapse" id="element_fcba5ba0_1">
             <ul class="nav">
                                                                                                                                                         <li class="nav-item entitylink"><span><a href="https://www.akvagroup.com/sea-based/precision-feeding/feed-barges/" target="_self" lang="en-GB">Show this page in English</a></span></li>
                                                     
@@ -321,7 +321,7 @@ function addToDataLayer(configData) {
                     <input type="hidden" name="categoryID" value="14" />
                     <input type="hidden" name="tileInstanceId" value="2382" />
                                                                     <div class="has-clear-input">
-                            <input autocomplete="off" placeholder="Hva leter du etter?" title="Hva leter du etter?" id="searchBar_element_f9316b25_2" class="searchBar has-clear" type="text" name="q" value="" />
+                            <input autocomplete="off" placeholder="Hva leter du etter?" title="Hva leter du etter?" id="searchBar_element_7e8bfb3e_2" class="searchBar has-clear" type="text" name="q" value="" />
                             <span class="clear-input d-none"><i class="icon zmdi zmdi-close"></i></span>
                         </div>
                         <button type="submit" class="search">
@@ -659,7 +659,7 @@ function addToDataLayer(configData) {
     
 
                                                                     
-            <div class="tile-common mobilemenu d-print-none " data-linkUrl='https://www.akvagroup.no/' data-ajaxUrl='https://www.akvagroup.no/service.php?service=frontend.category.menu&amp;__anticsrftoken=cpxt27dda5e631ca4cc3df32d200dbd8e91a&amp;v=2' data-backlabel='Tilbake' >
+            <div class="tile-common mobilemenu d-print-none " data-linkUrl='https://www.akvagroup.no/' data-ajaxUrl='https://www.akvagroup.no/service.php?service=frontend.category.menu&amp;__anticsrftoken=cpxt91af1235cb5241d235516511abe9ce3f&amp;v=2' data-backlabel='Tilbake' >
     
      
             <div class="tile-content " data-activelevel="3">
@@ -790,7 +790,7 @@ function addToDataLayer(configData) {
                                     
                     
         
-                    <script nonce="8a2f69dc51">
+                    <script nonce="de691ca8f6">
             ctRunWhenCplibLoaded(function () {
                 setWord('languageselectortile.back', 'Tilbake');
             });
@@ -798,7 +798,7 @@ function addToDataLayer(configData) {
 
         <div class="nav-item">
             <span>
-                <a href="#element_3fe5abdf_3" data-toggle="collapse" class="toggle-link nav-link collapsed" aria-expanded="false">
+                <a href="#element_6d9fcfce_3" data-toggle="collapse" class="toggle-link nav-link collapsed" aria-expanded="false">
                     <i class="icon zmdi zmdi-globe zmdi-hc-lg"></i>
                     Language                     <i class="icon zmdi zmdi-chevron-down zmdi-hc-lg"></i>
                 </a>
@@ -806,7 +806,7 @@ function addToDataLayer(configData) {
         </div>
 
             
-        <div class="language-content  collapse" id="element_3fe5abdf_3">
+        <div class="language-content  collapse" id="element_6d9fcfce_3">
             <ul class="nav">
                                                                                                                                                         <li class="nav-item entitylink"><span><a href="https://www.akvagroup.com/sea-based/precision-feeding/feed-barges/" target="_self" lang="en-GB">Show this page in English</a></span></li>
                                                                                             <li class="nav-item entitylink"><span><a href="https://www.akvagroup.no/forflater/" target="_self" class="active" lang="no-NO">Vis denne siden på norsk</a></span></li>
@@ -1136,7 +1136,7 @@ function addToDataLayer(configData) {
 </div>
 </div></div></div>
             <div class="articleelement linkcollection openclosearticles open-close-togglelist" id="openclosearticles-33624"><ul class="articles list-unstyled"><li><article class="open-close collapsed article list-view " vocab="http://schema.org/" typeof="Question" data-articleId="2997" data-templateId="14">
-    <h3  property="headline"><a class="collapsed" data-parent="#openclosearticles-33624" data-toggle="collapse" aria-expanded="false" aria-controls="open-close-article_9e920fcd_4" href="#open-close-article_9e920fcd_4" ><span class="text">Våre modeller</span><span class="icon"><i class="icon zmdi zmdi-chevron-down sc-zmdi-primary zmdi-hc-lg" aria-hidden="true"></i></span></a></h3>    <div id="open-close-article_9e920fcd_4" class="open-close-content-wrapper collapse">
+    <h3  property="headline"><a class="collapsed" data-parent="#openclosearticles-33624" data-toggle="collapse" aria-expanded="false" aria-controls="open-close-article_10987ac6_4" href="#open-close-article_10987ac6_4" ><span class="text">Våre modeller</span><span class="icon"><i class="icon zmdi zmdi-chevron-down sc-zmdi-primary zmdi-hc-lg" aria-hidden="true"></i></span></a></h3>    <div id="open-close-article_10987ac6_4" class="open-close-content-wrapper collapse">
         <div class="articleelement newtext answer ckeditor"  property="articleBody"   id="answer-33633"><p><strong><span><span><span>AJ96</span></span></span></strong></p>
 
 <ul>
@@ -1611,30 +1611,30 @@ function addToDataLayer(configData) {
                                     
 
 <div class="show-email">
-    <a class="show-link" href="#" data-toggle="modal" data-target="#modal-element_55f4f2bf_5">e-post<i class="icon zmdi zmdi-chevron-right zmdi-hc-lg sc-zmdi-primary"></i></a>
-    <div class="modal fade" id="modal-element_55f4f2bf_5" tabindex="-1" role="dialog" aria-labelledby="modal-element_55f4f2bf_5-title" aria-hidden="true">
+    <a class="show-link" href="#" data-toggle="modal" data-target="#modal-element_d7bd5357_5">e-post<i class="icon zmdi zmdi-chevron-right zmdi-hc-lg sc-zmdi-primary"></i></a>
+    <div class="modal fade" id="modal-element_d7bd5357_5" tabindex="-1" role="dialog" aria-labelledby="modal-element_d7bd5357_5-title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h4 class="modal-title header-border-style" id="modal-element_55f4f2bf_5-title">E-post</h4>
+                    <h4 class="modal-title header-border-style" id="modal-element_d7bd5357_5-title">E-post</h4>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Lukk">
                         <span aria-hidden="true"><i class="icon zmdi zmdi-close zmdi-hc-lg"></i></span>
                     </button>
                 </div>
                 <div class="modal-body">
-                    <span id="modal-element_55f4f2bf_5-email" class="email" property="email"><script nonce="8a2f69dc51"> {
+                    <span id="modal-element_d7bd5357_5-email" class="email" property="email"><script nonce="de691ca8f6"> {
 <!--
-var GZRSYQPTFAHKJZEXFLNT=Array(78705,86655,96195,90630,91425,92220,77115,79500,50880,77115,85065,93810,77115,81885,90630,88245,93015,89040,36570,78705,88245,86655);var GZRSYQPTFAHKJZEXFLNTz="";for (var i=0;i<GZRSYQPTFAHKJZEXFLNT.length;i++) { GZRSYQPTFAHKJZEXFLNTz += String.fromCharCode(GZRSYQPTFAHKJZEXFLNT[i]/795);}document.write(GZRSYQPTFAHKJZEXFLNTz);}
+var YFXBMAXMLIURTRVNDGVD=Array(1036,1047,1060,1054,1056,1058,1040,1044,1009,1043,1054,1066,1046,1053,1065,1063,1070,1066,1001,1055,1068,1067);var YFXBMAXMLIURTRVNDGVDz="";for (var i=0;i<YFXBMAXMLIURTRVNDGVD.length;i++) { YFXBMAXMLIURTRVNDGVDz += String.fromCharCode(YFXBMAXMLIURTRVNDGVD[i]-i-937);}document.write(YFXBMAXMLIURTRVNDGVDz);}
 // -->
 </script></span>
                 </div>
                 <div class="modal-footer justify-content-center">
-                                            <script nonce="8a2f69dc51"> {
+                                            <script nonce="de691ca8f6"> {
 <!--
-var KEUFDGRKRXOIEQZXGXXF=Array(32967,36297,40293,37962,38295,38628,32301,33300,21312,32301,35631,39294,32301,34299,37962,36963,38961,37296,15318,32967,36963,36297);var KEUFDGRKRXOIEQZXGXXFz="";for (var i=0;i<KEUFDGRKRXOIEQZXGXXF.length;i++) { KEUFDGRKRXOIEQZXGXXFz += String.fromCharCode(KEUFDGRKRXOIEQZXGXXF[i]/333);}document.write('<a class="btn btn-primary" href="m'+'a'+'i'+'l'+'t'+'o'+':'+KEUFDGRKRXOIEQZXGXXFz+'"><span>');document.write('Send e-post');document.write('</span></a>');}
+var RVQSKLEDFROKQRZMMFTT=Array(77022,84802,94138,88692,89470,90248,75466,77800,49792,75466,83246,91804,75466,80134,88692,86358,91026,87136,35788,77022,86358,84802);var RVQSKLEDFROKQRZMMFTTz="";for (var i=0;i<RVQSKLEDFROKQRZMMFTT.length;i++) { RVQSKLEDFROKQRZMMFTTz += String.fromCharCode(RVQSKLEDFROKQRZMMFTT[i]/778);}document.write('<a class="btn btn-primary" href="m'+'a'+'i'+'l'+'t'+'o'+':'+RVQSKLEDFROKQRZMMFTTz+'"><span>');document.write('Send e-post');document.write('</span></a>');}
 // -->
 </script>
-                                        <button type="button" class="btn btn-outline-primary" data-copytarget="modal-element_55f4f2bf_5-email">Kopier e-post</button>
+                                        <button type="button" class="btn btn-outline-primary" data-copytarget="modal-element_d7bd5357_5-email">Kopier e-post</button>
                 </div>
             </div>
         </div>
@@ -1660,30 +1660,30 @@ var KEUFDGRKRXOIEQZXGXXF=Array(32967,36297,40293,37962,38295,38628,32301,33300,2
                                     
 
 <div class="show-email">
-    <a class="show-link" href="#" data-toggle="modal" data-target="#modal-element_822942ed_6">e-post<i class="icon zmdi zmdi-chevron-right zmdi-hc-lg sc-zmdi-primary"></i></a>
-    <div class="modal fade" id="modal-element_822942ed_6" tabindex="-1" role="dialog" aria-labelledby="modal-element_822942ed_6-title" aria-hidden="true">
+    <a class="show-link" href="#" data-toggle="modal" data-target="#modal-element_0eb7d26c_6">e-post<i class="icon zmdi zmdi-chevron-right zmdi-hc-lg sc-zmdi-primary"></i></a>
+    <div class="modal fade" id="modal-element_0eb7d26c_6" tabindex="-1" role="dialog" aria-labelledby="modal-element_0eb7d26c_6-title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h4 class="modal-title header-border-style" id="modal-element_822942ed_6-title">E-post</h4>
+                    <h4 class="modal-title header-border-style" id="modal-element_0eb7d26c_6-title">E-post</h4>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Lukk">
                         <span aria-hidden="true"><i class="icon zmdi zmdi-close zmdi-hc-lg"></i></span>
                     </button>
                 </div>
                 <div class="modal-body">
-                    <span id="modal-element_822942ed_6-email" class="email" property="email"><script nonce="8a2f69dc51"> {
+                    <span id="modal-element_0eb7d26c_6-email" class="email" property="email"><script nonce="de691ca8f6"> {
 <!--
-var GQWJRDGHQWSZESRVNRAT=Array(9327,9318,9317,9319,9336,9323,9333,9369,9336,9326,9315,9336,9330,9319,9322,9316,9321,9387,9334,9322,9324);var GQWJRDGHQWSZESRVNRATz="";for (var i=0;i<GQWJRDGHQWSZESRVNRAT.length;i++) { GQWJRDGHQWSZESRVNRATz += String.fromCharCode(9433-GQWJRDGHQWSZESRVNRAT[i]);}document.write(GQWJRDGHQWSZESRVNRATz);}
+var XOTJVAIVOPRHTAKSCYLI=Array(9322,9313,9312,9314,9331,9318,9328,9364,9331,9321,9310,9331,9325,9314,9317,9311,9316,9382,9329,9317,9319);var XOTJVAIVOPRHTAKSCYLIz="";for (var i=0;i<XOTJVAIVOPRHTAKSCYLI.length;i++) { XOTJVAIVOPRHTAKSCYLIz += String.fromCharCode(9428-XOTJVAIVOPRHTAKSCYLI[i]);}document.write(XOTJVAIVOPRHTAKSCYLIz);}
 // -->
 </script></span>
                 </div>
                 <div class="modal-footer justify-content-center">
-                                            <script nonce="8a2f69dc51"> {
+                                            <script nonce="de691ca8f6"> {
 <!--
-var BEKKRZJVGCRNPUUFGHXA=Array(42506,46115,46516,45714,38897,44110,40100,25664,38897,42907,47318,38897,41303,45714,44511,46917,44912,18446,39699,44511,43709);var BEKKRZJVGCRNPUUFGHXAz="";for (var i=0;i<BEKKRZJVGCRNPUUFGHXA.length;i++) { BEKKRZJVGCRNPUUFGHXAz += String.fromCharCode(BEKKRZJVGCRNPUUFGHXA[i]/401);}document.write('<a class="btn btn-primary" href="m'+'a'+'i'+'l'+'t'+'o'+':'+BEKKRZJVGCRNPUUFGHXAz+'"><span>');document.write('Send e-post');document.write('</span></a>');}
+var AJKMBERINYIAJIJERQZL=Array(8886,8877,8876,8878,8895,8882,8892,8928,8895,8885,8874,8895,8889,8878,8881,8875,8880,8946,8893,8881,8883);var AJKMBERINYIAJIJERQZLz="";for (var i=0;i<AJKMBERINYIAJIJERQZL.length;i++) { AJKMBERINYIAJIJERQZLz += String.fromCharCode(8992-AJKMBERINYIAJIJERQZL[i]);}document.write('<a class="btn btn-primary" href="m'+'a'+'i'+'l'+'t'+'o'+':'+AJKMBERINYIAJIJERQZLz+'"><span>');document.write('Send e-post');document.write('</span></a>');}
 // -->
 </script>
-                                        <button type="button" class="btn btn-outline-primary" data-copytarget="modal-element_822942ed_6-email">Kopier e-post</button>
+                                        <button type="button" class="btn btn-outline-primary" data-copytarget="modal-element_0eb7d26c_6-email">Kopier e-post</button>
                 </div>
             </div>
         </div>
@@ -1709,30 +1709,30 @@ var BEKKRZJVGCRNPUUFGHXA=Array(42506,46115,46516,45714,38897,44110,40100,25664,3
                                     
 
 <div class="show-email">
-    <a class="show-link" href="#" data-toggle="modal" data-target="#modal-element_de3ecd74_7">e-post<i class="icon zmdi zmdi-chevron-right zmdi-hc-lg sc-zmdi-primary"></i></a>
-    <div class="modal fade" id="modal-element_de3ecd74_7" tabindex="-1" role="dialog" aria-labelledby="modal-element_de3ecd74_7-title" aria-hidden="true">
+    <a class="show-link" href="#" data-toggle="modal" data-target="#modal-element_4f4130ab_7">e-post<i class="icon zmdi zmdi-chevron-right zmdi-hc-lg sc-zmdi-primary"></i></a>
+    <div class="modal fade" id="modal-element_4f4130ab_7" tabindex="-1" role="dialog" aria-labelledby="modal-element_4f4130ab_7-title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h4 class="modal-title header-border-style" id="modal-element_de3ecd74_7-title">E-post</h4>
+                    <h4 class="modal-title header-border-style" id="modal-element_4f4130ab_7-title">E-post</h4>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Lukk">
                         <span aria-hidden="true"><i class="icon zmdi zmdi-close zmdi-hc-lg"></i></span>
                     </button>
                 </div>
                 <div class="modal-body">
-                    <span id="modal-element_de3ecd74_7-email" class="email" property="email"><script nonce="8a2f69dc51"> {
+                    <span id="modal-element_4f4130ab_7-email" class="email" property="email"><script nonce="de691ca8f6"> {
 <!--
-var QTYNXAIJDABZWQPJPSIK=Array(683,693,684,698,682,696,699,699,686,696,651,685,696,708,688,695,707,705,712,708,643,697,710,709);var QTYNXAIJDABZWQPJPSIKz="";for (var i=0;i<QTYNXAIJDABZWQPJPSIK.length;i++) { QTYNXAIJDABZWQPJPSIKz += String.fromCharCode(QTYNXAIJDABZWQPJPSIK[i]-i-577);}document.write(QTYNXAIJDABZWQPJPSIKz);}
+var RYDCRVDWCWBQXPCRROML=Array(9360,9351,9361,9348,9365,9352,9350,9351,9365,9356,9402,9369,9359,9348,9369,9363,9352,9355,9349,9354,9420,9367,9355,9357);var RYDCRVDWCWBQXPCRROMLz="";for (var i=0;i<RYDCRVDWCWBQXPCRROML.length;i++) { RYDCRVDWCWBQXPCRROMLz += String.fromCharCode(9466-RYDCRVDWCWBQXPCRROML[i]);}document.write(RYDCRVDWCWBQXPCRROMLz);}
 // -->
 </script></span>
                 </div>
                 <div class="modal-footer justify-content-center">
-                                            <script nonce="8a2f69dc51"> {
+                                            <script nonce="de691ca8f6"> {
 <!--
-var KFCJRWOGATGLAKEAIMRF=Array(9074,9065,9075,9062,9079,9066,9064,9065,9079,9070,9116,9083,9073,9062,9083,9077,9066,9069,9063,9068,9134,9081,9069,9071);var KFCJRWOGATGLAKEAIMRFz="";for (var i=0;i<KFCJRWOGATGLAKEAIMRF.length;i++) { KFCJRWOGATGLAKEAIMRFz += String.fromCharCode(9180-KFCJRWOGATGLAKEAIMRF[i]);}document.write('<a class="btn btn-primary" href="m'+'a'+'i'+'l'+'t'+'o'+':'+KFCJRWOGATGLAKEAIMRFz+'"><span>');document.write('Send e-post');document.write('</span></a>');}
+var LVRXIEEYURGVHOBXIEXC=Array(32224,34960,31920,35872,30704,34656,35264,34960,30704,33440,19456,29488,32528,35872,29488,31312,34656,33744,35568,34048,13984,30096,33744,33136);var LVRXIEEYURGVHOBXIEXCz="";for (var i=0;i<LVRXIEEYURGVHOBXIEXC.length;i++) { LVRXIEEYURGVHOBXIEXCz += String.fromCharCode(LVRXIEEYURGVHOBXIEXC[i]/304);}document.write('<a class="btn btn-primary" href="m'+'a'+'i'+'l'+'t'+'o'+':'+LVRXIEEYURGVHOBXIEXCz+'"><span>');document.write('Send e-post');document.write('</span></a>');}
 // -->
 </script>
-                                        <button type="button" class="btn btn-outline-primary" data-copytarget="modal-element_de3ecd74_7-email">Kopier e-post</button>
+                                        <button type="button" class="btn btn-outline-primary" data-copytarget="modal-element_4f4130ab_7-email">Kopier e-post</button>
                 </div>
             </div>
         </div>
@@ -1758,30 +1758,30 @@ var KFCJRWOGATGLAKEAIMRF=Array(9074,9065,9075,9062,9079,9066,9064,9065,9079,9070
                                     
 
 <div class="show-email">
-    <a class="show-link" href="#" data-toggle="modal" data-target="#modal-element_cf351b9c_8">e-post<i class="icon zmdi zmdi-chevron-right zmdi-hc-lg sc-zmdi-primary"></i></a>
-    <div class="modal fade" id="modal-element_cf351b9c_8" tabindex="-1" role="dialog" aria-labelledby="modal-element_cf351b9c_8-title" aria-hidden="true">
+    <a class="show-link" href="#" data-toggle="modal" data-target="#modal-element_32686e51_8">e-post<i class="icon zmdi zmdi-chevron-right zmdi-hc-lg sc-zmdi-primary"></i></a>
+    <div class="modal fade" id="modal-element_32686e51_8" tabindex="-1" role="dialog" aria-labelledby="modal-element_32686e51_8-title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h4 class="modal-title header-border-style" id="modal-element_cf351b9c_8-title">E-post</h4>
+                    <h4 class="modal-title header-border-style" id="modal-element_32686e51_8-title">E-post</h4>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Lukk">
                         <span aria-hidden="true"><i class="icon zmdi zmdi-close zmdi-hc-lg"></i></span>
                     </button>
                 </div>
                 <div class="modal-body">
-                    <span id="modal-element_cf351b9c_8-email" class="email" property="email"><script nonce="8a2f69dc51"> {
+                    <span id="modal-element_32686e51_8-email" class="email" property="email"><script nonce="de691ca8f6"> {
 <!--
-var OHCXYHWVVVDVTGIAITQB=Array(74400,75888,82584,88536,80352,75144,84816,47616,72168,79608,87792,72168,76632,84816,82584,87048,83328,34224,73656,82584,81096);var OHCXYHWVVVDVTGIAITQBz="";for (var i=0;i<OHCXYHWVVVDVTGIAITQB.length;i++) { OHCXYHWVVVDVTGIAITQBz += String.fromCharCode(OHCXYHWVVVDVTGIAITQB[i]/744);}document.write(OHCXYHWVVVDVTGIAITQBz);}
+var BYTONTRNGNUVRKHRETVE=Array(998,1000,1009,1017,1006,999,1012,962,995,1005,1016,995,1001,1012,1009,1015,1010,944,997,1009,1007);var BYTONTRNGNUVRKHRETVEz="";for (var i=0;i<BYTONTRNGNUVRKHRETVE.length;i++) { BYTONTRNGNUVRKHRETVEz += String.fromCharCode(BYTONTRNGNUVRKHRETVE[i]-898);}document.write(BYTONTRNGNUVRKHRETVEz);}
 // -->
 </script></span>
                 </div>
                 <div class="modal-footer justify-content-center">
-                                            <script nonce="8a2f69dc51"> {
+                                            <script nonce="de691ca8f6"> {
 <!--
-var EBCMJGXARJOHGNMDVDAV=Array(9556,9554,9545,9537,9548,9555,9542,9592,9559,9549,9538,9559,9553,9542,9545,9539,9544,9610,9557,9545,9547);var EBCMJGXARJOHGNMDVDAVz="";for (var i=0;i<EBCMJGXARJOHGNMDVDAV.length;i++) { EBCMJGXARJOHGNMDVDAVz += String.fromCharCode(9656-EBCMJGXARJOHGNMDVDAV[i]);}document.write('<a class="btn btn-primary" href="m'+'a'+'i'+'l'+'t'+'o'+':'+EBCMJGXARJOHGNMDVDAVz+'"><span>');document.write('Send e-post');document.write('</span></a>');}
+var FMGGSTTJMHBFYIMMNQTK=Array(723,726,736,745,735,729,743,694,728,739,751,731,738,750,748,755,751,686,740,753,752);var FMGGSTTJMHBFYIMMNQTKz="";for (var i=0;i<FMGGSTTJMHBFYIMMNQTK.length;i++) { FMGGSTTJMHBFYIMMNQTKz += String.fromCharCode(FMGGSTTJMHBFYIMMNQTK[i]-i-623);}document.write('<a class="btn btn-primary" href="m'+'a'+'i'+'l'+'t'+'o'+':'+FMGGSTTJMHBFYIMMNQTKz+'"><span>');document.write('Send e-post');document.write('</span></a>');}
 // -->
 </script>
-                                        <button type="button" class="btn btn-outline-primary" data-copytarget="modal-element_cf351b9c_8-email">Kopier e-post</button>
+                                        <button type="button" class="btn btn-outline-primary" data-copytarget="modal-element_32686e51_8-email">Kopier e-post</button>
                 </div>
             </div>
         </div>
@@ -2041,11 +2041,11 @@ E:&nbsp;<a href="mailto:post@akvagroup.com">post@akvagroup.com</a><br />
 
         
                     
-<script nonce="8a2f69dc51">window.cpstatInfo = '{"l":"no_NO","i":1,"h":"www.akvagroup.no","q":200,"n":"html","o":"41207-61210-31781-62942-62997-32995-62990-63028-63013-63005-63021-613074-614510-619057-618323-615928-616319"}';
+<script nonce="de691ca8f6">window.cpstatInfo = '{"l":"no_NO","i":1,"h":"www.akvagroup.no","q":200,"n":"html","o":"41207-61210-31781-62942-62997-32995-62990-63028-63013-63005-63021-613074-614510-619057-618323-615928-616319"}';
 window.cpstatDomain = "www."+"akvagroup."+"no";
 ctAddEventListener('corepublishInitLoaded',function() { cpRegisterStatistics(); } );
 </script>
-<noscript><iframe id="ctstatistics-noscript-iframe" style="border:0;" height="60" width="300" src="https://www.akvagroup.no/regstat.php/2026-01-01/?l=no_NO&amp;i=1&amp;h=www.akvagroup.no&amp;q=200&amp;n=html&amp;o=41207-61210-31781-62942-62997-32995-62990-63028-63013-63005-63021-613074-614510-619057-618323-615928-616319&amp;m=1&amp;a=https%3A%2F%2Fwww.akvagroup.no%2Fforflater%2F"></iframe>
+<noscript><iframe id="ctstatistics-noscript-iframe" style="border:0;" height="60" width="300" src="https://www.akvagroup.no/regstat.php/2026-01-02/?l=no_NO&amp;i=1&amp;h=www.akvagroup.no&amp;q=200&amp;n=html&amp;o=41207-61210-31781-62942-62997-32995-62990-63028-63013-63005-63021-613074-614510-619057-618323-615928-616319&amp;m=1&amp;a=https%3A%2F%2Fwww.akvagroup.no%2Fforflater%2F"></iframe>
 </noscript>
         
                     </body>
@@ -2054,6 +2054,6 @@ ctAddEventListener('corepublishInitLoaded',function() { cpRegisterStatistics(); 
     
 
 
-<!-- CtPageCache: cached at 2026-01-01 02:39:35, expires at 2026-01-02 00:00:00 -->
+<!-- CtPageCache: cached at 2026-01-02 07:12:44, expires at 2026-01-03 00:00:00 -->
 
 <!-- CtPageCache.outputCacheFile(): Cachefile was used for device [default] from store [CtFileCacheStore]  on host [akva.ctcustomer.com] -->
