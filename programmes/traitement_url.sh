@@ -54,20 +54,19 @@ do
 		then
 		encodage="Absence d'encodage"
 	fi
-
+	#en fonction de la langue le mot cherché est différent
+	if [[ $LANGUE == "fr" ]]; then
+		mot="flotte"
+	elif [[ $LANGUE == "ang" ]]; then
+		mot="fleet"
+	elif [[ $LANGUE == "nrvg" ]]; then
+		mot="flåte"
+	#si la langue n'est pas une des langues que nous étudions, on affiche un message d'erreur
+	else
+		echo "Le langage choisi n'est pas reconnu."
+	fi
 	if [[ "${encodage,,}" == *"utf-8"* ]] ; then
 			echo "$contenu" | lynx -stdin -dump -nolist > "../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt"
-			#en fonction de la langue le mot cherché est différent
-			if [[ $LANGUE == "fr" ]]; then
-				mot="flotte"
-			elif [[ $LANGUE == "ang" ]]; then
-				mot="fleet"
-			elif [[ $LANGUE == "nrvg" ]]; then
-				mot=""
-			#si la langue n'est pas une des langues que nous étudions, on affiche un message d'erreur
-			else
-				echo "Le langage choisi n'est pas reconnu."
-			fi
 			#on extrait les contexte autour des mots
 			egrep -i -C 2 "$mot" "../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt" > "../contextes/${LANGUE}/${LANGUE}${compteur}_contexte.txt"
 		#si l'encodage n'est pas UTF-8
@@ -170,10 +169,13 @@ echo "Fichier crée à : ../tableaux/${LANGUE}_site.html"
 ## on crée un fichier temporaire qui stock tous les texte d'une langue pour faire le wordscloud sur tous les contextes extraits
 cat ../contextes/${LANGUE}/*.txt > ../contextes/${LANGUE}/total_${LANGUE}.tmp
 if [ -s "../contextes/${LANGUE}/total_${LANGUE}.tmp" ]; then
-    # Lance la commande wordcloud_cli ici
+    wordcloud_cli --text "../contextes/${LANGUE}/total_${LANGUE}.tmp" \
+		--imagefile "../images/wordcloud${LANGUE}.png" \
+		--stopwords "../stopwords/stopwords-${LANGUE}.txt" \
+		--mask "../images/bateau.png" \
+		--scale 3 \
+        --background white \
+        --contour_width 3
 else
-    echo "Pas assez de texte pour générer un nuage de mots pour ${LANGUE}"
+	echo "Pas assez de texte pour générer un nuage de mots pour ${LANGUE}"
 fi
-wordcloud_cli --text ../contextes/${LANGUE}/total_${LANGUE}.tmp --imagefile ../images/wordcloud${LANGUE}.png --stopwords ../stopwords/stopwords-${LANGUE} --mask nuage.png --scale 3 --background white --contour_width 3
-
-open ../images/wordcloud${LANGUE}.png
