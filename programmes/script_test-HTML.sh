@@ -24,7 +24,7 @@ if [ ! -f "$FICHIER_URLS" ]; then
     exit 1
 fi
 
-# 3. Écriture de l'en-tête HTML (Style Bleu Marine)
+# 3. Écriture de l'en-tête HTML (Style Bleu Marine + Colonnes Dynamiques)
 echo "Création de l'en-tête HTML..."
 cat <<EOF > "$FICHIER_HTML"
 <!DOCTYPE html>
@@ -36,11 +36,41 @@ cat <<EOF > "$FICHIER_HTML"
     <style>
         body { font-family: 'Segoe UI', Roboto, Arial, sans-serif; background-color: #ffffff; color: #000; }
         .title { color: #1e3a8a !important; }
-        /* Style du tableau épuré */
-        .table-epure { width: 100%; border-collapse: collapse; background-color: #fff; }
-        .table-epure th, .table-epure td { border: 2px solid #1e3a8a; padding: 12px 15px; color: #000; }
-        .table-epure th { background-color: #f8f9fa; font-weight: bold; border-bottom: 3px solid #1e3a8a; text-align: center; }
+        
+        /* --- STYLE DU TABLEAU OPTIMISÉ --- */
+        .table-epure { 
+            width: 100%; 
+            border-collapse: collapse; 
+            background-color: #fff; 
+            table-layout: fixed; /* IMPORTANT : Permet de fixer les largeurs */
+        }
+        
+        .table-epure th, .table-epure td { 
+            border: 2px solid #1e3a8a; 
+            padding: 12px 15px; 
+            color: #000; 
+            vertical-align: middle; /* Centre le texte verticalement */
+            word-wrap: break-word; /* Coupe les mots trop longs (URLs) */
+            overflow-wrap: break-word;
+        }
+
+        .table-epure th { 
+            background-color: #f8f9fa; 
+            font-weight: bold; 
+            border-bottom: 3px solid #1e3a8a; 
+            text-align: center; 
+        }
+
         .table-epure tr:hover { background-color: #eef2ff; }
+
+        /* --- LARGEUR DES COLONNES --- */
+        /* On définit la largeur de chaque colonne précisément */
+        .table-epure th:nth-child(1) { width: 5%; }  /* Ligne (petit) */
+        .table-epure th:nth-child(2) { width: 10%; } /* Code HTTP */
+        .table-epure th:nth-child(3) { width: 15%; } /* Encodage */
+        .table-epure th:nth-child(4) { width: 10%; } /* Mots */
+        .table-epure th:nth-child(5) { width: 60%; } /* URL (prend tout le reste) */
+
     </style>
 </head>
 <body>
@@ -71,36 +101,33 @@ echo "Traitement des URLs en cours..."
 
 while read -r line; do
     # -- A. Récupération --
-    # On télécharge la page dans un fichier temporaire pour ne faire qu'une requête
     code_http=$(curl -s -L -o "page_temp.html" -w "%{http_code}" "$line")
 
     # -- B. Encodage --
-    # Utilisation de 'file' (plus robuste) ou fallback
     encodage=$(file -b --mime-encoding "page_temp.html" 2>/dev/null)
     if [ -z "$encodage" ]; then
         encodage="inconnu"
     fi
 
     # -- C. Comptage --
-    # On enlève les balises HTML (<...>) pour compter les vrais mots
     nb_mots=$(sed 's/<[^>]*>/ /g' "page_temp.html" | wc -w)
 
     # -- D. Sauvegarde --
-    # On déplace le fichier temporaire vers le dossier idoine
     mv "page_temp.html" "${DOSSIER_IDOINE}/${LANGUE}-${compteur}.txt"
 
     # -- E. Nettoyage (CRITIQUE) --
-    # On supprime les retours à la ligne qui cassent le tableau HTML
     code_http=$(echo "$code_http" | tr -d '\n\r')
     encodage=$(echo "$encodage" | tr -d '\n\r')
     nb_mots=$(echo "$nb_mots" | tr -d '\n\r')
 
     # -- F. Écriture HTML --
     echo "                <tr>" >> "$FICHIER_HTML"
-    echo "                    <td>$compteur</td>" >> "$FICHIER_HTML"
-    echo "                    <td>$code_http</td>" >> "$FICHIER_HTML"
-    echo "                    <td>$encodage</td>" >> "$FICHIER_HTML"
-    echo "                    <td>$nb_mots</td>" >> "$FICHIER_HTML"
+    # Centrage du texte pour les petites colonnes
+    echo "                    <td style=\"text-align:center\">$compteur</td>" >> "$FICHIER_HTML"
+    echo "                    <td style=\"text-align:center\">$code_http</td>" >> "$FICHIER_HTML"
+    echo "                    <td style=\"text-align:center\">$encodage</td>" >> "$FICHIER_HTML"
+    echo "                    <td style=\"text-align:center\">$nb_mots</td>" >> "$FICHIER_HTML"
+    # Pas de centrage pour l'URL pour que ce soit plus lisible
     echo "                    <td><a href=\"$line\" target=\"_blank\">$line</a></td>" >> "$FICHIER_HTML"
     echo "                </tr>" >> "$FICHIER_HTML"
 
