@@ -557,13 +557,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     </li>
                                                                 </div>
                                                                                                                                     <li>
-                                                                        <a href="/produkter/kraner-og-taljer/lofteak/lofteak-c506407" class="submenu-item">Løfteåk</a>
-                                                                    </li>
-                                                                                                                                    <li>
                                                                         <a href="/produkter/kraner-og-taljer/lofteak/pallegafler-c506424" class="submenu-item">Pallegafler</a>
                                                                     </li>
                                                                                                                                     <li>
                                                                         <a href="/produkter/kraner-og-taljer/lofteak/fatlofter-c506488" class="submenu-item">Fatløfter</a>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a href="/produkter/kraner-og-taljer/lofteak/lofteak-c506407" class="submenu-item">Løfteåk</a>
                                                                     </li>
                                                                                                                                     <li>
                                                                         <a href="/produkter/kraner-og-taljer/lofteak/loftemagneter-c495948" class="submenu-item">Løftemagneter</a>
@@ -1856,7 +1856,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <label class="required" for="_password">Passord</label>
                                     <div><input type="password" id="_password" name="_password" required="required" class="form-control" /></div>
                                 </div>
-                                <input type="hidden" id="_token" name="_token" value="4db8f9fdfaa57ac6677f9055bd05bbb.fs2CqW11iE_KAvkxV49z0-2LjFnz0cgXrYCHpCcx7Q8.Br7o3iA4-nynQK8cIL4Yu7u9tTehh5BA7-HrxwpSuXtModH9NEbHCIBEmg" />
+                                <input type="hidden" id="_token" name="_token" value="2f61d5049c2.6ptBiMEojSPyaV-FKsOWvSglLKrxTAcumobYbqytGHk.2PQzvbhG-XC4Gza8Hqjk03IRb8erekJ0_NSyFp_0SRSn3DG5mVG5Rp0aZw" />
                                 <button id="btn-login" type="submit" class="btn btn-primary d-block mx-auto px-7 mt-6">Logg inn</button>
                                 </form>
 

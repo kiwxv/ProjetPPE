@@ -38,7 +38,7 @@
 <meta name="description" content="Seilspesialisten best på seilutstyr, båtutstyr og sikkerhetsutstyr">
 
 
-            <meta name="csrf-token" content="4_yZ30eHFIqmm0UUGz9Tv786InRnuAOclyq04b0G9Y" />
+            <meta name="csrf-token" content="4_B2VphlIAS9p5BdDXZVE2MGoTNsJAJvsHGese46xm" />
     
 
 <base href="//www.seilspesialisten.no">
@@ -220,7 +220,7 @@
 
   	
     
-              <link rel="stylesheet" href="users/seilspesialisten_mystore_no/templates/custom_stylesheet.css?v=1767361003">
+              <link rel="stylesheet" href="users/seilspesialisten_mystore_no/templates/custom_stylesheet.css?v=1767380096">
     	  <style type="text/css">
     .klarna-widget { height: 90px !important;}
     .sidebar .box-leftbar > h3 {
@@ -2220,7 +2220,7 @@ function getCookie(cname) {
          }
        });
 	</script>
-			<script src="/templates/newyork/js/newyork.generic.js?v=1767361003"></script>
+			<script src="/templates/newyork/js/newyork.generic.js?v=1767380096"></script>
 				
 	<script>
       $(document).ready(function preventSearchWithNoInput () {

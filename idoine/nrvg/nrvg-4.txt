@@ -870,9 +870,9 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
 
 
         <section id="mainArticleSection" class="main article">
-            <div data-element-guid="1689488a-e1e9-479c-a247-0b23add0a54c" class="placeholder placement-top">
+            <div data-element-guid="06a201ed-45ef-49e0-d731-344bb70ff150" class="placeholder placement-top">
 
-<div class="column adnuntius-ad small-12 large-12 display-label" style="" data-element-guid="9b6100b1-c98a-49c5-cbc2-84a357c9ee4c">
+<div class="column adnuntius-ad small-12 large-12 display-label" style="" data-element-guid="8fccee63-fdf9-4feb-8a2e-2423cc9186eb">
     <div id="adn-00000000001c9af0" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -962,7 +962,7 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
     
 
 
-        <div data-element-guid="78352746-45a9-43a7-cfdc-c6028b9bf033" class="meta">
+        <div data-element-guid="8a717f5d-a48e-477d-a44f-0cfc8f4afe83" class="meta">
     
 
     <div class="bylines">
@@ -1001,7 +1001,7 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
 
                         
 
-                        <div data-element-guid="78352746-45a9-43a7-cfdc-c6028b9bf033" class="bodytext large-12 small-12 medium-12 teaserContent">
+                        <div data-element-guid="8a717f5d-a48e-477d-a44f-0cfc8f4afe83" class="bodytext large-12 small-12 medium-12 teaserContent">
     
     
 
@@ -1056,7 +1056,7 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
 
 
                         
-<div data-element-guid="78352746-45a9-43a7-cfdc-c6028b9bf033" class="column articleFooter">
+<div data-element-guid="8a717f5d-a48e-477d-a44f-0cfc8f4afe83" class="column articleFooter">
     <span class="tags">
         <a href="/tag/fart%C3%B8ysdrift">fartøysdrift</a>
         <a href="/tag/vekststrategi">vekststrategi</a>
@@ -1082,8 +1082,8 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
                     
                 </article>
                 <section class="related desktop-fullWidth mobile-fullWidth fullwidthTarget">
-                <div data-element-guid="02460f89-48f4-4db7-bf69-71f50e89e98d" class="page-content"><div data-element-guid="21d2e40f-0ce6-4647-b94a-eec89b6b2738" class="row small-12 large-12" style="">
-<div class="column adnuntius-ad small-12 large-12 display-label large-12 small-12" style="" data-element-guid="bbf2395c-f0b7-4f0d-df79-7841c2e24c81">
+                <div data-element-guid="02460f89-48f4-4db7-bf69-71f50e89e98d" class="page-content"><div data-element-guid="10bf4bac-143e-4a2b-a4d5-fc3745788e92" class="row small-12 large-12" style="">
+<div class="column adnuntius-ad small-12 large-12 display-label large-12 small-12" style="" data-element-guid="739d2ed4-8895-4b9c-9845-8bc3b2e17700">
     <div id="adn-00000000001c9ad7" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -1976,9 +1976,9 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
 
                 </section>
             </main>
-            <div data-element-guid="0627d332-6583-4a4c-f3cd-a1626ece0acc" class="placeholder placement-left">
+            <div data-element-guid="5299e756-6c92-4d4d-d9aa-562c5121ae4f" class="placeholder placement-left">
 
-<div class="column adnuntius-ad small-12 large-12 sticky display-label" style="top: 120px;" data-element-guid="f78b64a9-7eba-40df-f3e2-9c60a3304297">
+<div class="column adnuntius-ad small-12 large-12 sticky display-label" style="top: 120px;" data-element-guid="c5aa492b-3d06-4fec-99e3-5f6e26ee2ad2">
     <div id="adn-000000000039beee" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -1986,9 +1986,9 @@ var k5aMeta = { "paid": 1, "paywall": (Dac.clientData.paywall.isAuthenticated ? 
 
 
 </div>
-            <div data-element-guid="1f01e34d-f25f-464c-c588-fe735d27d83d" class="placeholder placement-right">
+            <div data-element-guid="d1a1a2ca-c4d8-4b5c-9a82-be8c630e9827" class="placeholder placement-right">
 
-<div class="column adnuntius-ad small-12 large-12 sticky" style="top: 120px;" data-element-guid="4b68a24f-41a8-496f-daa4-6993231c0201">
+<div class="column adnuntius-ad small-12 large-12 sticky" style="top: 120px;" data-element-guid="7923af86-eedc-4de0-8ebd-87469648afcb">
     <div id="adn-00000000001d96b0" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>

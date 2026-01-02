@@ -33,7 +33,7 @@ if (typeof zcJS == "undefined" || !zcJS) {
 zcJS.ajax = function (options) {
   options.url = options.url.replace("&amp;", "&");
   var deferred = $.Deferred(function (d) {
-      var securityToken = 'a586dbb7b4f68dfc6aa80db688e22650';
+      var securityToken = '43b669028608fd1dcf72908d48c81547';
       var defaults = {
           cache: false,
           type: 'POST',
@@ -302,7 +302,7 @@ function popupWindowPrice(url) {
 <div class="centerColumn" id="productGeneral">
 
 <!--bof Form start-->
-<form name="cart_quantity" action="https://yrkesfiskeren.no/index.php?main_page=product_info&amp;products_id=152&amp;action=add_product" method="post" enctype="multipart/form-data"><input type="hidden" name="securityToken" value="a586dbb7b4f68dfc6aa80db688e22650" />
+<form name="cart_quantity" action="https://yrkesfiskeren.no/index.php?main_page=product_info&amp;products_id=152&amp;action=add_product" method="post" enctype="multipart/form-data"><input type="hidden" name="securityToken" value="43b669028608fd1dcf72908d48c81547" />
 <!--eof Form start-->
 
 

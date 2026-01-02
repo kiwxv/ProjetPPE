@@ -494,39 +494,39 @@ leksikon</span>
   </h3>
   <ul class="activity-list activity-list--in-footer">
     <li class="activity-list__item">
-        <a class="activity-list__item-link" href="https://snl.no/Antti_Fav%C3%A9n">
-          Antti Favén</a>:
-      oppdatert av <a class="activity-list__item-link" href="https://brukere.snl.no/58485">Tomaris Semet (SNL)</a>
+        <a class="activity-list__item-link" href="https://snl.no/mellomboreal_sone">
+          mellomboreal sone</a>:
+      oppdatert av <a class="activity-list__item-link" href="https://brukere.snl.no/54995">Lars Sandved Dalen (NIBIO)</a>
 
-      <time class="activity-list__time" datetime="2026-01-02T17:53:04+01:00">
-        for 3 minutter siden
+      <time class="activity-list__time" datetime="2026-01-02T19:54:19+01:00">
+        for mindre enn 1 minutt siden
       </time>
     </li>
     <li class="activity-list__item">
-        <a class="activity-list__item-link" href="https://snl.no/Henri_Evenepoel">
-          Henri Evenepoel</a>:
-      oppdatert av <a class="activity-list__item-link" href="https://brukere.snl.no/58485">Tomaris Semet (SNL)</a>
+        <a class="activity-list__item-link" href="https://snl.no/energiskog">
+          energiskog</a>:
+      oppdatert av <a class="activity-list__item-link" href="https://brukere.snl.no/54995">Lars Sandved Dalen (NIBIO)</a>
 
-      <time class="activity-list__time" datetime="2026-01-02T17:52:17+01:00">
+      <time class="activity-list__time" datetime="2026-01-02T19:53:23+01:00">
+        for 1 minutt siden
+      </time>
+    </li>
+    <li class="activity-list__item">
+        <a class="activity-list__item-link" href="https://snl.no/Charles_Babbage">
+          Charles Babbage</a>:
+      bilde oppdatert av <a class="activity-list__item-link" href="https://brukere.snl.no/40063">Reinhard Siegmund-Schultze (UiA)</a>
+
+      <time class="activity-list__time" datetime="2026-01-02T19:52:37+01:00">
+        for 2 minutter siden
+      </time>
+    </li>
+    <li class="activity-list__item">
+        <a class="activity-list__item-link" href="https://snl.no/energiskogbruk">
+          energiskogbruk</a>:
+      bilde publisert av <a class="activity-list__item-link" href="https://brukere.snl.no/54995">Lars Sandved Dalen (NIBIO)</a>
+
+      <time class="activity-list__time" datetime="2026-01-02T19:50:50+01:00">
         for 4 minutter siden
-      </time>
-    </li>
-    <li class="activity-list__item">
-        <a class="activity-list__item-link" href="https://snl.no/Magnus_Enckell">
-          Magnus Enckell</a>:
-      oppdatert av <a class="activity-list__item-link" href="https://brukere.snl.no/58485">Tomaris Semet (SNL)</a>
-
-      <time class="activity-list__time" datetime="2026-01-02T17:51:12+01:00">
-        for 5 minutter siden
-      </time>
-    </li>
-    <li class="activity-list__item">
-        <a class="activity-list__item-link" href="https://snl.no/Maurice_Denis">
-          Maurice Denis</a>:
-      oppdatert av <a class="activity-list__item-link" href="https://brukere.snl.no/58485">Tomaris Semet (SNL)</a>
-
-      <time class="activity-list__time" datetime="2026-01-02T17:49:11+01:00">
-        for 7 minutter siden
       </time>
     </li>
 </ul>

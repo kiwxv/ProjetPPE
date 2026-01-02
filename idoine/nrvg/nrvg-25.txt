@@ -332,7 +332,7 @@ var wpcf7 = {
 <script type="text/javascript" src="https://www.nordnesgruppen.no/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.4" id="contact-form-7-js"></script>
 <script type="text/javascript" id="codedropz-uploader-js-extra">
 /* <![CDATA[ */
-var dnd_cf7_uploader = {"ajax_url":"https://www.nordnesgruppen.no/wp-admin/admin-ajax.php","ajax_nonce":"a96559eda3","drag_n_drop_upload":{"tag":"h3","text":"Drag & Drop Files Here","or_separator":"or","browse":"Browse Files","server_max_error":"The uploaded file exceeds the maximum upload size of your server.","large_file":"Uploaded file is too large","inavalid_type":"Uploaded file is not allowed for file type","max_file_limit":"Note : Some of the files are not uploaded ( Only %count% files allowed )","required":"This field is required.","delete":{"text":"deleting","title":"Remove"}},"dnd_text_counter":"of","disable_btn":""};
+var dnd_cf7_uploader = {"ajax_url":"https://www.nordnesgruppen.no/wp-admin/admin-ajax.php","ajax_nonce":"771b6a1d33","drag_n_drop_upload":{"tag":"h3","text":"Drag & Drop Files Here","or_separator":"or","browse":"Browse Files","server_max_error":"The uploaded file exceeds the maximum upload size of your server.","large_file":"Uploaded file is too large","inavalid_type":"Uploaded file is not allowed for file type","max_file_limit":"Note : Some of the files are not uploaded ( Only %count% files allowed )","required":"This field is required.","delete":{"text":"deleting","title":"Remove"}},"dnd_text_counter":"of","disable_btn":""};
 //# sourceURL=codedropz-uploader-js-extra
 /* ]]> */
 </script>
@@ -363,4 +363,4 @@ var wpcf7_recaptcha = {
 </script>
 <script type="text/javascript" src="https://www.nordnesgruppen.no/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.4" id="wpcf7-recaptcha-js"></script>
 </body>
-</html><!-- WP Fastest Cache file was created in 0.477 seconds, on January 1, 2026 @ 3:17 pm -->
+</html><!-- WP Fastest Cache file was created in 0.816 seconds, on January 2, 2026 @ 7:55 pm --><!-- need to refresh to see cached version -->

@@ -716,9 +716,9 @@ var k5aMeta = { "paid": 0, "wordCount": "136", "lix": "49", "author": ["Angelica
 
 
         <section id="mainArticleSection" class="main article">
-            <div data-element-guid="5930f2cb-68ea-435a-f2e8-2d903b0a21fa" class="placeholder placement-top">
+            <div data-element-guid="321d3a3e-a119-4144-8e4d-ae772df79eca" class="placeholder placement-top">
 
-<div class="column adnuntius-ad small-12 large-12 display-label" style="" data-element-guid="d07552e4-4c26-47f3-eb71-d14cfbc5903c">
+<div class="column adnuntius-ad small-12 large-12 display-label" style="" data-element-guid="a9322a5e-5f5d-47a5-f9aa-26439859754e">
     <div id="adn-00000000000df8db" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -820,7 +820,7 @@ var k5aMeta = { "paid": 0, "wordCount": "136", "lix": "49", "author": ["Angelica
 
 
 
-        <div data-element-guid="6725e201-cd75-4d8c-d287-b5b92ed99ad7" class="meta">
+        <div data-element-guid="e50b1362-f396-4e1e-8d0b-a25902baa72b" class="meta">
     
 
     <div class="bylines">
@@ -876,7 +876,7 @@ var k5aMeta = { "paid": 0, "wordCount": "136", "lix": "49", "author": ["Angelica
 
                         
 
-                        <div data-element-guid="6725e201-cd75-4d8c-d287-b5b92ed99ad7" class="bodytext large-12 small-12 medium-12">
+                        <div data-element-guid="e50b1362-f396-4e1e-8d0b-a25902baa72b" class="bodytext large-12 small-12 medium-12">
     
     
 
@@ -918,7 +918,7 @@ var k5aMeta = { "paid": 0, "wordCount": "136", "lix": "49", "author": ["Angelica
     </script>
 </div>
 <p>Romania nærmer seg en avtale om å skaffe seg et offshore patruljefartøy i Hisar-klassen fra Tyrkia, ifølge Defense News.&nbsp;</p>
-<div class="column adnuntius-ad display-label floatRight widthAuto" style="" data-element-guid="4b9b95c7-7021-47fa-9e29-dd9615d40240">
+<div class="column adnuntius-ad display-label floatRight widthAuto" style="" data-element-guid="501d977e-c880-41c4-eb82-a446d0f3112a">
     <div id="adn-00000000000f8dd8" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -1197,7 +1197,7 @@ Nyheter
 
 
                         
-<div data-element-guid="6725e201-cd75-4d8c-d287-b5b92ed99ad7" class="column articleFooter">
+<div data-element-guid="e50b1362-f396-4e1e-8d0b-a25902baa72b" class="column articleFooter">
     <span class="tags">
         <a href="/tag/nyheter">nyheter</a>
         <a href="/tag/fl%C3%A5te">flåte</a>
@@ -1225,8 +1225,8 @@ Nyheter
                     
                 </article>
                 <section class="related desktop-fullWidth mobile-fullWidth fullwidthTarget">
-                <div data-element-guid="cb5f0895-d6ec-4cb9-e27a-858f0447d6ac" class="page-content"><div data-element-guid="78c633a4-35ea-4f5d-c00c-bfe3bbeca918" class="row small-12 large-12" style="">
-<div class="column adnuntius-ad small-12 large-12 display-label large-12 small-12" style="" data-element-guid="0b56bc55-82dd-488c-e9a9-10dd96a11671">
+                <div data-element-guid="cb5f0895-d6ec-4cb9-e27a-858f0447d6ac" class="page-content"><div data-element-guid="bd7ecb71-5960-4c58-a398-406e41199054" class="row small-12 large-12" style="">
+<div class="column adnuntius-ad small-12 large-12 display-label large-12 small-12" style="" data-element-guid="3e4dfff4-e927-49e0-db50-c3f49bf1557f">
     <div id="adn-00000000000df8dc" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -2621,9 +2621,9 @@ Nyheter
 
                 </section>
             </main>
-            <div data-element-guid="3a5be2c6-79ef-4cec-b578-6c1528ae5bdc" class="placeholder placement-left">
+            <div data-element-guid="56432f6f-8239-4400-ec41-74a63c7a23ef" class="placeholder placement-left">
 
-<div class="column adnuntius-ad small-12 large-12 sticky display-label" style="top: 120px;" data-element-guid="cbbc619c-5196-45e3-ad75-6e92c8ba53c5">
+<div class="column adnuntius-ad small-12 large-12 sticky display-label" style="top: 120px;" data-element-guid="ff3441ae-d2e5-4d61-e023-1da11f4592c8">
     <div id="adn-00000000000df8e1" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>
@@ -2631,9 +2631,9 @@ Nyheter
 
 
 </div>
-            <div data-element-guid="e68d2b23-edab-42a2-b81b-bd850465a6e6" class="placeholder placement-right">
+            <div data-element-guid="3acda156-c2d5-4544-f449-0802f8ca9035" class="placeholder placement-right">
 
-<div class="column adnuntius-ad small-12 large-12 sticky display-label" style="top: 120px;" data-element-guid="24c565e8-a5ad-4e6f-ef05-0e312f5edd7e">
+<div class="column adnuntius-ad small-12 large-12 sticky display-label" style="top: 120px;" data-element-guid="f5f10c32-220a-4ddf-debb-266459ccb5a4">
     <div id="adn-00000000000df8e0" style="display:none;" class="adnuntius-ad-content">
         <span class="ad-label">Annonse</span>
     </div>

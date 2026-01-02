@@ -625,10 +625,10 @@
       <h2 class="h2 nb">Siste søk</h2>
       <div class="similar-words">
                       <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Norsk Bokmål - Norsk Nynorsk" href="/norsk-nynorsk/?q=fl%C3%A5te">flåte</a>
-                      <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Engelsk - Norsk Bokmål" href="/engelsk-norsk/?q=cadence">cadence</a>
-                      <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Norsk Bokmål - Rumensk" href="/norsk-rumensk/?q=rest">rest</a>
-                      <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Engelsk - Norsk Nynorsk" href="/engelsk-nynorsk/?q=cadence">cadence</a>
-                      <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Engelsk - Norsk Bokmål" href="/engelsk-norsk/?q=Her+Serene+Highness">Her Serene Highness</a>
+                      <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Tysk - Norsk Bokmål" href="/tysk-norsk/?q=Verwirrung">Verwirrung</a>
+                      <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Norsk Bokmål - Dansk" href="/norsk-dansk/?q=syd">syd</a>
+                      <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Engelsk - Norsk Bokmål" href="/engelsk-norsk/?q=strain">strain</a>
+                      <a class="btn btn-default plain btn-block" data-toggle="tooltip" title="Engelsk - Norsk Bokmål" href="/engelsk-norsk/?q=reconcile">reconcile</a>
             </div>
     </div>
   </div>
@@ -650,18 +650,18 @@
                 <div class="panel panel-primary suggestion">
       <div class="panel-heading">Legg til en oversettelse</div>
       <div class="panel-body text-center">
-          <p id="quest">Vet du hva den nynorske oversettelsen for det norske ordet "<b>worcestershiresaus</b>" er?</p>
+          <p id="quest">Vet du hva den nynorske oversettelsen for det norske ordet "<b>jage opp</b>" er?</p>
           <form onsubmit="submitSuggestion(this); return false;" class="form-inline">
             <input type="hidden" name="from_l" value="norwegian"> 
             <input type="hidden" name="to_l" value="newnorwegian"> 
-            <input type="hidden" name="keyword_id" value="58181"> 
-            <input type="hidden" name="keyword" value="worcestershiresaus"> 
+            <input type="hidden" name="keyword_id" value="23164"> 
+            <input type="hidden" name="keyword" value="jage opp"> 
             <div>
 
               <div class="input-group">
                 <span class="input-group-addon"><div title="Norsk Bokmål" class="from fi fi-no sm"></div></span>
                 <span class="word">
-                                    <span></span><input class="ls form-control" type="text" id="sto" name="keyword" value="worcestershiresaus" placeholder="Norsk Bokmål" readonly autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" aria-label="ord">
+                                    <span></span><input class="ls form-control" type="text" id="sto" name="keyword" value="jage opp" placeholder="Norsk Bokmål" readonly autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" aria-label="ord">
                 </span>
               </div>
 
@@ -696,27 +696,27 @@
                 <div class="panel panel-primary suggestion">
       <div class="panel-heading">Stem dette riktig eller galt</div>
       <div class="panel-body text-center">
-          <p id="voting-question">Er det nynorske ordet <b>skulegong</b> en god oversettelse for det norske ordet <b>skolegang</b>?</p>
+          <p id="voting-question">Er det norske ordet <b>eksaltert</b> en god oversettelse for det nynorske ordet <b>eksaltert</b>?</p>
           <div id="voting-buttons" class="form-inline">
 
             <div class="input-group">
-              <span class="input-group-addon"><div title="Norsk Bokmål" class="from fi fi-no sm"></div></span>
+              <span class="input-group-addon"><div title="Norsk Nynorsk" class="from fi fi-nn sm grayscale"></div></span>
               <span class="word">
-                                <span></span><input class="ls form-control" type="text" id="sto" name="keyword" value="skolegang" aria-label="ord" readonly>
+                                <span></span><input class="ls form-control" type="text" id="sto" name="keyword" value="eksaltert" aria-label="ord" readonly>
               </span>
             </div>
 
             <div class="input-group">
-              <span class="input-group-addon"><div title="Norsk Nynorsk" class="to fi fi-nn sm grayscale"></div></span>
+              <span class="input-group-addon"><div title="Norsk Bokmål" class="to fi fi-no sm"></div></span>
               <span class="word">
-                                <span></span><input class="ls form-control" type="text" id="su" name="su" value="skulegong" aria-label="oversettelse" readonly>
+                                <span></span><input class="ls form-control" type="text" id="su" name="su" value="eksaltert" aria-label="oversettelse" readonly>
               </span>
             </div>
 
             <div class="mt">
-              <input class="btn btn-primary" type="button" id="syes" value="Ja" onclick="voteOnSuggestion('yes', '32207', 'norwegian', 'newnorwegian')">
-              <input class="btn btn-primary" type="button" id="sno" value="Nei" onclick="voteOnSuggestion('no', '32207', 'norwegian', 'newnorwegian')">
-              <input class="btn btn-primary" type="button" id="sdn" value="Vet ikke" onclick="voteOnSuggestion('dn', '32207', 'norwegian', 'newnorwegian')">
+              <input class="btn btn-primary" type="button" id="syes" value="Ja" onclick="voteOnSuggestion('yes', '30969', 'norwegian', 'newnorwegian')">
+              <input class="btn btn-primary" type="button" id="sno" value="Nei" onclick="voteOnSuggestion('no', '30969', 'norwegian', 'newnorwegian')">
+              <input class="btn btn-primary" type="button" id="sdn" value="Vet ikke" onclick="voteOnSuggestion('dn', '30969', 'norwegian', 'newnorwegian')">
             </div>
 
           </div>
