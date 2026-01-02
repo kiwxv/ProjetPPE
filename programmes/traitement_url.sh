@@ -170,7 +170,7 @@ echo "Fichier crée à : ../tableaux/${LANGUE}_site.html"
 cat ../contextes/${LANGUE}/*.txt > ../contextes/${LANGUE}/total_${LANGUE}.tmp
 if [ -s "../contextes/${LANGUE}/total_${LANGUE}.tmp" ]; then
     wordcloud_cli --text "../contextes/${LANGUE}/total_${LANGUE}.tmp" \
-		--imagefile "../images/wordcloud${LANGUE}.png" \
+		--imagefile "../images/nuage_${LANGUE}.png" \
 		--stopwords "../stopwords/stopwords-${LANGUE}.txt" \
 		--mask "../images/bateau.png" \
 		--scale 3 \
