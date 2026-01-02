@@ -24,7 +24,7 @@ if [ ! -f "$FICHIER_URLS" ]; then
     exit 1
 fi
 
-# 3. Écriture de l'en-tête HTML (Style Bleu Marine + Colonnes Dynamiques)
+# 3. Écriture de l'en-tête HTML
 echo "Création de l'en-tête HTML..."
 cat <<EOF > "$FICHIER_HTML"
 <!DOCTYPE html>
@@ -37,21 +37,20 @@ cat <<EOF > "$FICHIER_HTML"
         body { font-family: 'Segoe UI', Roboto, Arial, sans-serif; background-color: #ffffff; color: #000; }
         .title { color: #1e3a8a !important; }
         
-        /* --- STYLE DU TABLEAU OPTIMISÉ --- */
+        /* --- STYLE DU TABLEAU DYNAMIQUE --- */
         .table-epure { 
             width: 100%; 
             border-collapse: collapse; 
             background-color: #fff; 
-            table-layout: fixed; /* IMPORTANT : Permet de fixer les largeurs */
+            /* On laisse le navigateur calculer les largeurs selon le contenu */
+            table-layout: auto; 
         }
         
         .table-epure th, .table-epure td { 
             border: 2px solid #1e3a8a; 
             padding: 12px 15px; 
             color: #000; 
-            vertical-align: middle; /* Centre le texte verticalement */
-            word-wrap: break-word; /* Coupe les mots trop longs (URLs) */
-            overflow-wrap: break-word;
+            vertical-align: middle;
         }
 
         .table-epure th { 
@@ -59,17 +58,19 @@ cat <<EOF > "$FICHIER_HTML"
             font-weight: bold; 
             border-bottom: 3px solid #1e3a8a; 
             text-align: center; 
+            /* MODIFICATION CRUCIALE : */
+            /* Empêche le texte des titres de passer à la ligne */
+            white-space: nowrap; 
         }
 
         .table-epure tr:hover { background-color: #eef2ff; }
 
-        /* --- LARGEUR DES COLONNES --- */
-        /* On définit la largeur de chaque colonne précisément */
-        .table-epure th:nth-child(1) { width: 5%; }  /* Ligne (petit) */
-        .table-epure th:nth-child(2) { width: 10%; } /* Code HTTP */
-        .table-epure th:nth-child(3) { width: 15%; } /* Encodage */
-        .table-epure th:nth-child(4) { width: 10%; } /* Mots */
-        .table-epure th:nth-child(5) { width: 60%; } /* URL (prend tout le reste) */
+        /* Gestion de la colonne URL pour qu'elle n'explose pas le tableau */
+        /* On cible la dernière colonne (celle des URL) */
+        .table-epure td:last-child {
+            word-break: break-all; /* Force la coupure des liens très longs */
+            min-width: 300px; /* Largeur minimale pour rester lisible */
+        }
 
     </style>
 </head>
@@ -115,19 +116,18 @@ while read -r line; do
     # -- D. Sauvegarde --
     mv "page_temp.html" "${DOSSIER_IDOINE}/${LANGUE}-${compteur}.txt"
 
-    # -- E. Nettoyage (CRITIQUE) --
+    # -- E. Nettoyage --
     code_http=$(echo "$code_http" | tr -d '\n\r')
     encodage=$(echo "$encodage" | tr -d '\n\r')
     nb_mots=$(echo "$nb_mots" | tr -d '\n\r')
 
     # -- F. Écriture HTML --
     echo "                <tr>" >> "$FICHIER_HTML"
-    # Centrage du texte pour les petites colonnes
     echo "                    <td style=\"text-align:center\">$compteur</td>" >> "$FICHIER_HTML"
     echo "                    <td style=\"text-align:center\">$code_http</td>" >> "$FICHIER_HTML"
     echo "                    <td style=\"text-align:center\">$encodage</td>" >> "$FICHIER_HTML"
     echo "                    <td style=\"text-align:center\">$nb_mots</td>" >> "$FICHIER_HTML"
-    # Pas de centrage pour l'URL pour que ce soit plus lisible
+    # La colonne URL n'a pas de style spécial ici, c'est le CSS global qui gère la coupe
     echo "                    <td><a href=\"$line\" target=\"_blank\">$line</a></td>" >> "$FICHIER_HTML"
     echo "                </tr>" >> "$FICHIER_HTML"
 
