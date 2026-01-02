@@ -1,0 +1,1406 @@
+<!DOCTYPE html >
+<!--[if IE 8]><html class="ie8" lang="en"><![endif]-->
+<!--[if IE 9]><html class="ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="fr-FR"><!--<![endif]-->
+<head>
+    <title>Flotte de l’État : un outil pour intégrer davantage de VO</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="facebook-domain-verification" content="99k8nusuzyum1y2bwtklqhcpkyd8v3" />
+    <link rel="pingback" href="https://www.flotauto.com/xmlrpc.php" />
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<meta property="og:image" content="https://www.flotauto.com/wp-content/uploads/2025/06/voitures.jpg" /><meta name="author" content="Intissar El Hajj Mohamed">
+<link rel="icon" type="image/png" href="https://www.flotauto.com/wp-content/uploads/2019/04/favicon.png"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.flotauto.com/wp-content/uploads/2016/06/FA-76x76.jpg"/><link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.flotauto.com/wp-content/uploads/2016/06/FA-120x120.jpg"/><link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.flotauto.com/wp-content/uploads/2016/06/FA-152x152.jpg"/><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.flotauto.com/wp-content/uploads/2016/06/FA-114x114.jpg"/><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.flotauto.com/wp-content/uploads/2016/06/FA-144x144.jpg"/>
+	<!-- This site is optimized with the Yoast SEO Premium plugin v26.4 (Yoast SEO v26.4) - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="La direction des achats de l’État lance un système d’acquisition dynamique (SAD) pour l’achat de véhicules d’occasion (VO)." />
+	<link rel="canonical" href="https://www.flotauto.com/flotte-etat-vo/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Flotte de l’État : un outil pour intégrer davantage de VO" />
+	<meta property="og:description" content="La direction des achats de l’État lance un système d’acquisition dynamique (SAD) pour l’achat de véhicules d’occasion (VO)." />
+	<meta property="og:url" content="https://www.flotauto.com/flotte-etat-vo/" />
+	<meta property="og:site_name" content="Flottes Automobiles" />
+	<meta property="article:publisher" content="https://www.facebook.com/flotauto/" />
+	<meta property="article:published_time" content="2025-12-05T10:43:25+00:00" />
+	<meta property="article:modified_time" content="2025-12-05T10:44:15+00:00" />
+	<meta property="og:image" content="https://www.flotauto.com/wp-content/uploads/2025/06/voitures.jpg" />
+	<meta property="og:image:width" content="650" />
+	<meta property="og:image:height" content="430" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Intissar El Hajj Mohamed" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@flotauto" />
+	<meta name="twitter:site" content="@flotauto" />
+	<meta name="twitter:label1" content="Écrit par" />
+	<meta name="twitter:data1" content="Intissar El Hajj Mohamed" />
+	<meta name="twitter:label2" content="Durée de lecture estimée" />
+	<meta name="twitter:data2" content="9 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.flotauto.com/flotte-etat-vo/","url":"https://www.flotauto.com/flotte-etat-vo/","name":"Flotte de l’État : un outil pour intégrer davantage de VO","isPartOf":{"@id":"https://www.flotauto.com/#website"},"primaryImageOfPage":{"@id":"https://www.flotauto.com/flotte-etat-vo/#primaryimage"},"image":{"@id":"https://www.flotauto.com/flotte-etat-vo/#primaryimage"},"thumbnailUrl":"https://www.flotauto.com/wp-content/uploads/2025/06/voitures.jpg","datePublished":"2025-12-05T10:43:25+00:00","dateModified":"2025-12-05T10:44:15+00:00","author":{"@id":"https://www.flotauto.com/#/schema/person/e2fc87de753cab561829d547597e82b2"},"description":"La direction des achats de l’État lance un système d’acquisition dynamique (SAD) pour l’achat de véhicules d’occasion (VO).","breadcrumb":{"@id":"https://www.flotauto.com/flotte-etat-vo/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://www.flotauto.com/flotte-etat-vo/"]}]},{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://www.flotauto.com/flotte-etat-vo/#primaryimage","url":"https://www.flotauto.com/wp-content/uploads/2025/06/voitures.jpg","contentUrl":"https://www.flotauto.com/wp-content/uploads/2025/06/voitures.jpg","width":650,"height":430,"caption":"voitures"},{"@type":"BreadcrumbList","@id":"https://www.flotauto.com/flotte-etat-vo/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://www.flotauto.com/"},{"@type":"ListItem","position":2,"name":"Flotte de l’État : un outil pour intégrer davantage de VO"}]},{"@type":"WebSite","@id":"https://www.flotauto.com/#website","url":"https://www.flotauto.com/","name":"Flottes Automobiles","description":"Le portail de la gestion de flottes automobiles","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.flotauto.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"fr-FR"},{"@type":"Person","@id":"https://www.flotauto.com/#/schema/person/e2fc87de753cab561829d547597e82b2","name":"Intissar El Hajj Mohamed"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+
+<script id="vacons-head" type="text/javascript">(function(){function read(path){return new Promise((resolve,reject)=>{window.fetch(path+'read.php',{cache:'default',mode:'same-origin',credentials:'same-origin',priority:'high',referrerPolicy:'same-origin'}).then(res=>{if(res.ok){res.json().then(data=> resolve(data)).catch(err=> reject(err));}else{return reject('Could not fetch consent'+res.statusText);}});});};function Vacons(){this.path="/wp-content/plugins/varenne-consent/";this.listeners={previous:[],available:[],click:[]};this.onPrevious=callback=>{this.listeners.previous.push(callback);if(!this.req){this.dispatch('previous',this.record);}};this.onAvailable=callback=>{this.listeners.available.push(callback);if(!this.req && this.record){this.dispatch('available',this.record);}};this.onClick=callback=> this.listeners.click.push(callback);this.dispatch=(eventName,value)=>{this.listeners[eventName].forEach(callback=> callback.call(this,value));this.listeners[eventName]=[];};this.start=function(){this.started=Date.now();if(window.localStorage){const local=JSON.parse(localStorage.getItem('vacons')|| null);if(local){this.record=local;return this.record;}};this.req=read(this.path).then(response=>{if(window.localStorage && response.choices){localStorage.setItem('vacons',JSON.stringify(response));}this.stime=response.time;this.record=response.choices ? response:null;this.req=false;this.dispatch('previous',this.record);return this.record;});}};window.vacons=new Vacons();window.vacons.start();window.dataLayer=window.dataLayer || [];})();vacons.onClick(function(name){if(window.plausible)window.plausible('Consent Click:'+name);});
+</script>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Flottes Automobiles &raquo; Flux" href="https://www.flotauto.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Flottes Automobiles &raquo; Flux des commentaires" href="https://www.flotauto.com/comments/feed/" />
+
+<script id="vagtm-head" type="text/javascript">(function(w,d,s,l,i){
+    w[l]=w[l]||[];
+    w[l].push({"gtm.start":new Date().getTime(),event:"gtm.js"});
+    var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";
+    j.async=true;
+    j.src="https://www.googletagmanager.com/gtm.js?id="+i+dl;
+    f.parentNode.insertBefore(j,f);
+})(window,document,"script","dataLayer","GTM-NJ9JZVP");
+
+function gtag(){
+    dataLayer.push(arguments)
+};
+
+// Set the Google consent mode to denied by default
+gtag("consent","default",{
+    ad_storage:"denied",
+    ad_user_data:"denied",
+    ad_personalization:"denied",
+    analytics_storage:"denied",
+    // Wait for 500ms to allow for the onAvailable event to be dispatched
+    wait_for_update:500
+});
+
+// Print dataLayer.push() fro data collected via vagtm_datalayer_preconsent
+// Send without waiting for user consent.
+    dataLayer.push({"site":{"is_post":true,"parent_category":"Financement / LLD","sub_category":"Restitution VO / VR","is_card":false,"sub_listing":"","parent_listing":""}});   
+    dataLayer.push({"event":"dataLayer_ready","article":{"title":"Flotte de l’État : un outil pour intégrer davantage de VO","age":28,"modified":"2025-12-05T11:44:15+01:00","created":"2025-12-05T11:43:25+01:00","categories":[{"id":151,"name":"Restitution VO / VR","primary":true,"path":[{"id":143,"name":"Financement / LLD"},{"id":151,"name":"Restitution VO / VR"}]}]}});   
+
+// If the varenne-consent plugin is not activated/enables
+// then Google consent mode will never be updated.
+
+    vacons.onAvailable(consent => {
+        const c = consent.choices;
+        // varenne-consent defines three different consent.choices: 
+        // targeting, analytics or essentials as boolean values.
+        // Transform into granted | denied, as expected by Google Consent mode
+        // https://developers.google.com/tag-platform/tag-manager/templates/consent-apis
+        const granted = b => b ? "granted":"denied";
+        gtag("consent","update", {
+            ad_storage:granted(c.targeting),
+            ad_user_data:granted(c.targeting),
+            ad_personalization:granted(c.targeting),
+            analytics_storage:granted(c.analytics)
+        });
+
+        if (c.targeting) {
+            dataLayer.push({event:"cmp_consent_update",consent:"granted"});   
+        }
+})
+
+</script>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.flotauto.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='varenne-highlight-box-view-css' href='https://www.flotauto.com/wp-content/plugins/customization-fa-www/inc/blocks/highlight-box/view.css?ver=1.14' type='text/css' media='all' />
+<link rel='stylesheet' id='varenne-key-figure-view-css' href='https://www.flotauto.com/wp-content/plugins/customization-fa-www/inc/blocks/key-figure/view.css?ver=1.13' type='text/css' media='all' />
+<link rel='stylesheet' id='varenne-quote-view-css' href='https://www.flotauto.com/wp-content/plugins/customization-fa-www/inc/blocks/quote/view.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='varenne-our-opinion-view-css' href='https://www.flotauto.com/wp-content/plugins/customization-fa-www/inc/blocks/our-opinion/view.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='varenne-link-block-view-css' href='https://www.flotauto.com/wp-content/plugins/customization-fa-www/inc/blocks/link-block/view.css?ver=2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='vacal-ik-main-css' href='https://www.flotauto.com/wp-content/plugins/varenne-calculators/ik/ik-main.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='vacal-ta-main-css' href='https://www.flotauto.com/wp-content/plugins/varenne-calculators/ta/ta-main.css?ver=1.2' type='text/css' media='all' />
+<style id='varenne-mautic-quick-form-style-inline-css' type='text/css'>
+.vamtc-quick{padding:1rem}.vamtc-quick-button-cell{position:relative}.vamtc-quick-spinner{animation:vamtc-quick-rotation 1s linear infinite;border:5px solid #fff;border-bottom-color:transparent!important;border-radius:50%;box-sizing:border-box;height:1.8rem;left:50%;margin-left:-.9rem;margin-top:-.9rem;position:absolute;top:50%;width:1.8rem}@keyframes vamtc-quick-rotation{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.vamtc-quick-waiting{cursor:wait;opacity:.5}.vamtc-quick{line-height:1.6}.vamtc-quick-foreword{font-family:Roboto,Verdana,Geneva,sans-serif;font-size:.875rem;margin-bottom:.5rem}.vamtc-quick-row{align-items:stretch;border:1px solid #000;border-radius:.25rem;display:flex;flex-wrap:nowrap;line-height:1.2;overflow:hidden}input.vamtc-quick-input[type=email],input.vamtc-quick-input[type=text]{border:none;border-radius:0;border-right:1px solid #000;flex-grow:1;font-family:Roboto,Verdana,Geneva,sans-serif;font-size:.75rem;line-height:1.2;margin:0;padding:.25rem .5rem}input.vamtc-quick-input[type=email]:focus,input.vamtc-quick-input[type=text]:focus{box-shadow:none;outline:none}.vamtc-quick-button{background:#f5fffa;border:none;color:#fff;color:#000;cursor:pointer;display:block;font-size:1.2rem;height:100%;line-height:1.2;margin:0;padding:.25rem .9rem;width:100%}.vamtc-quick-message{align-items:center;display:flex;text-align:center}
+
+</style>
+<style id='varenne-mautic-embed-form-style-inline-css' type='text/css'>
+.vamtc-embed{border:1px solid transparent;container-name:vamtc-embed;container-type:inline-size;padding:1rem;position:relative}.vamtc-embed-spinner{animation:vamtc-embed-rotation 1s linear infinite;aspect-ratio:1;border:.5rem solid #000;border-bottom-color:transparent!important;border-radius:50%;box-sizing:border-box;height:min(70%,7rem);left:50%;position:absolute;top:50%;width:auto}@keyframes vamtc-embed-rotation{0%{transform:translate(-50%,-50%) rotate(0deg)}to{transform:translate(-50%,-50%) rotate(1turn)}}.vamtc-embed-waiting{cursor:wait;opacity:.5}.vamtc-embed{line-height:1.6}.vamtc-embed-row{align-items:center;display:flex;gap:.5em}.vamtc-embed-picture-container{align-items:center;align-self:stretch;display:flex;flex-basis:auto;flex-grow:0;flex-shrink:0;justify-content:space-between;text-align:center}.vamtc-embed-picture-container img{border:none;cursor:pointer;height:auto;max-width:180px}.vamtc-embed-foreword{flex-grow:1;font-family:Roboto,Verdana,Geneva,sans-serif;font-size:.875rem}.vamtc-embed-combo-container{align-items:stretch;display:flex;flex-grow:1;flex-shrink:1;justify-content:flex-end}.vamtc-embed-combo{border:1px solid #000;border-radius:.25em;display:flex;overflow:hidden}input.vamtc-embed-combo-input[type=email],span.vamtc-embed-combo-input{background-color:#fff;border:none;box-sizing:border-box;font-family:Roboto,Verdana,Geneva,sans-serif;font-size:.75rem;line-height:1.5;margin:0;min-width:15ch!important;padding:.7em .5em}input.vamtc-embed-combo-input[type=email]:focus,input.vamtc-embed-combo-input[type=text]:focus{box-shadow:none;outline:none}.vamtc-embed-combo-button{background:#f5fffa;border:none;border-left:1px solid #000;color:#000;cursor:pointer;display:block;margin:0;padding:0;position:relative;width:2em}.vamtc-embed-combo-button>svg{height:16px;left:50%;margin-left:-7px;margin-top:-8px;position:absolute;top:50%;width:16px}@container vamtc-embed (max-width: 540px){.vamtc-embed-row{display:grid;grid-template-columns:auto 1fr;grid-template-rows:auto auto}.vamtc-embed-picture-container{display:none;grid-column:1/1;grid-row:1/1}.vamtc-embed-foreword{grid-column:2/2;grid-row:1/1}.vamtc-embed-combo-container{grid-column:2/2;grid-row:2/2;justify-content:flex-start}.vamtc-embed-combo{width:100%}input.vamtc-embed-combo-input{width:100%!important}input.vamtc-embed-combo-input[type=email]{font-size:16px}}.vamtc-embed-message{align-items:center;display:flex;justify-content:center}
+
+</style>
+<style id='varenne-mautic-full-form-style-inline-css' type='text/css'>
+.vamtc-full-spinner{animation:vamtc-quick-rotation 1s linear infinite;border:5px solid #fff;border-bottom-color:transparent!important;border-radius:50%;box-sizing:border-box;height:1.8rem;left:50%;margin-left:-.9rem;margin-top:-.9rem;position:absolute;top:50%;width:1.8rem}@keyframes vamtc-quick-rotation{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}div.vamtc-full-field{margin-bottom:.5rem}label.vamtc-full-field{display:block;font-variant:small-caps;font-weight:700;margin:0;text-align:left}label.vamtc-full-field:after{color:red;content:" *";font-size:1.2rem;font-weight:700;vertical-align:top}input.vamtc-full-field{box-sizing:border-box;font-size:1.1rem;padding:.15em;width:100%}label.vamtc-invalid{color:red}p.vamtc-full-field{font-size:90%;font-style:italic;margin:0}div.vamtc-full-accept-container{align-items:flex-start;display:flex;margin-bottom:1rem;margin-top:1rem}input[type=checkbox].vamtc-full-checkbox{box-shadow:none;display:inline-block;margin:.3em 0 0;outline:none;width:auto}label.vamtc-full-accept-text{display:inline-block;padding-left:1em;text-align:left;width:auto}div.vamtc-full-button-container{align-items:center;display:flex;justify-content:center;padding:.5rem;position:relative}.vamtc-full-button{background-color:#f5fffa;border:1px solid #000;border-radius:.15em;color:#000;display:inline-block;font-size:1.2rem;padding:.5em 1em}button.vamtc-full-button:hover{cursor:pointer}div.vamtc-full-message{align-items:center;display:flex;justify-content:center;text-align:center}
+
+</style>
+<style id='varenne-mautic-confirm-block-style-inline-css' type='text/css'>
+span.vamtc-confirm-spinner{animation:vamtc-confirm-rotation 1s linear infinite;border:10px solid red;border-bottom-color:transparent!important;border-radius:50%;box-sizing:border-box;display:inline-block;height:100px;width:100px}@keyframes vamtc-confirm-rotation{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.vamtc-confirm-block{text-align:center}h2.vamtc-confirm-error{font-weight:700;text-align:left}div.vamtc-confirm-error{text-align:left}
+
+</style>
+<link rel='stylesheet' id='fontawesome-free-css' href='https://www.flotauto.com/wp-content/plugins/getwid/vendors/fontawesome-free/css/all.min.css?ver=5.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css' href='https://www.flotauto.com/wp-content/plugins/getwid/vendors/slick/slick/slick.min.css?ver=1.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css' href='https://www.flotauto.com/wp-content/plugins/getwid/vendors/slick/slick/slick-theme.min.css?ver=1.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mp-fancybox-css' href='https://www.flotauto.com/wp-content/plugins/getwid/vendors/mp-fancybox/jquery.fancybox.min.css?ver=3.5.7-mp.1' type='text/css' media='all' />
+<link rel='stylesheet' id='getwid-blocks-css' href='https://www.flotauto.com/wp-content/plugins/getwid/assets/css/blocks.style.css?ver=2.1.3' type='text/css' media='all' />
+<style id='getwid-blocks-inline-css' type='text/css'>
+.wp-block-getwid-section .wp-block-getwid-section__wrapper .wp-block-getwid-section__inner-wrapper{max-width: 640px;}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #c30055;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--jaune-flotauto: #fcc116;--wp--preset--color--bleu-flotauto: #00519e;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='cat-to-cat-css' href='https://www.flotauto.com/wp-content/plugins/customization-fa-www/css/cat-to-cat.css' type='text/css' media='all' />
+<link rel='stylesheet' id='agenda_sitefa-css' href='https://www.flotauto.com/wp-content/plugins/customization-fa-www/css/agenda.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='vaal-base-css' href='https://www.flotauto.com/wp-content/plugins/varenne-autolink/css/autolink.css?ver=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='vacar-css' href='https://www.flotauto.com/wp-content/plugins/varenne-caroussel/style.css?ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='light-style-css' href='https://www.flotauto.com/wp-content/plugins/varenne-organize-series/orgSeriesLightTheme.css?ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_open_sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C400%2C600%2C700&#038;ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-style-css' href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C700&#038;ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='newspaper-concat-css' href='https://www.flotauto.com/wp-content/themes/varenne-newspaper-fa/dist/concat.css?ver=2.22' type='text/css' media='all' />
+<link rel='stylesheet' id='vacons-css' href='https://www.flotauto.com/wp-content/plugins/varenne-consent/css/banner.css' type='text/css' media='all' />
+<link rel='stylesheet' id='vacons-custom-css' href='https://www.flotauto.com/wp-content/plugins/customization-fa-network/css/consent-banner-v3.css?ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css' href='https://www.flotauto.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=8.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css' href='https://www.flotauto.com/wp-content/themes/varenne-newspaper-fa/style.css?ver=2.22' type='text/css' media='all' />
+<link rel='stylesheet' id='td-fontawesome-css' href='https://www.flotauto.com/wp-content/themes/varenne-newspaper-fa/css/font-awesome.min.css?ver=2.22' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css' href='https://www.flotauto.com/wp-content/themes/varenne-newspaper-fa/style-child.css?ver=2.22' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.flotauto.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.flotauto.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.flotauto.com/wp-content/plugins/varenne-calculators/ik/ik-front.js?ver=1.2" id="vacal-ik-front-js"></script>
+<script type="text/javascript" src="https://www.flotauto.com/wp-content/plugins/varenne-calculators/ta/ta-front.js?ver=1.2" id="vacal-ta-front-js"></script>
+<script type="text/javascript" src="https://www.flotauto.com/wp-content/plugins/customization-fa-www/js/ad_after_post.js?ver=6.7.2" id="ad-after-post-js"></script>
+<script type="text/javascript" src="https://www.flotauto.com/wp-content/plugins/varenne-mautic/build/shared-js/form-view.js?ver=0c7422a361f949a2d9de" id="varenne-mautic-embed-form-view-script-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://www.flotauto.com/wp-content/plugins/varenne-caroussel/js/jquery.bxslider.min.js?ver=6.7.2" id="bxslider-js"></script>
+<script type="text/javascript" defer data-domain='flotauto.com' data-api='https://www.flotauto.com/wp-json/3cdb72/v1/de49/5da397f1' data-cfasync='false' data-exclude='/wp-admin' event-author='Intissar El Hajj Mohamed' event-category="Restitution VO / VR" event-post_tag="Véhicules d'occasion" event-type-darticle="Le fil d'actualité" event-user_logged_in='no' src="//www.flotauto.com/wp-content/uploads/846735449d/a1c26616.js?ver=1767284494" id="plausible-analytics-js"></script>
+<script type="text/javascript" id="plausible-analytics-js-after">
+/* <![CDATA[ */
+window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.flotauto.com/wp-content/plugins/varenne-mautic/build/shared-js/form-view.js?ver=0c7422a361f949a2d9de" id="varenne-mautic-quick-form-view-script-js" defer="defer" data-wp-strategy="defer"></script>
+<script></script><link rel="https://api.w.org/" href="https://www.flotauto.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.flotauto.com/wp-json/wp/v2/posts/347029" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.flotauto.com/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://www.flotauto.com/?p=347029' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.flotauto.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.flotauto.com%2Fflotte-etat-vo%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.flotauto.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.flotauto.com%2Fflotte-etat-vo%2F&#038;format=xml" />
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script type="text/javascript">var googletag = googletag || {};googletag.cmd = googletag.cmd || [];googletag.cmd.push(function(){var pubads = googletag.pubads();googletag.pubads().set('document_language','fr');googletag.defineSlot('/158471340/FA_Inner_Top',[[320,100],[728,90]],'ad-slot-top').addService(pubads);googletag.defineSlot('/158471340/FA_Inner_Sidebar',[[300,250],[300,600]],'ad-slot-sidebar').addService(pubads);googletag.defineSlot('/158471340/FA_Inner_Sidebar_Sticky',[[300,250],[300,600]],'ad-slot-sidebar-sticky').addService(pubads);googletag.defineSlot('/158471340/FA_Inner_Cover',[1,1],'ad-slot-cover').addService(pubads);googletag.defineSlot('/158471340/FA_Inner_Bottom_Anchor',[1,1],'ad-slot-bottom-anchor').addService(pubads);googletag.defineSlot('/158471340/FA_Inner_Text_Ad',[1,1],'ad-slot-text-ad').addService(pubads);googletag.defineSlot('/158471340/FA_Inner_In_Post',[[300,250],[350,250],[350,300],[640,480],[640,420],[690,530]], 'ad-slot-in-post').setCollapseEmptyDiv(true).addService(pubads);googletag.pubads().setTargeting('post_id', '347029');pubads.enableSingleRequest();googletag.enableServices();});</script>
+<!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+    
+
+	    var tdBlocksArray = []; //here we store all the items for the current page
+
+	    //td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+            if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var td_ajax_url="https:\/\/www.flotauto.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=2.22";
+var td_get_template_directory_uri="https:\/\/www.flotauto.com\/wp-content\/themes\/varenne-newspaper-fa";
+var tds_snap_menu="snap";
+var tds_logo_on_sticky="show";
+var tds_header_style="";
+var td_please_wait="Patientez s'il vous plait";
+var td_email_user_pass_incorrect="Identifiant ou mot de passe incorrect";
+var td_email_user_incorrect="Email ou identifiant incorrect";
+var td_email_incorrect="Email incorrect";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_theme_color_site_wide="#4db2ec";
+var tds_smart_sidebar="";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+
+<!-- Header style compiled by theme -->
+
+<style>
+    
+.block-title > span,
+    .block-title > a,
+    .block-title > label,
+    .widgettitle,
+    .widgettitle:after,
+    .td-trending-now-title,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td-related-title .td-cur-simple-item,
+    .woocommerce .product .products h2,
+    .td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more,
+    .td-weather-information:before,
+    .td-weather-week:before,
+    .td_block_exchange .td-exchange-header:before {
+        background-color: #222222;
+    }
+
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    	background-color: #222222 !important;
+    }
+
+    .block-title,
+    .td-related-title,
+    .wpb_tabs .wpb_tabs_nav,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
+    .woocommerce div.product .woocommerce-tabs ul.tabs:before {
+        border-color: #222222;
+    }
+
+    
+    .td-module-meta-info .td-post-author-name a {
+    	color: #444444;
+    }
+
+    
+    ul.sf-menu > .td-menu-item > a {
+        font-family:Roboto;
+	font-size:13px;
+	
+    }
+    
+    .post header .td-post-author-name,
+    .post header .td-post-author-name a {
+        font-weight:normal;
+	
+    }
+</style>
+
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="post-template-default single single-post postid-347029 single-format-standard flotte-etat-vo wpb-js-composer js-comp-ver-8.4.1 vc_responsive td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+        
+        <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+
+
+    <div class="td-menu-background"></div>
+<div id="td-mobile-nav">
+    <div class="td-mobile-container">
+        <!-- mobile menu top section -->
+        <div class="td-menu-socials-wrap">
+            <!-- socials -->
+            <div class="td-menu-socials">
+                            </div>
+            <!-- close button -->
+            <div class="td-mobile-close">
+                <a href="#"><i class="td-icon-close-mobile"></i></a>
+            </div>
+        </div>
+
+        <!-- login section -->
+        
+        <!-- menu section -->
+        <div class="td-mobile-content">
+            <div class="menu-menu-container"><ul id="menu-menu" class="td-mobile-main-menu"><li id="menu-item-1205" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first menu-item-has-children menu-item-1205"><a href="https://www.flotauto.com/gestion-parcs/">Gestion de parc<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-0" class="menu-item-0"><a href="https://www.flotauto.com/gestion-parcs/flottes-expert/">Flottes Expert</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/gestion-parcs/fiscalite/">Fiscalité/réglementation</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/gestion-parcs/assurance-assistance/">Assurance / Assistance</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/gestion-parcs/outils-solutions/">Outils et logiciels</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/gestion-parcs/ressources-humaines/">Ressources humaines</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/gestion-parcs/tco/">TCO</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/gestion-parcs/car-policy/">Car policy</a></li>
+</ul>
+</li>
+<li id="menu-item-1219" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-1219"><a href="https://www.flotauto.com/financement-location/">Financement / LLD<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><a href="https://www.flotauto.com/financement-location/fleet-management/">Fleet management</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/financement-location/location-longue-duree/">Location Longue Durée</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/financement-location/captives/">Captives</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/financement-location/restitution-vo-vr/">Restitution VO / VR</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/financement-location/location-courte-moyenne-duree/">LCD &amp; LMD</a></li>
+</ul>
+</li>
+<li id="menu-item-1229" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1229"><a href="https://www.flotauto.com/mobilite/">Mobilité<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><a href="https://www.flotauto.com/mobilite/transition-energetique/">Transition énergétique</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/mobilite/mobilite-partagee/">Mobilité partagée</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/mobilite/recharge-electrique/">Recharge électrique / H2</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/mobilite/carburants/">Carburants / biocarburants</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/mobilite/recyclage/">Recyclage</a></li>
+</ul>
+</li>
+<li id="menu-item-1243" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1243"><a href="https://www.flotauto.com/vehicules/">Véhicules<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><a href="https://www.flotauto.com/vehicules/vehicules-particuliers/">Véhicules particuliers</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/vehicules/vehicules-utilitaires/">Véhicules utilitaires</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/vehicules/vehicules-autonomes/">Véhicules autonomes</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/vehicules/poids-lourds/">Poids lourds</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/vehicules/essais/">Essais auto</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/vehicules/2-roues-3-roues/">2 roues / 3 roues</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/vehicules/marche-automobile/">Marché automobile</a></li>
+</ul>
+</li>
+<li id="menu-item-1257" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1257"><a href="https://www.flotauto.com/equipements-services/">Équipements<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><a href="https://www.flotauto.com/equipements-services/amenagement/">Aménagement</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/equipements-services/entretien-reparation/">Entretien / Réparation</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/equipements-services/pneumatiques/">Pneumatiques</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/equipements-services/telematique-embarquee/">Télématique embarquée</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/equipements-services/moteurs-composants/">Moteurs et composants</a></li>
+</ul>
+</li>
+<li id="menu-item-253213" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-253213"><a href="https://www.flotauto.com/securite-routiere/">Sécurité routière<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><a href="https://www.flotauto.com/securite-routiere/preventionroutiere/">Prévention routière</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/securite-routiere/eco-conduite/">Éco-conduite</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/securite-routiere/equipements-securite/">Équipements de sécurité</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/securite-routiere/outils-aide-conduite/">Outils d&rsquo;aide à la conduite</a></li>
+	<li class="menu-item-0"><a href="https://www.flotauto.com/securite-routiere/chiffres-securite-routiere/">Chiffres sécurité routière</a></li>
+</ul>
+</li>
+<li id="menu-item-120575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-120575"><a href="https://www.flotauto.com/nos-services">Nos services<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-120571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-120571"><a href="https://www.flotauto.com/les-magazines">Le magazine</a></li>
+	<li id="menu-item-245843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245843"><a href="https://www.flotauto.com/derniers-dossiers/">Nos derniers dossiers</a></li>
+	<li id="menu-item-120573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-120573"><a href="https://www.flotauto.com/cahiers-experts">Cahiers Experts</a></li>
+	<li id="menu-item-234907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-234907"><a href="https://www.flotauto.com/webinaires">Webinaires</a></li>
+	<li id="menu-item-234951" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-234951"><a href="https://www.flotauto.com/agenda-flottes-automobiles">Agenda</a></li>
+	<li id="menu-item-234909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-234909"><a href="https://www.flotauto.com/newsletter">Newsletter</a></li>
+	<li id="menu-item-234911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-234911"><a href="https://www.flotauto.com/les-formules-dabonnement">S&rsquo;abonner</a></li>
+	<li id="menu-item-238117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238117"><a href="https://www.flotauto.com/formations/">Formations</a></li>
+</ul>
+</li>
+<li id="menu-item-236467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-236467"><a href="https://www.flotauto.com/nos-sites/">Nos sites<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-236469" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-236469"><a href="https://formations.flotauto.com" target="_blank">Formations IMVE</a></li>
+	<li id="menu-item-236475" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-236475"><a href="https://guide.flotauto.com" target="_blank">Guide Flotauto</a></li>
+	<li id="menu-item-236471" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-236471"><a href="https://rencontres.flotauto.com" target="_blank">Rencontres Flotauto Paris</a></li>
+	<li id="menu-item-236473" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-236473"><a href="https://rencontreslyon.flotauto.com" target="_blank">Rencontres Flotauto Lyon</a></li>
+	<li id="menu-item-338813" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-338813"><a href="https://rencontrestoulouse.flotauto.com" target="_blank">Rencontres Flotauto Toulouse</a></li>
+	<li id="menu-item-236479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-236479"><a href="https://eprunes.flotauto.com" target="_blank">e-Prunes</a></li>
+</ul>
+</li>
+</ul></div>        </div>
+    </div>
+
+    <!-- register/login section -->
+    </div>    <div class="td-search-background"></div>
+<div class="td-search-wrap-mob">
+	<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+		<form method="get" class="td-search-form" action="https://www.flotauto.com/">
+			<!-- close button -->
+			<div class="td-search-close">
+				<a href="#"><i class="td-icon-close-mobile"></i></a>
+			</div>
+			<div role="search" class="td-search-input">
+				<span>Chercher</span>
+				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
+			</div>
+		</form>
+		<div id="td-aj-search-mob"></div>
+	</div>
+</div>
+    <div id="td-outer-wrap">
+
+        <div class="td-transition-content-and-menu td-mobile-nav-wrap">
+                    </div>
+
+                <div class="td-transition-content-and-menu td-content-wrap">
+
+<!--
+Header style 1 
+-->
+
+<div class="td-header-wrap td-header-style-1">
+
+    <div class="td-header-top-menu-full">
+        <div class="td-container td-header-row td-header-top-menu">
+            
+    <div class="top-bar-style-1">
+        
+<div class="td-header-sp-top-menu">
+
+
+	<div class="menu-top-container"><ul id="menu-top-menu" class="top-header-menu"><li id="menu-item-197805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-first td-menu-item td-normal-menu menu-item-197805"><a href="https://rencontres.flotauto.com" target="_blank">Rencontres Flotauto</a></li>
+<li id="menu-item-1455" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-1455"><a href="https://guide.flotauto.com" target="_blank">Guide Flotauto</a></li>
+<li id="menu-item-137959" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-137959"><a href="https://imve.flotauto.com" target="_blank">formations imve</a></li>
+<li id="menu-item-232147" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-232147"><a href="https://www.flotauto.com/webinaires">Webinaires</a></li>
+<li id="menu-item-236821" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-236821"><a href="https://www.flotauto.com/agenda-flottes-automobiles">Agenda</a></li>
+<li id="menu-item-250131" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-250131"><a href="https://www.flotauto.com/devenir-annonceur">Media Kit</a></li>
+<li id="menu-item-276191" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-276191"><a href="https://www.flotauto.com/contact/">Contacts</a></li>
+<li id="menu-item-324201" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-324201"><a href="https://www.flotauto.com/les-formules-dabonnement">S&rsquo;abonner</a></li>
+<li id="menu-item-107045" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-107045"><a rel="nofollow" href="https://www.flotauto.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.flotauto.com%2Fflotte-etat-vo" class="vasp-link">Connexion</a></li>
+</ul></div></div>
+            </div>
+
+<!-- LOGIN MODAL -->
+
+                <div  id="login-form" class="white-popup-block mfp-hide mfp-with-anim">
+                    <ul class="td-login-tabs">
+                        <li><a id="login-link" class="td_login_tab_focus">LOG IN</a></li>
+                    </ul>
+
+
+
+                    <div class="td-login-wrap">
+                        <div class="td_display_err"></div>
+
+                        <div id="td-login-div" class="">
+                            <div class="td-login-panel-title">Welcome! Log into your account</div>
+                            <input class="td-login-input" type="text" name="login_email" id="login_email" placeholder="your username" value="" required>
+                            <input class="td-login-input" type="password" name="login_pass" id="login_pass" value="" placeholder="Votre mot de passe" required>
+                            <input type="button" name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Log In">
+
+
+                            <div class="td-login-info-text"><a href="#" id="forgot-pass-link">Mot de passe oublié ?</a></div>
+
+
+                        </div>
+
+                        
+
+                         <div id="td-forgot-pass-div" class="td-display-none">
+                            <div class="td-login-panel-title">Recover your password</div>
+                            <input class="td-login-input" type="text" name="forgot_email" id="forgot_email" placeholder="Votre email" value="" required>
+                            <input type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Envoyer mon mot de passe">
+                        </div>
+
+
+
+
+                    </div>
+                </div>
+                        </div>
+    </div>
+
+    <div class="td-banner-wrap-full td-logo-wrap-full">
+        <div class="td-container td-header-row td-header-header">
+           
+			 <div class="td-header-sp-logo">
+                        <a class="td-main-logo" href="https://www.flotauto.com/">
+            <img class="td-retina-data" data-retina="https://www.flotauto.com/wp-content/uploads/2018/06/flottes-automobiles.jpg" src="https://www.flotauto.com/wp-content/uploads/2016/02/logo-FA-272x90.png" alt="Flottes Automobiles" title="Flottes Automobiles"/>
+        </a>
+    								<div class="siteva_descr" >La gestion des véhicules professionnels</div>
+				            </div>
+				<div id="ad-slot-top">
+					<script>googletag.cmd.push(function() { googletag.display('ad-slot-top') })</script>
+				</div>
+        </div>
+    </div>
+
+    <div class="td-header-menu-wrap-full">
+        <div class="td-header-menu-wrap td-header-gradient">
+            <div class="td-container td-header-row td-header-main-menu">
+                <div id="td-header-menu" role="navigation">
+    <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+    <div class="td-main-menu-logo td-logo-in-header">
+        		<a class="td-mobile-logo td-sticky-mobile" href="https://www.flotauto.com/">
+			<img class="td-retina-data" data-retina="https://www.flotauto.com/wp-content/uploads/2016/06/FA-280x96.jpg" src="https://www.flotauto.com/wp-content/uploads/2016/06/fa-140x48.jpg" alt="Flottes Automobiles" title="Flottes Automobiles"/>
+		</a>
+			<a class="td-header-logo td-sticky-mobile" href="https://www.flotauto.com/">
+			<img class="td-retina-data" data-retina="https://www.flotauto.com/wp-content/uploads/2018/06/flottes-automobiles.jpg" src="https://www.flotauto.com/wp-content/uploads/2016/02/logo-FA-272x90.png" alt="Flottes Automobiles" title="Flottes Automobiles"/>
+		</a>
+	        <div id="mobile-connect-menu">
+            <a class="vasp-link not-connected" rel="nofollow" href="https://www.flotauto.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.flotauto.com%2Fflotte-etat-vo"><span>Connexion</span></a>            <a class="subscribe" href="https://www.flotauto.com/les-formules-dabonnement">S’abonner</a>
+        </div>
+    </div>
+
+    <div class="menu-menu-container"><ul id="menu-menu-1" class="sf-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first td-menu-item td-mega-menu menu-item-1205"><a href="https://www.flotauto.com/gestion-parcs/">Gestion de parc</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_1_6957ca3175e53_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_1_6957ca3175e53" ><script>var block_td_uid_1_6957ca3175e53 = new tdBlock();
+block_td_uid_1_6957ca3175e53.id = "td_uid_1_6957ca3175e53";
+block_td_uid_1_6957ca3175e53.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"129","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_1_6957ca3175e53_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_1_6957ca3175e53.td_column_number = "3";
+block_td_uid_1_6957ca3175e53.block_type = "td_block_mega_menu";
+block_td_uid_1_6957ca3175e53.post_count = "4";
+block_td_uid_1_6957ca3175e53.found_posts = "2792";
+block_td_uid_1_6957ca3175e53.header_color = "";
+block_td_uid_1_6957ca3175e53.ajax_pagination_infinite_stop = "";
+block_td_uid_1_6957ca3175e53.max_num_pages = "698";
+tdBlocksArray.push(block_td_uid_1_6957ca3175e53);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_1_6957ca3175e53"  id="td_uid_2_6957ca31765b5" data-td_block_id="td_uid_1_6957ca3175e53" data-td_filter_value="195" href="https://www.flotauto.com/gestion-parcs/flottes-expert/">Flottes Expert</a><a class="mega-menu-sub-cat-td_uid_1_6957ca3175e53"  id="td_uid_3_6957ca31765d9" data-td_block_id="td_uid_1_6957ca3175e53" data-td_filter_value="135" href="https://www.flotauto.com/gestion-parcs/fiscalite/">Fiscalité/réglementation</a><a class="mega-menu-sub-cat-td_uid_1_6957ca3175e53"  id="td_uid_4_6957ca31765f4" data-td_block_id="td_uid_1_6957ca3175e53" data-td_filter_value="131" href="https://www.flotauto.com/gestion-parcs/assurance-assistance/">Assurance / Assistance</a><a class="mega-menu-sub-cat-td_uid_1_6957ca3175e53"  id="td_uid_5_6957ca317660b" data-td_block_id="td_uid_1_6957ca3175e53" data-td_filter_value="137" href="https://www.flotauto.com/gestion-parcs/outils-solutions/">Outils et logiciels</a><a class="mega-menu-sub-cat-td_uid_1_6957ca3175e53"  id="td_uid_6_6957ca3176622" data-td_block_id="td_uid_1_6957ca3175e53" data-td_filter_value="6607" href="https://www.flotauto.com/gestion-parcs/ressources-humaines/">Ressources humaines</a><a class="mega-menu-sub-cat-td_uid_1_6957ca3175e53"  id="td_uid_7_6957ca3176639" data-td_block_id="td_uid_1_6957ca3175e53" data-td_filter_value="141" href="https://www.flotauto.com/gestion-parcs/tco/">TCO</a><a class="mega-menu-sub-cat-td_uid_1_6957ca3175e53"  id="td_uid_8_6957ca317664f" data-td_block_id="td_uid_1_6957ca3175e53" data-td_filter_value="133" href="https://www.flotauto.com/gestion-parcs/car-policy/">Car policy</a></div></div><div id=td_uid_1_6957ca3175e53 class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/tres-grand-exces-de-vitesse-delit/" rel="bookmark" title="Le très grand excès de vitesse est un délit passible de prison depuis le 29 décembre"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/voiture-vitesse-218x150-derived.jpg" alt="voiture vitesse" title="voiture vitesse"/></a></div>                <a href="https://www.flotauto.com/gestion-parcs/fiscalite/" class="td-post-category">Fiscalité/réglementation</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/tres-grand-exces-de-vitesse-delit/" rel="bookmark" title="Le très grand excès de vitesse est un délit passible de prison depuis le 29 décembre">Le très grand excès de vitesse est un délit passible de&#8230;</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/fiscalite-automobile-2026/" rel="bookmark" title="Fiscalité automobile : toujours pas de verdict pour le PLF 2026"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/calculatrice-chiffres-218x150-derived.jpg" alt="calculatrice chiffres" title="calculatrice chiffres"/></a></div>                <a href="https://www.flotauto.com/gestion-parcs/fiscalite/" class="td-post-category">Fiscalité/réglementation</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/fiscalite-automobile-2026/" rel="bookmark" title="Fiscalité automobile : toujours pas de verdict pour le PLF 2026">Fiscalité automobile : toujours pas de verdict pour le PLF 2026</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/bonus-2026-flottes/" rel="bookmark" title="Bonus des flottes : pas de changements prévus en 2026"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/voitures-rue-218x150-derived.jpg" alt="voitures rue" title="voitures rue"/></a></div>                <a href="https://www.flotauto.com/gestion-parcs/fiscalite/" class="td-post-category">Fiscalité/réglementation</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/bonus-2026-flottes/" rel="bookmark" title="Bonus des flottes : pas de changements prévus en 2026">Bonus des flottes : pas de changements prévus en 2026</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/paquet-automobile-europeen-vehicules-thermiques/" rel="bookmark" title="Paquet automobile européen : la fin du thermique repoussée"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/paquet-automobile-bd-218x150-derived.jpg" alt="paquet automobile européen" title="paquet automobile européen"/></a></div>                <a href="https://www.flotauto.com/gestion-parcs/fiscalite/" class="td-post-category">Fiscalité/réglementation</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/paquet-automobile-europeen-vehicules-thermiques/" rel="bookmark" title="Paquet automobile européen : la fin du thermique repoussée">Paquet automobile européen : la fin du thermique repoussée</a></span>            </div>
+        </div>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_1_6957ca3175e53" data-td_block_id="td_uid_1_6957ca3175e53" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_1_6957ca3175e53" data-td_block_id="td_uid_1_6957ca3175e53" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor td-menu-item td-mega-menu menu-item-1219"><a href="https://www.flotauto.com/financement-location/">Financement / LLD</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_9_6957ca3176feb_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_9_6957ca3176feb" ><script>var block_td_uid_9_6957ca3176feb = new tdBlock();
+block_td_uid_9_6957ca3176feb.id = "td_uid_9_6957ca3176feb";
+block_td_uid_9_6957ca3176feb.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"143","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_9_6957ca3176feb_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_9_6957ca3176feb.td_column_number = "3";
+block_td_uid_9_6957ca3176feb.block_type = "td_block_mega_menu";
+block_td_uid_9_6957ca3176feb.post_count = "4";
+block_td_uid_9_6957ca3176feb.found_posts = "1156";
+block_td_uid_9_6957ca3176feb.header_color = "";
+block_td_uid_9_6957ca3176feb.ajax_pagination_infinite_stop = "";
+block_td_uid_9_6957ca3176feb.max_num_pages = "289";
+tdBlocksArray.push(block_td_uid_9_6957ca3176feb);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_9_6957ca3176feb"  id="td_uid_10_6957ca3177740" data-td_block_id="td_uid_9_6957ca3176feb" data-td_filter_value="7205" href="https://www.flotauto.com/financement-location/fleet-management/">Fleet management</a><a class="mega-menu-sub-cat-td_uid_9_6957ca3176feb"  id="td_uid_11_6957ca317776a" data-td_block_id="td_uid_9_6957ca3176feb" data-td_filter_value="149" href="https://www.flotauto.com/financement-location/location-longue-duree/">Location Longue Durée</a><a class="mega-menu-sub-cat-td_uid_9_6957ca3176feb"  id="td_uid_12_6957ca3177787" data-td_block_id="td_uid_9_6957ca3176feb" data-td_filter_value="145" href="https://www.flotauto.com/financement-location/captives/">Captives</a><a class="mega-menu-sub-cat-td_uid_9_6957ca3176feb"  id="td_uid_13_6957ca317779f" data-td_block_id="td_uid_9_6957ca3176feb" data-td_filter_value="151" href="https://www.flotauto.com/financement-location/restitution-vo-vr/">Restitution VO / VR</a><a class="mega-menu-sub-cat-td_uid_9_6957ca3176feb"  id="td_uid_14_6957ca31777b5" data-td_block_id="td_uid_9_6957ca3176feb" data-td_filter_value="147" href="https://www.flotauto.com/financement-location/location-courte-moyenne-duree/">LCD &amp; LMD</a></div></div><div id=td_uid_9_6957ca3176feb class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/acquisition-vehicules-prestataire/" rel="bookmark" title="Acquisition : la parole aux prestataires"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/parcs-automobile9-218x150-derived.jpg" alt="" title=""/></a></div>                <a href="https://www.flotauto.com/financement-location/" class="td-post-category">Financement / LLD</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/acquisition-vehicules-prestataire/" rel="bookmark" title="Acquisition : la parole aux prestataires"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Acquisition : la parole aux prestataires</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/alexis-raillard-transeco-vo/" rel="bookmark" title="Alexis Raillard, Transeco : « Thermique ou électrique : une vraie différence pour la revente »"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/raillard-alexis-218x150-derived.jpg" alt="Alexis Raillard" title="Alexis Raillard"/></a></div>                <a href="https://www.flotauto.com/financement-location/restitution-vo-vr/" class="td-post-category">Restitution VO / VR</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/alexis-raillard-transeco-vo/" rel="bookmark" title="Alexis Raillard, Transeco : « Thermique ou électrique : une vraie différence pour la revente »"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Alexis Raillard, Transeco : « Thermique ou électrique : une vraie différence&#8230;</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/flottes-en-achat-gestion/" rel="bookmark" title="Flottes en achat : une question de gestion"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/04/parcs-automobile12-218x150-derived.jpg" alt="flotte" title="flotte"/></a></div>                <a href="https://www.flotauto.com/financement-location/" class="td-post-category">Financement / LLD</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/flottes-en-achat-gestion/" rel="bookmark" title="Flottes en achat : une question de gestion"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Flottes en achat : une question de gestion</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/flotte-etat-vo/" rel="bookmark" title="Flotte de l’État : un outil pour intégrer davantage de VO"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/06/voitures-218x150-derived.jpg" alt="voitures" title="voitures"/></a></div>                <a href="https://www.flotauto.com/financement-location/restitution-vo-vr/" class="td-post-category">Restitution VO / VR</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/flotte-etat-vo/" rel="bookmark" title="Flotte de l’État : un outil pour intégrer davantage de VO"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Flotte de l’État : un outil pour intégrer davantage de VO</a></span>            </div>
+        </div>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_9_6957ca3176feb" data-td_block_id="td_uid_9_6957ca3176feb" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_9_6957ca3176feb" data-td_block_id="td_uid_9_6957ca3176feb" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-1229"><a href="https://www.flotauto.com/mobilite/">Mobilité</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_15_6957ca3178042_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_15_6957ca3178042" ><script>var block_td_uid_15_6957ca3178042 = new tdBlock();
+block_td_uid_15_6957ca3178042.id = "td_uid_15_6957ca3178042";
+block_td_uid_15_6957ca3178042.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"153","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_15_6957ca3178042_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_15_6957ca3178042.td_column_number = "3";
+block_td_uid_15_6957ca3178042.block_type = "td_block_mega_menu";
+block_td_uid_15_6957ca3178042.post_count = "4";
+block_td_uid_15_6957ca3178042.found_posts = "3305";
+block_td_uid_15_6957ca3178042.header_color = "";
+block_td_uid_15_6957ca3178042.ajax_pagination_infinite_stop = "";
+block_td_uid_15_6957ca3178042.max_num_pages = "827";
+tdBlocksArray.push(block_td_uid_15_6957ca3178042);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_15_6957ca3178042"  id="td_uid_16_6957ca31786d6" data-td_block_id="td_uid_15_6957ca3178042" data-td_filter_value="165" href="https://www.flotauto.com/mobilite/transition-energetique/">Transition énergétique</a><a class="mega-menu-sub-cat-td_uid_15_6957ca3178042"  id="td_uid_17_6957ca31786f9" data-td_block_id="td_uid_15_6957ca3178042" data-td_filter_value="155" href="https://www.flotauto.com/mobilite/mobilite-partagee/">Mobilité partagée</a><a class="mega-menu-sub-cat-td_uid_15_6957ca3178042"  id="td_uid_18_6957ca317871b" data-td_block_id="td_uid_15_6957ca3178042" data-td_filter_value="161" href="https://www.flotauto.com/mobilite/recharge-electrique/">Recharge électrique / H2</a><a class="mega-menu-sub-cat-td_uid_15_6957ca3178042"  id="td_uid_19_6957ca3178733" data-td_block_id="td_uid_15_6957ca3178042" data-td_filter_value="157" href="https://www.flotauto.com/mobilite/carburants/">Carburants / biocarburants</a><a class="mega-menu-sub-cat-td_uid_15_6957ca3178042"  id="td_uid_20_6957ca317874a" data-td_block_id="td_uid_15_6957ca3178042" data-td_filter_value="163" href="https://www.flotauto.com/mobilite/recyclage/">Recyclage</a></div></div><div id=td_uid_15_6957ca3178042 class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/andre-pinet-audemard-prise-en-main/" rel="bookmark" title="André Pinet, groupe Audemard : « Une aide pour réajuster le catalogue de véhicules électriques »"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/pinet-audemard-andre-218x150-derived.jpg" alt="André Pinet" title="André Pinet"/></a></div>                <a href="https://www.flotauto.com/mobilite/transition-energetique/" class="td-post-category">Transition énergétique</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/andre-pinet-audemard-prise-en-main/" rel="bookmark" title="André Pinet, groupe Audemard : « Une aide pour réajuster le catalogue de véhicules électriques »"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>André Pinet, groupe Audemard : « Une aide pour réajuster le catalogue&#8230;</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/romain-sapin-critel-sa/" rel="bookmark" title="Romain Sapin, Critel SA : « La prise en main de l’électrique est en construction »"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/05/voiture-electrique54-218x150-derived.jpg" alt="" title=""/></a></div>                <a href="https://www.flotauto.com/mobilite/transition-energetique/" class="td-post-category">Transition énergétique</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/romain-sapin-critel-sa/" rel="bookmark" title="Romain Sapin, Critel SA : « La prise en main de l’électrique est en construction »"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Romain Sapin, Critel SA : « La prise en main de l’électrique&#8230;</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/vehicules-electriques-prise-en-main/" rel="bookmark" title="Véhicules électriques : une prise en main spécifique"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/flotte-critel-218x150-derived.jpg" alt="La flotte de Critel" title="La flotte de Critel"/></a></div>                <a href="https://www.flotauto.com/mobilite/transition-energetique/" class="td-post-category">Transition énergétique</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/vehicules-electriques-prise-en-main/" rel="bookmark" title="Véhicules électriques : une prise en main spécifique"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Véhicules électriques : une prise en main spécifique</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/lilia-ghodbane-logista-hometech-prise-en-main/" rel="bookmark" title="Lilia Ghodbane, Logista Hometech : « Les conducteurs ont une responsabilité à ne pas prendre à la légère »"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/logista-hometech1-218x150-derived.jpg" alt="Véhicule de la flotte de Logista Hometech" title="Véhicule de la flotte de Logista Hometech"/></a></div>                <a href="https://www.flotauto.com/mobilite/transition-energetique/" class="td-post-category">Transition énergétique</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/lilia-ghodbane-logista-hometech-prise-en-main/" rel="bookmark" title="Lilia Ghodbane, Logista Hometech : « Les conducteurs ont une responsabilité à ne pas prendre à la légère »"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Lilia Ghodbane, Logista Hometech : « Les conducteurs ont une responsabilité à&#8230;</a></span>            </div>
+        </div>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_15_6957ca3178042" data-td_block_id="td_uid_15_6957ca3178042" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_15_6957ca3178042" data-td_block_id="td_uid_15_6957ca3178042" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-1243"><a href="https://www.flotauto.com/vehicules/">Véhicules</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_21_6957ca3179094_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_21_6957ca3179094" ><script>var block_td_uid_21_6957ca3179094 = new tdBlock();
+block_td_uid_21_6957ca3179094.id = "td_uid_21_6957ca3179094";
+block_td_uid_21_6957ca3179094.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"167","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_21_6957ca3179094_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_21_6957ca3179094.td_column_number = "3";
+block_td_uid_21_6957ca3179094.block_type = "td_block_mega_menu";
+block_td_uid_21_6957ca3179094.post_count = "4";
+block_td_uid_21_6957ca3179094.found_posts = "4257";
+block_td_uid_21_6957ca3179094.header_color = "";
+block_td_uid_21_6957ca3179094.ajax_pagination_infinite_stop = "";
+block_td_uid_21_6957ca3179094.max_num_pages = "1065";
+tdBlocksArray.push(block_td_uid_21_6957ca3179094);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_21_6957ca3179094"  id="td_uid_22_6957ca3179725" data-td_block_id="td_uid_21_6957ca3179094" data-td_filter_value="175" href="https://www.flotauto.com/vehicules/vehicules-particuliers/">Véhicules particuliers</a><a class="mega-menu-sub-cat-td_uid_21_6957ca3179094"  id="td_uid_23_6957ca3179749" data-td_block_id="td_uid_21_6957ca3179094" data-td_filter_value="177" href="https://www.flotauto.com/vehicules/vehicules-utilitaires/">Véhicules utilitaires</a><a class="mega-menu-sub-cat-td_uid_21_6957ca3179094"  id="td_uid_24_6957ca3179763" data-td_block_id="td_uid_21_6957ca3179094" data-td_filter_value="219" href="https://www.flotauto.com/vehicules/vehicules-autonomes/">Véhicules autonomes</a><a class="mega-menu-sub-cat-td_uid_21_6957ca3179094"  id="td_uid_25_6957ca317977a" data-td_block_id="td_uid_21_6957ca3179094" data-td_filter_value="7255" href="https://www.flotauto.com/vehicules/poids-lourds/">Poids lourds</a><a class="mega-menu-sub-cat-td_uid_21_6957ca3179094"  id="td_uid_26_6957ca3179791" data-td_block_id="td_uid_21_6957ca3179094" data-td_filter_value="179" href="https://www.flotauto.com/vehicules/essais/">Essais auto</a><a class="mega-menu-sub-cat-td_uid_21_6957ca3179094"  id="td_uid_27_6957ca31797a7" data-td_block_id="td_uid_21_6957ca3179094" data-td_filter_value="169" href="https://www.flotauto.com/vehicules/2-roues-3-roues/">2 roues / 3 roues</a><a class="mega-menu-sub-cat-td_uid_21_6957ca3179094"  id="td_uid_28_6957ca31797bd" data-td_block_id="td_uid_21_6957ca3179094" data-td_filter_value="217" href="https://www.flotauto.com/vehicules/marche-automobile/">Marché automobile</a></div></div><div id=td_uid_21_6957ca3179094 class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/segment-d-electrifie-suv-routiers-2025-phev-et-electrique/" rel="bookmark" title="Segment D électrifié &#8211; SUV routiers 2025 : PHEV et électrique"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/polestar-4-218x150-derived.jpg" alt="Polestar 4" title="Polestar 4"/></a></div>                <a href="https://www.flotauto.com/vehicules/vehicules-particuliers/" class="td-post-category">Véhicules particuliers</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/segment-d-electrifie-suv-routiers-2025-phev-et-electrique/" rel="bookmark" title="Segment D électrifié &#8211; SUV routiers 2025 : PHEV et électrique"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Segment D électrifié &#8211; SUV routiers 2025 : PHEV et électrique</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/berlines-routieres-electrifiees-2025/" rel="bookmark" title="Segment E électrifié &#8211; Berlines routières 2025 : un panel restreint"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/audi-a6-avant-218x150-derived.jpg" alt="Audi A6" title="Audi A6"/></a></div>                <a href="https://www.flotauto.com/vehicules/vehicules-particuliers/" class="td-post-category">Véhicules particuliers</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/berlines-routieres-electrifiees-2025/" rel="bookmark" title="Segment E électrifié &#8211; Berlines routières 2025 : un panel restreint"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Segment E électrifié &#8211; Berlines routières 2025 : un panel restreint</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/essai-flash-polestar-2/" rel="bookmark" title="Essai flash &#8211; Polestar 2 : discrétion scandinave"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/polestar-218x150-derived.jpg" alt="Polestar 2" title="Polestar 2"/></a></div>                <a href="https://www.flotauto.com/vehicules/essais/" class="td-post-category">Essais auto</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/essai-flash-polestar-2/" rel="bookmark" title="Essai flash &#8211; Polestar 2 : discrétion scandinave">Essai flash &#8211; Polestar 2 : discrétion scandinave</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/suv-familiaux-electrifies-2025/" rel="bookmark" title="Segment D électrifié &#8211; SUV familiaux 2025 : une offre pléthorique"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/bmw-ix3-50-x-218x150-derived.jpg" alt="BMW iX3" title="BMW iX3"/></a></div>                <a href="https://www.flotauto.com/vehicules/vehicules-particuliers/" class="td-post-category">Véhicules particuliers</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/suv-familiaux-electrifies-2025/" rel="bookmark" title="Segment D électrifié &#8211; SUV familiaux 2025 : une offre pléthorique"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Segment D électrifié &#8211; SUV familiaux 2025 : une offre pléthorique</a></span>            </div>
+        </div>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_21_6957ca3179094" data-td_block_id="td_uid_21_6957ca3179094" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_21_6957ca3179094" data-td_block_id="td_uid_21_6957ca3179094" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-1257"><a href="https://www.flotauto.com/equipements-services/">Équipements</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_29_6957ca317a152_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_29_6957ca317a152" ><script>var block_td_uid_29_6957ca317a152 = new tdBlock();
+block_td_uid_29_6957ca317a152.id = "td_uid_29_6957ca317a152";
+block_td_uid_29_6957ca317a152.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"181","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_29_6957ca317a152_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_29_6957ca317a152.td_column_number = "3";
+block_td_uid_29_6957ca317a152.block_type = "td_block_mega_menu";
+block_td_uid_29_6957ca317a152.post_count = "4";
+block_td_uid_29_6957ca317a152.found_posts = "1432";
+block_td_uid_29_6957ca317a152.header_color = "";
+block_td_uid_29_6957ca317a152.ajax_pagination_infinite_stop = "";
+block_td_uid_29_6957ca317a152.max_num_pages = "358";
+tdBlocksArray.push(block_td_uid_29_6957ca317a152);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_29_6957ca317a152"  id="td_uid_30_6957ca317a7c2" data-td_block_id="td_uid_29_6957ca317a152" data-td_filter_value="183" href="https://www.flotauto.com/equipements-services/amenagement/">Aménagement</a><a class="mega-menu-sub-cat-td_uid_29_6957ca317a152"  id="td_uid_31_6957ca317a7e6" data-td_block_id="td_uid_29_6957ca317a152" data-td_filter_value="185" href="https://www.flotauto.com/equipements-services/entretien-reparation/">Entretien / Réparation</a><a class="mega-menu-sub-cat-td_uid_29_6957ca317a152"  id="td_uid_32_6957ca317a801" data-td_block_id="td_uid_29_6957ca317a152" data-td_filter_value="191" href="https://www.flotauto.com/equipements-services/pneumatiques/">Pneumatiques</a><a class="mega-menu-sub-cat-td_uid_29_6957ca317a152"  id="td_uid_33_6957ca317a819" data-td_block_id="td_uid_29_6957ca317a152" data-td_filter_value="193" href="https://www.flotauto.com/equipements-services/telematique-embarquee/">Télématique embarquée</a><a class="mega-menu-sub-cat-td_uid_29_6957ca317a152"  id="td_uid_34_6957ca317a830" data-td_block_id="td_uid_29_6957ca317a152" data-td_filter_value="173" href="https://www.flotauto.com/equipements-services/moteurs-composants/">Moteurs et composants</a></div></div><div id=td_uid_29_6957ca317a152 class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/groupe-montparnasse-participation/" rel="bookmark" title="Dix ans de télématique pour le Groupe Montparnasse Participation"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/trafic-voitures-218x150-derived.jpg" alt="trafic voitures" title="trafic voitures"/></a></div>                <a href="https://www.flotauto.com/equipements-services/telematique-embarquee/" class="td-post-category">Télématique embarquée</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/groupe-montparnasse-participation/" rel="bookmark" title="Dix ans de télématique pour le Groupe Montparnasse Participation">Dix ans de télématique pour le Groupe Montparnasse Participation</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/glassglass/" rel="bookmark" title="AGPS change de nom et devient GlassGlass"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/logo-glassglass-218x150-derived.jpg" alt="logo GlassGlass" title="logo GlassGlass"/></a></div>                <a href="https://www.flotauto.com/equipements-services/entretien-reparation/" class="td-post-category">Entretien / Réparation</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/glassglass/" rel="bookmark" title="AGPS change de nom et devient GlassGlass">AGPS change de nom et devient GlassGlass</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/ville-de-lyon-impression-3d/" rel="bookmark" title="Ville de Lyon : l’impression 3D pour la flotte"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2023/11/nowicki-lyon-218x150-derived.jpg" alt="Patrick Nowicki" title="Patrick Nowicki"/></a></div>                <a href="https://www.flotauto.com/equipements-services/entretien-reparation/" class="td-post-category">Entretien / Réparation</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/ville-de-lyon-impression-3d/" rel="bookmark" title="Ville de Lyon : l’impression 3D pour la flotte"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Ville de Lyon : l’impression 3D pour la flotte</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/shiftmove-ocean-acquisition/" rel="bookmark" title="Shiftmove acquiert Océan"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/voitures-route-218x150-derived.jpg" alt="voitures route" title="voitures route"/></a></div>                <a href="https://www.flotauto.com/equipements-services/telematique-embarquee/" class="td-post-category">Télématique embarquée</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/shiftmove-ocean-acquisition/" rel="bookmark" title="Shiftmove acquiert Océan">Shiftmove acquiert Océan</a></span>            </div>
+        </div>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_29_6957ca317a152" data-td_block_id="td_uid_29_6957ca317a152" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_29_6957ca317a152" data-td_block_id="td_uid_29_6957ca317a152" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-253213"><a href="https://www.flotauto.com/securite-routiere/">Sécurité routière</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_35_6957ca317b172_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_35_6957ca317b172" ><script>var block_td_uid_35_6957ca317b172 = new tdBlock();
+block_td_uid_35_6957ca317b172.id = "td_uid_35_6957ca317b172";
+block_td_uid_35_6957ca317b172.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"139","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_35_6957ca317b172_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_35_6957ca317b172.td_column_number = "3";
+block_td_uid_35_6957ca317b172.block_type = "td_block_mega_menu";
+block_td_uid_35_6957ca317b172.post_count = "4";
+block_td_uid_35_6957ca317b172.found_posts = "883";
+block_td_uid_35_6957ca317b172.header_color = "";
+block_td_uid_35_6957ca317b172.ajax_pagination_infinite_stop = "";
+block_td_uid_35_6957ca317b172.max_num_pages = "221";
+tdBlocksArray.push(block_td_uid_35_6957ca317b172);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_35_6957ca317b172"  id="td_uid_36_6957ca317b7fa" data-td_block_id="td_uid_35_6957ca317b172" data-td_filter_value="7923" href="https://www.flotauto.com/securite-routiere/preventionroutiere/">Prévention routière</a><a class="mega-menu-sub-cat-td_uid_35_6957ca317b172"  id="td_uid_37_6957ca317b81d" data-td_block_id="td_uid_35_6957ca317b172" data-td_filter_value="159" href="https://www.flotauto.com/securite-routiere/eco-conduite/">Éco-conduite</a><a class="mega-menu-sub-cat-td_uid_35_6957ca317b172"  id="td_uid_38_6957ca317b838" data-td_block_id="td_uid_35_6957ca317b172" data-td_filter_value="187" href="https://www.flotauto.com/securite-routiere/equipements-securite/">Équipements de sécurité</a><a class="mega-menu-sub-cat-td_uid_35_6957ca317b172"  id="td_uid_39_6957ca317b84f" data-td_block_id="td_uid_35_6957ca317b172" data-td_filter_value="189" href="https://www.flotauto.com/securite-routiere/outils-aide-conduite/">Outils d&rsquo;aide à la conduite</a><a class="mega-menu-sub-cat-td_uid_35_6957ca317b172"  id="td_uid_40_6957ca317b866" data-td_block_id="td_uid_35_6957ca317b172" data-td_filter_value="7919" href="https://www.flotauto.com/securite-routiere/chiffres-securite-routiere/">Chiffres sécurité routière</a></div></div><div id=td_uid_35_6957ca317b172 class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/stephane-neviere-sodexo/" rel="bookmark" title="Stéphane Nevière, Sodexo : « Former et sensibiliser dès l’embauche »"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/neviere-218x150-derived.jpg" alt="" title=""/></a></div>                <a href="https://www.flotauto.com/securite-routiere/preventionroutiere/" class="td-post-category">Prévention routière</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/stephane-neviere-sodexo/" rel="bookmark" title="Stéphane Nevière, Sodexo : « Former et sensibiliser dès l’embauche »"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Stéphane Nevière, Sodexo : « Former et sensibiliser dès l’embauche »</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/lilia-ghodbane-logista-hometech/" rel="bookmark" title="Lilia Ghodbane, Logista Hometech : « La sensibilisation doit être régulière »"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/logista-hometech1-218x150-derived.jpg" alt="Véhicule de la flotte de Logista Hometech" title="Véhicule de la flotte de Logista Hometech"/></a></div>                <a href="https://www.flotauto.com/securite-routiere/preventionroutiere/" class="td-post-category">Prévention routière</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/lilia-ghodbane-logista-hometech/" rel="bookmark" title="Lilia Ghodbane, Logista Hometech : « La sensibilisation doit être régulière »"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Lilia Ghodbane, Logista Hometech : « La sensibilisation doit être régulière »</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/accidents-trajets-mission/" rel="bookmark" title="Accidents de trajets et accidents en mission : les différences"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/05/accident-4-218x150-derived.jpg" alt="Sécurité routière" title="Sécurité routière"/></a></div>                <a href="https://www.flotauto.com/securite-routiere/preventionroutiere/" class="td-post-category">Prévention routière</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/accidents-trajets-mission/" rel="bookmark" title="Accidents de trajets et accidents en mission : les différences"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Accidents de trajets et accidents en mission : les différences</a></span>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/jean-philippe-daurut-axa/" rel="bookmark" title="Jean-Philippe Daurut, Axa France : « Former les collaborateurs à la sécurité routière »"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2019/10/daurut-218x150-derived.jpg" alt="Jean-Philippe Daurut, Axa France" title="Jean-Philippe Daurut, Axa France"/></a></div>                <a href="https://www.flotauto.com/securite-routiere/preventionroutiere/" class="td-post-category">Prévention routière</a>            </div>
+
+            <div class="item-details">
+                <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/jean-philippe-daurut-axa/" rel="bookmark" title="Jean-Philippe Daurut, Axa France : « Former les collaborateurs à la sécurité routière »"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Jean-Philippe Daurut, Axa France : « Former les collaborateurs à la sécurité routière »</a></span>            </div>
+        </div>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_35_6957ca317b172" data-td_block_id="td_uid_35_6957ca317b172" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_35_6957ca317b172" data-td_block_id="td_uid_35_6957ca317b172" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-120575"><a href="https://www.flotauto.com/nos-services">Nos services</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-120571"><a href="https://www.flotauto.com/les-magazines">Le magazine</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-245843"><a href="https://www.flotauto.com/derniers-dossiers/">Nos derniers dossiers</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-120573"><a href="https://www.flotauto.com/cahiers-experts">Cahiers Experts</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-234907"><a href="https://www.flotauto.com/webinaires">Webinaires</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-234951"><a href="https://www.flotauto.com/agenda-flottes-automobiles">Agenda</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-234909"><a href="https://www.flotauto.com/newsletter">Newsletter</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-234911"><a href="https://www.flotauto.com/les-formules-dabonnement">S&rsquo;abonner</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-238117"><a href="https://www.flotauto.com/formations/">Formations</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children td-menu-item td-normal-menu menu-item-236467"><a href="https://www.flotauto.com/nos-sites/">Nos sites</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-236469"><a href="https://formations.flotauto.com" target="_blank">Formations IMVE</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-236475"><a href="https://guide.flotauto.com" target="_blank">Guide Flotauto</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-236471"><a href="https://rencontres.flotauto.com" target="_blank">Rencontres Flotauto Paris</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-236473"><a href="https://rencontreslyon.flotauto.com" target="_blank">Rencontres Flotauto Lyon</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-338813"><a href="https://rencontrestoulouse.flotauto.com" target="_blank">Rencontres Flotauto Toulouse</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-236479"><a href="https://eprunes.flotauto.com" target="_blank">e-Prunes</a></li>
+</ul>
+</li>
+</ul></div></div>
+
+
+<div class="td-search-wrapper">
+    <div id="td-top-search">
+        <!-- Search -->
+        <div class="header-search-wrap">
+            <div class="dropdown header-search">
+                <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+                <a id="td-header-search-button-mob" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="header-search-wrap">
+	<div class="dropdown header-search">
+		<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+			<form method="get" class="td-search-form" action="https://www.flotauto.com/">
+				<div role="search" class="td-head-form-search-wrap">
+					<input id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Chercher" />
+				</div>
+			</form>
+			<div id="td-aj-search"></div>
+		</div>
+	</div>
+</div>            </div>
+        </div>
+    </div>
+
+</div>    <div class="td-main-content-wrap">
+
+        <div class="td-container td-post-template-default ">
+            <div class="td-crumb-container"><div class="entry-crumbs" itemscope itemtype="http://schema.org/BreadcrumbList"><span itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem"><a class="entry-crumb" itemscope itemprop="item" itemtype="http://schema.org/WebPage" itemid="https://www.flotauto.com/" href="https://www.flotauto.com/" title="Accueil"><span itemprop="name">Accueil</span></a><meta itemprop="position" content="0"/></span> <i class="td-icon-right td-bread-sep"></i> <span itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem"><a class="entry-crumb" itemscope itemprop="item" itemtype="http://schema.org/WebPage" itemid="https://www.flotauto.com/financement-location/" href="https://www.flotauto.com/financement-location/" title="Voir tous les articles Financement / LLD"><span itemprop="name">Financement / LLD</span></a><meta itemprop="position" content="1"/></span> <i class="td-icon-right td-bread-sep"></i> <span itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem"><a class="entry-crumb" itemscope itemprop="item" itemtype="http://schema.org/WebPage" itemid="https://www.flotauto.com/financement-location/restitution-vo-vr/" href="https://www.flotauto.com/financement-location/restitution-vo-vr/" title="Voir tous les articles Restitution VO / VR"><span itemprop="name">Restitution VO / VR</span></a><meta itemprop="position" content="2"/></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last" itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem"><meta itemprop="position" content="3"/><span itemprop="name">Flotte de l’État : un outil pour intégrer davantage de VO</span></span></div></div>
+
+            <div class="td-pb-row">
+                                            <div class="td-pb-span8 td-main-content" role="main">
+                                <div class="td-ss-main-content">
+                                        <article id="post-347029" class=" post-347029 post type-post status-publish format-standard has-post-thumbnail hentry category-restitution-vo-vr tag-vehicules-doccasion type-darticle-breve vapo-premium" itemscope itemtype="https://schema.org/Article">
+        <div class="td-post-header">
+                        <ul class="td-tags td-post-small-box clearfix"><li><a href="https://www.flotauto.com/sujet/vehicules-doccasion/">Véhicules d'occasion</a></li></ul>						            <header class="td-post-title header_icone_premium"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i><h1 class="entry-title">Flotte de l’État : un outil pour intégrer davantage de VO</h1>
+                <div class="chapo">La direction des achats de l’État lance un système d’acquisition dynamique (SAD) pour l’achat de véhicules d’occasion. L’objectif : proposer, aux différents services de l’État, un cadre juridique unique et sécurisé pour s’approvisionner en VO. Avec aussi, en ligne de mire, le double objectif de baisser les coûts et de renforcer l’économie circulaire.</div>
+
+                
+                <div class="td-module-meta-info">
+                    <div class="td-post-author-name">par Intissar El Hajj Mohamed<span class="td-post-author-separator"> - </span></div>					                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-12-05T11:43:25+00:00">Publié le 05/12/2025</time></span>                                        <div class="td-post-print"><button style="background-color:transparent; color:#bbbbbb;" onclick="window.alert('L’impression des articles est réservée aux abonnés. Connectez-vous pour imprimer cet article.')" title="L’impression des articles est réservée aux abonnés. Connectez-vous pour imprimer cet article."><i class="fa fa-print fa-2x" aria-hidden="true"></i></button></div>                                        <div class="td-post-views"><i class="td-icon-views"></i><span class="td-nr-views-347029">1826</span></div>                </div>
+
+            </header>
+
+        </div>
+
+        
+        <div class="td-post-content">
+
+        <div class="td-post-featured-image"><img width="650" height="430" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/06/voitures.jpg" alt="voitures" title="voitures"/></div>
+        <div class="vapo-snippet automatic">
+
+<p>Aujourd’hui, l’État fait rouler 76 000 véhicules administratifs, répartis entre les périmètres ministériels, les services déconcentrés et les établissements publics. « Il s’agit en majorité de véhicules de service, en pool, destinés à des missions très variées », décrit Christophe Gomes, acheteur domaine mobilité-véhicules au sein de la direction des achats de l’État. Et actuellement, les achats de véhicules d’occasion (VO) ne représentent qu’une petite fraction des acquisitions faites à l’année. En décembre 2025, la direction des achats de l’État a donc lancé un système d’acquisition dynamique (SAD) pour l’achat de VO, soit un support d’achat...</p>
+</div>
+<div class="vapo-content" style="display:none">
+<p>Aujourd’hui, l’État fait rouler 76&nbsp;000&nbsp;véhicules administratifs, répartis entre les périmètres ministériels, les services déconcentrés et les établissements publics. «&nbsp;Il s’agit en majorité de véhicules de service, en pool, destinés à des missions très variées&nbsp;», décrit Christophe Gomes, acheteur domaine mobilité-véhicules au sein de la direction des achats de l’État. Et actuellement, les achats de véhicules d’occasion (VO) ne représentent qu’une petite fraction des acquisitions faites à l’année. En décembre 2025, la direction des achats de l’État a donc lancé un système d’acquisition dynamique (SAD) pour l’achat de VO, soit un support d’achat juridiquement sécurisé.</p>
+
+
+
+<p>Le lancement de ce SAD ne sera que la première phase du déploiement. Les marchés de ce SAD concerneront sept catégories, géographiques pour les six premières : l’Île-de-France et cinq territoires ultra-marins (Guadeloupe, Guyane, Martinique, Réunion, Mayotte). La septième catégorie est nationale et recouvre exclusivement les véhicules opérationnels des forces de sécurité intérieure. La deuxième phase consistera, si la première se révèle concluante, à étendre le SAD à toutes les régions métropolitaines en 2026.</p>
+
+
+
+<aside class="wp-block-varenne-highlight-box">
+<h3 class="wp-block-heading" id="h-le-choix-des-categories"><strong>Le choix des catégories</strong></h3>
+
+
+
+<p>Le choix des sept premières catégories auxquelles se destinera le SAD VO s’explique simplement&nbsp;: «&nbsp;Ce sont notamment les catégories géographiques pour lesquelles le plus de besoins ont été émis, expose Christophe Gomes. L’Île-de-France est la région la plus demandeuse en volume. Les territoires ultra-marins, eux, subissent des difficultés d’approvisionnement&nbsp;: des délais plus longs, des surcoûts logistiques importants (affrètement, taxes, transport maritime, dédouanement, etc.). Quant aux véhicules opérationnels des forces de l’ordre, nous avions besoin d’un support juridique unique, interministériel et sécurisé pour s’approvisionner en VO. Le ministère de l’Intérieur, les armées et les douanes sont habitués à prendre régulièrement des VO, mais il n’existait pas de support unique interministériel. Dorénavant, ils peuvent faire référencer leurs fournisseurs dès lors que ces derniers répondent aux critères définis pour le SAD.&nbsp;»</p>
+</aside>
+
+
+
+<h2 class="wp-block-heading" id="h-objectif-nbsp-5-nbsp-de-vo-dans-les-achats">Objectif&nbsp;: 5&nbsp;% de VO dans les achats</h2>
+
+
+
+<p>Le SAD pour l’achat de VO se cantonne aux véhicules légers de moins de 3,5&nbsp;t, soit donc les véhicules particuliers (VP) et les véhicules utilitaires légers (VUL). «&nbsp;La loi anti-gaspillage pour une économie circulaire (AGEC) impose à l’État d’acheter au moins 5&nbsp;% de ses véhicules en occasion, et au moins 10&nbsp;% en 2027&nbsp;», rappelle Christophe Gomes. Avec des critères de sélection&nbsp;: «&nbsp;Les VP et VUL d’occasion achetés via le SAD doivent bénéficier d’une garantie minimale de six mois, être en stock physique chez les fournisseurs, et être livrés sous un mois. Nous avons aussi défini des seuils de kilométrage&nbsp;: les VP achetés ne doivent pas dépasser 40&nbsp;000&nbsp;km, contre 80&nbsp;000&nbsp;km pour les VUL. Quant à la vétusté, les véhicules ne doivent pas avoir plus de quatre ans&nbsp;», détaille Christophe Gomes. À noter&nbsp;: les VO achetés sont tous thermiques (diesel, essence, gaz, HEV et PHEV), à l’exception de la catégorie Île-de-France où une expérimentation autorisera d’acquérir de l’électrique.</p>
+
+
+
+<aside class="wp-block-varenne-link-block"><p><a href="https://www.flotauto.com/recyclage-vhu/" data-id="341113">Lire aussi &#8211; Recyclage des VHU : de la réglementation au terrain</a></p></aside>
+
+
+
+<h2 class="wp-block-heading" id="h-le-vo-s-impose-dans-les-flottes">Le VO s’impose dans les flottes</h2>
+
+
+
+<p>Pourquoi intégrer plus de VO par l’intermédiaire d’un SAD&nbsp;? «&nbsp;La loi AGEC fixe un objectif d’achat de VO à hauteur de 5&nbsp;% des achats annuels, puis 10&nbsp;% à partir de 2027&nbsp;», souligne Christophe Gomes. Sans oublier aussi que les prix des véhicules neufs (VN) ont augmenté en moyenne de 30&nbsp;% et que leurs délais de livraison se sont considérablement allongés depuis la pandémie. «&nbsp;Le délai de livraison peut aller de six à neuf mois pour un VP neuf et davantage pour un VUL aménagé, poursuit le responsable. Or, nous avons constaté qu’aucun fournisseur ne pouvait répondre à une demande en VO couvrant l’ensemble du territoire, y compris les régions ultra-marines. Ce qui nous a amenés à décider d’une autre stratégie&nbsp;: créer un SAD dédié aux VO. En bref, ce système vient pallier les ruptures sur le catalogue de VN de l’État et répondre aux besoins urgents qui nécessitent une livraison rapide, comme le remplacement d’un véhicule déclaré en épave.&nbsp;»</p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full"><img decoding="async" width="150" height="227" src="https://www.flotauto.com/wp-content/uploads/2025/12/gomes.jpg" alt="Christophe Gomes" class="wp-image-347031"/><figcaption class="wp-element-caption"><em>Christophe Gomes</em></figcaption></figure></div>
+
+
+<p>Le SAD est «&nbsp;une procédure, autorisée par les marchés publics, qui permet de créer des catégories dans lesquelles sont référencés des fournisseurs qui seront sollicités systématiquement par les services concernés&nbsp;», expose Christophe Gomes. Typiquement, si l’on prend l’Île-de-France&nbsp;: «&nbsp;Tout service francilien désireux d’acquérir des VO pourra lancer un marché spécifique dans le SAD et les fournisseurs seront automatiquement notifiés&nbsp;», illustre Christophe Gomes. Qui précise&nbsp;: «&nbsp;Le SAD aura une durée de huit ans et, tout au long de cette période, nous pourrons y inclure ou en exclure des fournisseurs. Ces fournisseurs peuvent être des réseaux de concessions, des loueurs ou des mandataires automobiles chez qui on peut trouver des VO peu kilométrés.&nbsp;»</p>
+
+
+
+<h2 class="wp-block-heading" id="h-un-choix-economique">Un choix économique</h2>
+
+
+
+<p>Pour Christophe Gomes, le tout constitue une évolution de la politique d’achat pour l’État, qui est «&nbsp;innovante&nbsp;», mais demande une «&nbsp;conduite du changement complexe auprès des services&nbsp;». «&nbsp;Un SAD consacré aux VO récents coche plusieurs cases, argumente Christophe Gomes. Il réduit les coûts, favorise le réemploi dans une logique d’écologie circulaire, élargit la concurrence en ouvrant systématiquement chaque besoin à la consultation et renforce la traçabilité grâce à une procédure standardisée.&nbsp;»</p>
+
+
+
+<aside class="wp-block-varenne-highlight-box">
+<h3 class="wp-block-heading" id="h-une-conduite-du-changement"><strong>Une conduite du changement</strong></h3>
+
+
+
+<p>L’intégration des VO dans les flottes de l’État représente un changement profond, rendu nécessaire à la fois par l’évolution de la législation et par les contraintes budgétaires «&nbsp;Nous faisons évoluer la politique d’achat historiquement centrée sur les VN&nbsp;», explique Christophe Gomes. Plus de 3&nbsp;000&nbsp;services acheteurs sont concernés, ce qui nécessite une démarche de conduite du changement structurée. Cette transition s’appuie sur la révision de la doctrine de gestion des acquisitions, qui constitue la référence commune pour tous les achats de VP et VUL de moins de 3,5&nbsp;t. Jusqu’ici, cette doctrine ne couvrait que les VN&nbsp;; elle intègre désormais les VO. Elle définit les règles qui s’imposent à chaque acquisition&nbsp;: plafond de CO2, plafond financier, limite de poids, et respect des obligations issues de la loi AGEC et de la LOM. Les demandes de VO doivent donc être exprimées dans ce même cadre, qu’il s’agisse d’un véhicule administratif, d’un véhicule de fonction ou d’un véhicule tout terrain 4&#215;4.</p>
+</aside>
+
+
+
+<p>En termes de performance économique, «&nbsp;le marché VO est très variable et chaque modèle proposé a ses particularités, formule Christophe Gomes. Il est compliqué de comparer entre VO et VN. Mais en règle générale, quand un véhicule sort de concession et est immatriculé, il perd 10 à 15&nbsp;% de sa valeur dès sa première année. De notre côté, nous visons 10&nbsp;% d’économies sur chaque VO par comparaison à un VN.&nbsp;» Une fois acquis et intégré dans la flotte, le VO devrait y rester pendant un certain nombre d’années.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-garder-les-vehicules-plus-longtemps">Garder les véhicules plus longtemps</h2>
+
+
+
+<p>«&nbsp;La politique de l’État est de garder ses véhicules jusqu’aux 120&nbsp;000&nbsp;km (chiffre susceptible d’évoluer à l’avenir), ou huit ans, note Christophe Gomes. Donc, si le VO pris a un an, nous le garderons jusqu’à la réalisation du kilométrage cible dans la flotte.&nbsp;» Et d’ajouter&nbsp;: «&nbsp;Nous souhaitons par ailleurs garder nos véhicules plus longtemps dans nos parcs pour mieux en lisser sur la durée les coûts de détention, qui sont à la hausse de manière générale, à cause de l’augmentation du prix des VN, des coûts de main-d’œuvre, des pièces et de la maintenance, notamment.&nbsp;»</p>
+
+
+
+<p>Techniquement, la gestion du SAD se fait sur la plate-forme PLACE. Quant au référencement des fournisseurs, il a débuté le 13&nbsp;novembre 2025, date du lancement officiel du marché de VO par la direction des achats de l’État. Avec deux principaux critères de référencement&nbsp;: «&nbsp;Le fournisseur doit disposer d’une expérience avérée de la vente de VO, avec au moins 30&nbsp;ventes de VO par an, et présenter un chiffre d’affaires minimum attestant de sa solidité, énumère Christophe Gomes. S’il présente des défauts persistants, nous pourrons l’exclure&nbsp;; et il pourra être réintégré s’il corrige la situation.&nbsp;» Dont acte.</p>
+
+
+
+<aside class="wp-block-varenne-highlight-box">
+<h3 class="wp-block-heading" id="h-les-appels-d-offres-du-sad-publies-sur-place"><strong>Les appels d’offres du SAD publiés sur PLACE</strong></h3>
+
+
+
+<p>Toutes les «&nbsp;consultations&nbsp;» (appels d’offres) sont publiées sur la plate-forme des achats de l’État&nbsp;: PLACE. «&nbsp;PLACE dématérialise et fiabilise toutes les procédures du marché public, dont les SAD&nbsp;», décrit Christophe Gomes. Surtout, PLACE assure la transparence et la traçabilité des achats. Le responsable détaille le déroulé des actions&nbsp;: «&nbsp;Sur PLACE, chaque service de l’État peut lancer un marché spécifique&nbsp;: par exemple, un service qui a besoin d’une citadine thermique d’occasion publie une consultation sur PLACE à l’aide du modèle type&nbsp;; tous les fournisseurs référencés dans la catégorie concernée recevront automatiquement la demande. Ils n’ont pas l’obligation de manifester leur intérêt. Mais les candidats intéressés devront soumettre leur offre dans les dix jours suivant la publication. Dans leur réponse, les fournisseurs doivent joindre des photos de l’intérieur et de l’extérieur des véhicules proposés.&nbsp;» À la fin de la procédure, une fois les appels d’offre attribués, l’information sera renseignée sur PLACE. «&nbsp;Et tous les mois, la direction des achats reçoit des comptes rendus statistiques qui permettent de vérifier le respect des obligations en termes de budget, de poids, et de réglementations AGEC et LOM (loi d’orientation des mobilités)&nbsp;», complète Christophe Gomes.</p>
+</aside>
+</div>
+<div class="vapo-widget"></div>		        </div>
+
+        <footer>
+                                   
+            <div class="td-post-source-tags">
+                                            </div>
+            <div class="wp-block-varenne-mautic-embed-form">
+  <noscript class="vamtc-embed-noscript">
+    <style>noscript.vamtc-embed-noscript ~ * { display: none; }</style>
+      JavaScript est désactivé dans ce navigateur.  </noscript>
+  <style>input#vamtc-3fbd48ee::placeholder { color:#abb8c3 }</style>
+  <div class="vamtc-embed" style="background-color:#ffffff;border-color:#fcc116">
+    <form class="vamtc-embed-form" method="POST">
+      <input type="hidden" name="settings" value="{&quot;templateId&quot;:&quot;297&quot;,&quot;pageId&quot;:&quot;228141&quot;,&quot;listAlias&quot;:&quot;fl-newsletter&quot;,&quot;sourceUrl&quot;:&quot;https://www.flotauto.com/flotte-etat-vo&quot;,&quot;formType&quot;:&quot;block:embed-form&quot;,&quot;startPath&quot;:&quot;/wp-json/vamtc/v1/subscription-start&quot;}">
+      <input type="hidden" name="signature" value="0a095214fc396ba309d1ac10b0beb255f266289fbeb0f2f96fe34a063ca56196">
+      <div class="vamtc-embed-row">
+        <div class="vamtc-embed-picture-container">
+          <img src="/wp-content/uploads/2025/10/enveloppe-68x74-1.png" alt="" width="68" height="74">
+        </div>
+        <div class="vamtc-embed-foreword"><strong>NEWSLETTER</strong><br>Recevez chaque mardi notre récap hebdo de l'actualité des flottes</div>
+        <div class="vamtc-embed-combo-container">
+          <div class="vamtc-embed-combo" style="border-color:#fcc116">
+            <input required type="email" name="email" id="vamtc-3fbd48ee" class="vamtc-embed-combo-input" placeholder="* votre email professionnel           " style="width:188px">
+            <button class="vamtc-embed-combo-button" style="color:#ffffff;background-color:#00519e;border-color:#fcc116">
+              <svg width="16" height="16" viewBox="0 0 10 10">
+                 <polygon points="0,0 10,5 0,10" fill="currentColor"></polygon>
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="vamtc-embed-spinner" style="display:none;border-color:#c30055"></div>
+    </form>
+    <template class="vamtc-message">
+      <div>Un message de confirmation a été envoyé à l’adresse %email%.</div>
+    </template>
+  </div>
+</div>
+<div style="margin:40px"></div>    <div class="cat-to-cat">
+        <a href="https://guide.flotauto.com/rubrique/remarketing-vo" title="Retrouvez tous les prestataires sur cette thématique" target="_blank" onclick="if (window.dataLayer) window.dataLayer.push({&quot;event&quot;:&quot;eventGA&quot;,&quot;eventCategory&quot;:&quot;Rubrique guide&quot;,&quot;eventAction&quot;:&quot;clic&quot;,&quot;eventLabel&quot;:&quot;https://guide.flotauto.com/rubrique/remarketing-vo&quot;})">
+            <img src="https://www.flotauto.com/wp-content/plugins/customization-fa-www/img/cat-to-cat/guide-flotauto.png" alt="Logo Guide Flottes Automobile" width="467" height="88" />
+        </a>
+    </div>                                    <div class="td-author-name vcard author" style="display: none"><span class="fn">Intissar El Hajj Mohamed</span></div>	        <span style="display: none;" itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="name" content="Intissar El Hajj Mohamed"></span><meta itemprop="datePublished" content="2025-12-05T11:43:25+00:00"><meta itemprop="dateModified" content="2025-12-05T11:44:15+01:00"><meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://www.flotauto.com/flotte-etat-vo/"/><span style="display: none;" itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span style="display: none;" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://www.flotauto.com/wp-content/uploads/2016/02/logo-FA-272x90.png"></span><meta itemprop="name" content="Flottes Automobiles"></span><meta itemprop="headline " content="Flotte de l’État : un outil pour intégrer davantage de VO"><span style="display: none;" itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://www.flotauto.com/wp-content/uploads/2025/06/voitures.jpg"><meta itemprop="width" content="650"><meta itemprop="height" content="430"></span>        </footer>
+
+    </article> <!-- /.post -->
+
+    <div class="td_block_wrap td_block_related_posts td_uid_41_6957ca317de38_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_41_6957ca317de38" ><script>var block_td_uid_41_6957ca317de38 = new tdBlock();
+block_td_uid_41_6957ca317de38.id = "td_uid_41_6957ca317de38";
+block_td_uid_41_6957ca317de38.atts = '{"limit":3,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_custom_related","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_41_6957ca317de38_rand","offset":"","css":"","live_filter":"cur_post_same_categories","live_filter_cur_post_id":347029,"live_filter_cur_post_author":"10979"}';
+block_td_uid_41_6957ca317de38.td_column_number = "3";
+block_td_uid_41_6957ca317de38.block_type = "td_block_related_posts";
+block_td_uid_41_6957ca317de38.post_count = "3";
+block_td_uid_41_6957ca317de38.found_posts = "255";
+block_td_uid_41_6957ca317de38.header_color = "";
+block_td_uid_41_6957ca317de38.ajax_pagination_infinite_stop = "";
+block_td_uid_41_6957ca317de38.max_num_pages = "85";
+tdBlocksArray.push(block_td_uid_41_6957ca317de38);
+</script><h4 class="td-related-title"><a id="td_uid_42_6957ca317e53a" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="td_uid_41_6957ca317de38" href="#">ARTICLES SUR LE MÊME SUJET</a><a id="td_uid_43_6957ca317e53c" class="td-related-right" data-td_filter_value="td_related_more_from_author" data-td_block_id="td_uid_41_6957ca317de38" href="#">Du même auteur</a></h4><div id=td_uid_41_6957ca317de38 class="td_block_inner">
+
+	<div class="td-related-row">
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/alexis-raillard-transeco-vo/" rel="bookmark" title="Alexis Raillard, Transeco : « Thermique ou électrique : une vraie différence pour la revente »"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/raillard-alexis-218x150-derived.jpg" alt="Alexis Raillard" title="Alexis Raillard"/></a></div>                <a href="https://www.flotauto.com/financement-location/restitution-vo-vr/" class="td-post-category">Restitution VO / VR</a>            </div>
+            <div class="item-details">
+                <h4 class="entry-title  td-module-title"><a href="https://www.flotauto.com/alexis-raillard-transeco-vo/" rel="bookmark" title="Alexis Raillard, Transeco : « Thermique ou électrique : une vraie différence pour la revente »"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Alexis Raillard, Transeco : « Thermique ou électrique : une vraie différence pour la revente »</a></h4>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/antoine-gauquie-fraikin-vo/" rel="bookmark" title="Antoine Gauquié, Fraikin : « La grande majorité de nos véhicules sont revendus en l’état »"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/06/voitures-218x150-derived.jpg" alt="voitures" title="voitures"/></a></div>                <a href="https://www.flotauto.com/financement-location/restitution-vo-vr/" class="td-post-category">Restitution VO / VR</a>            </div>
+            <div class="item-details">
+                <h4 class="entry-title  td-module-title"><a href="https://www.flotauto.com/antoine-gauquie-fraikin-vo/" rel="bookmark" title="Antoine Gauquié, Fraikin : « La grande majorité de nos véhicules sont revendus en l’état »"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Antoine Gauquié, Fraikin : « La grande majorité de nos véhicules sont revendus en l’état »</a></h4>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.flotauto.com/rodolphe-tabbagh-vehiposte-vo/" rel="bookmark" title="Rodolphe Tabbagh, Véhiposte : « 85 % de nos véhicules sont vendus en l’état »"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/11/tabbagh-rodolphe-218x150-derived.jpg" alt="Rodolphe Tabbagh" title="Rodolphe Tabbagh"/></a></div>                <a href="https://www.flotauto.com/financement-location/restitution-vo-vr/" class="td-post-category">Restitution VO / VR</a>            </div>
+            <div class="item-details">
+                <h4 class="entry-title  td-module-title"><a href="https://www.flotauto.com/rodolphe-tabbagh-vehiposte-vo/" rel="bookmark" title="Rodolphe Tabbagh, Véhiposte : « 85 % de nos véhicules sont vendus en l’état »"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Rodolphe Tabbagh, Véhiposte : « 85 % de nos véhicules sont vendus en l’état »</a></h4>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 --></div><!--./row-fluid--></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_41_6957ca317de38" data-td_block_id="td_uid_41_6957ca317de38"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_41_6957ca317de38" data-td_block_id="td_uid_41_6957ca317de38"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block -->
+                                </div>
+                            </div>
+                            <div class="td-pb-span4 td-main-sidebar" role="complementary">
+                                <div class="td-ss-main-sidebar">
+                                    <aside class="widget widget_breves"><div id="widget_breves-16-content"><div style="font-size: 22px; font-family: Roboto, sans-serif; font-style: normal; font-weight: 500; line-height: 30px; color: #00519e; margin-bottom: 17px">L&#039;actu en bref</div><div><ul><li class="breve"><span class="breves_date">26/12 : </span> <a href="https://www.flotauto.com/risque-routier-bonnes-pratiques/">Risque routier : 10 bonnes pratiques pour le réduire</a></li>
+<li class="breve"><span class="breves_date">24/12 : </span> <a href="https://www.flotauto.com/tres-grand-exces-de-vitesse-delit/">Le très grand excès de vitesse est un délit passible de prison depuis le 29 décembre</a></li>
+<li class="breve"><span class="breves_date">24/12 : </span> <a href="https://www.flotauto.com/autocars-chaize-electrification/">Autocars Chaize : une électrification réussie</a></li>
+<li class="breve"><span class="breves_date">23/12 : </span> <a href="https://www.flotauto.com/byd-sealion-5-essai/">BYD Sealion 5 : pour son prix imbattable</a></li>
+<li class="breve"><span class="breves_date">23/12 : </span> <a href="https://www.flotauto.com/toyota-bz4x-essai-2/">Toyota bZ4X : mise au point</a></li>
+<li class="breve"><span class="breves_date">22/12 : </span> <a href="https://www.flotauto.com/compagnie-des-transports-strasbourgeois/">21 nouveaux eVito pour la CTS</a></li>
+<li class="breve"><span class="breves_date">19/12 : </span> <a href="https://www.flotauto.com/fiscalite-automobile-2026/">Fiscalité automobile : toujours pas de verdict pour le PLF 2026</a></li>
+</ul><div id="all_posts"><strong><a href="https://www.flotauto.com/actu/breve">&gt; Toute l’actualité en bref</a></strong></div></div></div></aside><aside class="widget widget_media_image"><a href="https://service-prevention.net/cgi-bin/HE/SF?P=1z8820z10z-1z-1z8F39AF72F7"><img width="300" height="100" src="https://www.flotauto.com/wp-content/uploads/2025/03/axa-prevention-esponsable.png" class="image wp-image-335353  attachment-full size-full" alt="Axa Prévention responsables de flottes" style="max-width: 100%; height: auto;" decoding="async" /></a></aside><aside class="widget widget_media_image"><a href="https://service-prevention.net/cgi-bin/HE/SF?P=1z8489z45z-1z-1zE366E910E8"><img width="300" height="100" src="https://www.flotauto.com/wp-content/uploads/2025/03/axa-prevention-conducteur.png" class="image wp-image-335351  attachment-full size-full" alt="Axa Prévention conducteurs de flottes" style="max-width: 100%; height: auto;" decoding="async" /></a></aside><aside class="widget vamtc-subscription-widget"><div class="wp-block-varenne-mautic-quick-form">
+    <noscript class="vamtc-quick-noscript">
+        <style>noscript.vamtc-quick-noscript ~ * { display: none; }</style>
+        JavaScript est désactivé dans ce navigateur.    </noscript>
+    <style>input#vamtc-b12068eb::placeholder { color:#e7e7e7 }</style>
+    <div class="vamtc-quick" style="background-color:#164d8e;color:#ffffff">
+        <form class="vamtc-quick-form" method="POST">
+            <input type="hidden" name="settings" value="{&quot;templateId&quot;:&quot;297&quot;,&quot;pageId&quot;:&quot;228141&quot;,&quot;listAlias&quot;:&quot;fl-newsletter&quot;,&quot;sourceUrl&quot;:&quot;https://www.flotauto.com/flotte-etat-vo&quot;,&quot;formType&quot;:&quot;widget:classic&quot;,&quot;startPath&quot;:&quot;/wp-json/vamtc/v1/subscription-start&quot;}">
+            <input type="hidden" name="signature" value="2793fea8f8cfd1471dab6bfc10cadb43fea9d941f8ba6c13a0f3e207aab33744">
+            <div class="vamtc-quick-foreword">RECEVEZ LA NEWSLETTER</div>
+            <div class="vamtc-quick-row" style="border-color:#f7bf10">
+                <input required type="email" name="email" placeholder="votre email professionnel" class="vamtc-quick-input" style="border-color:#f7bf10" id="vamtc-b12068eb">
+                <div class="vamtc-quick-button-cell">
+                    <button class="vamtc-quick-button" style="color:#ffffff;background-color:#f7bf10">
+                        ▶                    </button>
+                    <div class="vamtc-quick-spinner" style="display:none;border-color:#164d8e"></div>
+                </div>
+            </div>
+        </form>
+        <template class="vamtc-message">
+            <div>Merci, vérifiez votre boite email pour valider votre inscription</div>
+        </template>
+    </div>
+</div>
+</aside><aside class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><table>
+<thead>
+<tr>
+<th colspan="2"><img class="alignnone size-full wp-image-100863" src="https://www.flotauto.com/wp-content/uploads/2016/07/bandeau-cahier-experts.png" alt="Cahier Experts" width="340" height="34" /></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.flotauto.com/edito-stellantis/"><img class="alignnone size-medium wp-image-149589" src="https://www.flotauto.com/wp-content/uploads/2025/11/cahiers-experts-stellantis.jpg" width="142" height="195" /></a></td>
+<td style="text-align: left;"><a href="https://www.flotauto.com/edito-stellantis/">Consultez le Cahier Experts <strong>Stellantis : « Notre diversité est un atout »</strong></a></td>
+</tr>
+</tbody>
+</table></div></aside><aside class="widget widget_text">			<div class="textwidget"> <div id="widget-flotte-expert" class="widget-bordered">
+    <a href="https://www.flotauto.com/flotexpert" title="flottes expert">
+        <img src="https://www.flotauto.com/wp-content/uploads/2016/07/flotte-expert.jpg">
+        <p>Consultez nos fiches pratiques rédigées par des experts de la gestion de flottes</p>
+    </a>
+</div></div>
+		</aside><aside class="widget widget_media_image"><a href="https://formations.flotauto.com"><img width="300" height="67" src="https://www.flotauto.com/wp-content/uploads/2020/06/formations-300x67-derived.gif" class="image wp-image-206134  attachment-medium size-medium" alt="formations IMVE" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" /></a></aside><aside class="widget widget_media_image"><a href="https://www.flotauto.com/agenda-flottes-automobiles"><img width="300" height="67" src="https://www.flotauto.com/wp-content/uploads/2016/07/agenda-1-300x67-derived.jpg" class="image wp-image-123071  attachment-medium size-medium" alt="L&#039;agenda Flottes Automobiles" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://www.flotauto.com/wp-content/uploads/2016/07/agenda-1-300x67-derived.jpg 300w, https://www.flotauto.com/wp-content/uploads/2016/07/agenda-1.jpg 360w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a></aside><aside class="widget widget_media_image"><a href="https://www.flotauto.com/devenir-annonceur"><img width="300" height="100" src="https://www.flotauto.com/wp-content/uploads/2024/09/demande-mediakit-300x100-derived.jpg" class="image wp-image-323471  attachment-medium size-medium" alt="Demandez notre kit media" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://www.flotauto.com/wp-content/uploads/2024/09/demande-mediakit-300x100-derived.jpg 300w, https://www.flotauto.com/wp-content/uploads/2024/09/demande-mediakit.jpg 600w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a></aside><aside class="widget ad-slot-widget"><div id="ad-slot-sidebar"><script>googletag.cmd.push(function() { googletag.display("ad-slot-sidebar") })</script></div></aside><aside class="widget ad-slot-widget"><div id="ad-slot-sidebar-sticky"><script>googletag.cmd.push(function() { googletag.display("ad-slot-sidebar-sticky") })</script></div></aside>                                </div>
+                            </div>
+                                    </div> <!-- /.td-pb-row -->
+        </div> <!-- /.td-container -->
+    </div> <!-- /.td-main-content-wrap -->
+
+    
+<!-- Footer -->
+
+<div class="footer_flotauto td-footer-wrapper">
+	 <div class="td-container">
+	   <div class="td-pb-row">
+		   <div class="td-pb-span5 td-pb-row">
+			
+					   </div>
+
+		   <div class="td-pb-span3 td-pb-row">
+			
+					   </div>
+
+		   <div class="td-pb-span4 td-pb-row">
+										   </div>
+		</div>
+	</div>
+</div>
+
+<!-- Sub Footer -->
+    <div class="td-sub-footer-container">
+        <div class="td-container">
+            <div class="td-pb-row">
+
+                <div class="td-pb-span8 td-sub-footer-menu">
+                     <div class="menu-sub-footer-menu-container"><ul id="menu-sub-footer-menu" class="td-sub-footer-menu"><li id="menu-item-236537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-236537"><a href="https://www.flotauto.com/les-magazines/">Le magazine</a></li>
+<li id="menu-item-236527" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-236527"><a href="https://www.flotauto.com/les-formules-dabonnement/">S’abonner</a></li>
+<li id="menu-item-236523" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-236523"><a href="https://www.flotauto.com/contact/">Contacts</a></li>
+<li id="menu-item-236517" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-236517"><a href="https://www.flotauto.com/devenir-annonceur/">Media Kit</a></li>
+<li id="menu-item-236521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy td-menu-item td-normal-menu menu-item-236521"><a rel="privacy-policy" href="https://www.flotauto.com/politique-de-confidentialite/">Politique de confidentialité</a></li>
+<li id="menu-item-315277" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-315277"><a href="https://www.flotauto.com/mentions-legales/">Mentions légales</a></li>
+<li id="menu-item-236519" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-236519"><a href="https://www.flotauto.com/plan-du-site/">Plan du site</a></li>
+<li id="menu-item-236525" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-236525"><a href="https://www.flotauto.com/nos-sites/">Sites du groupe</a></li>
+</ul></div>                </div>
+                <div class="td-sub-footer-social-networks">
+                    <div class="menu-sub-footer-social-networks-container"><ul id="menu-sub-footer-social-networks" class="td-sub-footer-social-networks sn_widget"><li id="menu-item-236491" class="sn_twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-first td-menu-item td-normal-menu menu-item-236491"><a href="https://x.com/flotauto" target="_blank" rel="nofollow"><span>X</span></a></li>
+<li id="menu-item-236489" class="sn_facebook menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-236489"><a href="https://www.facebook.com/flotauto" target="_blank" rel="nofollow"><span>Facebook</span></a></li>
+<li id="menu-item-236485" class="sn_youtube menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-236485"><a href="https://www.youtube.com/c/Flotauto" target="_blank" rel="nofollow"><span>YouTube</span></a></li>
+<li id="menu-item-236487" class="sn_linkedin menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-236487"><a href="https://www.linkedin.com/company/flottes-automobiles" target="_blank" rel="nofollow"><span>LinkedIn</span></a></li>
+</ul></div>                </div>
+            </div>
+        </div>
+    </div>
+
+    </div><!--close content div-->
+</div><!--close td-outer-wrap-->
+
+<div id="ad-slot-bottom-anchor">
+    <script>googletag.cmd.push(function(){googletag.display('ad-slot-bottom-anchor')})</script>
+</div>
+<div id="ad-slot-cover">
+    <script>googletag.cmd.push(function(){googletag.display('ad-slot-cover')})</script>
+</div>
+
+				<script type='text/javascript'><!--
+			var seriesdropdown = document.getElementById("orgseries_dropdown");
+			if (seriesdropdown) {
+			 function onSeriesChange() {
+					if ( seriesdropdown.options[seriesdropdown.selectedIndex].value != ( 0 || -1 ) ) {
+						location.href = "https://www.flotauto.com/dossier/"+seriesdropdown.options[seriesdropdown.selectedIndex].value;
+					}
+				}
+				seriesdropdown.onchange = onSeriesChange;
+			}
+			--></script>
+			
+
+    <!--
+
+        Theme: Newspaper by tagDiv 2016
+        Version: 2.22 (rara)
+        Deploy mode: deploy
+        
+        uid: 6957ca3181353
+    -->
+
+    
+<template id="vacons-template"><div id="vacons-overlay"><div id="vacons-popup"><div style="text-align: center"><img src="https://www.flotauto.com/wp-content/plugins/customization-fa-network/css/logo-flottes-automobiles.png" alt="logo flottes automobiles" width="192" height="64"></div><div id="vacons-text">
+<p><strong>En utilisant notre site, vous consentez à l'utilisation des cookies.</strong></p>
+
+<p>Nous utilisons des cookies sur notre site pour stocker et/ou accéder à des informations sur votre appareil, notamment pour vous proposer des publicités et réaliser des statistiques afin d'améliorer l'ergonomie, la navigation et les contenus éditoriaux.</p>
+
+<p>
+Les cookies analytiques nous permettent de recueillir des informations précieuses pour optimiser les performances de notre site et améliorer votre expérience utilisateur.
+</p>
+
+<p>
+En acceptant les cookies, vous soutenez le travail de notre rédaction, qui vous offre des informations de qualité, tout en nous permettant de vous proposer des contenus et services adaptés à vos centres d’intérêt.
+</p>
+
+<p>Pour plus d'information, vous pouvez consulter notre page <a href="https://www.flotauto.com/politique-de-confidentialite">Politique de confidentialité</a>.</p></div>
+<div id="vacons-actions"><button id="vacons-accept" name="accept">Accepter et fermer</button><button id="vacons-decline" name="decline">Tout refuser</button></div></div></div>
+</template>
+<script id="vacons-footer" type="text/javascript">(function(){window.vacons.onPrevious(function(consent){if(consent){load(consent.choices);this.dispatch('available',consent);}else{if(document.loading){document.addEventListener('DOMContentLoaded',()=> showBanner.call(this));}else{showBanner.call(this);}}});function showBanner(){new Banner(action=>{const time=this.stime+Math.round((Date.now()- this.started)/1000);this.dispatch('click',action);if(action==='accept'){this.record=createRecord(action,this.stime);save(this.record,this.path);load(this.record.choices);this.dispatch('available',this.record);}});}function Banner(onclose){document.body.appendChild(document.querySelector("#vacons-template").content.cloneNode(true));this.overlay=document.querySelector('#vacons-overlay');this.click=event=>{event.preventDefault();const action=event.target.closest('button,a').name;this.overlay.remove();onclose(action);};this.overlay.querySelectorAll('button[name],a[name]').forEach(button=> button.addEventListener('click',this.click));setTimeout(()=> this.overlay.classList.add('fade-in'),1);};function createRecord(action,time){const all=["essentials","analytics","targeting"];const choices={};all.forEach(n=> choices[n]=false);choices['essentials']=true;if(action==='accept')all.forEach(n=> choices[n]=true);return{date:time,choices:choices,cookie:{creation:time,expiration:time+7776000,domain:"flotauto.com"},toParams:function(){const s=new URLSearchParams();s.append('date',this.date);for(const k in this.choices)s.append(`choices[${k}]`,this.choices[k] ? '1':'0');for(const k in this.cookie)s.append(`cookie[${k}]`,this.cookie[k]);return s;}}};function save(record,path){if(window.localStorage){localStorage.setItem('vacons',JSON.stringify(record));}return new Promise((resolve,reject)=>{window.fetch(path+'save.php',{method:'POST',body:record.toParams(),mode:'same-origin',credentials:'same-origin',priority:'low',referrerPolicy:'origin'}).then(res=>{if(res.ok){res.json().then(data=> resolve(data)).catch(error=> reject(error));}else{reject('Could not save consent record to remote server:'+res.statusText);}});});};function load(choices){setTimeout(function(){const l=["(function(w,d,t,u,n,a,m){w[\"MauticTrackingObject\"]=n;w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)};a=d.createElement(t);m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)})(window,document,\"script\",\"https://wmk.flotauto.com/mtc.js\",\"mt\");mt(\"send\",\"pageview\");","!function(w,d,s,u,p,t,o){w[p]=w[p]||function(){(w[p]._q=w[p]._q||[]).push(arguments)},t=d.createElement(s),o=d.getElementsByTagName(s)[0],t.async=1,t.src=u,o.parentNode.insertBefore(t,o)}(window,document,\"script\",\"https://assets.poool.fr/poool.min.js\",\"poool\");","(function($){\nvar p=1,c=$(\".vapo-content\"),s=$(\".vapo-snippet\").first();$(document).ready(function(){p=setTimeout(function(){c.detach();p=0;},200);});\npoool(\"init\",\"V9WNZ-VRHYU-LKHOU-KLBED\");\npoool(\"config\",\"cookies_enabled\",true);\npoool(\"config\",\"user_is_premium\",false);\npoool(\"config\",\"login_button_enabled\",true);\npoool(\"config\",\"login_url\",\"https://www.flotauto.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.flotauto.com%2Fflotte-etat-vo%2F\");\npoool(\"config\",\"widget_container\",\".vapo-widget\");\npoool(\"config\",\"mode\",\"custom\");\npoool(\"config\",\"signature_enabled\",false);\npoool(\"event\",\"onRelease\",function(e){if(p)clearTimeout(p);c.first().insertBefore(s).show();s.remove();$(\".vapo-widget\").first().append(\"<div class=\\\"vapo-release\\\"><h2 class=\\\"vapo-release\\\">Cet article vous a été offert par Flottes Automobiles</h2><div class=\\\"vapo-box\\\"><h3>Pas encore abonné(e)?</h3><div>Découvrez nos formules d'abonnement</div><a class=\\\"vapo-subscribe\\\" href=\\\"https://www.flotauto.com/les-formules-dabonnement/\\\"><img src=\\\"https://www.flotauto.com/wp-content/plugins/customization-fa-www/img/paywall.png\\\" width=\\\"172\\\" height=\\\"88\\\" alt=\\\"Nos formules d’abonnement\\\"><span>Je m'abonne</span></a></div></div>\")});\npoool(\"event\",\"onFormSubmit\",function(e){var validators=[function(form){if(\"email\" in form.fields){var parts=form.fields[\"email\"].match(/^([^@]+)@([^@]+)$/);if(!parts)return [];if(parts[1].match(/^(test)$/i))return [\"email\"];if(parts[2].match(/(^|\\.)(laposte\\.net|orange\\.fr|neuf\\.fr|free\\.fr|live\\.fr|icloud\\.com|sfr\\.fr|wanadoo\\.fr|club\\-internet\\.fr|voila\\.fr|ymail\\.com|numericable\\.fr|msn\\.com|me\\.com|mac\\.com|onmail\\.com|protonmail\\.com|netcourrier\\.com|mailo\\.fr|mailo\\.com|mailfence\\.com| tutanota\\.com|ik\\.me|ikmail\\.com|etik\\.com|proton\\.me|protonmail\\.com)$/i))return [\"email\"];if(parts[2].match(/(^|\\.)(gmail|yopmail|jetable|hotmail|yahoo|test|aol|outlook|gmx|caramail|protonmail)(\\.|$)/i))return [\"email\"];return []}}];for(var i=0;i<validators.length;i++){var v=validators[i];if($.isFunction(v)){var r=v.call(this,e);if($.isArray(r)&& r.length)return r}}$.post(\"https://www.flotauto.com/wp-admin/admin-ajax.php\",{action:\"vapo_form\",nonce:\"e456b94a11\",payload:JSON.stringify(e)})});\npoool(\"event\",\"onIdentityAvailable\",function(e){$.pooolIdentity=e;});\npoool(\"event\",\"onDiscoveryLinkClick\",function(e){e.originalEvent.preventDefault();var url=e.url;url+='?vasi-redirect='+encodeURIComponent(document.location.href);url+='&vasi-poool='+encodeURIComponent($.pooolIdentity?$.pooolIdentity.user_id:'');window.location.href=url;});\npoool(\"send\",\"page-view\",\"premium\");\n}(jQuery));"];for(const s of l){window.eval.call(window,s);}},1);};})();</script>
+<script type="text/javascript" id="getwid-blocks-frontend-js-js-extra">
+/* <![CDATA[ */
+var Getwid = {"settings":[],"ajax_url":"https:\/\/www.flotauto.com\/wp-admin\/admin-ajax.php","isRTL":"","nonces":{"contact_form":"bf49deae7d"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.flotauto.com/wp-content/plugins/getwid/assets/js/frontend.blocks.js?ver=2.1.3" id="getwid-blocks-frontend-js-js"></script>
+<script type="text/javascript" src="https://www.flotauto.com/wp-content/themes/varenne-newspaper-fa/js/tagdiv_theme.js?ver=2.22" id="td-site-js"></script>
+<script type="text/javascript" src="https://www.flotauto.com/wp-includes/js/comment-reply.min.js?ver=6.7.2" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://www.flotauto.com/wp-content/themes/varenne-newspaper-fa/js/seriesbox-accordion.js?ver=2.9" id="seriesbox-accordion-js"></script>
+<script type="text/javascript" src="https://www.flotauto.com/wp-content/themes/varenne-newspaper-fa/js/sticky-ad-slot.js?ver=2.9" id="sticky-ad-slot-js"></script>
+<script></script>
+<script id="vagtm-footer" type="text/javascript">
+
+// Third-party plugins can print some dataLayer related code here below.
+    document.addEventListener("DOMContentLoaded",()=>{
+        for(const a of document.querySelectorAll(".le-flash a")){
+            a.addEventListener("click",e=>{
+                dataLayer.push({
+                    event:"eventGA",
+                    eventCategory:"Flash actu",
+                    eventAction:"click",
+                    eventLabel:e.target.closest("a").textContent
+                })
+            })
+        }
+    });
+
+    document.addEventListener("DOMContentLoaded",()=>{
+        // vaal may not be defined if there is no autolink in the page
+        if(window.vaal){
+            window.vaal.onClick(link=>{
+                dataLayer.push({
+                    event:"eventGA",
+                    eventCategory:"AutoLinks",
+                    eventAction:"click",
+                    eventLabel:link.title
+                })
+            })
+        }
+    });
+
+    function vapo_register_event(){
+        if(window.poool){
+            poool("event","onRelease",()=>{
+                dataLayer.push({
+                    event:"eventGA",
+                    eventCategory:"Poool",
+                    eventAction:"PREMIUM > DÉBLOQUÉ",
+                    eventLabel:document.location.href
+                })
+            })
+        }
+    };
+
+    // Poool may be activated as a plugin, but not yet injected into the page.
+    window.poool?vapo_register_event():setTimeout(vapo_register_event, 200);</script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+	
+
+		(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'https://www.flotauto.com/wp-content/themes/varenne-newspaper-fa/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'https://www.flotauto.com/wp-content/themes/varenne-newspaper-fa';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();
+
+	
+	
+</script>
+
+
+<!-- APP_ENV     : prod -->
+<!-- Hostname    : prod01 (::ffff:212.83.141.158) -->
+<!-- PHP Version : 8.2.29 -->
+<!-- Performance  
+     TOTAL time: 264.2 ms 
+     Num SQL queries: 349 
+ -->
+</body>
+</html>

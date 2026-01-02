@@ -1,0 +1,764 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="utf-8"><link rel="canonical" href="https://www.antai.gouv.fr/en/fleet-manager"><meta name="MobileOptimized" content="width"><meta name="HandheldFriendly" content="true"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="icon" href="/themes/open_antai_swa/favicon.ico" type="image/vnd.microsoft.icon"><link rel="alternate" hreflang="fr" href="https://www.antai.gouv.fr/professionnel/gestionnaire-parc-automobile"><link rel="alternate" hreflang="en" href="https://www.antai.gouv.fr/en/fleet-manager"><link rel="alternate" hreflang="de" href="https://www.antai.gouv.fr/de/meine-formalitaeten-als-fuhrparkbetreiberin"><link rel="alternate" hreflang="it" href="https://www.antai.gouv.fr/it/istruzioni-i-responsabili-di-flotta"><link rel="alternate" hreflang="nl" href="https://www.antai.gouv.fr/nl/wat-u-moet-doen-als-beheerder-van-een-wagenpark"><link rel="alternate" hreflang="es" href="https://www.antai.gouv.fr/es/gestor-parque-de-vehiculos"><title>Fleet manager | ANTAI.gouv.fr</title><link rel="stylesheet" media="all" href="/sites/default/files/css/css_URRFmxsOkeC4xRgOIU6jCWL--U1buJJtdHeRUWTmaxI.css"><link rel="stylesheet" media="all" href="/sites/default/files/css/css_o6jX0o-nbt_slJkLBJLRU4v4YqMSNftGY2CpHrf3oks.css"></head><body class="path-node page-node-type-contenu-standard has-glyphicons">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+    <main role="main" class="main-container js-quickedit-main-content"><div class="clearfix">
+
+                                        <header id="header" class="page-header"><div class="navbar-header">
+              
+    <div class="region region-navigation">
+                <section role="navigation" class="block block-language block-language-blocklanguage-interface clearfix"><div class="container text-right">    <ul class="language-switcher-language-url links list-inline" role="list"><li hreflang="fr" data-drupal-link-system-path="node/2" class="fr"><a href="/professionnel/gestionnaire-parc-automobile" class="language-link" hreflang="fr" data-drupal-link-system-path="node/2">    <img class="language-icon img-responsive" src="/sites/default/files/images/flags/fr.png" width="23" height="15" alt="Fran&ccedil;ais" title="Fran&ccedil;ais" loading="lazy"></a></li><li hreflang="en" data-drupal-link-system-path="node/2" class="en is-active"><a href="/en/fleet-manager" class="language-link is-active" hreflang="en" data-drupal-link-system-path="node/2">    <img class="language-icon img-responsive" src="/sites/default/files/images/flags/en.png" width="23" height="15" alt="English" title="English" loading="lazy"></a></li><li hreflang="de" data-drupal-link-system-path="node/2" class="de"><a href="/de/meine-formalitaeten-als-fuhrparkbetreiberin" class="language-link" hreflang="de" data-drupal-link-system-path="node/2">    <img class="language-icon img-responsive" src="/sites/default/files/images/flags/de.png" width="23" height="15" alt="Deutsche" title="Deutsche" loading="lazy"></a></li><li hreflang="it" data-drupal-link-system-path="node/2" class="it"><a href="/it/istruzioni-i-responsabili-di-flotta" class="language-link" hreflang="it" data-drupal-link-system-path="node/2">    <img class="language-icon img-responsive" src="/sites/default/files/images/flags/it.png" width="23" height="15" alt="Italiano" title="Italiano" loading="lazy"></a></li><li hreflang="nl" data-drupal-link-system-path="node/2" class="nl"><a href="/nl/wat-u-moet-doen-als-beheerder-van-een-wagenpark" class="language-link" hreflang="nl" data-drupal-link-system-path="node/2">    <img class="language-icon img-responsive" src="/sites/default/files/images/flags/nl.png" width="23" height="15" alt="Nederlands" title="Nederlands" loading="lazy"></a></li><li hreflang="es" data-drupal-link-system-path="node/2" class="es"><a href="/es/gestor-parque-de-vehiculos" class="language-link" hreflang="es" data-drupal-link-system-path="node/2">    <img class="language-icon img-responsive" src="/sites/default/files/images/flags/es.png" width="23" height="15" alt="Espa&ntilde;ol" title="Espa&ntilde;ol" loading="lazy"></a></li></ul><div id="lang-selector" class="pull-right">
+        <span class="glyphicon glyphicon-menu-up"></span>
+    </div>
+    </div>
+  </section><div class="container">
+                <section class="col-md-6 col-xs-12 logo-antai"><div class="logo">
+                                        <a class="navbar-btn pull-left" href="/en" title="Accueil. Vous &ecirc;tes sur un site de la R&eacute;publique Fran&ccedil;aise : Libert&eacute;, Egalit&eacute;, Fraternit&eacute;. ANTAI : Agence Nationale de Traitement Automatis&eacute; des Infractions" rel="home">
+                    <img class="img-responsive" src="/themes/open_antai_swa/antai_logo.png" alt="Accueil. Vous &ecirc;tes sur un site de la R&eacute;publique Fran&ccedil;aise : Libert&eacute;, Egalit&eacute;, Fraternit&eacute;. ANTAI : Agence Nationale de Traitement Automatis&eacute; des Infractions"></a>
+                                            </div>
+    </section><section id="block-lunrsearchform" class="block block-lunr block-lunr-search clearfix col-md-6 col-xs-12"><form class="lunr-search-block-form" action="/recherche" method="GET" id="lunr-search-block-form" accept-charset="UTF-8">
+
+            <div class="form-item js-form-item form-type-search js-form-type-search form-item-search js-form-item-search form-no-label form-group col-md-10 col-xs-10 recherche-input">
+
+                <label for="search--2" class="control-label sr-only">Formulaire de Recherche</label>
+
+                <input name="search" type="search" placeholder="Search ..." id="search--2" title="Recherche" size="60" maxlength="128" class="form-search form-control"></div>
+
+            <div class="form-group col-md-2 col-xs-2 recherche-button">
+
+                <button type="submit" value="Search" class="button js-form-submit form-submit btn-primary btn icon-before" name="" aria-label="Rechercher">
+                    <span class="icon glyphicon glyphicon-search" aria-hidden="true"></span>
+                </button>
+
+            </div>
+
+
+        </form>
+</section></div>
+        <section class="block block-oas-main-menu block-mobile-menu-block clearfix"><div id="header_mobile" class="header-mobile">
+    <button type="button" class="navbar-toggle pull-left" data-toggle="collapse" data-target="#antai-toggle-menu">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+    </button>
+</div>
+<div id="antai-toggle-menu" class="col-xs-12 collapse navbar-collapse antai-toggle-menu">
+    <ul class="nav navbar-nav"><li class="first">
+                    You are :
+                </li>
+                                
+            
+                                <li id="mobile-profilage-2" class="mobile0-item">
+                                            <a id="dropdown-profil-2" class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            <span>A private individual</span>
+                            <span class="caret caret-blue pull-right"></span>
+                        </a>
+                        <ul class="dropdown-menu"><li id="mobile-submenu-2-1" class="item-submenu1">
+                                                                                                                            <a href="/en/you-have-received-notice">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-contravention-120x120-bleu.png?itok=Z_e_77GZ" alt="" class="img-responsive icone"><span class="texte-smn1">You have received a notice</span>
+                                            </a>
+                                    </li>
+                                                                                                                                                                <li id="mobile-submenu-2-2" class="item-submenu1">
+                                                                                                                            <a href="/en/payment">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2024-08/PICTO-PAIEMENT-bleu.png?itok=lqAiLd5_" alt="" class="img-responsive icone"><span class="texte-smn1">Payment</span>
+                                            </a>
+                                    </li>
+                                                                                                                                                                <li id="mobile-submenu-2-3" class="item-submenu1">
+                                                                                                                            <a href="/en/designate-or-appeal-online">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-demarcheenligne-120x120-bleu.png?itok=uSTQDkqu" alt="" class="img-responsive icone"><span class="texte-smn1">Designating and appealing</span>
+                                            </a>
+                                    </li>
+                                                                                                                                                                <li id="mobile-submenu-2-4" class="item-submenu1">
+                                                                                                                            <a href="/en/offence-file">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-rapportactivites-120x120-blanc.png?itok=EYaWVJob" alt="" class="img-responsive icone"><span class="texte-smn1">Offence file</span>
+                                            </a>
+                                    </li>
+                                                                                                                                                                <li id="mobile-submenu-2-5" class="item-submenu1">
+                                                                                                                            <a href="/en/if-youve-been-victim-fraudulent-designation-how-can-you-report-it">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-demarcheenligne-120x120-bleu.png?itok=uSTQDkqu" alt="" class="img-responsive icone"><span class="texte-smn1">Fraudulent designation</span>
+                                            </a>
+                                    </li>
+                                                                                                                    </ul></li>
+                                
+            
+                                <li id="mobile-profilage-5" class="mobile0-item">
+                                            <a id="dropdown-profil-5" class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            <span>A professional</span>
+                            <span class="caret caret-blue pull-right"></span>
+                        </a>
+                        <ul class="dropdown-menu"><li id="mobile-submenu-5-1" class="item-submenu1">
+                                                                                                                            <a href="/en/legislation">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-reglementation-120x120-bleu.png?itok=FR_pT2Ct" alt="" class="img-responsive icone"><span class="texte-smn1">Legislation</span>
+                                            </a>
+                                    </li>
+                                                                                                                                                                <li id="mobile-submenu-5-2" class="item-submenu1">
+                                                                                                                            <a href="/en/what-do-if-you-are-legal-representative-legal-entity">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2022-08/ANTAI_picto_PersMorale.png?itok=Pb8x2fHz" alt="" class="img-responsive icone"><span class="texte-smn1">Legal representative of a legal entity</span>
+                                            </a>
+                                    </li>
+                                                                                                                                                                <li id="mobile-submenu-5-3" class="item-submenu1">
+                                                                                                                            <a href="/en/what-do-if-you-are-self-employed">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2022-08/ANTAI_swa_picto_EntrepreneurIndividuel.png?itok=mjj_s7N-" alt="" class="img-responsive icone"><span class="texte-smn1">Self-employed</span>
+                                            </a>
+                                    </li>
+                                                                                                                                                                <li id="mobile-submenu-5-4" class="item-submenu1">
+                                                                                                                            <a href="/en/fleet-manager">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2022-08/ANTAI_picto_parcauto.png?itok=NNg9BPPO" alt="" class="img-responsive icone"><span class="texte-smn1">Fleet manager</span>
+                                            </a>
+                                    </li>
+                                                                                                                    </ul></li>
+                                
+            
+                                <li id="mobile-profilage-3" class="mobile0-item">
+                                            <a id="dropdown-profil-3" class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            <span>A partner</span>
+                            <span class="caret caret-blue pull-right"></span>
+                        </a>
+                        <ul class="dropdown-menu"><li id="mobile-submenu-3-1" class="item-submenu1">
+                                                                                                                            <a href="/en/adopt-electronic-ticketing">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-conventionner-120x120-bleu.png?itok=iyH4gXg8" alt="" class="img-responsive icone"><span class="texte-smn1">Adopt electronic ticketing</span>
+                                            </a>
+                                    </li>
+                                                                                                                                                                <li id="mobile-submenu-3-2" class="item-submenu1">
+                                                                                                                            <a href="/en/fps-service">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-stationnement-FPS-120x120-bleu.png?itok=8fCVGMle" alt="" class="img-responsive icone"><span class="texte-smn1">The FPS service</span>
+                                            </a>
+                                    </li>
+                                                                                                                                                                <li id="mobile-submenu-3-3" class="item-submenu1">
+                                                                                                                            <a href="/en/electronic-ticketing">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-pve-120x120-bleu.png?itok=wczd_vt6" alt="" class="img-responsive icone"><span class="texte-smn1">Electronic ticketing</span>
+                                            </a>
+                                    </li>
+                                                                                                                                                                <li id="mobile-submenu-3-4" class="item-submenu1">
+                                                                                                                            <a href="/en/antai-provides-motorway-companies-solution-manage-toll-non-payment-notices">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2024-08/ANTAI-picto-radarautomatise-120x120-bleu.png?itok=9CjKby3l" alt="" class="img-responsive icone"><span class="texte-smn1">Non-Payment Notice at Toll Gate</span>
+                                            </a>
+                                    </li>
+                                                                                                                                                                <li id="mobile-submenu-3-5" class="item-submenu1">
+                                                                                                                            <a href="/en/notices-impoundment">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2024-08/ANTAI-picto-aproposantai-120x120-bleu_0.png?itok=cmE4ssBE" alt="" class="img-responsive icone"><span class="texte-smn1">Impoundment Notice</span>
+                                            </a>
+                                    </li>
+                                                                                                                    </ul></li>
+                                
+            
+                                <li id="mobile-profilage-4" class="mobile0-item">
+                                            <a id="dropdown-profil-4" class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            <span>More information</span>
+                            <span class="caret caret-blue pull-right"></span>
+                        </a>
+                        <ul class="dropdown-menu"><li id="mobile-submenu-4-1" class="item-submenu1">
+                                                                                                                            <a href="/en/faq?search=">
+                                                                                                                                            <img class="img-responsive" alt="" src="/sites/default/files/images/information.png"><span class="texte-smn1">FAQ</span>
+                                            </a>
+                                    </li>
+                                                                                                                                                                <li id="mobile-submenu-4-2" class="item-submenu1">
+                                                                                                                            <a href="/en/actualites?search=">
+                                                                                                                                            <img class="img-responsive" alt="" src="/sites/default/files/images/information.png"><span class="texte-smn1">News</span>
+                                            </a>
+                                    </li>
+                                                                                                                                                                <li id="mobile-submenu-4-3" class="item-submenu1">
+                                                                                                                            <a href="/en/about-antai">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2021-04/pictogrammesANTAI-26.png?itok=Vb2QJUa1" alt="" class="img-responsive icone"><span class="texte-smn1">About ANTAI</span>
+                                            </a>
+                                    </li>
+                                                                                                                                                                <li id="mobile-submenu-4-4" class="item-submenu1">
+                                                                                                                            <a href="/en/automated-control">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2021-04/pictogrammesANTAI-13.png?itok=Xd0iziYX" alt="" class="img-responsive icone"><span class="texte-smn1">Automated control</span>
+                                            </a>
+                                    </li>
+                                                                                                                                                                <li id="mobile-submenu-4-5" class="item-submenu1">
+                                                                                                                            <a href="/en/official-report">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2021-04/pictogrammesANTAI-20.png?itok=wsRvYJES" alt="" class="img-responsive icone"><span class="texte-smn1">Electronic ticketing</span>
+                                            </a>
+                                    </li>
+                                                                                                                                                                <li id="mobile-submenu-4-6" class="item-submenu1">
+                                                                                                                            <a href="/en/contact-us">
+                                                                                                                                            <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-contact-120x120-bleu.png?itok=Edpes0bg" alt="" class="img-responsive icone"><span class="texte-smn1">Contact</span>
+                                            </a>
+                                    </li>
+                                                                                                                    </ul></li>
+                        </ul></div>
+<div id="topmenu_mobile" class="col-xs-12 topmenu-mobile">
+    <div class="btn-group">
+        <a class="btn dropdown-toggle white" data-toggle="dropdown" href="#">
+                                        
+                                                <span id="select-profil-1" class="select-profil">You are :</span>
+                            
+                                                <span id="select-profil-2" class="select-profil">A private individual</span>
+                            
+                                                <span id="select-profil-5" class="select-profil">A professional</span>
+                            
+                                                <span id="select-profil-3" class="select-profil">A partner</span>
+                            
+                                                <span id="select-profil-4" class="select-profil">More information</span>
+                        <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu"><li id="mobile-profil-1" class="select-profil">
+                            <span class="sans-lien">You are :</span>
+                        </li>
+                            <li class="divider">
+                                
+                        <li id="mobile-profil-2" class="select-profil">
+                                                                <a href="/en/you-have-received-notice">
+                                A private individual</a>
+                        </li>
+                            <li class="divider">
+                                
+                        <li id="mobile-profil-5" class="select-profil">
+                                                                <a href="/en/you-are-professional">
+                                A professional</a>
+                        </li>
+                            <li class="divider">
+                                
+                        <li id="mobile-profil-3" class="select-profil">
+                                                                <a href="/en/adopt-electronic-ticketing">
+                                A partner</a>
+                        </li>
+                            <li class="divider">
+                                
+                        <li id="mobile-profil-4" class="select-profil">
+                                                                <a href="/en/about-antai">
+                                More information</a>
+                        </li>
+                            </ul></div>
+</div>
+
+  </section></div>
+
+                                            <button type="button" class="navbar-toggle toggle-menu-button" data-toggle="collapse" data-target="#navbar-collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                          </div>
+            <a href="/en" alt="Accueil" title="Accueil"></a>
+                            <div class="region region-header">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+                                                                                                                                                                                                                                                                                                                          </header><div id="navbar" role="region" aria-label="navbar">
+              
+
+
+                                      <div id="navbar-collapse" class="navbar-collapse collapse">
+                                  <div class="region region-navigation-collapsible">
+    <section id="block-menuprincipal" class="block block-oas-main-menu block-main-menu-block clearfix"><div class="clear-both menuflex">
+    <div class="container-fluid profilage">
+        <nav class="navbar navbar-inverse container" aria-label="profilage"><ul class="nav navbar-nav menu menu-level0" role="list" aria-label="menu-lvl-0"><li class="first">
+                        You are :
+                    </li>
+                                            
+                                                        <li id="main-profil-2" class="menu0-item">
+                                                                                                                <a href="/en/you-have-received-notice">
+                                                        A private individual</a>
+                                            </li>
+                                            
+                                                        <li id="main-profil-5" class="menu0-item">
+                                                                                                                <a href="/en/you-are-professional">
+                                                        A professional</a>
+                                            </li>
+                                            
+                                                        <li id="main-profil-3" class="menu0-item">
+                                                                                                                <a href="/en/adopt-electronic-ticketing">
+                                                        A partner</a>
+                                            </li>
+                                            
+                                                        <li id="main-profil-4" class="menu0-item">
+                                                                                                                <a href="/en/about-antai">
+                                                        More information</a>
+                                            </li>
+                                        </ul></nav></div>
+    <div class="submenu-container ">
+        <div class="container-fluid sticky-scroll">
+            <nav class="navbar navbar-default container" aria-label="menu-lvl-1"><ul id="submenu2" class="nav navbar-nav menu menu-level1"><li id="main-submenu2-1" class="item-submenu1">
+                                                                                                                                <a href="/en/you-have-received-notice">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-contravention-120x120-bleu.png?itok=Z_e_77GZ" alt="" class="img-responsive icone"><span class="texte-smn1">You have received a notice</span>
+                                    </a>
+                            </li>
+                                                                            <li class="divider-vertical">
+                                                                                                                              <li id="main-submenu2-2" class="item-submenu1">
+                                                                                                                                <a href="/en/payment">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2024-08/PICTO-PAIEMENT-bleu.png?itok=lqAiLd5_" alt="" class="img-responsive icone"><span class="texte-smn1">Payment</span>
+                                    </a>
+                            </li>
+                                                                            <li class="divider-vertical">
+                                                                                                                              <li id="main-submenu2-3" class="item-submenu1">
+                                                                                                                                <a href="/en/designate-or-appeal-online">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-demarcheenligne-120x120-bleu.png?itok=uSTQDkqu" alt="" class="img-responsive icone"><span class="texte-smn1">Designating and appealing</span>
+                                    </a>
+                            </li>
+                                                                            <li class="divider-vertical">
+                                                                                                                              <li id="main-submenu2-4" class="item-submenu1">
+                                                                                                                                <a href="/en/offence-file">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-rapportactivites-120x120-blanc.png?itok=EYaWVJob" alt="" class="img-responsive icone"><span class="texte-smn1">Offence file</span>
+                                    </a>
+                            </li>
+                                                                            <li class="divider-vertical">
+                                                                                                                              <li id="main-submenu2-5" class="item-submenu1">
+                                                                                                                                <a href="/en/if-youve-been-victim-fraudulent-designation-how-can-you-report-it">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-demarcheenligne-120x120-bleu.png?itok=uSTQDkqu" alt="" class="img-responsive icone"><span class="texte-smn1">Fraudulent designation</span>
+                                    </a>
+                            </li>
+                                                                                        </ul><ul id="submenu3" class="nav navbar-nav menu menu-level1"><li id="main-submenu3-1" class="item-submenu1">
+                                                                                                                                <a href="/en/adopt-electronic-ticketing">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-conventionner-120x120-bleu.png?itok=iyH4gXg8" alt="" class="img-responsive icone"><span class="texte-smn1">Adopt electronic ticketing</span>
+                                    </a>
+                            </li>
+                                                                            <li class="divider-vertical">
+                                                                                                                              <li id="main-submenu3-2" class="item-submenu1">
+                                                                                                                                <a href="/en/fps-service">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-stationnement-FPS-120x120-bleu.png?itok=8fCVGMle" alt="" class="img-responsive icone"><span class="texte-smn1">The FPS service</span>
+                                    </a>
+                            </li>
+                                                                            <li class="divider-vertical">
+                                                                                                                              <li id="main-submenu3-3" class="item-submenu1">
+                                                                                                                                <a href="/en/electronic-ticketing">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-pve-120x120-bleu.png?itok=wczd_vt6" alt="" class="img-responsive icone"><span class="texte-smn1">Electronic ticketing</span>
+                                    </a>
+                            </li>
+                                                                            <li class="divider-vertical">
+                                                                                                                              <li id="main-submenu3-4" class="item-submenu1">
+                                                                                                                                <a href="/en/antai-provides-motorway-companies-solution-manage-toll-non-payment-notices">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2024-08/ANTAI-picto-radarautomatise-120x120-bleu.png?itok=9CjKby3l" alt="" class="img-responsive icone"><span class="texte-smn1">Non-Payment Notice at Toll Gate</span>
+                                    </a>
+                            </li>
+                                                                            <li class="divider-vertical">
+                                                                                                                              <li id="main-submenu3-5" class="item-submenu1">
+                                                                                                                                <a href="/en/notices-impoundment">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2024-08/ANTAI-picto-aproposantai-120x120-bleu_0.png?itok=cmE4ssBE" alt="" class="img-responsive icone"><span class="texte-smn1">Impoundment Notice</span>
+                                    </a>
+                            </li>
+                                                                                        </ul><ul id="submenu4" class="nav navbar-nav menu menu-level1"><li id="main-submenu4-1" class="item-submenu1">
+                                                                                                                                <a href="/en/faq?search=">
+                                                                                                                                                                  <img class="img-responsive icone" alt="" src="/sites/default/files/images/ANTAI-picto-faq-120x120-bleu.png"><span class="texte-smn1">FAQ</span>
+                                    </a>
+                            </li>
+                                                                            <li class="divider-vertical">
+                                                                                                                              <li id="main-submenu4-2" class="item-submenu1">
+                                                                                                                                <a href="/en/actualites?search=">
+                                                                                                                                                                                                                  <img class="img-responsive icone" alt="" src="/sites/default/files/images/ANTAI-picto-actualites-120x120-bleu.png"><span class="texte-smn1">News</span>
+                                    </a>
+                            </li>
+                                                                            <li class="divider-vertical">
+                                                                                                                              <li id="main-submenu4-3" class="item-submenu1">
+                                                                                                                                <a href="/en/about-antai">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2021-04/pictogrammesANTAI-26.png?itok=Vb2QJUa1" alt="" class="img-responsive icone"><span class="texte-smn1">About ANTAI</span>
+                                    </a>
+                            </li>
+                                                                            <li class="divider-vertical">
+                                                                                                                              <li id="main-submenu4-4" class="item-submenu1">
+                                                                                                                                <a href="/en/automated-control">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2021-04/pictogrammesANTAI-13.png?itok=Xd0iziYX" alt="" class="img-responsive icone"><span class="texte-smn1">Automated control</span>
+                                    </a>
+                            </li>
+                                                                            <li class="divider-vertical">
+                                                                                                                              <li id="main-submenu4-5" class="item-submenu1">
+                                                                                                                                <a href="/en/official-report">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2021-04/pictogrammesANTAI-20.png?itok=wsRvYJES" alt="" class="img-responsive icone"><span class="texte-smn1">Electronic ticketing</span>
+                                    </a>
+                            </li>
+                                                                            <li class="divider-vertical">
+                                                                                                                              <li id="main-submenu4-6" class="item-submenu1">
+                                                                                                                                <a href="/en/contact-us">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-contact-120x120-bleu.png?itok=Edpes0bg" alt="" class="img-responsive icone"><span class="texte-smn1">Contact</span>
+                                    </a>
+                            </li>
+                                                                                        </ul><ul id="submenu5" class="nav navbar-nav menu menu-level1"><li id="main-submenu5-1" class="item-submenu1">
+                                                                                                                                <a href="/en/legislation">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2021-06/ANTAI-picto-reglementation-120x120-bleu.png?itok=FR_pT2Ct" alt="" class="img-responsive icone"><span class="texte-smn1">Legislation</span>
+                                    </a>
+                            </li>
+                                                                            <li class="divider-vertical">
+                                                                                                                              <li id="main-submenu5-2" class="item-submenu1">
+                                                                                                                                <a href="/en/what-do-if-you-are-legal-representative-legal-entity">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2022-08/ANTAI_picto_PersMorale.png?itok=Pb8x2fHz" alt="" class="img-responsive icone"><span class="texte-smn1">Legal representative of a legal entity</span>
+                                    </a>
+                            </li>
+                                                                            <li class="divider-vertical">
+                                                                                                                              <li id="main-submenu5-3" class="item-submenu1">
+                                                                                                                                <a href="/en/what-do-if-you-are-self-employed">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2022-08/ANTAI_swa_picto_EntrepreneurIndividuel.png?itok=mjj_s7N-" alt="" class="img-responsive icone"><span class="texte-smn1">Self-employed</span>
+                                    </a>
+                            </li>
+                                                                            <li class="divider-vertical">
+                                                                                                                              <li id="main-submenu5-4" class="item-submenu1">
+                                                                                                                                <a href="/en/fleet-manager">
+                                                                                                                    <img src="/sites/default/files/styles/pictogramme/public/2022-08/ANTAI_picto_parcauto.png?itok=NNg9BPPO" alt="" class="img-responsive icone"><span class="texte-smn1">Fleet manager</span>
+                                    </a>
+                            </li>
+                                                                                        </ul></nav></div>
+    </div>
+    <div class="submenu-info">
+        <div class="container-fluid">
+            <nav class="navbar container" aria-label="menu-lvl-2"></nav></div>
+    </div>
+</div>
+
+  </section></div>
+
+              </div>
+                      </div>
+              
+      
+      <section><a id="main-content"></a>
+            <div class="region region-content">
+          <div class="breadcrumb">
+        <div class="container">
+            <ol><li>
+                                                    <a href="/en">Home</a>
+                                            </li>
+                                    <li class="active">
+                                                    Fleet manager
+                                            </li>
+                            </ol></div>
+    </div>
+
+  <article role="article" class="contenu-standard full clearfix"><header class="container HeaderContenuStandard"><h1 class="TitreContenuStandard">
+            <div class="icone"> 
+
+
+
+          <div>
+  
+  
+
+
+
+            <img src="/sites/default/files/styles/pictogramme/public/2022-08/ANTAI_picto_parcauto.png?itok=NNg9BPPO" width="240" height="240" alt="Vos d&eacute;marches en tant qu&rsquo;entrepreneur individuel - ANTAI" loading="lazy" class="img-responsive icone"></div>
+
+    
+ </div>
+            <div>
+<span>Fleet manager</span>
+ </div>
+        </h1>
+        <hr></header><div class="content">
+        
+
+
+<div class="editorial">
+          <div class="clearfix text-en-exerge container">
+                  <div class="content col-xs-12">
+          <div class="cadre">
+            
+
+
+
+          <h3 class="text-align-center"><strong>If you've received a traffic violation notice for the vehicle you use for professional purposes,<br><span style="color:#d91717;">DO NOT pay your fine straight away</span>!</strong></h3>
+<p>&nbsp;</p>
+<p>Fleet managers are subject to the same designation requirements applicable to any legal representative of a legal entity.</p>
+<p>
+Article <a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043341993" target="_blank">L.121-6 of the French Highway Code</a> stipulates that when an offence is committed with a vehicle registered in the name of the legal entity, its legal representative is required to designate the driver at the time the offence was recorded. If they do not do so within 45 days, they will receive a notice of failure to designate, in addition to the initial traffic violation notice.</p>
+<p>&nbsp;</p>
+<p class="text-align-center">
+<strong>ANTAI offers fleet managers three solutions to simplify the process</strong></p>
+
+    
+
+          </div>
+        </div>
+            </div>
+  
+        <div class="clearfix op-texte-riche">
+          <div class="container">
+                <div class="content col-xs-12">
+          
+        </div>
+      </div>
+      </div>
+
+          <div class="clearfix text-en-exerge container">
+                  <div class="content col-xs-12">
+          <div class="cadre">
+            
+
+
+
+          <h2>SMALL FLEETS (up to 10 vehicles) : personal designation</h2>
+<p>&nbsp;</p>
+<p>If you are fleet manager for 1 to 10 vehicles, designation can be done on a personal basis, using the same procedure as self-employed or private individuals.</p>
+<p>&nbsp;</p>
+<p class="text-align-center"><strong>Click on the following button to access the personal designation procedure</strong></p>
+<p class="text-align-center"><a href="https://www.usagers.antai.gouv.fr/demarches/saisienumero?lang=en" target="_blank"><span class="btn btn-primary bouton">PERSONAL DESIGNATION</span></a></p>
+<p>&nbsp;</p>
+<p>You must select option No. 2 "<span style="color:#d91717;"><strong>I am self-employed</strong></span> " and designate the driver. Make sure you have the traffic violation notice you received, as well as the name, contact details, and driving licence details of the person who was driving the vehicle when the offence was committed.</p>
+<p>Fleet managers can also carry out the designation by sending the request for exemption form (which is attached to the traffic violation notice received) and all necessary supporting documents by registered post with acknowledgement of receipt.</p>
+
+    
+
+          </div>
+        </div>
+            </div>
+  
+          <div class="clearfix text-en-exerge container">
+                  <div class="content col-xs-12">
+          <div class="cadre">
+            
+
+
+
+          <h2>MEDIUM FLEETS (more than 10 vehicles) : there is a special section for designation</h2>
+<p>&nbsp;</p>
+<p>The special section for fleet managers is intended for fleets of more than 10 vehicles. It allows you to designate several drivers simultaneously, modify or delete a designation, and access a record of all your procedures.</p>
+<p>
+This special section for professionals has recently been redesigned with a more ergonomic interface to make it more user-friendly.</p>
+<p>
+&nbsp;</p>
+<p class="text-align-center">
+<strong>You first need to create an account to access it</strong></p>
+<p class="text-align-center"><a href="https://entreprises.antai.gouv.fr/connexion" target="_blank"><span class="btn btn-primary bouton">Create a fleet manager account</span></a></p>
+<p>&nbsp;</p>
+<p>To save time, make sure you have the following documents available:</p>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp; &bull; The traffic violation notice addressed to the legal entity and issued within the last month</p>
+<p>&nbsp;&nbsp;&nbsp; &bull; The company registration certificate or proof of registration in the French trade and<br>
+companies register</p>
+<p>&nbsp;&nbsp;&nbsp; &bull; A certificate confirming the legal representative has delegation to use the service</p>
+
+    
+
+          </div>
+        </div>
+            </div>
+  
+          <div class="clearfix text-en-exerge container">
+                  <div class="content col-xs-12">
+          <div class="cadre">
+            
+
+
+
+          <h2>LARGE FLEETS (over 1000 vehicles) : sign an agreement with ANTAI</h2>
+<p>&nbsp;</p>
+<p>Companies with a fleet of more than 1,000 vehicles can sign an agreement with ANTAI and benefit from automated procedures, particularly for the exchange of information required to designate drivers.</p>
+<p>This exchange of information means the traffic violation notice is sent directly to the driver and not to the legal representative of the legal entity, which saves you time and reduces the risk of mistakes.</p>
+<p>&nbsp;</p>
+<p class="text-align-center"><strong>If you'd like to sign an agreement with ANTAI, you'll first need to create an account for your company</strong></p>
+<p class="text-align-center"><a href="https://entreprises.antai.gouv.fr/connexion" target="_blank"><span class="btn btn-primary bouton">Create my company account</span></a></p>
+<p>&nbsp;</p>
+<p>To allow us to process your request, don't forget to attach a company registration certificate proving the legal existence of your company.</p>
+
+    
+
+          </div>
+        </div>
+            </div>
+  
+  </div>
+
+
+
+    </div>
+
+</article></div>
+
+              </section></div>
+  </main><footer class="footer" role="contentinfo"><div class="region region-footer">
+    <section class="views-element-container block block-views block-views-blockliste-des-liens-utiles-block-2 clearfix" id="block-views-block-liste-des-liens-utiles-block-2"><div class="form-group">
+
+    <h2 class="view view-liste-des-liens-utiles view-id-liste_des_liens_utiles view-display-id-block_2 js-view-dom-id-582673c70532eb0bc50b462df4ac91ae5e649fc8863d981e622770adcb694793 container">
+
+    
+        
+                    
+                        <div class="view-content">
+                                    <div class="views-row col-xs-12 col-md-2">
+        <article class="footer col-xs-2 clearfix lien-liste-site"><div>Useful Sites</div>
+                        <hr></article></div>
+    <div id="carousel-sites-utiles" class="carousel slide col-xs-12 carousel-sites-utiles" data-ride="carousel" data-keyboard="true">
+        <!-- Indicators -->
+        <ol class="carousel-indicators"><li data-target="#carousel-sites-utiles" data-slide-to="0" class="active">
+                            <li data-target="#carousel-sites-utiles" data-slide-to="1" class="active">
+                            <li data-target="#carousel-sites-utiles" data-slide-to="2" class="active">
+                            <li data-target="#carousel-sites-utiles" data-slide-to="3" class="active">
+                            <li data-target="#carousel-sites-utiles" data-slide-to="4" class="active">
+                    </ol><!-- Wrapper for slides --><div class="carousel-inner" role="listbox">
+                                                <div class="item active">
+                
+                                        <div class="views-row"><article role="article" class="lien-utile footer clearfix"><div class="content">
+                <a href="https://www.interieur.gouv.fr/" target="_blank" title="Acceder au site de interieur.gouv.fr nouvelle fenetre">
+<span>interieur.gouv.fr</span>
+</a>
+    </div>
+
+</article></div>
+                </div>
+                                                <div class="item">
+                
+                                        <div class="views-row"><article role="article" class="lien-utile footer clearfix"><div class="content">
+                <a href="https://ants.gouv.fr/" target="_blank" title="Acceder au site de ants.gouv.fr nouvelle fenetre">
+<span>ants.gouv.fr</span>
+</a>
+    </div>
+
+</article></div>
+                </div>
+                                                <div class="item">
+                
+                                        <div class="views-row"><article role="article" class="lien-utile footer clearfix"><div class="content">
+                <a href="https://www.service-public.fr/" target="_blank" title="Acceder au site de service-public.fr nouvelle fenetre">
+<span>service-public.fr</span>
+</a>
+    </div>
+
+</article></div>
+                </div>
+                                                <div class="item">
+                
+                                        <div class="views-row"><article role="article" class="lien-utile footer clearfix"><div class="content">
+                <a href="https://www.legifrance.gouv.fr/" target="_blank" title="Acceder au site de legifrance.gouv.fr nouvelle fenetre">
+<span>legifrance.gouv.fr</span>
+</a>
+    </div>
+
+</article></div>
+                </div>
+                                                <div class="item">
+                
+                                        <div class="views-row"><article role="article" class="lien-utile footer clearfix"><div class="content">
+                <a href="https://www.securite-routiere.gouv.fr/" target="_blank" title="Acceder au site de securite-routiere.gouv.fr nouvelle fenetre">
+<span>securite-routiere.gouv.fr</span>
+</a>
+    </div>
+
+</article></div>
+                </div>
+                    </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#carousel-sites-utiles" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Pr&eacute;c&eacute;dent</span>
+        </a>
+        <a class="right carousel-control" href="#carousel-sites-utiles" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Suivant</span>
+        </a>
+    </div>
+    <div id="bandeau-site-utiles" class="bandeau-site-utiles">
+                    <div class="views-row"><article role="article" class="lien-utile footer clearfix"><div class="content">
+                <a href="https://www.interieur.gouv.fr/" target="_blank" title="Acceder au site de interieur.gouv.fr nouvelle fenetre">
+<span>interieur.gouv.fr</span>
+</a>
+    </div>
+
+</article></div>
+                        <div class="views-row"><article role="article" class="lien-utile footer clearfix"><div class="content">
+                <a href="https://ants.gouv.fr/" target="_blank" title="Acceder au site de ants.gouv.fr nouvelle fenetre">
+<span>ants.gouv.fr</span>
+</a>
+    </div>
+
+</article></div>
+                        <div class="views-row"><article role="article" class="lien-utile footer clearfix"><div class="content">
+                <a href="https://www.service-public.fr/" target="_blank" title="Acceder au site de service-public.fr nouvelle fenetre">
+<span>service-public.fr</span>
+</a>
+    </div>
+
+</article></div>
+                        <div class="views-row"><article role="article" class="lien-utile footer clearfix"><div class="content">
+                <a href="https://www.legifrance.gouv.fr/" target="_blank" title="Acceder au site de legifrance.gouv.fr nouvelle fenetre">
+<span>legifrance.gouv.fr</span>
+</a>
+    </div>
+
+</article></div>
+                        <div class="views-row"><article role="article" class="lien-utile footer clearfix"><div class="content">
+                <a href="https://www.securite-routiere.gouv.fr/" target="_blank" title="Acceder au site de securite-routiere.gouv.fr nouvelle fenetre">
+<span>securite-routiere.gouv.fr</span>
+</a>
+    </div>
+
+</article></div>
+        </div>
+
+                    </div>
+    
+                    </h2>
+
+
+</div>
+
+  </section><section id="block-blockfooterpourlesparticuliers" class="block block-oas-surfooter block-footer-particulier-block clearfix"><div class="clear-both footer-1 container-fluid">
+                    <div class="container">
+        <h2 class="col-md-6">
+            <div class="title-footer">PAYMENT AVAILABLE</div>
+            <div class="col-md-6 text-footer">
+                <div class="padding-bottom-15">Via the website:<strong><a href="http://www.amendes.gouv.fr">amendes.gouv.fr</a></strong></div>
+                <div>Via the application available on:</div>
+
+                <a href="https://play.google.com/store/apps/details?id=fr.gouv.finances.amendesgouv">
+                    <img class="img-responsive" alt="https://play.google.com/store/apps/details?id=fr.gouv.finances.amendesgouv" src="/sites/default/files/images/footer_googleplay.png"></a>
+                <a href="https://itunes.apple.com/fr/app/amendes.gouv/id943436673">
+                    <img class="img-responsive" alt="https://itunes.apple.com/fr/app/amendes.gouv/id943436673" src="/sites/default/files/images/footer_AppStore.png"></a>
+            </div>
+            <div class="col-md-6 text-footer">
+                <div class="padding-bottom-15">By telephone:</div>
+                <div class="encadre">
+                    <div>0806 20 30 40</div>
+                    <div>(num&eacute;ro non surtax&eacute;)</div>
+                </div>
+
+            </div>
+        </h2>
+        <h2 class="col-md-6">
+            <div class="title-footer">INFORMATION</div>
+            <div class="col-md-6 text-footer">
+                <div class="padding-bottom-15">For information concerning the automatic speed cameras:</div>
+                <div class="encadre">
+                    <div>0806 606 606</div>
+                    <div>(num&eacute;ro non surtax&eacute;)</div>
+                </div>
+            </div>
+            <div class="col-md-6 text-footer">
+                <div class="padding-bottom-15">Pour les infractions concernant le PVe :</div>
+                <div class="encadre">
+                    <div>0806 609 625</div>
+                    <div>(num&eacute;ro non surtax&eacute;)</div>
+                </div>
+            </div>
+        </h2>
+    </div>
+</div>
+
+  </section><nav role="navigation" id="block-open-antai-swa-footer" class="open-antai-swa-footer"><ul class="menu menu--footer nav list-inline container"><li class="first">
+                                                                                                    <a href="/en" data-drupal-link-system-path="&lt;front&gt;">Homepage</a>
+                                    </li>
+                                                            <li>
+                                                                                                    <a href="/en/about-antai" data-drupal-link-system-path="node/23">About ANTAI</a>
+                                    </li>
+                                                            <li>
+                                                                                                    <a href="/en/accessibility" data-drupal-link-system-path="node/65">Accessibility</a>
+                                    </li>
+                                                            <li>
+                                                                                                    <a href="/en/contact-us" data-drupal-link-system-path="node/42">Contact</a>
+                                    </li>
+                                                            <li>
+                                                                                                    <a href="/en/donnees-personnelles" data-drupal-link-system-path="node/66"> Personal data</a>
+                                    </li>
+                                                            <li>
+                                                                                                    <a href="/en/mentions-legales" data-drupal-link-system-path="node/67">Legal statements</a>
+                                    </li>
+                                                            <li class="last">
+                                                                                                    <a href="/en/sitemap" data-drupal-link-system-path="sitemap">Site map</a>
+                                    </li>
+                    </ul></nav><section id="block-versionapplication" class="block block-open-project-version block-open-project-version-block clearfix">
+  
+    
+
+      2025-12-19 16:05:53
+  </section></div>
+
+    </footer></div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"en\/","currentPath":"node\/2","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"user":{"uid":0,"permissionsHash":"67019befbab1bc2487adf05c7d651913cc0f0753fbbe9c2f9a8cbff23d6ad9b5"}}</script><script src="/sites/default/files/js/js_QxsO5UV8Wc-feda3HDt4D5q-MyYV8bkMXHwqzMRcxHA.js"></script></body></html>

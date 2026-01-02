@@ -1,0 +1,2385 @@
+
+  
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <title>La Norvège confirme sa volonté de conserver une flotte à six sous-marins | Mer et Marine</title>
+    <meta charset="utf-8" />
+<meta name="robots" content="follow, index, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="IE_RM_OFF" content="true" />
+<meta name="description" content="C’est ce qu’a indiqué en fin de semaine dernière le ministre norvégien de la Défense, qui a justifié cette volonté par la menace accrue que représente la Russie, pays avec lequel le royaume scandinave partage sa frontière septentrionale. Le gouvernement va maintenant demander au parlement norvégien de valider cette commande supplémentaire, qui s&#039;élève à 3.9 milliards d’euros, soit plus de 8 milliards pour l&#039;ensemble du programme." />
+<meta name="abstract" content="Après la commande de quatre premiers sous-marins en 2021 au chantier TKMS de Kiel, dans le cadre d’un programme conjoint avec l’Allemagne, la Norvège a..." />
+<meta name="keywords" content="mer, marine, maritime, défense, marine nationale, chantiers, construction navale, croisière, offshore, reportages, interviews, DCNS, euronaval, STX, costa, pêche, littoral, fremm, sncm , commando" />
+<link rel="canonical" href="https://www.meretmarine.com/fr/defense/la-norvege-confirme-sa-volonte-de-conserver-une-flotte-a-six-sous-marins" />
+<meta name="author" content="Vincent Groizeleau" />
+<link rel="image_src" href="https://assets.meretmarine.com/s3fs-public/images/2021-07/u212cd2.jpg" />
+<meta property="og:site_name" content="Mer et Marine" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.meretmarine.com/fr/defense/la-norvege-confirme-sa-volonte-de-conserver-une-flotte-a-six-sous-marins" />
+<meta property="og:title" content="La Norvège confirme sa volonté de conserver une flotte à six sous-marins | Mer et Marine" />
+<meta property="og:description" content="Après la commande de quatre premiers sous-marins en 2021 au chantier TKMS de Kiel, dans le cadre d’un programme conjoint avec l’Allemagne, la Norvège a..." />
+<meta property="og:image" content="https://assets.meretmarine.com/s3fs-public/images/2021-07/u212cd2.jpg" />
+<meta property="og:image:type" content="image/svg+xml" />
+<meta property="og:updated_time" content="2025-12-08T01:58:00+0100" />
+<meta property="article:published_time" content="2025-12-08T01:58:00+0100" />
+<meta property="article:modified_time" content="2025-12-08T01:58:00+0100" />
+<meta property="profile:first_name" content="Vincent" />
+<meta property="profile:last_name" content="Groizeleau" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Après la commande de quatre premiers sous-marins en 2021 au chantier TKMS de Kiel, dans le cadre d’un programme conjoint avec l’Allemagne, la Norvège a..." />
+<meta name="twitter:site" content="@MeretMarine" />
+<meta name="twitter:title" content="La Norvège confirme sa volonté de conserver une flotte à six sous-marins" />
+<meta name="twitter:image" content="https://assets.meretmarine.com/s3fs-public/images/2021-07/u212cd2.jpg" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "NewsArticle",
+            "@id": "https://www.meretmarine.com/fr/defense/la-norvege-confirme-sa-volonte-de-conserver-une-flotte-a-six-sous-marins",
+            "name": "La Norvège confirme sa volonté de conserver une flotte à six sous-marins",
+            "headline": "Après la commande de quatre premiers sous-marins en 2021 au chantier TKMS de Kiel, dans le cadre d’un programme conjoint avec l’Allemagne, la Norvège a...",
+            "description": "Après la commande de quatre premiers sous-marins en 2021 au chantier TKMS de Kiel, dans le cadre d’un programme conjoint avec l’Allemagne, la Norvège a...",
+            "about": [
+                "Défense",
+                "ThyssenKrupp Marine Systems - TKMS"
+            ],
+            "image": {
+                "@type": "ImageObject",
+                "representativeOfPage": "True",
+                "url": "https://assets.meretmarine.com/s3fs-public/images/2021-07/u212cd2.jpg"
+            },
+            "datePublished": "2025-12-08T01:58:00+0100",
+            "isAccessibleForFree": "false",
+            "dateModified": "2025-12-08T01:58:00+0100",
+            "mainEntityOfPage": "https://www.meretmarine.com/fr/defense/la-norvege-confirme-sa-volonte-de-conserver-une-flotte-a-six-sous-marins"
+        },
+        {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://www.meretmarine.com/fr",
+            "description": "Actualités maritimes en continu sur la défense, marine marchande, construction navale, croisières, pêche, ports, énergie avec Mer et Marine",
+            "url": "https://www.meretmarine.com/fr",
+            "name": "Mer et Marine",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.meretmarine.com/themes/custom/meretmarine/src/img/design/logo-blue-bg.svg"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "7 voie d\u0027accès au Port",
+                "addressLocality": "Morlaix",
+                "postalCode": "29600"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://www.meretmarine.com/fr",
+            "name": "Mer et Marine",
+            "url": "https://www.meretmarine.com/fr",
+            "publisher": {
+                "@type": "NewsMediaOrganization",
+                "@id": "https://www.meretmarine.com/fr",
+                "name": "Mer et Marine",
+                "url": "https://www.meretmarine.com/fr",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.meretmarine.com/themes/custom/meretmarine/src/img/design/logo-blue-bg.svg"
+                }
+            },
+            "inLanguage": "fr"
+        }
+    ]
+}</script>
+<link rel="preload" href="https://ced.sascdn.com/tag/3944/smart.js" as="script" />
+<link rel="preload" href="/themes/custom/meretmarine/src/fonts/preload/inter-700.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+<link rel="preload" href="/themes/custom/meretmarine/src/fonts/preload/inter-400.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+<link rel="preload" href="/themes/custom/meretmarine/src/fonts/preload/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+<link rel="icon" href="/themes/custom/meretmarine/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="fr" href="https://www.meretmarine.com/fr/defense/la-norvege-confirme-sa-volonte-de-conserver-une-flotte-a-six-sous-marins" />
+
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_y2PU1osJFtcf_RXk5vGiXsKgLwi7gbnJVc4NZFzpVJI.css?delta=0&amp;language=fr&amp;theme=meretmarine&amp;include=eJxVy0EOgCAMBdELGTlSU-s3EikgLRpub6IrN7N6I928KG09i8eSLZiPhEnR4MotZoQGFieulQzcZKezRzl-5JtsmEPDwobpirgtvJ21rD3hAfAEKlM" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_r-CjCfE_wfXU_ZzS6-c8MGz5VYIqxfNssXHxQMLW8Lk.css?delta=1&amp;language=fr&amp;theme=meretmarine&amp;include=eJxVy0EOgCAMBdELGTlSU-s3EikgLRpub6IrN7N6I928KG09i8eSLZiPhEnR4MotZoQGFieulQzcZKezRzl-5JtsmEPDwobpirgtvJ21rD3hAfAEKlM" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"fr\/","currentPath":"node\/49295","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr","themeUrl":"themes\/custom\/meretmarine"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"advertising":{"equativ":{"site_id":"399153","tagging_plan":"{\r\n    \u0022desktop\u0022: {\r\n        \u0022article\u0022: {\r\n            \u0022pageId\u0022: 1360635,\r\n            \u0022formats\u0022: {\r\n                \u0022pub_banniere_haute\u0022: { \u0022id\u0022: 97818, \u0022height\u0022: 90, \u0022width\u0022: 728 },\r\n                \u0022pub_banniere_milieu\u0022: { \u0022id\u0022: 99238, \u0022height\u0022: 90, \u0022width\u0022: 728 },\r\n                \u0022pub_habillage\u0022: { \u0022id\u0022: 97895, \u0022height\u0022: 1200, \u0022width\u0022: 1800 },\r\n                \u0022pub_pave_haut\u0022: { \u0022id\u0022: 97815, \u0022height\u0022: 250, \u0022width\u0022: 300 },\r\n                \u0022pub_pave_milieu\u0022: { \u0022id\u0022: 97816, \u0022height\u0022: 250, \u0022width\u0022: 300 }\r\n            }\r\n        },\r\n        \u0022edition\u0022: {\r\n            \u0022pageId\u0022: 1553568,\r\n            \u0022formats\u0022: {\r\n                \u0022pub_banniere_haute\u0022: { \u0022id\u0022: 97818, \u0022height\u0022: 90, \u0022width\u0022: 728 },\r\n                \u0022pub_banniere_milieu\u0022: { \u0022id\u0022: 99238, \u0022height\u0022: 90, \u0022width\u0022: 728 },\r\n                \u0022pub_habillage\u0022: { \u0022id\u0022: 97895, \u0022height\u0022: 1200, \u0022width\u0022: 1800 },\r\n                \u0022pub_pave_haut\u0022: { \u0022id\u0022: 97815, \u0022height\u0022: 250, \u0022width\u0022: 300 },\r\n                \u0022pub_pave_milieu\u0022: { \u0022id\u0022: 97816, \u0022height\u0022: 250, \u0022width\u0022: 300 }\r\n            }\r\n        },\r\n        \u0022event\u0022: {\r\n            \u0022pageId\u0022: 1530470,\r\n            \u0022formats\u0022: {\r\n                \u0022pub_banniere_haute\u0022: { \u0022id\u0022: 97818, \u0022height\u0022: 90, \u0022width\u0022: 728 },\r\n                \u0022pub_banniere_milieu\u0022: { \u0022id\u0022: 99238, \u0022height\u0022: 90, \u0022width\u0022: 728 },\r\n                \u0022pub_habillage\u0022: { \u0022id\u0022: 97895, \u0022height\u0022: 1200, \u0022width\u0022: 1800 },\r\n                \u0022pub_pave_haut\u0022: { \u0022id\u0022: 97815, \u0022height\u0022: 250, \u0022width\u0022: 300 },\r\n                \u0022pub_pave_milieu\u0022: { \u0022id\u0022: 97816, \u0022height\u0022: 250, \u0022width\u0022: 300 }\r\n            }\r\n        },\r\n        \u0022home\u0022: {\r\n            \u0022pageId\u0022: 1360636,\r\n            \u0022formats\u0022: {\r\n                \u0022pub_banniere_haute\u0022: { \u0022id\u0022: 97818, \u0022height\u0022: 90, \u0022width\u0022: 728 },\r\n                \u0022pub_banniere_milieu\u0022: { \u0022id\u0022: 99238, \u0022height\u0022: 90, \u0022width\u0022: 728 },\r\n                \u0022pub_habillage\u0022: { \u0022id\u0022: 97895, \u0022height\u0022: 1200, \u0022width\u0022: 1800 },\r\n                \u0022pub_pave_haut\u0022: { \u0022id\u0022: 97815, \u0022height\u0022: 250, \u0022width\u0022: 300 },\r\n                \u0022pub_pave_milieu\u0022: { \u0022id\u0022: 97816, \u0022height\u0022: 250, \u0022width\u0022: 300 }\r\n            }\r\n        },\r\n        \u0022topic\u0022: {\r\n            \u0022pageId\u0022: 1360634,\r\n            \u0022formats\u0022: {\r\n                \u0022pub_banniere_haute\u0022: { \u0022id\u0022: 97818, \u0022height\u0022: 90, \u0022width\u0022: 728 },\r\n                \u0022pub_banniere_milieu\u0022: { \u0022id\u0022: 99238, \u0022height\u0022: 90, \u0022width\u0022: 728 },\r\n                \u0022pub_habillage\u0022: { \u0022id\u0022: 97895, \u0022height\u0022: 1200, \u0022width\u0022: 1800 },\r\n                \u0022pub_pave_haut\u0022: { \u0022id\u0022: 97815, \u0022height\u0022: 250, \u0022width\u0022: 300 },\r\n                \u0022pub_pave_milieu\u0022: { \u0022id\u0022: 97816, \u0022height\u0022: 250, \u0022width\u0022: 300 }\r\n            }\r\n        }\r\n    },\r\n    \u0022smartphone\u0022: {\r\n        \u0022article\u0022: {\r\n            \u0022pageId\u0022: 1360638,\r\n            \u0022formats\u0022: {\r\n                \u0022pub_banniere_haute\u0022: { \u0022id\u0022: 97818, \u0022height\u0022: 100, \u0022width\u0022: 320 },\r\n                \u0022pub_banniere_milieu\u0022: { \u0022id\u0022: 99238, \u0022height\u0022: 100, \u0022width\u0022: 320 },\r\n                \u0022pub_pave_haut\u0022: { \u0022id\u0022: 97815, \u0022height\u0022: 250, \u0022width\u0022: 300 },\r\n                \u0022pub_pave_milieu\u0022: { \u0022id\u0022: 97816, \u0022height\u0022: 250, \u0022width\u0022: 300 }\r\n            }\r\n        },\r\n        \u0022edition\u0022: {\r\n            \u0022pageId\u0022: 1553569,\r\n            \u0022formats\u0022: {\r\n                \u0022pub_banniere_haute\u0022: { \u0022id\u0022: 97818, \u0022height\u0022: 100, \u0022width\u0022: 320 },\r\n                \u0022pub_banniere_milieu\u0022: { \u0022id\u0022: 99238, \u0022height\u0022: 100, \u0022width\u0022: 320 },\r\n                \u0022pub_pave_haut\u0022: { \u0022id\u0022: 97815, \u0022height\u0022: 250, \u0022width\u0022: 300 },\r\n                \u0022pub_pave_milieu\u0022: { \u0022id\u0022: 97816, \u0022height\u0022: 250, \u0022width\u0022: 300 }\r\n            }\r\n        },\r\n        \u0022event\u0022: {\r\n            \u0022pageId\u0022: 1530471,\r\n            \u0022formats\u0022: {\r\n                \u0022pub_banniere_haute\u0022: { \u0022id\u0022: 97818, \u0022height\u0022: 100, \u0022width\u0022: 320 },\r\n                \u0022pub_banniere_milieu\u0022: { \u0022id\u0022: 99238, \u0022height\u0022: 100, \u0022width\u0022: 320 },\r\n                \u0022pub_pave_haut\u0022: { \u0022id\u0022: 97815, \u0022height\u0022: 250, \u0022width\u0022: 300 },\r\n                \u0022pub_pave_milieu\u0022: { \u0022id\u0022: 97816, \u0022height\u0022: 250, \u0022width\u0022: 300 }\r\n            }\r\n        },\r\n        \u0022home\u0022: {\r\n            \u0022pageId\u0022: 1360639,\r\n            \u0022formats\u0022: {\r\n                \u0022pub_banniere_haute\u0022: { \u0022id\u0022: 97818, \u0022height\u0022: 100, \u0022width\u0022: 320 },\r\n                \u0022pub_banniere_milieu\u0022: { \u0022id\u0022: 99238, \u0022height\u0022: 100, \u0022width\u0022: 320 },\r\n                \u0022pub_pave_haut\u0022: { \u0022id\u0022: 97815, \u0022height\u0022: 250, \u0022width\u0022: 300 },\r\n                \u0022pub_pave_milieu\u0022: { \u0022id\u0022: 97816, \u0022height\u0022: 250, \u0022width\u0022: 300 }\r\n            }\r\n        },\r\n        \u0022topic\u0022: {\r\n            \u0022pageId\u0022: 1360637,\r\n            \u0022formats\u0022: {\r\n                \u0022pub_banniere_haute\u0022: { \u0022id\u0022: 97818, \u0022height\u0022: 100, \u0022width\u0022: 320 },\r\n                \u0022pub_banniere_milieu\u0022: { \u0022id\u0022: 99238, \u0022height\u0022: 100, \u0022width\u0022: 320 },\r\n                \u0022pub_pave_haut\u0022: { \u0022id\u0022: 97815, \u0022height\u0022: 250, \u0022width\u0022: 300 },\r\n                \u0022pub_pave_milieu\u0022: { \u0022id\u0022: 97816, \u0022height\u0022: 250, \u0022width\u0022: 300 }\r\n            }\r\n        }\r\n    } \r\n}","current_template":"article","tg_article_id":"49295","tg_keywords":[],"tg_pub_rubrique":"defense"}},"environment":"prod","keys":{"at_internet_piano_site_id":635741,"poool_app_id":"SGP9A-SDWPB-Q1KSG-6HGDH"},"paywall":{"status_disabled":false},"device":{"type":"desktop"},"site":{"name":"Mer et Marine","technology":"html"},"user":{"authenticated":false,"category":"","free_ip":false,"id":"","sso_id_md5":"","roles":"","subscribed":false,"subscription_type":"","type":"anonyme","uid":0,"permissionsHash":"fea949af828e9901491f4bd1fff839cf78799ffd1338bc1e0ba4bbabc0066db9"},"content":{"charged":3,"date_created":"2025-12-08T01:58:00+01:00","date_changed":"2025-12-08T01:58:00+01:00","edition":"Edition du 08\/12\/25","folders":["ThyssenKrupp Marine Systems - TKMS"],"id":49295,"language":"fr","sections":["D\u00e9fense"],"title":"La Norv\u00e8ge confirme sa volont\u00e9 de conserver une flotte \u00e0 six sous-marins ","type":"article","bundle":"article"}}</script>
+<script src="/sites/default/files/js/js_CfLL9D6IWc6-8GOtWrQlZD1FhmTCcy1HLj9JEZu2VMg.js?scope=header&amp;delta=0&amp;language=fr&amp;theme=meretmarine&amp;include=eJxli0kOwjAMRS9UKUeyvhxDDUma2k6r3B7YUXX7BuRDLNS1PZPsA6HHwsNjq_QYjUO35ikjUDDF7qpjnihlqWISFaZNEnLWn0UhdqeX0yrI3_s_MgEHoXdygfFK-1B-XxKPWeRC4tQIsQ_n40i1" type="9e5958466125edcb1d491a3e-text/javascript"></script>
+<script src="https://ced.sascdn.com/tag/3944/smart.js" async id="equativ-smart-access" type="9e5958466125edcb1d491a3e-text/javascript"></script>
+<script src="/modules/custom/custom_functions/src/js/datalayer.js?t88emu" type="9e5958466125edcb1d491a3e-text/javascript"></script>
+<script src="https://assets.poool.fr/access.min.js" async id="poool-access" type="9e5958466125edcb1d491a3e-text/javascript"></script>
+<script src="/sites/default/files/js/js_vKTJGHA5qu8ebvvK3LmdqOrEp8EFmvK0ZEbRnRgTMnQ.js?scope=header&amp;delta=4&amp;language=fr&amp;theme=meretmarine&amp;include=eJxli0kOwjAMRS9UKUeyvhxDDUma2k6r3B7YUXX7BuRDLNS1PZPsA6HHwsNjq_QYjUO35ikjUDDF7qpjnihlqWISFaZNEnLWn0UhdqeX0yrI3_s_MgEHoXdygfFK-1B-XxKPWeRC4tQIsQ_n40i1" type="9e5958466125edcb1d491a3e-text/javascript"></script>
+<script src="/themes/custom/meretmarine/src/js/min/piano-analytics.min.js?t88emu" type="9e5958466125edcb1d491a3e-text/javascript"></script>
+<script src="/sites/default/files/js/js_gYZGC7JJAJK1mWFP7NR3XS8ky2MCz2GMalMHF2AwpeA.js?scope=header&amp;delta=6&amp;language=fr&amp;theme=meretmarine&amp;include=eJxli0kOwjAMRS9UKUeyvhxDDUma2k6r3B7YUXX7BuRDLNS1PZPsA6HHwsNjq_QYjUO35ikjUDDF7qpjnihlqWISFaZNEnLWn0UhdqeX0yrI3_s_MgEHoXdygfFK-1B-XxKPWeRC4tQIsQ_n40i1" type="9e5958466125edcb1d491a3e-text/javascript"></script>
+
+    <!-- Google Tag Manager -->
+    <script type="9e5958466125edcb1d491a3e-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PTW9ZP5');</script>
+    <!-- End Google Tag Manager -->
+  </head>
+  <body class="node-49295 node-type--article">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PTW9ZP5"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+        <a href="#main-content" class="visually-hidden focusable">
+      Aller au contenu principal
+    </a>
+                
+                        <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+  
+                                  
+  <div class="page">
+
+        
+  
+
+
+
+
+<nav class="navbar navbar-expand-xs navbar-dark sticky-top py-2 py-md-3 blue-bg">
+
+      <div class="container">
+  
+    <div class="navbar-left col-2 col-md-4">
+            <button class="navbar-toggler me-3" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+                          </div>
+
+                    
+  <div class="col-4 col-md-3 col-lg-2 text-center d-flex flex-column justify-content-center block block--brand">
+
+  
+    
+
+        
+
+
+  <a href="/fr" class="navbar-brand m-0 p-0 d-flex flex-column justify-content-center align-items-center " aria-label="Mer et Marine">
+            <img alt="Mer et Marine logo" class="img-fluid" fetchpriority="high" src="/themes/custom/meretmarine/logo.svg" width="225" height="50" />
+
+      </a>
+
+        <div class="clearfix logo-baseline w-100">
+        <img alt="Mer et Marine, toute l'actualité maritime" class="img-fluid" fetchpriority="high" src="/themes/custom/meretmarine/src/img/design/logo-baseline.svg" width="225" height="17" />
+      </div>
+    
+  </div>
+
+
+      
+    <div class="navbar-right col col-md-5 d-flex justify-content-end">
+                            
+<div id="block-custom-functions-login-navbar" class="block block--custom-functions--login-navbar clearfix">
+
+  
+    
+
+          <ul id="menu-login" class="list-unstyled list-inline m-0">
+                      <li class="list-inline-item m-0">
+          <a href="/fr/recherche" class="nav-link px-0 mx-1" data-bs-toggle="modal" data-bs-target="#modal-search" title="Recherche">
+            <span class="align-middle material-symbols-outlined">search</span>
+            <span class="d-none d-md-inline-block small">Recherche</span>
+          </a>
+        </li>
+                  <li class="list-inline-item m-0">
+        <a href="/fr/newsletter/inscription" class="nav-link px-0 mx-1" title="Recherche">
+          <span class="align-middle material-symbols-outlined">mail</span>
+          <span class="d-none d-md-inline-block small">Newsletter</span>
+        </a>
+      </li>
+                      <li class="list-inline-item m-0">
+          <a href="/fr/connect" class="nav-link px-0 mx-1" rel="nofollow" title="Connexion">
+            <span class="align-middle material-symbols-outlined">login</span>
+            <span class="d-none d-md-inline-block small">Se connecter</span>
+          </a>
+        </li>
+          </ul>
+  
+</div>
+
+<div id="block-custom-functions-shop-navbar" class="ms-2 align-self-center block block--custom-functions--shop-navbar clearfix d-none d-md-block">
+
+  
+    
+
+          <a href="https://boutique.meretmarine.com" class="btn btn-sm yellow-bg rounded-0 grey-dark fw-bold small" target="_blank" rel="noreferrer">
+      <span class="d-none d-md-block">BOUTIQUE</span>
+    </a>
+  
+</div>
+
+
+          </div>
+
+      </div>
+  
+    <div class="collapse navbar-collapse position-absolute top-100 w-100 py-3 blue-bg">
+    <div class="container" style="overflow-y: auto;">
+      <div class="row">
+        
+                 
+<div id="block-custom-functions-brand-menu" class="align-self-start col-12 col-md-4 col-lg-3 d-none d-md-block block block--custom-functions--brand-menu clearfix">
+
+  
+    
+
+  
+        <div class="h2 white">L'univers<span>Mer et Marine</span></div>
+    
+        <div class="clearfix small mb-3 black">
+            Le site Mer et Marine est né de la rencontre de journalistes et passionnés de la mer qui avaient toutes et tous la même envie, celle d&#039;informer au quotidien sur la mer et les communautés humaines structurées autour.
+       
+    </div>
+
+  
+</div>
+
+  <div class="col-12 col-md-4 col-lg-6 mb-3 block block--menu-main block--system-menu">
+
+  
+    
+
+            
+  
+
+
+  <ul class="nav menu-main">
+                                          <li class="nav-item col-12 col-md-6">
+                                  <a href="/fr/rubriques/croisieres" class="nav-link px-0 fw-bold white" data-drupal-link-system-path="taxonomy/term/3">Croisières</a>
+                  </li>
+                                      <li class="nav-item col-12 col-md-6">
+                                  <a href="/fr/rubriques/defense" class="nav-link px-0 fw-bold white" data-drupal-link-system-path="taxonomy/term/9">Défense</a>
+                  </li>
+                                      <li class="nav-item col-12 col-md-6">
+                                  <a href="/fr/rubriques/marine-marchande" class="nav-link px-0 fw-bold white" data-drupal-link-system-path="taxonomy/term/5">Marine marchande</a>
+                  </li>
+                                      <li class="nav-item col-12 col-md-6">
+                                  <a href="/fr/rubriques/construction-navale" class="nav-link px-0 fw-bold white" data-drupal-link-system-path="taxonomy/term/7">Construction navale</a>
+                  </li>
+                                      <li class="nav-item col-12 col-md-6">
+                                  <a href="/fr/rubriques/energies-marines" class="nav-link px-0 fw-bold white" data-drupal-link-system-path="taxonomy/term/19">Energies marines</a>
+                  </li>
+                                      <li class="nav-item col-12 col-md-6">
+                                  <a href="/fr/rubriques/science-et-environnement" class="nav-link px-0 fw-bold white" data-drupal-link-system-path="taxonomy/term/15">Science et Environnement</a>
+                  </li>
+                                      <li class="nav-item col-12 col-md-6">
+                                  <a href="/fr/rubriques/vie-portuaire" class="nav-link px-0 fw-bold white" data-drupal-link-system-path="taxonomy/term/272">Vie portuaire</a>
+                  </li>
+                                      <li class="nav-item col-12 col-md-6">
+                                  <a href="/fr/rubriques/amenagement-du-littoral" class="nav-link px-0 fw-bold white" data-drupal-link-system-path="taxonomy/term/22">Aménagement du littoral</a>
+                  </li>
+                                      <li class="nav-item col-12 col-md-6">
+                                  <a href="/fr/rubriques/divers" class="nav-link px-0 fw-bold white" data-drupal-link-system-path="taxonomy/term/37">Divers</a>
+                  </li>
+                                      <li class="nav-item col-12 col-md-6">
+                                  <a href="/fr/rubriques/formation-et-emploi" class="nav-link px-0 fw-bold white" data-drupal-link-system-path="taxonomy/term/83">Formation et Emploi</a>
+                  </li>
+                                      <li class="nav-item col-12 col-md-6">
+                                  <a href="/fr/rubriques/histoire-navale" class="nav-link px-0 fw-bold white" data-drupal-link-system-path="taxonomy/term/28">Histoire navale</a>
+                  </li>
+                                      <li class="nav-item col-12 col-md-6">
+                                  <a href="/fr/rubriques/nautisme" class="nav-link px-0 fw-bold white" data-drupal-link-system-path="taxonomy/term/91">Nautisme</a>
+                  </li>
+                                      <li class="nav-item col-12 col-md-6">
+                                  <a href="/fr/rubriques/offshore" class="nav-link px-0 fw-bold white" data-drupal-link-system-path="taxonomy/term/54">Offshore</a>
+                  </li>
+                                      <li class="nav-item col-12 col-md-6">
+                                  <a href="/fr/rubriques/peche" class="nav-link px-0 fw-bold white" data-drupal-link-system-path="taxonomy/term/31">Pêche</a>
+                  </li>
+            </ul>
+
+
+      
+  </div>
+
+
+
+  <div class="views-element-container block block--views-block--taxonomy-terms-menu-formats clearfix">
+
+  
+    
+
+      
+<div class="js-view-dom-id-b14676960740e5a8ffee746ce26c5674e5df88f763f4e6164e8b97eb0c6993b8 view-taxonomy-terms-menu">
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+      <ul class="nav view-content justify-content-center">
+      
+
+
+
+  
+
+
+
+
+
+  
+  <li class="nav-item">
+
+    <a class="nav-link mx-2 my-2 badge small h4 text-uppercase" style="background-color: rgba(132,70,130,1)" href="/fr/actualite" title="Actualité">
+    Actualité
+  </a>
+</li>
+
+
+  
+  <li class="nav-item">
+
+    <a class="nav-link mx-2 my-2 badge small h4 text-uppercase" style="background-color: rgba(91,84,75,1)" href="/fr/fil-info" title="Fil info">
+    Fil info
+  </a>
+</li>
+
+
+  
+  <li class="nav-item">
+
+    <a class="nav-link mx-2 my-2 badge small h4 text-uppercase" style="background-color: rgba(178,56,25,1)" href="/fr/reportage" title="Reportage">
+    Reportage
+  </a>
+</li>
+
+
+  
+  <li class="nav-item">
+
+    <a class="nav-link mx-2 my-2 badge small h4 text-uppercase" style="background-color: rgba(217,138,16,1)" href="/fr/focus" title="Focus">
+    Focus
+  </a>
+</li>
+
+
+  
+  <li class="nav-item">
+
+    <a class="nav-link mx-2 my-2 badge small h4 text-uppercase" style="background-color: rgba(58,135,27,1)" href="/fr/interview" title="Interview">
+    Interview
+  </a>
+</li>
+
+
+  
+  <li class="nav-item">
+
+    <a class="nav-link mx-2 my-2 badge small h4 text-uppercase" style="background-color: rgba(91,84,75,1)" href="/fr/publi-info" title="Publi info">
+    Publi info
+  </a>
+</li>
+
+
+  
+  <li class="nav-item">
+
+    <a class="nav-link mx-2 my-2 badge small h4 text-uppercase" style="background-color: rgba(132,70,130,1)" href="/fr/culture" title="Culture">
+    Culture
+  </a>
+</li>
+
+
+  
+  <li class="nav-item">
+
+    <a class="nav-link mx-2 my-2 badge small h4 text-uppercase" style="background-color: rgba(217,138,16,1)" href="/fr/analyse" title="Analyse">
+    Analyse
+  </a>
+</li>
+
+
+
+
+          </ul>
+  
+  
+  
+  
+  
+  
+</div>
+
+
+
+  
+  </div>
+
+
+      </div>
+    </div>
+  </div>
+
+</nav>
+
+        <main>
+
+      <a id="main-content" tabindex="-1"></a>
+
+                                <div class="page__content__top position-relative">
+              
+
+
+  <div class="views-element-container background blue-medium-bg d-none d-md-block position-relative block block--views-block--taxonomy-terms-menu-sections clearfix">
+
+  
+    
+
+      
+<div class="js-view-dom-id-97f3cf572442adfc9c1ec6650a96cbb16f45b4e6c30e4af359560f89b547c8bf view-taxonomy-terms-menu">
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+      <ul class="nav view-content justify-content-center">
+      
+
+
+
+  
+
+
+
+
+
+  
+  <li class="nav-item">
+
+    <a class="nav-link small text-uppercase" href="/fr/rubriques/defense" title="Défense">
+    Défense
+  </a>
+</li>
+
+
+  
+  <li class="nav-item">
+
+    <a class="nav-link small text-uppercase" href="/fr/rubriques/marine-marchande" title="Marine marchande">
+    Marine marchande
+  </a>
+</li>
+
+
+  
+  <li class="nav-item">
+
+    <a class="nav-link small text-uppercase" href="/fr/rubriques/construction-navale" title="Construction navale">
+    Construction navale
+  </a>
+</li>
+
+
+  
+  <li class="nav-item">
+
+    <a class="nav-link small text-uppercase" href="/fr/rubriques/croisieres" title="Croisières">
+    Croisières
+  </a>
+</li>
+
+
+  
+  <li class="nav-item">
+
+    <a class="nav-link small text-uppercase" href="/fr/rubriques/energies-marines" title="Energies marines">
+    Energies marines
+  </a>
+</li>
+
+
+  
+  <li class="nav-item">
+
+    <a class="nav-link small text-uppercase" href="/fr/rubriques/science-et-environnement" title="Science et Environnement">
+    Science et Environnement
+  </a>
+</li>
+
+
+
+
+              <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-expanded="false" aria-controls="collapseExample">
+          ...  
+        </button>
+          </ul>
+  
+  
+  
+  
+  
+  
+</div>
+
+
+
+  
+  </div>
+
+<div id="block-custom-functions-shop-page-header" class="block block--custom-functions--shop-page-header clearfix d-md-none yellow-bg position-relative">
+
+  
+    
+
+          <a href="https://boutique.meretmarine.com" class="btn btn-sm yellow-bg rounded-0 grey-dark fw-bold small d-block" target="_blank" rel="noreferrer">
+      Boutique Mer et Marine : Abonnements &amp; Hors-séries >
+    </a>
+  
+</div>
+
+
+    
+  
+
+
+
+
+          </div>
+              
+                        
+
+
+  <div class="d-none d-md-block position-relative block block--meretmarine-breadcrumbs clearfix z-1">
+
+  
+    
+
+      
+  <nav aria-label="breadcrumb" class="container ">
+    <ol class="breadcrumb m-0 py-1 small" itemscope itemtype="http://schema.org/BreadcrumbList">
+              <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="breadcrumb-item ">
+                                <meta itemprop="name" content="home" />
+                                <a itemprop="item" href="/fr">
+                                              <i class="icon-meretmarine icon-meretmarine-home"></i>
+                          </a>
+                    <meta itemprop="position" content="1" />
+        </li>
+              <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="breadcrumb-item ">
+                                <meta itemprop="name" content="Défense" />
+                                <a itemprop="item" href="/fr/rubriques/defense">
+                                              <span>Défense</span>
+                          </a>
+                    <meta itemprop="position" content="2" />
+        </li>
+              <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="breadcrumb-item active">
+                                <meta itemprop="name" content="La Norvège confirme sa volonté de conserver une flotte à six sous-marins " />
+                                <span itemprop="item">
+              <span>La Norvège confirme sa volonté de conserver une flotte à six sous-marins </span>
+            </span>
+                    <meta itemprop="position" content="3" />
+        </li>
+          </ol>
+  </nav>
+
+  
+  </div>
+
+
+      
+                                <header class="page__header mb-3">
+              
+    
+  
+  
+  <div id="advertising-cover-desktop"  class="block block--advertising-cover-desktop position-absolute w-100 d-block overflow-hidden">
+    <div class="d-flex align-items-center justify-content-center">
+      <div id="pub_habillage" class="advertising d-flex align-items-center justify-content-center" style="min-height: 1200px;">
+        
+      </div>
+    </div>
+  </div>
+
+<div data-drupal-messages-fallback class="hidden"></div>
+
+  
+  
+  
+  <div id="advertising-leaderboard"  class="block block--advertising-leaderboard container my-4">
+    <div class="d-flex align-items-center justify-content-center grey-light-bg">
+      <div id="pub_banniere_haute" class="advertising d-flex align-items-center justify-content-center py-2" style="min-height: 90px;">
+        <div class="advertising-placeholder"></div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <div class="position-relative block block--meretmarine-page-title clearfix">
+
+  
+    
+
+      
+    
+  
+      
+    <div class="container">
+
+                      <div class="d-flex flex-wrap">
+          <div class="col">
+                          <div class="badge small-extra fw-bold text-uppercase background" style="background-color: rgba(132,70,130,1);">
+                <a href="/fr/actualite" title="Actualité">Actualité</a>
+              </div>
+                                                    <div class="badge small-extra fw-bold text-uppercase background yellow-bg">
+                <i class="icon-meretmarine icon-meretmarine-lock"></i>
+              </div>
+                      </div>
+        </div>
+      
+            <div class="d-flex flex-wrap">
+        <div class="col-10">
+          
+                      <h1  class="page-title lh-1 my-1">
+<span>La Norvège confirme sa volonté de conserver une flotte à six sous-marins </span>
+</h1>
+                    
+        </div>
+      </div>
+
+            <div class="d-flex flex-wrap mb-4">
+        <div class="col-12 col-md-6 small">
+                                  <span class="blue fw-bold align-middle">
+                                                <a href="/fr/auteurs/vincent-groizeleau" title="Auteur Vincent Groizeleau">
+                                <span class="blue">Vincent Groizeleau</span>
+                                  </a>
+                                                        </span>
+            <span class="align-middle"> - </span>
+            <span class="align-middle"><i class="bi bi-pen"></i> 08/12/2025</span>
+                  </div>
+        <div class="col-12 col-md-6 text-md-end">
+                    
+
+<ul id="menu-social-networks-links-article" class="menu menu-social-networks-items list-unstyled list-inline mt-2">
+            <li class="menu-social-networks-item list-inline-item me-0">
+        
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.meretmarine.com/fr/defense/la-norvege-confirme-sa-volonte-de-conserver-une-flotte-a-six-sous-marins&amp;title=La%20Norv%C3%A8ge%20confirme%20sa%20volont%C3%A9%20de%20conserver%20une%20flotte%20%C3%A0%20six%20sous-marins" class="nav-link px-0 mx-1" rel="noopener nofollow" target="_blank" title="Partager sur Facebook">
+    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="25" height="25" viewBox="0 0 32 32">
+    <path fill="black" d="M 19.253906 2 C 15.311906 2 13 4.0821719 13 8.8261719 L 13 13 L 8 13 L 8 18 L 13 18 L 13 30 L 18 30 L 18 18 L 22 18 L 23 13 L 18 13 L 18 9.671875 C 18 7.884875 18.582766 7 20.259766 7 L 23 7 L 23 2.2050781 C 22.526 2.1410781 21.144906 2 19.253906 2 z"></path>
+  </svg>
+</a>
+      </li>
+                <li class="menu-social-networks-item list-inline-item me-0">
+        
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.meretmarine.com/fr/defense/la-norvege-confirme-sa-volonte-de-conserver-une-flotte-a-six-sous-marins&amp;title=La%20Norv%C3%A8ge%20confirme%20sa%20volont%C3%A9%20de%20conserver%20une%20flotte%20%C3%A0%20six%20sous-marins&amp;summary=La%20Norv%C3%A8ge%20confirme%20sa%20volont%C3%A9%20de%20conserver%20une%20flotte%20%C3%A0%20six%20sous-marins" class="nav-link px-0 mx-1" rel="noopener nofollow" target="_blank" title="Partager sur LinkedIn">
+    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="25" height="25" viewBox="0 0 32 32">
+    <path fill="black" d="M26.111,3H5.889c-1.595,0-2.889,1.293-2.889,2.889V26.111c0,1.595,1.293,2.889,2.889,2.889H26.111c1.595,0,2.889-1.293,2.889-2.889V5.889c0-1.595-1.293-2.889-2.889-2.889ZM10.861,25.389h-3.877V12.87h3.877v12.519Zm-1.957-14.158c-1.267,0-2.293-1.034-2.293-2.31s1.026-2.31,2.293-2.31,2.292,1.034,2.292,2.31-1.026,2.31-2.292,2.31Zm16.485,14.158h-3.858v-6.571c0-1.802-.685-2.809-2.111-2.809-1.551,0-2.362,1.048-2.362,2.809v6.571h-3.718V12.87h3.718v1.686s1.118-2.069,3.775-2.069,4.556,1.621,4.556,4.975v7.926Z"></path>
+  </svg>
+</a>
+      </li>
+                <li class="menu-social-networks-item list-inline-item me-0">
+        
+<a href="https://bsky.app/intent/compose?text=La%20Norv%C3%A8ge%20confirme%20sa%20volont%C3%A9%20de%20conserver%20une%20flotte%20%C3%A0%20six%20sous-marins https://www.meretmarine.com/fr/defense/la-norvege-confirme-sa-volonte-de-conserver-une-flotte-a-six-sous-marins" class="nav-link px-0 mx-1" rel="noopener nofollow" target="_blank" title="Partager sur Bluesky">
+    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="25" height="25" viewBox="0 0 32 32">
+    <path fill="black" d="M23.931,5.298c-3.21,2.418-6.663,7.32-7.931,9.951-1.267-2.631-4.721-7.533-7.931-9.951-2.316-1.744-6.069-3.094-6.069,1.201,0,.857,.49,7.206,.778,8.237,.999,3.583,4.641,4.497,7.881,3.944-5.663,.967-7.103,4.169-3.992,7.372,5.908,6.083,8.492-1.526,9.154-3.476,.123-.36,.179-.527,.179-.379,0-.148,.057,.019,.179,.379,.662,1.949,3.245,9.558,9.154,3.476,3.111-3.203,1.671-6.405-3.992-7.372,3.24,.553,6.882-.361,7.881-3.944,.288-1.031,.778-7.38,.778-8.237,0-4.295-3.753-2.945-6.069-1.201Z"></path>
+  </svg>
+</a>
+      </li>
+      </ul>
+        </div>
+      </div>
+
+    </div>
+
+  
+      
+    <div class="container">
+
+      <div class="d-flex">
+
+        <div class="col position-relative">
+
+                                                                                        
+
+<div class="media media--type-image media--view-mode-large overflow-hidden position-relative">
+  
+          
+        <picture>
+                  <source srcset="https://assets.meretmarine.com/s3fs-public/styles/large_xl/public/images/2021-07/u212cd2.jpg?h=0cc63e52&amp;itok=Rg7evEfL 1x" media="(min-width: 1200px)" type="image/jpeg" width="1400" height="600"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/large_lg/public/images/2021-07/u212cd2.jpg?h=0cc63e52&amp;itok=yPF71irA 1x" media="(min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="1200" height="550"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/large_md/public/images/2021-07/u212cd2.jpg?h=0cc63e52&amp;itok=jS_nirKo 1x" media="(min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="990" height="375"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/extra_large_xs/public/images/2021-07/u212cd2.jpg?h=0cc63e52&amp;itok=gx2T1lKC 1x" media="(min-width: 576px) and (max-width: 767px)" type="image/jpeg" width="600" height="600"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/extra_large_xs/public/images/2021-07/u212cd2.jpg?h=0cc63e52&amp;itok=gx2T1lKC 1x" media="(max-width: 575px)" type="image/jpeg" width="600" height="600"/>
+                  
+<img loading="eager" width="1400" height="600" fetchpriority="high" src="https://assets.meretmarine.com/s3fs-public/styles/large_lg/public/images/2021-07/u212cd2.jpg?h=0cc63e52&amp;itok=yPF71irA" alt="256647 u212 cd allemagne norvege" title="256647 u212 cd allemagne norvege" class="img-fluid">
+
+  </picture>
+
+
+
+            <div class="position-absolute bottom-0 right-0 w-100 p-3 text-end white small text-uppercase" style="z-index: 5;">
+      © Tkms
+    </div>
+  </div>
+
+                      
+          
+          
+        </div>
+
+      </div>
+
+    </div>
+
+  
+  
+
+  
+  </div>
+
+
+          </header>
+              
+                                <div class="page__content position-relative">
+            <div class="container">
+              <div class="row">
+                <div class="col-12 col-md-8 col-lg-9 pe-md-4 pe-lg-5">
+                                      
+  <div class="block block--meretmarine-content block--system-main">
+
+  
+    
+
+            
+
+
+<article class="node article article--full">
+  
+  
+
+  
+  
+  
+            <div class="mb-4">
+      <h2 class="lead">Après la commande de quatre premiers sous-marins en 2021 au chantier TKMS de Kiel, dans le cadre d’un programme conjoint avec l’Allemagne, la Norvège a confirmé sa volonté d’en faire construire deux supplémentaires. </h2>
+    </div>
+  
+    <div class="content">
+    
+  <p>C’est ce qu’a indiqué en fin de semaine dernière le ministre norvégien de la Défense, qui a justifié cette volonté par la menace accrue que représente la Russie, pays avec lequel le royaume scandinave partage sa frontière septentrionale. Le gouvernement va maintenant demander au parlement norvégien de valider cette commande supplémentaire, qui s'élève à 3.9 milliards d’euros, soit plus de 8 milliards pour l'ensemble du programme.</p><p>Cela permettra à la marine norvégienne de remplacer nombre pour nombre ses six vieux sous-marins de la classe Ula, des bâtiments de 59 mètres et un peu plus de 1000 tonnes du type 210 déjà construits en Allemagne. Ils ont été mis en service en 1989 et 1992.&nbsp;</p><p>Leurs successeurs seront du type 212 CD (pour Common Design), un programme lancé en 2021 avec une première commande de quatre unités pour la Norvège et deux autres pour l’Allemagne. La construction de la tête de série a débuté en septembre 2023 à Kiel en vue d’une livraison en 2029 à la marine norvégienne, qui devrait réceptionner les trois autres en 2030, 2033 et 2035. Les deux unités allemandes doivent quant à elles être achevées en 2032 et 2034. Fin 2024, le gouvernement allemand a annoncé son intention de commander quatre unités supplémentaires. Trois autres pourraient suivre.&nbsp;</p><p>Les futurs sous-marins germano-norvégiens mesureront environ 74 mètres de long pour près de 10 mètres de large et 13 mètres de haut, avec un déplacement en surface annoncé aux alentours de 2500 tonnes. Capables d’atteindre une vitesse maximale de 20 nœuds en plongée, ils seront dotés de deux moteurs diesels MTU de la série 4000, des batteries et un système de propulsion anaérobie basé sur des piles à combustible fonctionnant à l’hydrogène. Dotés de quatre tubes lance-torpilles de 533 mm, ainsi qu'un large sas à l'avant pour des drones et engins de forces spéciales, ces bâtiments seront équipés d’un système de combat développé conjointement par Atlas Elektronik et Kongsberg, qui fourniront également la suite sonar. Les 212CD adopteront une architecture de coque en forme de diamant, en particulier la partie inférieure, afin de déjouer les ondes des sonars actifs adverses. Ils seront nettement plus grands que les 212A actuellement en service dans la marine allemande (55.9 mètres de long et 1500 tonnes en surface).&nbsp;</p><p>Avec au moins douze sous-marins de ce type à construire, sans compter d’autres programmes à l’export, TKMS devrait lancer une deuxième ligne de production de bateaux noirs. C’était d’ailleurs l’un des objectifs affichés lors du rachat de l’ex-chantier MV Werften de Wismar, en 2022. &nbsp;</p><p><em><strong>© Un article de la rédaction de Mer et Marine.&nbsp;Reproduction interdite sans consentement du ou des auteurs.&nbsp;</strong></em>&nbsp;</p><p>&nbsp;</p>
+
+
+  </div>
+
+          <div id="poool-widget"></div>
+  
+</article>
+
+      
+  </div>
+
+
+
+<div id="block-custom-functions-article-taxonomy-terms-tags" class="d-none d-md-block block block--custom-functions--article-taxonomy-terms-tags clearfix mb-4">
+
+  
+    
+
+  
+          <div class="h2 mb-3">Aller plus loin</div>
+    
+                <div class="d-inline fw-bold h6 me-2">Rubriques</div>
+                                              <a class="btn btn-secondary btn-sm" href="/fr/rubriques/defense" title="Défense">Défense</a>
+          
+               <div class="d-inline fw-bold h6 me-2 ms-4">Dossiers</div>
+                                              <a class="btn btn-secondary btn-sm" href="/fr/dossiers/thyssenkrupp-marine-systems-tkms" title="ThyssenKrupp Marine Systems - TKMS">ThyssenKrupp Marine Systems - TKMS</a>
+          
+  
+</div>
+
+  
+  
+  
+  <div id="advertising-leaderboard-middle"  class="block block--advertising-leaderboard-middle my-4">
+    <div class="d-flex align-items-center justify-content-center grey-light-bg">
+      <div id="pub_banniere_milieu" class="advertising d-flex align-items-center justify-content-center py-2" style="min-height: 90px;">
+        <div class="advertising-placeholder"></div>
+      </div>
+    </div>
+  </div>
+
+
+
+    
+  
+
+
+
+
+
+  <div class="views-element-container block block--views-block--articles-grid-related-articles clearfix">
+
+  
+            <div class="h2 mb-3">Lire également...</div>
+        
+
+      
+
+
+
+<div class="grid js-view-dom-id-dc52afbdf2e4625538ca727dc2ca20d2f4a7482ff1550264db0a9d337842e0b7 view-articles-grid">
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+          <div class="view-content row">
+      
+
+
+
+  
+
+
+
+
+  
+
+  
+  <div class="animate-hover-zoom views-row mb-4 col-12 col-sm-6 col-md-4">
+
+                                    
+  
+<div class="card h-100 border-0 rounded-0">
+
+      
+    <div class="row">
+
+                      <a class="col-4 col-md-12" href="/fr/defense/la-france-enterine-la-construction-de-son-porte-avions-de-nouvelle-generation-pa-ng-0" title="La France entérine la construction de son porte-avions de nouvelle génération (PA-NG)">
+                                  
+
+<div class="media media--type-image media--view-mode-thumbnail overflow-hidden position-relative">
+  
+          
+        <picture>
+                  <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-09/0_0.jpg?h=a7415b3b&amp;itok=Oq--mRD5 1x" media="(min-width: 1200px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-09/0_0.jpg?h=a7415b3b&amp;itok=Oq--mRD5 1x" media="(min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-09/0_0.jpg?h=a7415b3b&amp;itok=HJI3mbrB 1x" media="(min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-09/0_0.jpg?h=a7415b3b&amp;itok=HJI3mbrB 1x" media="(min-width: 576px) and (max-width: 767px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_xs/public/images/2025-09/0_0.jpg?h=a7415b3b&amp;itok=nXkaaCKw 1x" media="(max-width: 575px)" type="image/jpeg" width="150" height="150"/>
+                  
+<img loading="lazy" width="400" height="225" src="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-09/0_0.jpg?h=a7415b3b&amp;itok=Oq--mRD5" alt="" title="0.jpg" class="img-fluid">
+
+  </picture>
+
+
+
+    </div>
+
+                  </a>
+      
+      <div class="col-8 col-md-12">
+
+        
+          <div class="d-flex justify-content-between mt-2">
+
+                                        <div class="badge small-extra fw-bold text-uppercase background me-1" style="background-color: rgba(91,84,75,1);">
+                <a href="/fr/fil-info" title="Fil info">Fil info</a>
+              </div>
+                          
+                                        <div class="small grey flex-grow-1 text-end">
+                21/12/25
+              </div>
+            
+          </div>
+
+                    <h3>
+            <a href="/fr/defense/la-france-enterine-la-construction-de-son-porte-avions-de-nouvelle-generation-pa-ng-0" title="La France entérine la construction de son porte-avions de nouvelle génération (PA-NG)">
+              La France entérine la construction de son porte-avions de nouvelle génération (PA-NG)
+            </a>
+          </h3>
+
+        
+      </div>
+
+    </div>
+
+  
+</div>
+</div>
+
+
+  
+  <div class="animate-hover-zoom views-row mb-4 col-12 col-sm-6 col-md-4">
+
+                                    
+  
+<div class="card h-100 border-0 rounded-0">
+
+      
+    <div class="row">
+
+                      <a class="col-4 col-md-12" href="/fr/defense/decouvrez-notre-dossier-multimedia-complet-sur-le-pa-ng" title="Découvrez notre dossier multimédia complet sur le PA-NG">
+                                  
+
+<div class="media media--type-image media--view-mode-thumbnail overflow-hidden position-relative">
+  
+          
+        <picture>
+                  <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-09/visuelb_pa_indice_light_1.jpg?h=68753d59&amp;itok=66H3sAaF 1x" media="(min-width: 1200px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-09/visuelb_pa_indice_light_1.jpg?h=68753d59&amp;itok=66H3sAaF 1x" media="(min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-09/visuelb_pa_indice_light_1.jpg?h=68753d59&amp;itok=4QRgCSqP 1x" media="(min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-09/visuelb_pa_indice_light_1.jpg?h=68753d59&amp;itok=4QRgCSqP 1x" media="(min-width: 576px) and (max-width: 767px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_xs/public/images/2025-09/visuelb_pa_indice_light_1.jpg?h=68753d59&amp;itok=fH1_Rni8 1x" media="(max-width: 575px)" type="image/jpeg" width="150" height="150"/>
+                  
+<img loading="lazy" width="400" height="225" src="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-09/visuelb_pa_indice_light_1.jpg?h=68753d59&amp;itok=66H3sAaF" alt="" title="visuelb_pa_indice_light.jpg" class="img-fluid">
+
+  </picture>
+
+
+
+    </div>
+
+                  </a>
+      
+      <div class="col-8 col-md-12">
+
+        
+          <div class="d-flex justify-content-between mt-2">
+
+                                        <div class="badge small-extra fw-bold text-uppercase background me-1" style="background-color: rgba(132,70,130,1);">
+                <a href="/fr/actualite" title="Actualité">Actualité</a>
+              </div>
+                          
+                                        <div class="small grey flex-grow-1 text-end">
+                21/12/25
+              </div>
+            
+          </div>
+
+                    <h3>
+            <a href="/fr/defense/decouvrez-notre-dossier-multimedia-complet-sur-le-pa-ng" title="Découvrez notre dossier multimédia complet sur le PA-NG">
+              Découvrez notre dossier multimédia complet sur le PA-NG
+            </a>
+          </h3>
+
+        
+      </div>
+
+    </div>
+
+  
+</div>
+</div>
+
+
+  
+  <div class="animate-hover-zoom views-row mb-4 col-12 col-sm-6 col-md-4">
+
+                                    
+  
+<div class="card h-100 border-0 rounded-0">
+
+      
+    <div class="row">
+
+                      <a class="col-4 col-md-12" href="/fr/defense/la-france-enterine-la-construction-de-son-futur-porte-avions" title="La France entérine la construction de son futur porte-avions">
+                                  
+
+<div class="media media--type-image media--view-mode-thumbnail overflow-hidden position-relative">
+  
+          
+        <picture>
+                  <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-09/0_0.jpg?h=a7415b3b&amp;itok=Oq--mRD5 1x" media="(min-width: 1200px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-09/0_0.jpg?h=a7415b3b&amp;itok=Oq--mRD5 1x" media="(min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-09/0_0.jpg?h=a7415b3b&amp;itok=HJI3mbrB 1x" media="(min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-09/0_0.jpg?h=a7415b3b&amp;itok=HJI3mbrB 1x" media="(min-width: 576px) and (max-width: 767px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_xs/public/images/2025-09/0_0.jpg?h=a7415b3b&amp;itok=nXkaaCKw 1x" media="(max-width: 575px)" type="image/jpeg" width="150" height="150"/>
+                  
+<img loading="lazy" width="400" height="225" src="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-09/0_0.jpg?h=a7415b3b&amp;itok=Oq--mRD5" alt="" title="0.jpg" class="img-fluid">
+
+  </picture>
+
+
+
+    </div>
+
+                  </a>
+      
+      <div class="col-8 col-md-12">
+
+        
+          <div class="d-flex justify-content-between mt-2">
+
+                                        <div class="badge small-extra fw-bold text-uppercase background me-1" style="background-color: rgba(217,138,16,1);">
+                <a href="/fr/focus" title="Focus">Focus</a>
+              </div>
+                          
+                                        <div class="small grey flex-grow-1 text-end">
+                21/12/25
+              </div>
+            
+          </div>
+
+                    <h3>
+            <a href="/fr/defense/la-france-enterine-la-construction-de-son-futur-porte-avions" title="La France entérine la construction de son futur porte-avions">
+              La France entérine la construction de son futur porte-avions
+            </a>
+          </h3>
+
+        
+      </div>
+
+    </div>
+
+  
+</div>
+</div>
+
+
+  
+  <div class="animate-hover-zoom views-row mb-4 col-12 col-sm-6 col-md-4">
+
+                                    
+  
+<div class="card h-100 border-0 rounded-0">
+
+      
+    <div class="row">
+
+                      <a class="col-4 col-md-12" href="/fr/defense/lancement-du-pole-d-excellence-grands-fonds-marins-a-l-occasion-du-forum-innovation-defense-2025" title="Lancement du pôle d’excellence grands fonds marins à l’occasion du forum innovation défense 2025">
+                                  
+
+<div class="media media--type-image media--view-mode-thumbnail overflow-hidden position-relative">
+  
+          
+        <picture>
+                  <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2024-09/2_3.jpg?h=d717ecbb&amp;itok=8TCZOq1f 1x" media="(min-width: 1200px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2024-09/2_3.jpg?h=d717ecbb&amp;itok=8TCZOq1f 1x" media="(min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2024-09/2_3.jpg?h=d717ecbb&amp;itok=nRV3p132 1x" media="(min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2024-09/2_3.jpg?h=d717ecbb&amp;itok=nRV3p132 1x" media="(min-width: 576px) and (max-width: 767px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_xs/public/images/2024-09/2_3.jpg?h=d717ecbb&amp;itok=DsdE-bb0 1x" media="(max-width: 575px)" type="image/jpeg" width="150" height="150"/>
+                  
+<img loading="lazy" width="400" height="225" src="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2024-09/2_3.jpg?h=d717ecbb&amp;itok=8TCZOq1f" alt="" title="2.jpg" class="img-fluid">
+
+  </picture>
+
+
+
+    </div>
+
+                  </a>
+      
+      <div class="col-8 col-md-12">
+
+        
+          <div class="d-flex justify-content-between mt-2">
+
+                                        <div class="badge small-extra fw-bold text-uppercase background me-1" style="background-color: rgba(91,84,75,1);">
+                <a href="/fr/fil-info" title="Fil info">Fil info</a>
+              </div>
+                          
+                                        <div class="small grey flex-grow-1 text-end">
+                19/12/25
+              </div>
+            
+          </div>
+
+                    <h3>
+            <a href="/fr/defense/lancement-du-pole-d-excellence-grands-fonds-marins-a-l-occasion-du-forum-innovation-defense-2025" title="Lancement du pôle d’excellence grands fonds marins à l’occasion du forum innovation défense 2025">
+              Lancement du pôle d’excellence grands fonds marins à l’occasion du forum innovation défense 2025
+            </a>
+          </h3>
+
+        
+      </div>
+
+    </div>
+
+  
+</div>
+</div>
+
+
+  
+  <div class="animate-hover-zoom views-row mb-4 col-12 col-sm-6 col-md-4">
+
+                                    
+  
+<div class="card h-100 border-0 rounded-0">
+
+      
+    <div class="row">
+
+                      <a class="col-4 col-md-12" href="/fr/defense/visite-du-vice-premier-ministre-et-du-ministre-de-la-defense-du-montenegro-sur-le-chantier-kership" title="Visite du Vice-Premier Ministre et du ministre de la Défense du Monténégro sur le chantier KERSHIP : une étape clé dans la construction des OPV 60M">
+                                  
+
+<div class="media media--type-image media--view-mode-thumbnail overflow-hidden position-relative">
+  
+          
+        <picture>
+                  <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/5lv5ilaw.jpeg?h=692786f3&amp;itok=IHxbW81x 1x" media="(min-width: 1200px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/5lv5ilaw.jpeg?h=692786f3&amp;itok=IHxbW81x 1x" media="(min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-12/5lv5ilaw.jpeg?h=692786f3&amp;itok=YD78pX8a 1x" media="(min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-12/5lv5ilaw.jpeg?h=692786f3&amp;itok=YD78pX8a 1x" media="(min-width: 576px) and (max-width: 767px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_xs/public/images/2025-12/5lv5ilaw.jpeg?h=692786f3&amp;itok=9RaOlqN2 1x" media="(max-width: 575px)" type="image/jpeg" width="150" height="150"/>
+                  
+<img loading="lazy" width="400" height="225" src="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/5lv5ilaw.jpeg?h=692786f3&amp;itok=IHxbW81x" alt="" title="5lv5ilaw.jpeg" class="img-fluid">
+
+  </picture>
+
+
+
+    </div>
+
+                  </a>
+      
+      <div class="col-8 col-md-12">
+
+        
+          <div class="d-flex justify-content-between mt-2">
+
+                                        <div class="badge small-extra fw-bold text-uppercase background me-1" style="background-color: rgba(91,84,75,1);">
+                <a href="/fr/fil-info" title="Fil info">Fil info</a>
+              </div>
+                          
+                                        <div class="small grey flex-grow-1 text-end">
+                19/12/25
+              </div>
+            
+          </div>
+
+                    <h3>
+            <a href="/fr/defense/visite-du-vice-premier-ministre-et-du-ministre-de-la-defense-du-montenegro-sur-le-chantier-kership" title="Visite du Vice-Premier Ministre et du ministre de la Défense du Monténégro sur le chantier KERSHIP : une étape clé dans la construction des OPV 60M">
+              Visite du Vice-Premier Ministre et du ministre de la Défense du Monténégro sur le chantier KERSHIP : une étape clé dans la construction des OPV 60M
+            </a>
+          </h3>
+
+        
+      </div>
+
+    </div>
+
+  
+</div>
+</div>
+
+
+  
+  <div class="animate-hover-zoom views-row mb-4 col-12 col-sm-6 col-md-4">
+
+                                    
+  
+<div class="card h-100 border-0 rounded-0">
+
+      
+    <div class="row">
+
+                      <a class="col-4 col-md-12" href="/fr/defense/alseamar-livre-les-cinq-planeurs-sous-marins-commandes-par-la-marine-nationale" title="Alseamar livre les cinq planeurs sous-marins commandés par la Marine nationale">
+                                  
+
+<div class="media media--type-image media--view-mode-thumbnail overflow-hidden position-relative">
+  
+          
+        <picture>
+                  <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/2025_mfan_019_a_001_001_1.jpg?h=8d130e04&amp;itok=_FfA41S4 1x" media="(min-width: 1200px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/2025_mfan_019_a_001_001_1.jpg?h=8d130e04&amp;itok=_FfA41S4 1x" media="(min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-12/2025_mfan_019_a_001_001_1.jpg?h=8d130e04&amp;itok=7dCh4y2i 1x" media="(min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-12/2025_mfan_019_a_001_001_1.jpg?h=8d130e04&amp;itok=7dCh4y2i 1x" media="(min-width: 576px) and (max-width: 767px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_xs/public/images/2025-12/2025_mfan_019_a_001_001_1.jpg?h=8d130e04&amp;itok=sab2WeMy 1x" media="(max-width: 575px)" type="image/jpeg" width="150" height="150"/>
+                  
+<img loading="lazy" width="400" height="225" src="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/2025_mfan_019_a_001_001_1.jpg?h=8d130e04&amp;itok=_FfA41S4" alt="" title="2025_mfan_019_a_001_001_1.jpg" class="img-fluid">
+
+  </picture>
+
+
+
+    </div>
+
+                  </a>
+      
+      <div class="col-8 col-md-12">
+
+        
+          <div class="d-flex justify-content-between mt-2">
+
+                                        <div class="badge small-extra fw-bold text-uppercase background me-1" style="background-color: rgba(132,70,130,1);">
+                <a href="/fr/actualite" title="Actualité">Actualité</a>
+              </div>
+                                              <div class="badge small-extra fw-bold text-uppercase background yellow-bg">
+                                    <i class="icon-meretmarine icon-meretmarine-lock"></i>
+                </div>
+                          
+                                        <div class="small grey flex-grow-1 text-end">
+                19/12/25
+              </div>
+            
+          </div>
+
+                    <h3>
+            <a href="/fr/defense/alseamar-livre-les-cinq-planeurs-sous-marins-commandes-par-la-marine-nationale" title="Alseamar livre les cinq planeurs sous-marins commandés par la Marine nationale">
+              Alseamar livre les cinq planeurs sous-marins commandés par la Marine nationale
+            </a>
+          </h3>
+
+        
+      </div>
+
+    </div>
+
+  
+</div>
+</div>
+
+
+  
+  <div class="animate-hover-zoom views-row mb-4 col-12 col-sm-6 col-md-4">
+
+                                    
+  
+<div class="card h-100 border-0 rounded-0">
+
+      
+    <div class="row">
+
+                      <a class="col-4 col-md-12" href="/fr/defense/baltique-la-suede-signale-du-personnel-arme-a-bord-de-petroliers-lies-a-la-flotte-fantome-russe" title="Baltique : la Suède signale du personnel armé à bord de pétroliers liés à la flotte fantôme russe">
+                                  
+
+<div class="media media--type-image media--view-mode-thumbnail overflow-hidden position-relative">
+  
+          
+        <picture>
+                  <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-01/470224263_989714576527525_2677917450895340102_n.jpg?h=393e6966&amp;itok=4gM7ZG3g 1x" media="(min-width: 1200px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-01/470224263_989714576527525_2677917450895340102_n.jpg?h=393e6966&amp;itok=4gM7ZG3g 1x" media="(min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-01/470224263_989714576527525_2677917450895340102_n.jpg?h=393e6966&amp;itok=dGJN_LSM 1x" media="(min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-01/470224263_989714576527525_2677917450895340102_n.jpg?h=393e6966&amp;itok=dGJN_LSM 1x" media="(min-width: 576px) and (max-width: 767px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_xs/public/images/2025-01/470224263_989714576527525_2677917450895340102_n.jpg?h=393e6966&amp;itok=TcxySDO4 1x" media="(max-width: 575px)" type="image/jpeg" width="150" height="150"/>
+                  
+<img loading="lazy" width="400" height="225" src="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-01/470224263_989714576527525_2677917450895340102_n.jpg?h=393e6966&amp;itok=4gM7ZG3g" alt="" title="470224263_989714576527525_2677917450895340102_n.jpg" class="img-fluid">
+
+  </picture>
+
+
+
+    </div>
+
+                  </a>
+      
+      <div class="col-8 col-md-12">
+
+        
+          <div class="d-flex justify-content-between mt-2">
+
+                                        <div class="badge small-extra fw-bold text-uppercase background me-1" style="background-color: rgba(132,70,130,1);">
+                <a href="/fr/actualite" title="Actualité">Actualité</a>
+              </div>
+                                              <div class="badge small-extra fw-bold text-uppercase background yellow-bg">
+                                    <i class="icon-meretmarine icon-meretmarine-lock"></i>
+                </div>
+                          
+                                        <div class="small grey flex-grow-1 text-end">
+                19/12/25
+              </div>
+            
+          </div>
+
+                    <h3>
+            <a href="/fr/defense/baltique-la-suede-signale-du-personnel-arme-a-bord-de-petroliers-lies-a-la-flotte-fantome-russe" title="Baltique : la Suède signale du personnel armé à bord de pétroliers liés à la flotte fantôme russe">
+              Baltique : la Suède signale du personnel armé à bord de pétroliers liés à la flotte fantôme russe
+            </a>
+          </h3>
+
+        
+      </div>
+
+    </div>
+
+  
+</div>
+</div>
+
+
+  
+  <div class="animate-hover-zoom views-row mb-4 col-12 col-sm-6 col-md-4">
+
+                                    
+  
+<div class="card h-100 border-0 rounded-0">
+
+      
+    <div class="row">
+
+                      <a class="col-4 col-md-12" href="/fr/construction-navale/couach-va-realiser-les-nouveaux-patrouilleurs-cotiers-de-la-douane-francaise" title="Couach va réaliser les nouveaux patrouilleurs côtiers de la Douane française">
+                                  
+
+<div class="media media--type-image media--view-mode-thumbnail overflow-hidden position-relative">
+  
+          
+        <picture>
+                  <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/couach_35-vgc_exter2.jpg?h=01d5779a&amp;itok=2w6BEtPE 1x" media="(min-width: 1200px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/couach_35-vgc_exter2.jpg?h=01d5779a&amp;itok=2w6BEtPE 1x" media="(min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-12/couach_35-vgc_exter2.jpg?h=01d5779a&amp;itok=1MrCBLTK 1x" media="(min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-12/couach_35-vgc_exter2.jpg?h=01d5779a&amp;itok=1MrCBLTK 1x" media="(min-width: 576px) and (max-width: 767px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_xs/public/images/2025-12/couach_35-vgc_exter2.jpg?h=01d5779a&amp;itok=9DTqNRt5 1x" media="(max-width: 575px)" type="image/jpeg" width="150" height="150"/>
+                  
+<img loading="lazy" width="400" height="225" src="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/couach_35-vgc_exter2.jpg?h=01d5779a&amp;itok=2w6BEtPE" alt="" title="couach_35-vgc_exter2.jpg" class="img-fluid">
+
+  </picture>
+
+
+
+    </div>
+
+                  </a>
+      
+      <div class="col-8 col-md-12">
+
+        
+          <div class="d-flex justify-content-between mt-2">
+
+                                        <div class="badge small-extra fw-bold text-uppercase background me-1" style="background-color: rgba(132,70,130,1);">
+                <a href="/fr/actualite" title="Actualité">Actualité</a>
+              </div>
+                                              <div class="badge small-extra fw-bold text-uppercase background yellow-bg">
+                                    <i class="icon-meretmarine icon-meretmarine-lock"></i>
+                </div>
+                          
+                                        <div class="small grey flex-grow-1 text-end">
+                19/12/25
+              </div>
+            
+          </div>
+
+                    <h3>
+            <a href="/fr/construction-navale/couach-va-realiser-les-nouveaux-patrouilleurs-cotiers-de-la-douane-francaise" title="Couach va réaliser les nouveaux patrouilleurs côtiers de la Douane française">
+              Couach va réaliser les nouveaux patrouilleurs côtiers de la Douane française
+            </a>
+          </h3>
+
+        
+      </div>
+
+    </div>
+
+  
+</div>
+</div>
+
+
+  
+  <div class="animate-hover-zoom views-row mb-4 col-12 col-sm-6 col-md-4">
+
+                                    
+  
+<div class="card h-100 border-0 rounded-0">
+
+      
+    <div class="row">
+
+                      <a class="col-4 col-md-12" href="/fr/defense/espagne-pays-bas-allemagne-les-nouveaux-standards-de-l-helicoptere-nh90-arrivent-dans-les-marines" title="Espagne, Pays-Bas, Allemagne : les nouveaux standards de l’hélicoptère NH90 arrivent dans les marines européennes">
+                                  
+
+<div class="media media--type-image media--view-mode-thumbnail overflow-hidden position-relative">
+  
+          
+        <picture>
+                  <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2024-04/4_2.jpg?h=56d0ca2e&amp;itok=xrTMaEqS 1x" media="(min-width: 1200px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2024-04/4_2.jpg?h=56d0ca2e&amp;itok=xrTMaEqS 1x" media="(min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2024-04/4_2.jpg?h=56d0ca2e&amp;itok=sJAOcF25 1x" media="(min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2024-04/4_2.jpg?h=56d0ca2e&amp;itok=sJAOcF25 1x" media="(min-width: 576px) and (max-width: 767px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_xs/public/images/2024-04/4_2.jpg?h=56d0ca2e&amp;itok=8eYOMqtS 1x" media="(max-width: 575px)" type="image/jpeg" width="150" height="150"/>
+                  
+<img loading="lazy" width="400" height="225" src="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2024-04/4_2.jpg?h=56d0ca2e&amp;itok=xrTMaEqS" title="4.jpg" class="img-fluid">
+
+  </picture>
+
+
+
+    </div>
+
+                  </a>
+      
+      <div class="col-8 col-md-12">
+
+        
+          <div class="d-flex justify-content-between mt-2">
+
+                                        <div class="badge small-extra fw-bold text-uppercase background me-1" style="background-color: rgba(132,70,130,1);">
+                <a href="/fr/actualite" title="Actualité">Actualité</a>
+              </div>
+                                              <div class="badge small-extra fw-bold text-uppercase background yellow-bg">
+                                    <i class="icon-meretmarine icon-meretmarine-lock"></i>
+                </div>
+                          
+                                        <div class="small grey flex-grow-1 text-end">
+                19/12/25
+              </div>
+            
+          </div>
+
+                    <h3>
+            <a href="/fr/defense/espagne-pays-bas-allemagne-les-nouveaux-standards-de-l-helicoptere-nh90-arrivent-dans-les-marines" title="Espagne, Pays-Bas, Allemagne : les nouveaux standards de l’hélicoptère NH90 arrivent dans les marines européennes">
+              Espagne, Pays-Bas, Allemagne : les nouveaux standards de l’hélicoptère NH90 arrivent dans les marines européennes
+            </a>
+          </h3>
+
+        
+      </div>
+
+    </div>
+
+  
+</div>
+</div>
+
+
+  
+  <div class="animate-hover-zoom views-row mb-4 col-12 col-sm-6 col-md-4">
+
+                                    
+  
+<div class="card h-100 border-0 rounded-0">
+
+      
+    <div class="row">
+
+                      <a class="col-4 col-md-12" href="/fr/defense/l-allemagne-va-acquerir-des-drones-de-patrouille-maritime-seaguardian" title="L’Allemagne va acquérir des drones de patrouille maritime SeaGuardian">
+                                  
+
+<div class="media media--type-image media--view-mode-thumbnail overflow-hidden position-relative">
+  
+          
+        <picture>
+                  <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/mq9b-seaguardian-img3.jpg?h=b0f2ac9d&amp;itok=qGqFOxe2 1x" media="(min-width: 1200px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/mq9b-seaguardian-img3.jpg?h=b0f2ac9d&amp;itok=qGqFOxe2 1x" media="(min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-12/mq9b-seaguardian-img3.jpg?h=b0f2ac9d&amp;itok=tU5ThlPR 1x" media="(min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-12/mq9b-seaguardian-img3.jpg?h=b0f2ac9d&amp;itok=tU5ThlPR 1x" media="(min-width: 576px) and (max-width: 767px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_xs/public/images/2025-12/mq9b-seaguardian-img3.jpg?h=b0f2ac9d&amp;itok=eQhCtn7w 1x" media="(max-width: 575px)" type="image/jpeg" width="150" height="150"/>
+                  
+<img loading="lazy" width="400" height="225" src="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/mq9b-seaguardian-img3.jpg?h=b0f2ac9d&amp;itok=qGqFOxe2" alt="" title="mq9b-seaguardian-img3.jpg" class="img-fluid">
+
+  </picture>
+
+
+
+    </div>
+
+                  </a>
+      
+      <div class="col-8 col-md-12">
+
+        
+          <div class="d-flex justify-content-between mt-2">
+
+                                        <div class="badge small-extra fw-bold text-uppercase background me-1" style="background-color: rgba(132,70,130,1);">
+                <a href="/fr/actualite" title="Actualité">Actualité</a>
+              </div>
+                                              <div class="badge small-extra fw-bold text-uppercase background yellow-bg">
+                                    <i class="icon-meretmarine icon-meretmarine-lock"></i>
+                </div>
+                          
+                                        <div class="small grey flex-grow-1 text-end">
+                19/12/25
+              </div>
+            
+          </div>
+
+                    <h3>
+            <a href="/fr/defense/l-allemagne-va-acquerir-des-drones-de-patrouille-maritime-seaguardian" title="L’Allemagne va acquérir des drones de patrouille maritime SeaGuardian">
+              L’Allemagne va acquérir des drones de patrouille maritime SeaGuardian
+            </a>
+          </h3>
+
+        
+      </div>
+
+    </div>
+
+  
+</div>
+</div>
+
+
+  
+  <div class="animate-hover-zoom views-row mb-4 col-12 col-sm-6 col-md-4">
+
+                                    
+  
+<div class="card h-100 border-0 rounded-0">
+
+      
+    <div class="row">
+
+                      <a class="col-4 col-md-12" href="/fr/defense/la-base-de-donnees-navales-digiflot-monte-en-puissance" title="La base de données navales DIGIFLOT monte en puissance">
+                                  
+
+<div class="media media--type-image media--view-mode-thumbnail overflow-hidden position-relative">
+  
+          
+        <picture>
+                  <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/image_4.png?h=d8474e6e&amp;itok=H8vl8sAA 1x" media="(min-width: 1200px)" type="image/png" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/image_4.png?h=d8474e6e&amp;itok=H8vl8sAA 1x" media="(min-width: 992px) and (max-width: 1199px)" type="image/png" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-12/image_4.png?h=d8474e6e&amp;itok=qsNtf6sA 1x" media="(min-width: 768px) and (max-width: 991px)" type="image/png" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-12/image_4.png?h=d8474e6e&amp;itok=qsNtf6sA 1x" media="(min-width: 576px) and (max-width: 767px)" type="image/png" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_xs/public/images/2025-12/image_4.png?h=d8474e6e&amp;itok=tEc-5Ba2 1x" media="(max-width: 575px)" type="image/png" width="150" height="150"/>
+                  
+<img loading="lazy" width="400" height="225" src="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/image_4.png?h=d8474e6e&amp;itok=H8vl8sAA" alt="" title="image_4.png" class="img-fluid">
+
+  </picture>
+
+
+
+    </div>
+
+                  </a>
+      
+      <div class="col-8 col-md-12">
+
+        
+          <div class="d-flex justify-content-between mt-2">
+
+                                        <div class="badge small-extra fw-bold text-uppercase background me-1" style="background-color: rgba(58,135,27,1);">
+                <a href="/fr/interview" title="Interview">Interview</a>
+              </div>
+                          
+                                        <div class="small grey flex-grow-1 text-end">
+                19/12/25
+              </div>
+            
+          </div>
+
+                    <h3>
+            <a href="/fr/defense/la-base-de-donnees-navales-digiflot-monte-en-puissance" title="La base de données navales DIGIFLOT monte en puissance">
+              La base de données navales DIGIFLOT monte en puissance
+            </a>
+          </h3>
+
+        
+      </div>
+
+    </div>
+
+  
+</div>
+</div>
+
+
+  
+  <div class="animate-hover-zoom views-row mb-4 col-12 col-sm-6 col-md-4">
+
+                                    
+  
+<div class="card h-100 border-0 rounded-0">
+
+      
+    <div class="row">
+
+                      <a class="col-4 col-md-12" href="/fr/defense/la-fdi-amiral-louzeau-sera-bien-livree-en-2027" title="La FDI Amiral Louzeau sera bien livrée en 2027">
+                                  
+
+<div class="media media--type-image media--view-mode-thumbnail overflow-hidden position-relative">
+  
+          
+        <picture>
+                  <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/dscn9700.jpg?h=5661a2cf&amp;itok=aAzOzH9X 1x" media="(min-width: 1200px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/dscn9700.jpg?h=5661a2cf&amp;itok=aAzOzH9X 1x" media="(min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-12/dscn9700.jpg?h=5661a2cf&amp;itok=i5ndJw0G 1x" media="(min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-12/dscn9700.jpg?h=5661a2cf&amp;itok=i5ndJw0G 1x" media="(min-width: 576px) and (max-width: 767px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_xs/public/images/2025-12/dscn9700.jpg?h=5661a2cf&amp;itok=SjzbQGVH 1x" media="(max-width: 575px)" type="image/jpeg" width="150" height="150"/>
+                  
+<img loading="lazy" width="400" height="225" src="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/dscn9700.jpg?h=5661a2cf&amp;itok=aAzOzH9X" alt="" title="dscn9700.jpg" class="img-fluid">
+
+  </picture>
+
+
+
+    </div>
+
+                  </a>
+      
+      <div class="col-8 col-md-12">
+
+        
+          <div class="d-flex justify-content-between mt-2">
+
+                                        <div class="badge small-extra fw-bold text-uppercase background me-1" style="background-color: rgba(132,70,130,1);">
+                <a href="/fr/actualite" title="Actualité">Actualité</a>
+              </div>
+                                              <div class="badge small-extra fw-bold text-uppercase background yellow-bg">
+                                    <i class="icon-meretmarine icon-meretmarine-lock"></i>
+                </div>
+                          
+                                        <div class="small grey flex-grow-1 text-end">
+                19/12/25
+              </div>
+            
+          </div>
+
+                    <h3>
+            <a href="/fr/defense/la-fdi-amiral-louzeau-sera-bien-livree-en-2027" title="La FDI Amiral Louzeau sera bien livrée en 2027">
+              La FDI Amiral Louzeau sera bien livrée en 2027
+            </a>
+          </h3>
+
+        
+      </div>
+
+    </div>
+
+  
+</div>
+</div>
+
+
+  
+  <div class="animate-hover-zoom views-row mb-4 col-12 col-sm-6 col-md-4">
+
+                                    
+  
+<div class="card h-100 border-0 rounded-0">
+
+      
+    <div class="row">
+
+                      <a class="col-4 col-md-12" href="/fr/defense/le-groupe-des-plongeurs-demineurs-de-la-mediterranee-fete-son-70eme-anniversaire" title="Le Groupe des plongeurs démineurs de la Méditerranée fête son 70ème anniversaire">
+                                  
+
+<div class="media media--type-image media--view-mode-thumbnail overflow-hidden position-relative">
+  
+          
+        <picture>
+                  <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/dsc07122.jpg?h=64bf1f18&amp;itok=2mCE9ctb 1x" media="(min-width: 1200px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/dsc07122.jpg?h=64bf1f18&amp;itok=2mCE9ctb 1x" media="(min-width: 992px) and (max-width: 1199px)" type="image/jpeg" width="400" height="225"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-12/dsc07122.jpg?h=64bf1f18&amp;itok=leCxSDto 1x" media="(min-width: 768px) and (max-width: 991px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_md/public/images/2025-12/dsc07122.jpg?h=64bf1f18&amp;itok=leCxSDto 1x" media="(min-width: 576px) and (max-width: 767px)" type="image/jpeg" width="165" height="90"/>
+              <source srcset="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_xs/public/images/2025-12/dsc07122.jpg?h=64bf1f18&amp;itok=mCPjW8jP 1x" media="(max-width: 575px)" type="image/jpeg" width="150" height="150"/>
+                  
+<img loading="lazy" width="400" height="225" src="https://assets.meretmarine.com/s3fs-public/styles/thumbnail_lg/public/images/2025-12/dsc07122.jpg?h=64bf1f18&amp;itok=2mCE9ctb" title="dsc07122.jpg" class="img-fluid">
+
+  </picture>
+
+
+
+    </div>
+
+                  </a>
+      
+      <div class="col-8 col-md-12">
+
+        
+          <div class="d-flex justify-content-between mt-2">
+
+                                        <div class="badge small-extra fw-bold text-uppercase background me-1" style="background-color: rgba(132,70,130,1);">
+                <a href="/fr/actualite" title="Actualité">Actualité</a>
+              </div>
+                                              <div class="badge small-extra fw-bold text-uppercase background yellow-bg">
+                                    <i class="icon-meretmarine icon-meretmarine-lock"></i>
+                </div>
+                          
+                                        <div class="small grey flex-grow-1 text-end">
+                19/12/25
+              </div>
+            
+          </div>
+
+                    <h3>
+            <a href="/fr/defense/le-groupe-des-plongeurs-demineurs-de-la-mediterranee-fete-son-70eme-anniversaire" title="Le Groupe des plongeurs démineurs de la Méditerranée fête son 70ème anniversaire">
+              Le Groupe des plongeurs démineurs de la Méditerranée fête son 70ème anniversaire
+            </a>
+          </h3>
+
+        
+      </div>
+
+    </div>
+
+  
+</div>
+</div>
+
+
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <a class="btn btn-secondary btn-sm float-end mb-4" href="/fr/rubriques/defense" title="Défense">Rubrique Défense</a>
+    </div>
+  
+  
+</div>
+
+
+
+  
+  </div>
+
+
+    
+  
+
+
+
+
+                </div>
+                                                    <div class="sidebar__right col-12 col-md-4 col-lg-3">
+                      
+  
+  
+  
+  <div id="advertising-block-top"  class="block block--advertising-block-top">
+    <div class="d-flex align-items-center justify-content-center grey-light-bg">
+      <div id="pub_pave_haut" class="advertising d-flex align-items-center justify-content-center py-2" style="min-height: 250px;">
+        <div class="advertising-placeholder"></div>
+      </div>
+    </div>
+  </div>
+
+
+
+    
+  
+
+
+
+    
+  
+    
+                    
+    <div id="custom-functions--animation--advertising--block-1"  class="block block--custom-functions--animation--advertising--block-1 mb-4" data-ad-campaign="FNAF25" data-ad-company="Mer et Marine" data-ad-position="block_1" data-ad-type="self_promotion">
+    <div class="d-flex align-items-center justify-content-center grey-light-bg">
+      <div class="advertising d-flex align-items-center justify-content-center py-2">
+                  <a href="https://shop-meretmarine.myshopify.com/" target="_blank" title="">
+                              <picture>
+                                                                                              <source srcset="https://assets.meretmarine.com/s3fs-public/images/2025-12/Pav%C3%A9%20300x600%20HS23_0.gif" media="(min-width: 768px)" />
+                                                                                                            <source srcset="https://assets.meretmarine.com/s3fs-public/images/2025-12/Pav%C3%A9%20300x600%20HS23_0.gif" media="(max-width: 767px)" />
+                                          <img
+                class="d-none d-md-block mx-auto"
+                loading="lazy"
+                src="https://assets.meretmarine.com/s3fs-public/images/2025-12/Pav%C3%A9%20300x600%20HS23_0.gif"
+                alt="Test"
+                height="600"
+                width="300"
+              />
+              <img
+                class="d-block d-md-none mx-auto"
+                loading="lazy"
+                src="https://assets.meretmarine.com/s3fs-public/images/2025-12/Pav%C3%A9%20300x600%20HS23_0.gif"
+                alt="Test"
+                height="600"
+                width="300"
+              />
+            </picture>
+                            </a>
+              </div>
+    </div>
+  </div>
+
+
+
+
+
+  <div class="views-element-container block block--views-block--articles-list-news-feed clearfix">
+
+  
+            <div class="h2 mb-3">Fil info</div>
+        
+
+      
+
+
+<div class="view view-articles-list view-id-articles_list view-display-id-news_feed js-view-dom-id-d5a2958db940d11dc3dbf331555aad7b8c24c6915d41b46f3ef588294b784588">
+
+	
+		
+
+	
+	
+	
+			<div class="view-content">
+			
+
+
+
+  
+
+
+
+
+
+  
+  
+  <div class="views-row">
+    
+    <div class="blue fw-bold">21/12</div>
+
+<a class="h3 d-block" href="/fr/defense/la-france-enterine-la-construction-de-son-porte-avions-de-nouvelle-generation-pa-ng-0" title="La France entérine la construction de son porte-avions de nouvelle génération (PA-NG) ">
+  La France entérine la construction de son porte-avions de nouvelle génération (PA-NG) 
+</a>
+
+</div>
+
+
+  
+  
+  <div class="views-row">
+    
+    <div class="blue fw-bold">19/12</div>
+
+<a class="h3 d-block" href="/fr/defense/lancement-du-pole-d-excellence-grands-fonds-marins-a-l-occasion-du-forum-innovation-defense-2025" title="Lancement du pôle d’excellence grands fonds marins à l’occasion du forum innovation défense 2025">
+  Lancement du pôle d’excellence grands fonds marins à l’occasion du forum innovation défense 2025
+</a>
+
+</div>
+
+
+  
+  
+  <div class="views-row">
+    
+    <div class="blue fw-bold">19/12</div>
+
+<a class="h3 d-block" href="/fr/amenagement-du-littoral/la-nouvelle-mandature-du-conseil-maritime-de-facade-mediterranee-est-officiellement-ouverte" title="La nouvelle mandature du Conseil maritime de façade Méditerranée est officiellement ouverte">
+  La nouvelle mandature du Conseil maritime de façade Méditerranée est officiellement ouverte
+</a>
+
+</div>
+
+
+  
+  
+  <div class="views-row">
+    
+    <div class="blue fw-bold">19/12</div>
+
+<a class="h3 d-block" href="/fr/defense/visite-du-vice-premier-ministre-et-du-ministre-de-la-defense-du-montenegro-sur-le-chantier-kership" title="Visite du Vice-Premier Ministre et du ministre de la Défense du Monténégro sur le chantier KERSHIP : une étape clé dans la construction des OPV 60M">
+  Visite du Vice-Premier Ministre et du ministre de la Défense du Monténégro sur le chantier KERSHIP : une étape clé dans la construction des OPV 60M
+</a>
+
+</div>
+
+
+  
+  
+  <div class="views-row">
+    
+    <div class="blue fw-bold">18/12</div>
+
+<a class="h3 d-block" href="/fr/defense/schiebel-mene-en-france-une-premiere-campagne-d-essais-du-drone-camcopter-s-300" title="Schiebel mène en France une première campagne d’essais du drone Camcopter S-300 ">
+  Schiebel mène en France une première campagne d’essais du drone Camcopter S-300 
+</a>
+
+</div>
+
+
+
+
+		</div>
+	
+	
+	
+	
+			<div class="view-footer">
+			<a class="btn btn-secondary btn-sm float-end" href="/fr/fil-info" title="Tout le fil info">Tout le fil info</a>
+		</div>
+	
+	
+</div>
+
+
+  
+  </div>
+
+  
+  
+  
+  <div id="advertising-block-middle"  class="block block--advertising-block-middle">
+    <div class="d-flex align-items-center justify-content-center grey-light-bg">
+      <div id="pub_pave_milieu" class="advertising d-flex align-items-center justify-content-center py-2" style="min-height: 250px;">
+        <div class="advertising-placeholder"></div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <div class="views-element-container block block--views-block--taxonomy-terms-list-folders clearfix">
+
+  
+            <div class="h2 mb-3">Dossiers</div>
+        
+
+      
+<div class="js-view-dom-id-7a60acd2f49875780259cc51c664043a2729ba43dcfcb070a2ae0fbe78c84ac8 view-taxonomy-terms-list">
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+      <div class="view-content d-flex flex-wrap">
+      
+
+
+
+  
+
+
+
+
+
+  
+        
+  <div class="views-row position-relative col-6 pb-5 mb-2">
+    
+
+<a class="h3 d-block" href="/fr/dossiers/marine-nationale" title="Marine nationale">
+  Marine nationale
+</a>
+
+  <div class="position-absolute bottom-0 w-100 pe-4">
+        <div class="badge rounded-0 bg-primary">5967 articles</div>
+                <div class="bottom-0 border-bottom my-2"></div>
+      </div>
+</div>
+
+
+  
+        
+  <div class="views-row position-relative col-6 pb-5 mb-2">
+    
+
+<a class="h3 d-block" href="/fr/dossiers/naval-group" title="Naval Group">
+  Naval Group
+</a>
+
+  <div class="position-absolute bottom-0 w-100 pe-4">
+        <div class="badge rounded-0 bg-primary">2125 articles</div>
+                <div class="bottom-0 border-bottom my-2"></div>
+      </div>
+</div>
+
+
+  
+        
+  <div class="views-row position-relative col-6 pb-5 mb-2">
+    
+
+<a class="h3 d-block" href="/fr/dossiers/chantiers-de-l-atlantique" title="Chantiers de l&#039;Atlantique">
+  Chantiers de l&#039;Atlantique
+</a>
+
+  <div class="position-absolute bottom-0 w-100 pe-4">
+        <div class="badge rounded-0 bg-primary">1523 articles</div>
+                <div class="bottom-0 border-bottom my-2"></div>
+      </div>
+</div>
+
+
+  
+        
+  <div class="views-row position-relative col-6 pb-5 mb-2">
+    
+
+<a class="h3 d-block" href="/fr/dossiers/emr-eolien-offshore-pose-et-flottant" title="EMR : éolien offshore posé et flottant">
+  EMR : éolien offshore posé et flottant
+</a>
+
+  <div class="position-absolute bottom-0 w-100 pe-4">
+        <div class="badge rounded-0 bg-primary">1383 articles</div>
+                <div class="bottom-0 border-bottom my-2"></div>
+      </div>
+</div>
+
+
+  
+        
+  <div class="views-row position-relative col-6 pb-5 mb-2">
+    
+
+<a class="h3 d-block" href="/fr/dossiers/pollution-en-mer-et-accidents" title="Pollution en mer et accidents">
+  Pollution en mer et accidents
+</a>
+
+  <div class="position-absolute bottom-0 w-100 pe-4">
+        <div class="badge rounded-0 bg-primary">1186 articles</div>
+                <div class="bottom-0 border-bottom my-2"></div>
+      </div>
+</div>
+
+
+  
+        
+  <div class="views-row position-relative col-6 pb-5 mb-2">
+    
+
+<a class="h3 d-block" href="/fr/dossiers/us-navy-us-coast-guard" title="US Navy / US Coast Guard">
+  US Navy / US Coast Guard
+</a>
+
+  <div class="position-absolute bottom-0 w-100 pe-4">
+        <div class="badge rounded-0 bg-primary">1095 articles</div>
+                <div class="bottom-0 border-bottom my-2"></div>
+      </div>
+</div>
+
+
+  
+        
+  <div class="views-row position-relative col-6 pb-5 mb-2">
+    
+
+<a class="h3 d-block" href="/fr/dossiers/cma-cgm" title="CMA CGM">
+  CMA CGM
+</a>
+
+  <div class="position-absolute bottom-0 w-100 pe-4">
+        <div class="badge rounded-0 bg-primary">943 articles</div>
+                <div class="bottom-0 border-bottom my-2"></div>
+      </div>
+</div>
+
+
+  
+        
+  <div class="views-row position-relative col-6 pb-5 mb-2">
+    
+
+<a class="h3 d-block" href="/fr/dossiers/port-du-havre" title="Port du Havre">
+  Port du Havre
+</a>
+
+  <div class="position-absolute bottom-0 w-100 pe-4">
+        <div class="badge rounded-0 bg-primary">920 articles</div>
+                <div class="bottom-0 border-bottom my-2"></div>
+      </div>
+</div>
+
+
+
+
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <a class="btn btn-secondary btn-sm float-end" href="/fr/dossiers">Tous les dossiers</a>
+    </div>
+  
+  
+</div>
+
+
+
+  
+  </div>
+
+
+    
+  
+
+
+
+
+                  </div>
+                              </div>
+            </div>
+          </div>
+              
+    </main>
+
+                        <div class="page__content__bottom position-relative">
+            
+
+    
+  
+
+
+
+
+        </div>
+          
+                        
+<footer class="page__footer background black-bg white">
+
+    <aside id="shop-footer" class="yellow-bg d-none">
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          Soutenez la rédaction Mer et Marine lorem ipsum ...
+        </div>
+      </div>
+    </div>
+  </aside>
+
+    <aside id="mentions" class="container py-5">
+    <div class="row">
+        
+<div id="block-custom-functions-brand-footer" class="col-12 col-md-6 block block--custom-functions--brand-footer clearfix">
+
+  
+    
+
+  
+        <div class="clearfix" style="max-width: 215px;">
+      
+
+
+  <a href="/fr" class="navbar-brand m-0 p-0 d-flex flex-column justify-content-center align-items-center " aria-label="Mer et Marine">
+            <img alt="Mer et Marine logo" class="img-fluid" src="/themes/custom/meretmarine/logo.svg" width="215" height="50" />
+
+      </a>
+
+            <div class="clearfix logo-baseline w-100">
+        <img alt="Mer et Marine, toute l'actualité maritime" class="img-fluid" loading="lazy" src="/themes/custom/meretmarine/src/img/design/logo-baseline.svg" width="225" height="17" />
+      </div>
+            <div class="clearfix my-3"></div>
+    </div>
+
+        <div class="clearfix pe-md-5 mb-4 small">
+            Le site Mer et Marine est né de la rencontre de journalistes et passionnés de la mer qui avaient toutes et tous la même envie, celle d&#039;informer au quotidien sur la mer et les communautés humaines structurées autour.
+          </div>
+
+        <div class="clearfix pe-md-5 mb-4 small white">
+      <span class="h5 fw-bold align-middle">Nous suivre </span>
+            
+
+<ul id="menu-social-networks-links-footer" class="col-12 col-md-6 menu menu-social-networks-items list-unstyled list-inline d-inline-block mb-0 ms-3">
+            <li class="menu-social-networks-item list-inline-item me-0">
+        
+<a href="https://www.facebook.com/MerEtMarine" class="nav-link px-0 mx-1" rel="noopener nofollow" target="_blank" title="Facebook Mer et Marine">
+    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="25" height="25" viewBox="0 0 32 32">
+    <path fill="white" d="M 19.253906 2 C 15.311906 2 13 4.0821719 13 8.8261719 L 13 13 L 8 13 L 8 18 L 13 18 L 13 30 L 18 30 L 18 18 L 22 18 L 23 13 L 18 13 L 18 9.671875 C 18 7.884875 18.582766 7 20.259766 7 L 23 7 L 23 2.2050781 C 22.526 2.1410781 21.144906 2 19.253906 2 z"></path>
+  </svg>
+</a>
+      </li>
+                <li class="menu-social-networks-item list-inline-item me-0">
+        
+<a href="https://fr.linkedin.com/company/meretmarine" class="nav-link px-0 mx-1" rel="noopener nofollow" target="_blank" title="LinkedIn Mer et Marine">
+    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="25" height="25" viewBox="0 0 32 32">
+    <path fill="white" d="M26.111,3H5.889c-1.595,0-2.889,1.293-2.889,2.889V26.111c0,1.595,1.293,2.889,2.889,2.889H26.111c1.595,0,2.889-1.293,2.889-2.889V5.889c0-1.595-1.293-2.889-2.889-2.889ZM10.861,25.389h-3.877V12.87h3.877v12.519Zm-1.957-14.158c-1.267,0-2.293-1.034-2.293-2.31s1.026-2.31,2.293-2.31,2.292,1.034,2.292,2.31-1.026,2.31-2.292,2.31Zm16.485,14.158h-3.858v-6.571c0-1.802-.685-2.809-2.111-2.809-1.551,0-2.362,1.048-2.362,2.809v6.571h-3.718V12.87h3.718v1.686s1.118-2.069,3.775-2.069,4.556,1.621,4.556,4.975v7.926Z"></path>
+  </svg>
+</a>
+      </li>
+                <li class="menu-social-networks-item list-inline-item me-0">
+        
+<a href="https://bsky.app/profile/meretmarine.bsky.social" class="nav-link px-0 mx-1" rel="noopener nofollow" target="_blank" title="Bluesky Mer et Marine">
+    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="25" height="25" viewBox="0 0 32 32">
+    <path fill="white" d="M23.931,5.298c-3.21,2.418-6.663,7.32-7.931,9.951-1.267-2.631-4.721-7.533-7.931-9.951-2.316-1.744-6.069-3.094-6.069,1.201,0,.857,.49,7.206,.778,8.237,.999,3.583,4.641,4.497,7.881,3.944-5.663,.967-7.103,4.169-3.992,7.372,5.908,6.083,8.492-1.526,9.154-3.476,.123-.36,.179-.527,.179-.379,0-.148,.057,.019,.179,.379,.662,1.949,3.245,9.558,9.154,3.476,3.111-3.203,1.671-6.405-3.992-7.372,3.24,.553,6.882-.361,7.881-3.944,.288-1.031,.778-7.38,.778-8.237,0-4.295-3.753-2.945-6.069-1.201Z"></path>
+  </svg>
+</a>
+      </li>
+      </ul>
+    </div>
+
+        <div class="clearfix pe-md-5 pb-4">
+      <div class="h3 mb-0 large">
+        Ne rien manquer de l'actualité maritime
+      </div>
+      <a class="mb-2 fs-6 fw-bold" href="/fr/newsletter/inscription" title="Inscrivez-vous à notre newsletter">
+        <span class="blue">
+          Inscrivez-vous à notre newsletter
+          <span class="material-symbols-outlined align-middle">
+            arrow_circle_right
+          </span>
+        </span>
+      </a>
+    </div>
+
+        <div class="clearfix pe-md-5 mb-4">
+      <a class="d-block col-6 col-md-3 col-lg-4" href="https://www.groupe-telegramme.com/" rel="noopener nofollow" target="_blank" title="Groupe Télégramme">
+        <img class="img-fluid" src="/themes/custom/meretmarine/src/img/design/telegramme-groupe-logo.svg" width="370" height="100" alt="Logo Groupe Télégramme" />
+      </a>
+    </div>
+
+  
+</div>
+
+  <div class="col-12 col-md-3 col-lg-2 mb-4 block block--menu-footer block--system-menu">
+
+  
+    
+
+            
+  
+
+
+  <ul class="nav">
+                          
+                
+        <li class="nav-item">
+                      <a href="/fr/qui-sommes-nous" class="nav-link" data-drupal-link-system-path="node/6641">Qui sommes nous ?</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="/fr/mentions-legales" class="nav-link" data-drupal-link-system-path="node/6642">Mentions légales</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="https://privacy.meretmarine.com/fr/policy" class="nav-link">Politique de confidentialité</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="/fr/foire-aux-questions" class="nav-link" data-drupal-link-system-path="node/6643">Foire aux questions</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="/fr/conditions-generales-d-utilisation" class="nav-link" data-drupal-link-system-path="node/6639">CGU</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="/fr/conditions-generales-de-vente" class="nav-link" data-drupal-link-system-path="node/6640">CGV</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="/fr/nous-contacter" class="nav-link" data-drupal-link-system-path="webform/contact">Contact</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="/manage-cookies" id="manage-cookies-link" title="Manage cookies preferences." class="nav-link">Gérer les cookies</a>
+                  </li>
+            </ul>
+
+
+      
+  </div>
+
+<div id="block-custom-functions-groupe-letelegramme-menu" class="block block--custom-functions--groupe-letelegramme-menu clearfix col-12 col-md-3 my-2">
+
+  
+    
+
+  
+  <div class="row">
+
+    <div class="col-6">
+
+            <div class="h5"><span class="fw-bold blue">Medias &amp Pro</span></div>
+      <ul class="list-unstyled">
+        <li><a href="https://www.bretagne-magazine.fr/" rel="noopener nofollow" target="_blank" title="Bretagne Magazine">Bretagne Magazine</a></li>
+        <li><a href="https://www.bretagne-marchespublics.com/" rel="noopener nofollow" target="_blank" title="Bretagne Marchés Publics">Bretagne Marchés Publics</a></li>
+        <li><a href="https://www.letelegramme.fr/tourisme/" rel="noopener nofollow" target="_blank" title="Tourisme en Bretagne">Tourisme en Bretagne</a></li>
+        <li><a href="https://essence-moins-chere.letelegramme.fr" rel="noopener nofollow" target="_blank" title="Essence Moins Chère">Essence Moins Chère</a></li>
+        <li><a href="https://www.lemensuel.com/rennes" rel="noopener nofollow" target="_blank" title="Le Mensuel de Rennes">Le Mensuel de Rennes</a></li>
+        <li><a href="https://www.letelegramme.fr" rel="noopener nofollow" target="_blank" title="Le Télégramme">Le Télégramme</a></li>
+        <li><a href="https://randonnee.letelegramme.fr/" rel="noopener nofollow" target="_blank" title="Randonnée en Bretagne">Randonnée en Bretagne</a></li>
+        <li><a href="https://www.regions-annonceslegales.com" rel="noopener nofollow" target="_blank" title="Régions Annonces Légales">Régions Annonces Légales</a></li>
+        <li><a href="https://www.tebeo.bzh" rel="noopener nofollow" target="_blank" title="Tébéo">Tébéo Tébésud</a></li>
+        <li><a href="https://plages.letelegramme.fr/" rel="noopener nofollow" target="_blank" title="Tous à la plage !">Tous à la plage !</a></li>
+        <li><a href="https://www.blogdumoderateur.com/" rel="noopener nofollow" target="_blank" title="Blog du Modérateur">Blog du Modérateur</a></li>
+        <li><a href="https://www.diverto.tv" rel="noopener nofollow" target="_blank" title="Diverto">Diverto</a></li>
+      </ul>
+
+            <div class="h5"><span class="fw-bold blue">Sports</span></div>
+      <ul class="list-unstyled">
+       <li><a href="https://footamateur.letelegramme.fr" rel="noopener nofollow" target="_blank" title="Foot Amateur Bretagne">Foot Amateur Bretagne</a></li>
+        <li><a href="https://www.ocsport.com" rel="noopener nofollow" target="_blank" title="OC Sport Pen Duick">OC Sport Pen Duick</a></li>
+        <li><a href="https://www.routedurhum.com/fr" rel="noopener nofollow" target="_blank" title="Route du rhum">Route du Rhum - Destination Guadeloupe</a></li>
+        <li><a href="https://www.lasolitaire.com" rel="noopener nofollow" target="_blank" title="La Solitaire du Figaro PAPREC">La Solitaire du Figaro PAPREC</a></li>
+      </ul>
+
+    </div>
+
+    <div class="col-6">
+
+            <div class="h5"><span class="fw-bold blue">Corporate</span></div>
+      <ul class="list-unstyled">
+        <li><a href="https://www.groupe-telegramme.com" rel="noopener nofollow" target="_blank" title="Groupe Télégramme">Groupe Télégramme</a></li>
+        <li><a href="https://www.hellowork-group.com/fr/" rel="noopener nofollow" target="_blank" title="HelloWork Group">HelloWork Group</a></li>
+        <li><a href="https://www.viamedia-publicite.com" rel="noopener nofollow" target="_blank" title="Viamedia">Viamedia</a></li>
+        <li><a href="https://www.rivacom.fr" rel="noopener nofollow" target="_blank" title="Rivacom">Rivacom</a></li>
+        <li><a href="https://bright-by-rivacom.fr" rel="noopener nofollow" target="_blank" title="Bright By Rivacom">Bright By Rivacom</a></li>
+      </ul>
+
+            <div class="h5"><span class="fw-bold blue">Emploi &amp Education</span></div>
+      <ul class="list-unstyled">
+        <li><a href="https://www.hellowork.com/fr-fr/" rel="noopener nofollow" target="_blank" title="HelloWork">HelloWork</a></li>
+        <li><a href="https://basile.io/" rel="noopener nofollow" target="_blank" title="Basile">Basile</a></li>
+        <li><a href="https://diplomeo.com/" rel="noopener nofollow" target="_blank" title="Diplomeo">Diplomeo</a></li>
+        <li><a href="https://www.jobijoba.com/fr/" rel="noopener nofollow" target="_blank" title="JobiJoba">JobiJoba</a></li>
+        <li><a href="https://www.maformation.fr" rel="noopener nofollow" target="_blank" title="MaFormation">MaFormation</a></li>
+        <li><a href="https://www.seekube.com" rel="noopener nofollow" target="_blank" title="Seekube">Seekube</a></li>
+        <li><a href="https://smartforum.hellowork.com/" rel="noopener nofollow" target="_blank" title="SmartForum">SmartForum</a></li>
+      </ul>
+
+            <div class="h5"><span class="fw-bold blue">Partenaires</span></div>
+      <ul class="list-unstyled">
+        <li><a href="https://www.euronaval.com" rel="noopener nofollow" target="_blank" title="Euronaval">Euronaval</a></li>
+        <li><a href="https://www.navexpo.com/fr" rel="noopener nofollow" target="_blank" title="Navexpo">Navexpo</a></li>
+        <li><a href="https://nor-shipping.com" rel="noopener nofollow" target="_blank" title="Norshipping">Norshipping</a></li>
+        <li><a href="https://portsetcorridors.com" rel="noopener nofollow" target="_blank" title="Ports et corridors">Ports et corridors</a></li>
+      </ul>
+
+    </div>
+
+  
+</div>
+
+
+    </div>
+  </aside>
+
+</footer>          
+  </div>
+
+
+  </div>
+
+                <div class="modal fade" id="modal-search" aria-hidden="true" aria-labelledby="modal-search" style="background-color: white; opacity: 0.9;" tabindex="-1">
+      <div class="modal-dialog modal-dialog-centered modal-fullscreen">
+        <div class="modal-content bg-none border-0">
+            
+
+
+  <div class="block block--custom-functions--search-quick-block clearfix">
+
+  
+    
+
+      <div id="react-app-search-quick"></div>
+  
+  </div>
+
+
+        </div>
+      </div>
+    </div>
+    <script src="/sites/default/files/js/js_BgSyYBaLD9ZQDWCSzYY0Xga7ytF1vVC3tY1NUg6h3FI.js?scope=footer&amp;delta=0&amp;language=fr&amp;theme=meretmarine&amp;include=eJxli0kOwjAMRS9UKUeyvhxDDUma2k6r3B7YUXX7BuRDLNS1PZPsA6HHwsNjq_QYjUO35ikjUDDF7qpjnihlqWISFaZNEnLWn0UhdqeX0yrI3_s_MgEHoXdygfFK-1B-XxKPWeRC4tQIsQ_n40i1" type="9e5958466125edcb1d491a3e-text/javascript"></script>
+<script src="//platform.twitter.com/widgets.js" type="9e5958466125edcb1d491a3e-text/javascript"></script>
+
+  <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="9e5958466125edcb1d491a3e-|49" defer></script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9b7aa75f5d6b154c',t:'MTc2NzM2MTA3Ny4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

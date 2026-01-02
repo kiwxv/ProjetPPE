@@ -1,0 +1,2263 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<title>Flåte - Seilspesialisten.no</title>
+
+  	
+  	
+  	<script type="text/javascript">
+      var currentPage = 'category.php';
+            var categoryTreeTopLevel = 120;
+      
+
+    // Making language accessible
+      var current_lang_code = 'no';
+      var current_currency_code = 'NOK';
+
+      var languages = {
+        sort: 'Sorter produkter ',
+        manufacturer: 'Produsenter',        addedToCart: 'Varen ble lagt til i handlekurven din!'
+      }
+      var customer_group = "";
+
+  	</script>
+
+  	
+  	        <meta property="og:title" content="Flåte - Seilspesialisten.no" />
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="/users/seilspesialisten_mystore_no/logo/Header01.09.186.jpg" />
+    
+	
+
+
+<link rel="canonical" href="https://www.seilspesialisten.no/categories/flate">
+                
+<meta name="description" content="Seilspesialisten best på seilutstyr, båtutstyr og sikkerhetsutstyr">
+
+
+            <meta name="csrf-token" content="4_yZ30eHFIqmm0UUGz9Tv786InRnuAOclyq04b0G9Y" />
+    
+
+<base href="//www.seilspesialisten.no">
+
+
+<link type="text/css" rel="stylesheet" href="global.css.php?version=a1733324374&amp;host=seilspesialisten_mystore_no" />
+<link type="text/css" rel="stylesheet" href="/css/ck4.css" />
+
+
+<script>
+	var params = {
+        load_fancybox:'1',
+        is_checkout:'0',
+        defaultLang: 'no',
+        langCode: ''
+    };
+</script>
+
+
+
+            <script type="text/javascript" src="https://seilspesialisten-i01.acendycdn.com/production/assets/localization/781592fc906423adb1885cb926ae54d23f6254a2-nb-NO.js?v=4.2025.12.31.01"></script>
+    
+
+<script type="text/javascript" src="global.js.php?version=1733324374&amp;v2&amp;host=seilspesialisten_mystore_no"></script>
+
+
+
+	<link rel="shortcut icon" type="image/x-icon" href="/users/seilspesialisten_mystore_no/logo/favicon9.ico">
+
+
+
+	
+
+
+
+	            <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+                <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+    
+<script>
+    let anonip = '';
+
+    
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+    
+
+    gtag('js', new Date());
+
+    </script>
+
+            <script>
+            gtag('config', '', {
+                anonymize_ip: anonip === 'true' ? true : false,
+            });
+        </script>
+                <script>
+            gtag('config', '', {
+                anonymize_ip: anonip === 'true' ? true : false,
+                
+            });
+        </script>
+    <script type="text/javascript">
+    
+        
+        gtag('event', 'view_item_list', {"items":[{"item_id":"383","item_name":"Redningsfl\u00e5te ISO 9650-1 ...","quantity":0,"category":"Category","list_name":"Category","list_position":1}]})
+    
+</script>
+
+	
+	
+
+
+    
+                    <script>
+        var _CrallConfig = {
+            features:{
+                recommendations:{
+                    usePreload:true,
+                                    },
+                                reviews:{}
+            },
+            pk:13470
+        };
+
+        function renderNativeMystoreProducts(elm, products, callback) {
+            console.log("Reccomendations hook triggered");
+            var products = products.products;
+
+            if (products.length > 0){
+                $.post('/product_box.php?action=crall', { action: 'crall', data: JSON.stringify(products) }, function(resp){
+                    var $products_html = $('<div class="products-injected products-list row">' + resp + '</div>');
+                    var cssClasses = 'col-6 col-md-4 col-lg-4 col-xl-2 plr5';
+
+                    if (typeof customCrallClasses == 'function') {
+                        cssClasses = customCrallClasses();
+                    }
+
+                    $products_html.find('.product-box').wrap('<div class="'+ cssClasses +'"></div>');
+
+                    $(elm).html($products_html);
+                    $('.products-injected .lazyloaded').lazyload();
+
+                    if (typeof crallProductsHook === 'function'){
+                        crallProductsHook('loaded', elm, callback, products);
+                    }
+                });
+            }
+        }
+
+        function renderNativeMystoreSarch(elm, data, callback) {
+            console.log("REACT Native search");
+            if (data.products.length > 0){
+                $.post('/product_box.php?action=crall', { action: 'crall', data: JSON.stringify(data.products) }, function(resp){
+                    var $products_html = $('<div class="col-md-12"><div class="products-injected products-list row">' + resp + '</div></div>');
+                    var cssClasses = 'col-6 col-md-4 col-lg-4 col-xl-2 plr5';
+
+                    if (typeof customSeachCrallClasses == 'function') {
+                        cssClasses = customSeachCrallClasses();
+                    }
+
+                    $products_html.find('.product-box').wrap('<div class="'+ cssClasses +'"></div>');
+
+                    $('.crall-search-filter-right > .crall-search-product-result').html($products_html);
+                    $('.products-injected .lazyloaded').lazyload();
+
+                    if (typeof crallSearchProductsHook === 'function'){
+                        crallSearchProductsHook('loaded', elm, callback, data.products);
+                    }
+                });
+            }
+
+        }
+        </script>
+
+        <script type="text/javascript">(function(){
+                var cc=document.createElement('script');cc.type='text/javascript';cc.async=true;cc.src='https://cdn.crall.io/w/widgets.js?v=4';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(cc, s);})();
+        </script>
+        
+    <script type="text/javascript">var __crallEmail='';var __crall_id=13470; (function(){
+            var cc=document.createElement('script');cc.type='text/javascript';cc.async=true;cc.src='https://cdn.crall.io/t/client.js?v=4';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(cc, s);})();
+    </script>
+    
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+
+    <script defer src="templates/global/mystore/emojis.js?v=6"></script>
+
+
+
+
+    <script type="text/javascript">
+                if (typeof $ !== 'undefined' && typeof $.ajaxSetup === 'function') {
+            $.ajaxSetup({
+                headers: {
+                    'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+                }
+            });
+        }
+
+                    </script>
+
+  	<link rel="stylesheet" href="/templates/newyork/css/stylesheet_default_extended.css">
+
+    <script src="/templates/newyork/js/swiper.min.js"></script>
+    <link href="/templates/newyork/css/swiper.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
+  	
+    
+              <link rel="stylesheet" href="users/seilspesialisten_mystore_no/templates/custom_stylesheet.css?v=1767361003">
+    	  <style type="text/css">
+    .klarna-widget { height: 90px !important;}
+    .sidebar .box-leftbar > h3 {
+    	/* border-bottom: 1px solid #e5e5e5; */
+      	    }
+
+    .sidebar .ls-categories h3, .sidebar .ls-categories > .blocky a {
+      display: block;
+      padding-bottom: 4px;
+      padding-top: 10px;
+      color: #1d1d1d;
+      font-weight: normal;
+    }
+            .sidebar .ls-categories .level_one .show_dropdown { padding: 0;}
+
+    .sidebar .ls-categories .dropcontent { padding: 0 0 0 30px;}
+    .sidebar .ls-categories > .blocky { overflow: hidden;}
+    .sidebar .ls-categories > .blocky a {
+      text-transform: capitalize;
+    }
+    .sidebar .ls-categories h4 {
+      margin: 0;
+    }
+    .sidebar .ls-categories > .blocky a:hover {
+                }
+    .ls-shoppingcart .button_cart_widget, .ls-shoppingcart div.fleft {
+      border: 1px solid #000;
+            display: inline-block;
+      padding: 10px;
+      width: 49%;
+      text-align: center;
+    }
+    .ls-shoppingcart .top-list { margin-bottom: 20px; padding: 0 15px;}
+    .ls-shoppingcart .top-list > div { border-bottom: 1px solid #e5e5e5; padding: 10px 0;}
+    .ls-shoppingcart div a { color: #000;}
+    .ls-shoppingcart .top-list > div {
+          }
+    .ls-shoppingcart .top-list a {
+          }
+    .ls-shoppingcart .top-list a:hover {
+          }
+    .ls-shoppingcart .button_cart_widget, .ls-shoppingcart div.fleft {
+          }
+    .ls-shoppingcart .button_cart_widget:hover, .ls-shoppingcart div.fleft:hover {
+          }
+    .ls-shoppingcart .button_cart_widget a, .ls-shoppingcart div.fleft a {
+          }
+    .ls-shoppingcart .button_cart_widget:hover a, .ls-shoppingcart div.fleft:hover a {
+          }
+    .ls-shoppingcart .total_amount {
+                  padding: 0 10px;
+    }
+    .product .product-meta .brand-name {
+    	font-size: 24px;    	color: #363241;    }
+
+    /* Categories Widget */
+    .ls-categories-ajax.widget.widget-categories .showleftmenu > ul > li { display: block !important; }
+   	.ls-categories-ajax.widget.widget-categories ul.submenu { display: none; padding-left: 15px; }
+
+    .ls-categories.ls-categories-alternative li a { display: block; padding: 15px 15px; }
+    .widget.sidebar .login-boxes form > p, .widget.sidebar .newsletter-widget form > div > p, .box-leftbar.search-widget > form > p { float: left; width: 50%; }
+
+	select { color: #333; }
+
+    .ls-categories-alternative li.level0,
+    .ls-categories-alternative li.level0 a {
+      background-color: #fafafa;
+    }
+    .ls-categories-alternative li.level1,
+    .ls-categories-alternative li.level1 a,
+    .ls-categories-alternative li.level2,
+    .ls-categories-alternative li.level2 a,
+    .ls-categories-alternative li.level3,
+    .ls-categories-alternative li.level3 a{
+      background-color: #d7d7d7;
+    }
+    .ls-categories-alternative li.selected,
+    .ls-categories-alternative li.selected a {
+      background: #000;
+      color: #fff !important;
+    }
+    .ls-categories-alternative li.level1.selected,
+    .ls-categories-alternative li.level1.selected a {
+      background: #1b1b1b;
+    }
+    .ls-categories-alternative li.level2.selected,
+    .ls-categories-alternative li.level2.selected a {
+      background: #333;
+    }
+    .ls-categories-alternative li.level3.selected,
+    .ls-categories-alternative li.level3.selected a {
+      background: #656565;
+    }
+    #currencies { margin-left: 10px; }
+    .product_box_tag span{
+      font-size: 11px;
+      display: block;
+      margin: 5px;
+    }
+    #footer .newsletter-widget p {
+      display: inline-block;
+    }
+    #footer .newsletter-widget p input{
+      padding: 10px;
+    }
+    #footer .newsletter-widget p .button {
+      box-shadow: none;
+      font-size: 10px;
+      padding: 15px 10px 13px 10px;
+
+        background-color: #777255;
+        color: #ffffff !important;
+        border: 1px solid #777255;
+    }
+
+    #footer .newsletter-widget p .button:hover {
+        background-color: #47442f;
+        color: #ffffff !important;
+        border-color: #47442f
+    }
+
+    #footer .flat_menu li {
+      display: block;
+    }
+    #footer .box-leftbar ul li:last-child > a { border: none;}
+    .newsletter-widget form p { /* width: 50%; float: left;*/}
+    .newsletter-widget form p input[value="Email"] { width: 100%; color: #a2a2a2;min-width: 240px;}
+    @media screen and (max-width: 500px) {
+      #footer .footer-widgets > div {
+        width: 100%;
+      }
+    }
+    @media (min-width: 768px) and (max-width: 992px){
+      .footer-widgets > div {
+        width: 33.33% !important;
+      }
+    }
+
+    
+    /* Simple cart */
+    .checkout-cart > .cart_content {
+      position: absolute;
+      right: 15px;
+      width: 345px;
+      padding: 20px 20px;
+      background: #fff;
+      z-index: 100;
+      box-shadow: 0 0 6px 1px rgba(0,0,0,0.1);
+      display: none;
+    }
+
+    .checkout-cart > .cart_content .cart-product-wrapper {
+      max-height: 320px;
+      overflow-y: auto;
+      overflow-x: hidden;
+    }
+
+    .checkout-cart > .cart_content .cart-product-wrapper .product {
+      margin-bottom: 10px;
+    }
+
+    .checkout-cart.cart-opened > .cart_content {
+      display: block;
+    }
+    .checkout-cart > .cart_content .row .col-md-2 {
+      padding: 0;
+    }
+   	.checkout-cart > .cart_content .row .col-md-10 {
+   		text-align: left;
+    }
+    #mobile_cart .cart_content {
+      display: none;
+      max-height: 415px;
+      overflow-y: auto;
+      overflow-x: hidden;
+    }
+    #mobile_cart .cart_content:hover {
+      display: block !important;
+    }
+    #mobile_cart.cart-opened .cart_content {
+      display: block;
+    }
+    #mobile_cart.cart-opened .product {
+      padding-top: 5px;
+    }
+    #mobile_cart.cart-opened .product:nth-child(even){
+      background-color: #f5f5f5;
+    }
+    #mobile_cart.cart-opened .product .col-md-2 {
+      float: left;
+      width: 20%;
+    }
+    #mobile_cart.cart-opened .product .col-md-2 a {
+    	padding: 0 !important;
+    }
+    #mobile_cart.cart-opened .product .col-md-2 img {
+      max-width: 100%;
+      height: auto;
+    }
+    #mobile_cart.cart-opened .product .col-md-10 {
+      float: left;
+      width: 80%;
+      text-align: left;
+      padding: 0 !important;
+    }
+    #mobile_cart .price {
+      display: inline-block;
+    }
+    #mobile_cart .col-xs-8,
+    #mobile_cart .col-xs-4 {
+      padding: 0 !important;
+    }
+    #mobile_cart .quantity_changer a {
+      padding: 5px !important;
+    }
+    .fb_iframe_widget,
+    .fb_iframe_widget span,
+    .fb_iframe_widget span iframe {
+      max-width: 100%;
+    }
+    .products_list li .product .discount-corner.additional_ribbon_class {
+          top: 40px;
+    	left: -58px !important;
+    }
+    .products_list li .product .discount-corner.additional_ribbon_class span {
+          min-width: 142px;
+    }
+
+    @media (max-width: 500px){
+      .products_list li .product .discount-corner.additional_ribbon_class {
+          top: 20px;
+          left: -81px !important;
+      }
+    }
+   	.swiper-slide img,
+    .banner_image img{
+      width: 100%;
+    }
+    .flex-direction-nav a:before {
+    content: '\f001';
+}
+    .flex-direction-nav a.flex-next:before {
+        content: '\f002';
+    }
+
+    .main_menu .checkout-cart .btn {
+      clear: none;
+    }
+    #slider {
+      height: auto !important;
+    }
+      	</style>
+
+	  <!-- Template settings style -->
+     <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
+    <style>
+      body {
+        font-family: 'Arvo', sans-serif !important;
+      }
+    </style>
+                                	  <style>
+  /* AJAX SEARCH */
+
+.search-main .input-group {
+  padding-bottom: 15px;
+}
+
+#search-down-wrapper,
+#search-down-wrapper-2 {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 100;
+    background-color: #f7f7f7;
+  width: 100%;
+  box-shadow: 0 0 8px 0 rgba(0,0,0,.5);
+    min-width: 450px;
+
+}
+
+#search-down-wrapper-2 {
+  left: -80px;
+  top: 46px;
+}
+#search-down-wrapper:before,
+#search-down-wrapper-2:before {
+    content: '';
+    position: absolute;
+    left: 15px;
+    top: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 10px 15px 10px;
+    border-color: transparent transparent #f7f7f7 transparent;
+    z-index: 100;
+    top: -13px;
+}
+#search-down-wrapper-2:before {
+    left: 80px;
+}
+#search-down-wrapper:after,
+#search-down-wrapper-2:after{
+    content: '';
+    position: absolute;
+    left: 15px;
+    top: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 10px 15px 10px;
+    border-color: transparent transparent rgba(196, 196, 196, 0.5) transparent;
+    z-index: 1;
+    top: -15px;
+}
+#search-down-wrapper-2:after {
+  left: 80px;
+}
+
+#search-down-wrapper .left_part,
+#search-down-wrapper-2 .left_part {
+  float: left;
+  max-width: 150px;
+  padding: 10px 5px;
+  box-sizing: border-box;
+  width: 100%;
+
+  max-height: 533px;
+  overflow: auto;
+}
+#search-down-wrapper .left_part ul li,
+#search-down-wrapper-2 .left_part ul li {
+  font-size: 12px;
+  line-height: 1.8;
+  color: #000;
+}
+#search-down-wrapper .left_part ul li a,
+#search-down-wrapper-2 .left_part ul li a {
+  color: #000;
+}
+#search-down-wrapper .right_part,
+#search-down-wrapper-2 .right_part {
+  margin-left: 150px;
+  background-color: #fff;
+  padding: 10px 5px;
+  box-sizing: border-box;
+  border-left: 1px solid #ececec;
+}
+
+#search-down-wrapper-2 {
+  max-width: 380px;
+  background: #fff;
+}
+#search-down-wrapper-2 .left_part {
+  display: none !important;
+}
+#search-down-wrapper-2 .right_part {
+  width: 100%;
+  margin-left: 0;
+}
+
+#search-down-wrapper .right_part .search_result > li,
+#search-down-wrapper-2 .right_part .search_result > li {
+  float: left;
+  width: 50%;
+  text-align: center;
+  margin-bottom: 20px;
+}
+#search-down-wrapper-2 .right_part .search_result > li {
+  width: 100%;
+}
+#search-down-wrapper-2 .right_part .search_result > li img {
+  float: left;
+}
+#search-down-wrapper-2 .right_part .search_result > li .fleft {
+  margin-left: 10px;
+  text-align: left;
+  font-size: 12px;
+}
+#search-down-wrapper-2 .right_part .search_result {
+  max-height: 300px;
+  overflow: auto;
+}
+#search-down-wrapper-2 .right_part .search_result > li span {
+  margin-left: 60px;
+}
+
+#search-down-wrapper .right_part .search_result > li span,
+#search-down-wrapper-2 .right_part .search_result > li span {
+  display: block;
+}
+#search-down-wrapper .right_part h3,
+#search-down-wrapper .left_part h3,
+#search-down-wrapper-2 .right_part h3,
+#search-down-wrapper-2 .left_part h3 {
+  font-size: 12px;
+  margin-top: 0;
+}
+ul.search_result:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+#search-down-wrapper .searchtotal,
+#search-down-wrapper-2 .searchtotal {
+  text-align: center;
+  background-color: #fff;
+      border-top: 1px solid #ececec;
+  padding: 5px;
+}
+
+@media (max-width: 1200px){
+  #search-down-wrapper .right_part .search_result > li {
+    /*width: 100%;*/
+  }
+}
+
+/* AJAX SEARCH  END */
+  .header_full_wrapper.floating_header ul.menu_dropdown > li.pull-right.tax-switcher {
+    margin-top: 10px;
+  }
+  .product-tabs .nav.nav-tabs > li {
+    color: #333;
+    background-color: #f5f5f5;
+    border-color: #ddd;
+    position: relative;
+    text-transform: uppercase;
+  }
+  .product-tabs .nav.nav-tabs > li > a {
+    line-height: 1.9;
+    margin-right:0;
+  }
+  .tab-content > .tab-pane {
+    background-color: #fff;
+    border: 1px solid #d7d7d7;
+    border-top: 0;
+  }
+
+        	body .page-wrapper {
+          background-color: #fff;
+        }
+        .menu_dropdown .tax-switcher a { padding: 5px !important; }
+    body {
+      -webkit-overflow-scrolling: initial !important;
+    }
+    .js-filter-wrapper {
+      max-width: 100%;
+    }
+    
+    .languages_list a {
+      padding-left: 10px;
+    }
+    .languages_list a.selected {
+      opacity: 0.6;
+    }
+    .floating_header .main_menu .user-control{
+      padding-top: 4px;
+      padding-bottom: 4px;
+    }
+    .floating_header .header{
+      display: none;
+    }
+    .product .product-meta .title, .product .product-meta .price {
+      float: none;
+      width: 100%;
+      text-align: center;
+    }
+    .product .product-meta .price {
+      margin-top: 5px;
+    }
+    .main_menu .checkout-cart .cart-icon {
+      top: 28px;
+    }
+    iframe {
+      max-width: 100%;
+    }
+    
+    .panel.panel-default ul {
+    	margin-left: 15px;
+    }
+    .panel.panel-default ul li {
+    	list-style: initial;
+    }
+    
+    /*******************************/
+    /* Find and change this in css */
+    .products_list .product .image {
+      position: relative;
+    }
+    .products_list .product .image img {
+      display: inline-block;
+      max-width: 98%;
+      padding: 0;
+      overflow: hidden;
+    }
+    .product .product-meta {
+      margin: 0;
+    }
+    .attribute_info_container {
+      bottom: 0;
+    }
+    .prbox-artnr {
+      height: auto;
+    }
+    .products_list .product .image {
+      overflow: hidden;
+    }
+    .products_list .product .image img {
+      max-height: none !important;
+    }
+    .productpage-slider .flex-viewport {
+      height: auto !important;
+    }
+    /* Define early */
+    .col-lg-1 .image { height: 118px !important; }
+    .col-lg-2 .image { height: 234px !important; }
+    .col-lg-3 .image { height: 350px !important; }
+    .col-lg-4 .image { height: 467px !important; }
+    .col-lg-5 .image { height: 584px !important; }
+    .col-lg-6 .image, .col-lg-12 .image { height: 700px !important; }
+
+    .col-md-9.main-page-section .col-lg-1 .image { height: 98px !important; }
+    .col-md-9.main-page-section .col-lg-2 .image { height: 144px !important; }
+    .col-md-9.main-page-section .col-lg-3 .image { height: 197px !important; }
+    .col-md-9.main-page-section .col-lg-4 .image { height: 327px !important; }
+    .col-md-9.main-page-section .col-lg-5 .image { height: 364px !important; }
+    .col-md-9.main-page-section .col-lg-6 .image, .col-md-9.main-page-section .col-lg-12 .image { height: 500px !important; }
+
+    
+    .products_list .product .image.wider_state img {
+      width: 100%;
+      height: auto;
+    }
+    .products_list .product .image.equal_state img {
+      width: 100%;
+      height: auto;
+    }
+    .products_list .product .image.higher_state img {
+      width: auto;
+      max-height: 100% !important;
+    }
+    @media (min-width: 993px) and (max-width: 1199px){
+      .col-sm-3 .image {
+        height: 250px !important;
+      }
+      .col-sm-4 .image {
+        height: 332px !important;
+      }
+      .col-sm-6 .image {
+        height: 496px !important;
+      }
+      .col-sm-12 .image {
+        height: 900px !important;
+      }
+    }
+    @media (min-width: 768px) and (max-width: 992px){
+      .col-sm-3 .image {
+        height: 215px !important;
+      }
+      .col-sm-4 .image {
+        height: 215px !important;
+      }
+      .col-sm-6 .image {
+        height: 215px !important;
+      }
+      .col-sm-12 .image {
+        height: 215px !important;
+      }
+      .products_list .col-sm-12 .product .image.wider_state img,
+      .products_list .col-sm-6 .product .image.wider_state img {
+        width: auto;
+        height: auto;
+        max-height: 100% !important;
+      }
+    }
+
+    @media (max-width: 992px){
+      .products_list .product .image.equal_state img {
+		    max-height: 100% !important;
+        width: auto;
+      }
+    }
+    @media (max-width: 768px){
+      .col-xs-6 .image {
+        height: 250px !important;
+        overflow: hidden;
+      }
+      .products_list .col-xs-12 .product .image.wider_state img,
+      .products_list .col-xs-6 .product .image.wider_state img {
+        width: auto;
+        height: auto;
+        max-height: 100% !important;
+      }
+    }
+    @media (max-width: 500px){
+      .products_list .product .image.higher_state img {
+		    height: auto;
+        width: auto;
+      }
+      .col-xs-6 .image {
+        height: 200px !important;
+      }
+    }
+    @media (max-width: 450px){
+      .products_list .product .image img {
+        max-width: 97%;
+      }
+      #cartDrawer .bottom-content .price.singular-price {
+        clear: both;
+        display: block !important;
+        text-align: left;
+      }
+    }
+    @media (min-width: 451px){
+      #cartDrawer .bottom-content .price.singular-price {
+        display: inline-block;
+        margin-right: 5px;
+        text-align: left;
+      }
+    }
+    @media (max-width: 380px){
+      .products_list .product .image img {
+        max-width: 96%;
+      }
+    }
+    @media (max-width: 360px){
+      .products_list .product .image img {
+        max-width: 96%;
+      }
+    }
+    /* Define */
+    .paginate_left a,
+    .paginate_left .paginator_current_page,
+    .paginate_left > span {
+      border: 1px solid #d7d7d7;
+      background: #fff;
+      padding: 10px 10px;
+      min-width: 40px;
+      text-align: center;
+      margin: 0 5px 0 0;
+    }
+    .paginate_left .paginator_current_page,
+    .paginate_left > span {
+      background: #d7d7d7;
+      display: inline-block;
+      border-radius: 3px;
+    }
+
+    /* End of css that should be moved */
+
+          
+    #collapseTwo ul {
+      margin-left: 0;
+    }
+    #collapseTwo ul li {
+      list-style: none;
+    }
+    .attribute_type_checkbox {
+      clear: both;
+      margin-bottom: 10px;
+    }
+    .attribute_type_checkbox > .attribute_title {
+      display: inline-block;
+    }
+    .attribute_type_checkbox > input[type='checkbox'] {
+      float: left;
+      margin-right: 5px;
+    }
+    
+    @media (max-width: 992px){
+      .front-image {
+        margin: 0 !important;
+      }
+    }
+    
+    .page-wrapper .container.image-row, .page-wrapper .banners-index-row-two { margin-bottom: 35px; }
+    /* Logo size */
+    .logo a img { max-height: 90px; }
+  
+    /* Docked header */
+          @media (min-width: 992px){
+        .header_full_wrapper {
+          position: fixed;
+          left: 0;
+          -webkit-transition: left 0.5s cubic-bezier(0.75, 0.03, 0.52, 1);
+          -moz-transition: left 0.5s cubic-bezier(0.75, 0.03, 0.52, 1);
+          -ms-transition: left 0.5s cubic-bezier(0.75, 0.03, 0.52, 1);
+          -o-transition: left 0.5s cubic-bezier(0.75, 0.03, 0.52, 1);
+          transition: left 0.5s cubic-bezier(0.75, 0.03, 0.52, 1);
+        }
+        .front-image {
+          padding-top: 170px;
+          padding-top: 210px; /* DEPENDING ON HEIGHT OF LOGO, WE HAVE MAX-HEIGHT DEFINED */
+        }
+      }
+      @media (min-width: 1025px){
+        .open-drawer-cart .header_full_wrapper {
+          left: -50%;
+        }
+      }
+      @media (max-width: 1024px){
+        .open-drawer-cart .header_full_wrapper {
+          left: -85%;
+        }
+      }
+      @media (min-width: 1201px){
+        .open-drawer-cart .header_full_wrapper {
+          left: -50%;
+        }
+      }
+    
+
+      @media all and (max-width: 991px){
+        .front-image{
+          padding-top: 0px;
+        }
+      }
+    
+        
+        /* Top links line */
+    .header { background-color: #ffffff; }
+    .header a:link,
+    .header a:visited{ color: #000000; }
+    
+    #slogans-top span { color: #000000; }
+
+    .header a:hover,
+    .header a:active,
+    .header a:focus { color: #f0f0f0; } 
+  
+    .main_menu,
+    .wrapper.visible-xs.centered.mobile-logo { background-color: #ffffff; }
+
+    /* Megamenu dropdown opacity */
+    .blocky.hasChild:hover .level_one { opacity: 0.98;  }
+	
+    /* Megamenu dropdown hider */
+        /* Megamenu colors*/
+    .megamenu { background-color: #ffffff; border-top: 1px solid #ffffff; }
+    ul.menu_dropdown ul { background-color: #e7e7e7;  }
+	ul.menu_dropdown > li > a { border-right: 1px solid #ffffff; }    
+      /* Level 1 */
+      ul.menu_dropdown > li > a > span, .ls-categories-ajax.widget.widget-categories .showleftmenu > ul > li a, .ls-categories.ls-categories-alternative li a { color: #000000; }
+      ul.menu_dropdown > li:hover > a > span, .ls-categories-ajax.widget.widget-categories .showleftmenu > ul > li a:hover, .ls-categories.ls-categories-alternative li a:hover { color: #000000;  }
+      
+                    ul.menu_dropdown > li:hover,
+        ul.menu_dropdown > li:active,
+        ul.menu_dropdown > li:focus { background-color: #e7e7e7 !important; }
+          
+      /* Level 2 */
+      .dropcontent h4 a, .dropcontent_block h4 {  color: #000000; }
+      .dropcontent h4 a:hover,
+      .dropcontent h4 a:active,
+      .dropcontent h4 a:focus { color: #000000; }
+
+      /* Level 3 */
+      .dropcontent_block > p > a { color: #000000; }
+      .dropcontent_block > p > a:hover,
+      .dropcontent_block > p > a:active,
+      .dropcontent_block > p > a:focus { color: #000000; }
+
+    /* Product boxes colors */
+      
+      /* Product box border */     
+      .products_list li.product-box, body .crall-wrapper .crall-slide {
+        border-color: rgba(240,240,240,0);
+        background-color: #ffffff;
+    }
+
+      /* Prices */
+        /* Normal */
+        .product .product-meta .price, .crall-wrapper > .crall-slide .crall-price  { color: #333333; }
+
+        /* Before */
+        .product .price s { color: #989898; }
+
+        /* Special */
+        .product .price .special { color: #b8a63e; }
+        
+
+      /* Special badge */
+      .product .special_tag, .crall-banner div { 
+        background-color: #333333 !important;
+        color: #ffffff !important;
+      }
+
+       /* News badge */
+      .product .news_tag {
+        background-color: #777255 !important;
+        color: #ffffff;
+      }  
+      
+      /* Product title */
+      .product a.title, .product .product-meta .title { color: #363241; word-wrap: break-word; padding: 0;}
+      .product a.title:hover, .product .product-meta .title:hover { color: #363241 !important; }
+    
+    /* Product Description*/
+            /* Footer colors */
+    #footer { background-color: #ffffff; }
+
+    #footer  { color: #000000; }
+    #footer h3 { color: #000000; }
+    #footer a:link, 
+    #footer a:visited { color: #000000; }
+    #footer a:hover,
+    #footer a:active,
+    #footer a:focus { color: #ababab; }
+
+
+    h1 {
+      color: #333333 !important;
+    }
+    .product_model, .product-information .info, .product-information .info i, .product-information .info a,
+    .product_stock b, #add2cart .product-price {
+      color: #333333 !important;
+    }
+   	    	h1.title,
+    	#add2cart > h1 {
+          font-size: 36px;
+        }
+   	    
+    /* General color settings */
+      /* Buttons */
+      .button .button, 
+      .main_menu .checkout-cart .btn,
+      .btn-default-1, 
+      #cartDrawer .cart_button a,
+    #cartDrawer .cart_button .action-button a.lefty, #precheckout-area a.btn,
+    .sidebar .newsletter-widget .button, .crall-product-item .crall-buy { 
+        background-color: #777255; 
+        color: #ffffff !important; 
+        border: 1px solid #777255 !important; 
+      }
+      
+      .button .button:hover, 
+      .button .button:active, 
+      .button .button:focus, 
+      .main_menu .checkout-cart .btn:hover,
+      .main_menu .checkout-cart .btn:active,
+      .btn-default-1:hover,
+      .btn-default-1:active,
+      .btn-default-1:focus, 
+      #cartDrawer .cart_button a:hover,
+      #cartDrawer .cart_button a:active,
+      #cartDrawer .cart_button a:focus,
+      .main_menu .checkout-cart .btn:focus, #precheckout-area a.btn:hover,
+    .widget.sidebar .newsletter-widget input.button:hover { 
+        background-color: #47442f; 
+        color: #ffffff !important; 
+        border-color: #47442f
+      }
+        
+    /* Fonts */
+      /* Megamenu font-size */
+      ul.menu_dropdown > li > a { font-size: 13px; }
+      .dropcontent_block h4 { font-size: 13px; }
+      .dropcontent_block > p { font-size: 13px;  }
+
+      /* Product title */
+      .product a.title { font-size: 16px; }
+      .product a.title { text-transform: uppercase; }
+    
+    /* Transition */
+    .button .button, 
+    .main_menu .checkout-cart .btn,
+    #page-footer input[type="submit"],
+    ul.menu_dropdown ul.level_one,
+    ul.menu_dropdown > li {
+      -webkit-transition: all 300ms;
+      -moz-transition: all 300ms;
+      -o-transition: all 300ms;
+      transition: all 300ms;
+    }
+
+    /* Banner boxes 1/4 */
+    #banner_one_four_one_header { 
+      top: 60px; 
+      font-size: 24px;
+      color: #333333;
+      letter-spacing: 0.15em;
+      background-color: rgba(0,0,0,0.7);
+      /*padding-top: 5px !important;
+      padding-bottom: 5px !important;*/
+    }
+    #banner_one_four_two_header { 
+      top: 60px; 
+      font-size: 24px;
+      color: #333333;
+      letter-spacing: 0.15em;
+      background-color: rgba(0,0,0,0.7);
+      /*padding-top: 5px !important;
+      padding-bottom: 5px !important;*/
+    }
+    #banner_one_four_three_header { 
+      top: 60px; 
+      font-size: 24px;
+      color: #333333;
+      letter-spacing: 0.15em;
+      background-color: rgba(0,0,0,0.7);
+      /*padding-top: 5px !important;
+      padding-bottom: 5px !important;      */
+    }
+    #banner_one_four_four_header { 
+      top: 60px; 
+      font-size: 24px;
+      color: #333333;
+      letter-spacing: 0.15em;
+      background-color: rgba(0,0,0,0.7);
+      /*padding-top: 5px !important;
+      padding-bottom: 5px !important;*/
+    }
+
+    #banner_one_four_one_text { 
+      top: 100px; 
+      font-size: 16px;
+      color: #333333;
+    }
+    #banner_one_four_two_text { 
+      top: 100px; 
+      font-size: 16px;
+      color: #333333;
+    }
+    #banner_one_four_three_text { 
+      top: 100px;
+      font-size: 16px;
+      color: #333333; 
+    }
+    #banner_one_four_four_text { 
+      top: 100px; 
+      font-size: 16px;
+      color: #333333;
+    }
+
+    #banner_two_one_header {
+      top: 60px; 
+      font-size: ;
+      color: rgba(51,51,51,0);
+      letter-spacing: 0.15em;
+      background-color: rgba(0,0,0,0);
+      padding-top: 5px !important;
+      padding-bottom: 5px !important;
+    }
+    #banner_two_two_header {
+      top: 60px; 
+      font-size: 24px;
+      color: #333333;
+      letter-spacing: 0.15em;
+      background-color: rgba(0,0,0,0);
+      padding-top: 5px !important;
+      padding-bottom: 5px !important;
+    }
+
+    #banner_two_one_text { 
+      top: 100px; 
+      font-size: 16px;
+      color: #333333;
+    }
+    #banner_two_two_text { 
+      top: 100px; 
+      font-size: 16px;
+      color: #333333;
+    }
+
+    #banner_one_four_one_header,
+    #banner_one_four_one_text { padding: 0 10px 0 10px; }
+    #banner_one_four_two_header,
+    #banner_one_four_two_text { padding: 0 10px 0 10px; }
+    #banner_one_four_three_header,
+    #banner_one_four_three_text { padding: 0 10px 0 10px; }
+    #banner_one_four_four_header,
+    #banner_one_four_four_text { padding: 0 10px 0 10px; }
+
+    #banner_two_one_header,
+    #banner_two_one_text { padding: 0  0 ; }
+
+    #banner_two_two_header,
+    #banner_two_two_text { padding: 0  0 ; }
+
+    #banner_one_four_one_header, #banner_one_four_one_text,
+    #banner_one_four_two_header, #banner_one_four_two_text,
+    #banner_one_four_three_header, #banner_one_four_three_text,
+    #banner_one_four_four_header, #banner_one_four_four_text {
+      position: static;
+      margin: 0;
+      background-color: #fff;
+      color: #000;
+    }
+    .banner_image {
+      border: 1px solid #d7d7d7;
+    }
+    
+    /* Index Main slider */
+    /* #index_main_slider { height: 500px; } */
+    #swiper-slide-1,
+    #swiper-slide-2,
+    #swiper-slide-3,
+    #swiper-slide-4,
+    #swiper-slide-5,
+    .parallax-bg {
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: cover;
+}
+    
+    /*#swiper-slide-1 { text-align: left; }
+    #swiper-slide-2 { text-align: left; }
+    #swiper-slide-3 { text-align: left; }*/
+
+    /*#swiper-slide-1-text-wrapper { margin-top: 100px;}
+    #swiper-slide-2-text-wrapper { margin-top: 100px;}
+    #swiper-slide-3-text-wrapper { margin-top: 100px;}*/
+
+    /* Temp */
+    #index_main_slider .slide-content {
+      position: absolute;
+      top: 0;
+      width: 100%;
+    }
+    
+    #swiper-slide-1 .title {
+      font-size: 41px;
+      color: #ef1e1e;
+      background-color: rgba(255,255,255,0);
+      letter-spacing: 0.2em;
+      font-weight: 500;
+    }
+    #swiper-slide-2 .title { 
+      font-size: 41px;
+      color: #ef1e1e;
+      background-color: rgba(255,255,255,0);
+      letter-spacing: 0.2em;
+      font-weight: 500;
+    }
+    #swiper-slide-3 .title { 
+      font-size: 41px;
+      color: #ef1e1e;
+      background-color: rgba(255,255,255,0);
+      letter-spacing: 0.2em;
+      font-weight: 500;
+    }
+    #swiper-slide-4 .title { 
+      font-size: 41px;
+      color: #ef1e1e;
+      background-color: rgba(255,255,255,0);
+      letter-spacing: 0.2em;
+      font-weight: 500;
+    }
+    #swiper-slide-5 .title { 
+      font-size: 41px;
+      color: #ef1e1e;
+      background-color: rgba(255,255,255,0);
+      letter-spacing: 0.2em;
+      font-weight: 500;
+    }
+    #swiper-slide-1 .text {
+      font-size: 16px;
+      color: #333333;
+      background-color: rgba(255,255,255,0);
+    }
+    #swiper-slide-2 .text {
+      font-size: 16px;
+      color: #333333;
+      background-color: rgba(255,255,255,0);
+    }
+    #swiper-slide-3 .text {
+      font-size: 16px;
+      color: #333333;
+      background-color: rgba(255,255,255,0);
+    }
+    #swiper-slide-4 .text {
+      font-size: 16px;
+      color: #333333;
+      background-color: rgba(255,255,255,0);
+    }
+   	#swiper-slide-5 .text {
+      font-size: 16px;
+      color: #333333;
+      background-color: rgba(255,255,255,0);
+    }
+    
+    body .container .products__list > a {
+      color: #337ab7 !important;
+    }
+    body .container .products__list > a:hover {
+      color: #3c4247 !important;
+    }
+    .product_quantity > a {
+		display: inline-block;
+        padding: 5px;
+        background: #fff;
+        min-width: 30px;
+        text-align: center;
+        border: 1px solid #c7c7c7;
+        border-radius: 3px;
+    }
+   	.btn-default-1, #cartDrawer .cart_button a, .product_box_button .button button,  .crall-product-item .crall-buy, 
+    #cartDrawer .cart_button .action-button a.lefty, .precheckout-area,  {
+      color: #ffffff !important;      background: #777777 !important;      border: 1px solid #777777 !important;    }
+    .btn-default-1:hover, #cartDrawer .cart_button a:hover, .product_box_button .button button.button:hover,  .crall-product-item .crall-buy:hover, 
+    #cartDrawer .cart_button .action-button a.lefty:hover, .precheckout-area {
+      color: #ffffff !important;      background: #777777 !important;      border: 1px solid #777777 !important;    }
+
+        @media (min-width: 1201px){
+      .drawer {
+        width: 50%;
+      }
+      .open-drawer-cart .page-wrapper {
+        left: -50%;
+      }
+    }
+              body #mobile_header {
+        background-color: #ffffff;
+      }
+              .open-drawer-menu h2 {
+        color: #000000;
+      }
+              .open-drawer-menu a {
+        color: #337ab7;
+      }
+              div .mobile-menu .openclose:after {
+        color: #000000;
+      }
+              div .mobile-menu .openclose:after {
+        background-color: rgba(0,0,0,0);
+      }
+               body #menuDrawer {
+        background-color: #ffffff;
+      }
+              div .mobile-menu a {
+        border-color: #e7e7e7;
+      }
+    
+    
+          .menu_dropdown .tax-switcher a {
+        color: #665d5d;
+        background-color: #ffffff; 
+      }
+                  .menu_dropdown .tax-switcher a.active {
+        color: #40ed5c;
+        background-color: #e8e1e1; 
+      }
+                /*Footer Widget Size*/
+    #footer .footer-widgets {
+      display: flex !important;
+    }
+    #footer .footer-widgets .footer_widget_container:nth-child(1) {
+      flex: ;
+      order: ;
+    }
+    #footer .footer-widgets .footer_widget_container:nth-child(2) {
+      flex: ;
+      order: ;
+    }
+    #footer .footer-widgets .footer_widget_container:nth-child(3) {
+      flex: ;
+      order: ;
+    }
+    #footer .footer-widgets .footer_widget_container:nth-child(4) {
+      flex: ;
+      order: ;
+    }
+    #footer .footer-widgets .footer_widget_container:last-child {
+      display: none;
+    }
+    
+    
+    /* Old checkout update */
+            
+    
+    /** Discount Badge on product page **/
+    .product_page_slider .discount_badge_pp {
+      position: absolute;
+      right: 0;
+      width:120px;       height:120px;       background: #b93939;      line-height:120px;       font-size:16px;      border: 1px solid #b939393;      color: #fff;      font-size: 16px;      text-align: center;
+      border-radius: 50%;
+      margin: 40px;
+      z-index: 7;
+    }
+    
+        /* CartButton Color options */
+  #cart-page .company-button > input {
+        
+        
+     
+  }
+  
+  #cart-page .company-button > input:hover {
+        
+        
+     
+  }
+  </style>
+        <style>
+      	.banner_image {
+    border: 1px solid rgba(215, 215, 215, 0);
+}
+
+footer .box-leftbar ul li a {
+    padding-top: 10px;
+    border-bottom: none;
+}
+    </style>
+  		    
+
+    </head>
+<body class="not-index page-category NOK-curr">
+  <!-- Load Facebook SDK for JavaScript -->
+
+	
+
+
+
+
+
+
+
+
+	<div id="fb-root"></div>
+	
+		<script>
+			window.fbAsyncInit = function() {
+				FB.init({
+					appId: '138255156243557', // App ID
+					status: true, // check login status
+					cookie: true, // enable cookies to allow the server to access the session
+					oauth: true, // enable OAuth 2.0
+					xfbml: true // parse XFBML
+				});
+			
+
+			
+			
+			};
+
+			(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) {return;}
+				js = d.createElement(s);
+				js.id = id;
+				js.async=true; js.src = "//connect.facebook.net/nb_NO/all.js#xfbml=1";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+	
+
+
+	
+<div class="crall-cart" style="display:none">
+                </div>
+
+
+
+	<div class="crall-page" style="display: none;">
+		<div class="type">category</div>
+		<div class="id">133</div>
+	</div>
+
+
+
+
+
+
+
+  	
+	
+
+	
+
+	<div id="menuDrawer" class="menu-drawer drawer" style="padding:0 20px;">
+                 	<h2 style="text-align:center;position:relative;">Meny<i class="fa fa-chevron-right close_drawer" style="margin:0 8px;position:absolute;right:0;top:0;margin-top: 5px;font-size: 24px;cursor:pointer;"></i></h2>
+	<ul class="mobile-menu">
+		
+
+                                                        <li class="has-child "><a href="https://www.seilspesialisten.no/categories/rigg" data-target="m-menu-2">Rigg</a><span class="openclose"></span>
+                                            <div class="dropmenu-small m-menu-2">
+                                        <ul class="sub_menu">
+                    
+
+                                                        <li ><a href="https://www.seilspesialisten.no/categories/avlastere" data-target="m-menu-2">Avlastere</a></li>
+                                                                <li ><a href="https://www.seilspesialisten.no/categories/beslag" data-target="m-menu-2">Beslag</a></li>
+                                                                <li ><a href="https://www.seilspesialisten.no/categories/blokker" data-target="m-menu-2">Blokker</a></li>
+                                                                <li ><a href="https://www.seilspesialisten.no/categories/dekksutstyr" data-target="m-menu-2">Dekksutstyr</a></li>
+                                                                <li ><a href="https://www.seilspesialisten.no/categories/seildetaljer" data-target="m-menu-2">Seildetaljer</a></li>
+                                                                <li ><a href="https://www.seilspesialisten.no/categories/tape" data-target="m-menu-2">Tape</a></li>
+                                                                <li ><a href="https://www.seilspesialisten.no/categories/tauverk" data-target="m-menu-2">Tau & Fortøyning</a></li>
+                                    
+	
+                    </ul>
+                                            </div>
+                                        </li>
+                                                                <li class="has-child active"><a href="https://www.seilspesialisten.no/categories/sikkerhet" data-target="m-menu-2">Sikkerhet</a><span class="openclose"></span>
+                                            <div class="dropmenu-small m-menu-2">
+                                        <ul class="sub_menu">
+                    
+
+                                                        <li ><a href="https://www.seilspesialisten.no/categories/flate" data-target="m-menu-2">Flåte</a></li>
+                                                                <li ><a href="https://www.seilspesialisten.no/categories/redningsvest" data-target="m-menu-2">Redningsvest</a></li>
+                                                                <li ><a href="https://www.seilspesialisten.no/categories/signalutstyr" data-target="m-menu-2">Signalutstyr</a></li>
+                                                                <li ><a href="https://www.seilspesialisten.no/categories/tilbehor" data-target="m-menu-2">Tilbehør</a></li>
+                                    
+	
+                    </ul>
+                                            </div>
+                                        </li>
+                                                                <li class="has-child "><a href="https://www.seilspesialisten.no/categories/vedlikehold" data-target="m-menu-2">Vedlikehold</a><span class="openclose"></span>
+                                            <div class="dropmenu-small m-menu-2">
+                                        <ul class="sub_menu">
+                    
+
+                                                        <li ><a href="https://www.seilspesialisten.no/categories/bunnstoff" data-target="m-menu-2">Bunnstoff og olje</a></li>
+                                                                <li ><a href="https://www.seilspesialisten.no/categories/sape-og-polish" data-target="m-menu-2">Såpe og polish</a></li>
+                                    
+	
+                    </ul>
+                                            </div>
+                                        </li>
+                                                                <li ><a href="https://www.seilspesialisten.no/categories/elektronikk" data-target="m-menu-2">Elektronikk</a></li>
+                                                                <li ><a href="https://www.seilspesialisten.no/categories/teknisk" data-target="m-menu-2">Teknisk</a></li>
+                                                                <li class="has-child "><a href="https://www.seilspesialisten.no/categories/komfort" data-target="m-menu-2">Komfort</a><span class="openclose"></span>
+                                            <div class="dropmenu-small m-menu-2">
+                                        <ul class="sub_menu">
+                    
+
+                                                        <li ><a href="https://www.seilspesialisten.no/categories/briller" data-target="m-menu-2">Briller</a></li>
+                                                                <li ><a href="https://www.seilspesialisten.no/categories/puter" data-target="m-menu-2">Puter</a></li>
+                                    
+	
+                    </ul>
+                                            </div>
+                                        </li>
+                                                                <li ><a href="https://www.seilspesialisten.no/categories/administrasjon" data-target="m-menu-2">Gavekort</a></li>
+                                                                <li ><a href="https://www.seilspesialisten.no/categories/charter" data-target="m-menu-2">Charter</a></li>
+                                    
+	
+                        	</ul>
+	<h2 style="text-align:center;">Lenker</h2>
+	<ul class="mobile-menu">
+                                    <li><a href="https://www.seilspesialisten.no">Hjem</a></li>
+                            <li><a href="https://www.seilspesialisten.no/account">Min konto</a></li>
+                            <li><a href="https://www.seilspesialisten.no/contact_us">Kontakt oss</a></li>
+                            <li><a href="https://www.seilspesialisten.no/login">Logg på</a></li>
+                    	</ul>
+                      <ul class="language-menu" style="padding-top: 20px;padding-bottom: 45px;">
+                      <li>
+                      
+                                                      <a href="/no/categories/flate" title="Norwegian" class="lng selected" style="padding: 10px;">
+                                <img src="/users/themeroma_mystore_no/templates/glittertind/img/norwegian-flag.png" width="30" />
+                              </a>
+                                                        			</li>
+      	 </ul>
+      	      	</div>
+	<div id="cartDrawer" class="cart-drawer drawer">
+		<h2 class="cart-title">Handlekurv<i class="fa fa-chevron-left close_drawer" style="margin:0 8px;position:absolute;left:0;top:0;margin-top: 5px;font-size: 24px;cursor:pointer;"></i></h2>
+		<hr />
+		<div class="products_container">
+    
+							<div class="content">
+					<div class="empty">Handlekurven er tom</div>
+				</div>
+					
+		</div>
+
+    <div class="bottom-of-cart">
+      
+      <div class="cart_total_price">
+        <hr>
+                <div class="section-row">
+
+
+                    <p class="price-value">NOK 0,-</p>
+        </div>
+        
+      </div>
+      
+
+  		<div class="cart_button primary-bg-active">
+        <div class="row">
+          <div class="action-button">
+            <a class="btn-default-1 close_drawer lefty">Fortsett å handle</a>
+          </div>
+          <div class="action-button">
+            <a class="btn-default-1 righty" href="https://www.seilspesialisten.no/checkout">Gå videre til kassen</a>
+          </div>
+        </div>
+      </div>
+    </div><!-- .bottom-of-cart -->
+  </div>
+    <div class="page-wrapper">
+
+  <div id="mobile_header" class="panel-heading visible-xs visible-sm mobile-top remove_inc_ex">
+
+
+			<div style="text-align:center;">
+				<a href="javascript:open_drawer_menu_alt();" class="btn btn-default btn-sm pull-left"><i class="fa fa-reorder"></i></a>
+                
+                                  <a  href="javascript:open_drawer_alt();" class="btn btn-default btn-sm pull-right"><i class="fa fa-shopping-cart"></i> <span class="quantity_top_num_wrapper_alt">0</span></a>
+                                
+
+        <div class="col-xs-8 inline-block mobile-search">
+          <form name="quick_find" action="https://www.seilspesialisten.no/search_result" method="get">
+            <div class="input-group input-group-sm">
+
+              <input placeholder="Søk" class="form-control" name="keywords" id="keywords2" />
+
+                                                              <div class="crall-search" data-search-container="#keywords2" data-result-types="categories,products" data-recommendation-id="@live-search-mobile"></div>
+                                  <span class="input-group-btn">
+                <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+              </span>
+              <div id="search-down-wrapper-2">
+              </div>
+            </div>
+          </form>
+        </div>
+        <div id="mobile_cart">
+                        </div>
+      </div>
+  </div><!-- #mobile_header -->
+
+    <div class="wrapper visible-xs visible-sm centered mobile-logo">
+          <a href="https://www.seilspesialisten.no"><img src="/users/seilspesialisten_mystore_no/logo/Header01.09.186.jpg" alt="Seilspesialisten.no"></a>
+        </div>
+
+    <section class="front-image">
+      <div class="header_full_wrapper">
+        <section class="contain header hidden-xs hidden-sm">
+          <div class="container">
+            <div id="slogans-top" class="col-md-5">
+                            <span><i class="fa fa-check"></i> Alltid gode tilbud!</span>                          </div>
+            <ul class="flat_menu text-right col-md-7">
+              
+                                                      <li class=""><a class="menubutton0" href="https://www.seilspesialisten.no">Hjem</a></li>
+                                      <li class=""><a class="menubutton1" href="https://www.seilspesialisten.no/account">Min konto</a></li>
+                                      <li class=""><a class="menubutton2" href="https://www.seilspesialisten.no/contact_us">Kontakt oss</a></li>
+                                      <li class=""><a class="menubutton3" href="https://www.seilspesialisten.no/login">Logg på</a></li>
+                                  
+              
+                                               <li class="languages_list">
+                                                  	                     	 <a href="/no/categories/flate" title="Norwegian" class="selected"><img src="https://seilspesialisten-i02.acendycdn.com/production/build/backend/assets/flags/4x3/no.svg?v=4.2025.12.31.01" width="20" /></a>
+                	                                                </li>
+                          </ul>
+          </div>
+        </section><!-- .contain .header .hidden-xs -->
+
+        <div class="main_menu hidden-xs hidden-sm">
+          <div class="container">
+            <div class="row">
+              <div class="logo col-md-4">
+                                <a href="https://www.seilspesialisten.no"><img src="/users/seilspesialisten_mystore_no/logo/Header01.09.186.jpg" alt="Seilspesialisten.no"></a>
+                              </div>
+
+              <div class="search-main col-md-4 col-md-offset-2">
+                <form name="quick_find" action="https://www.seilspesialisten.no/search_result" method="get">
+                  <div class="input-group input-group-sm">
+                    <input placeholder="Søk" class="form-control" id="keywords" name="keywords">
+
+
+                    
+                                                              <div class="crall-search" data-search-container="#keywords" data-result-types="categories,products" data-recommendation-id="@live-search-mobile"></div>
+                                                          
+                    <span class="input-group-btn">
+                      <button class="btn btn-default" type="submit" disabled><i class="fa fa-search"></i></button>
+                    </span>
+                    <div id="search-down-wrapper">
+
+              		</div>
+                  </div>
+                </form>
+              </div>
+
+              
+              <div class="checkout-cart col-md-2">
+                                  <a onclick="" href="javascript:open_drawer_alt();" class=" quantity_top_num_wrapper btn btn-default">
+                                    <div class="cart-icon">
+                      <p class="icon ">
+                        <i class="fa fa-shopping-cart"></i>
+                                              </p>
+                    </div>
+                    <div class="cart-items">
+                      <!--<p class="title">Handlekurv</p>-->
+                      <p class="cart-total-value">Totalt <span>NOK 0,-</span></p>
+                    </div>
+                  </a>
+                              </div>
+              
+            </div><!-- .row -->
+          </div>
+        </div><!-- .main_menu -->
+
+        <div class="megamenu hidden-xs hidden-sm">
+          <div class="container">
+            <ul class="menu_dropdown">
+
+            
+            
+              
+              
+                                                                                                                          
+                                                                                                
+                                                                        
+                                                                            <li class="blocky hasChild">
+                            <a href="https://www.seilspesialisten.no/categories/rigg"><span>Rigg</span></a>
+                            
+                              <ul class="level_one">
+                <div class="show_dropdown container">
+
+              
+                                                                                                                          
+                                                                                                
+                        
+                                                                            <div class="row">
+                        
+                                                    <div class="dropcontent col-md-3">
+                            <div class="dropcontent_block">
+                                <h4><a href="https://www.seilspesialisten.no/categories/avlastere"><span>Avlastere</span></a></h4>
+                            </div>
+                            </div>
+                                                
+                                                                                                                                                                    
+                                                                                                
+                        
+                                                
+                                                    <div class="dropcontent col-md-3">
+                            <div class="dropcontent_block">
+                                <h4><a href="https://www.seilspesialisten.no/categories/beslag"><span>Beslag</span></a></h4>
+                            </div>
+                            </div>
+                                                
+                                                                                                                                                                    
+                                                                                                
+                        
+                                                
+                                                    <div class="dropcontent col-md-3">
+                            <div class="dropcontent_block">
+                                <h4><a href="https://www.seilspesialisten.no/categories/blokker"><span>Blokker</span></a></h4>
+                            </div>
+                            </div>
+                                                
+                                                                                                                                                                    
+                                                                                                
+                        
+                                                
+                                                    <div class="dropcontent col-md-3">
+                            <div class="dropcontent_block">
+                                <h4><a href="https://www.seilspesialisten.no/categories/dekksutstyr"><span>Dekksutstyr</span></a></h4>
+                            </div>
+                            </div>
+                                                
+                                                </div><!-- .row -->
+                                                                                                                                            
+                                                                                                
+                        
+                                                                            <div class="row">
+                        
+                                                    <div class="dropcontent col-md-3">
+                            <div class="dropcontent_block">
+                                <h4><a href="https://www.seilspesialisten.no/categories/seildetaljer"><span>Seildetaljer</span></a></h4>
+                            </div>
+                            </div>
+                                                
+                                                                                                                                                                    
+                                                                                                
+                        
+                                                
+                                                    <div class="dropcontent col-md-3">
+                            <div class="dropcontent_block">
+                                <h4><a href="https://www.seilspesialisten.no/categories/tape"><span>Tape</span></a></h4>
+                            </div>
+                            </div>
+                                                
+                                                                                                                                                                    
+                                                                                                
+                        
+                                                
+                                                    <div class="dropcontent col-md-3">
+                            <div class="dropcontent_block">
+                                <h4><a href="https://www.seilspesialisten.no/categories/tauverk"><span>Tau & Fortøyning</span></a></h4>
+                            </div>
+                            </div>
+                                                
+                                                                                                            
+                                    </div><!-- .show_dropdown -->
+                    </ul>
+                            
+                            </li>
+                        
+                        
+                                                                                                                                                                    
+                                                                                                
+                                                                        
+                                                                            <li class="blocky hasChild">
+                            <a href="https://www.seilspesialisten.no/categories/sikkerhet"><span>Sikkerhet</span></a>
+                            
+                              <ul class="level_one">
+                <div class="show_dropdown container">
+
+              
+                                                                                                                          
+                                                                                                
+                        
+                                                                            <div class="row">
+                        
+                                                    <div class="dropcontent col-md-3">
+                            <div class="dropcontent_block">
+                                <h4><a href="https://www.seilspesialisten.no/categories/flate"><span>Flåte</span></a></h4>
+                            </div>
+                            </div>
+                                                
+                                                                                                                                                                    
+                                                                                                
+                        
+                                                
+                                                    <div class="dropcontent col-md-3">
+                            <div class="dropcontent_block">
+                                <h4><a href="https://www.seilspesialisten.no/categories/redningsvest"><span>Redningsvest</span></a></h4>
+                            </div>
+                            </div>
+                                                
+                                                                                                                                                                    
+                                                                                                
+                        
+                                                
+                                                    <div class="dropcontent col-md-3">
+                            <div class="dropcontent_block">
+                                <h4><a href="https://www.seilspesialisten.no/categories/signalutstyr"><span>Signalutstyr</span></a></h4>
+                            </div>
+                            </div>
+                                                
+                                                                                                                                                                    
+                                                                                                
+                        
+                                                
+                                                    <div class="dropcontent col-md-3">
+                            <div class="dropcontent_block">
+                                <h4><a href="https://www.seilspesialisten.no/categories/tilbehor"><span>Tilbehør</span></a></h4>
+                            </div>
+                            </div>
+                                                
+                                                </div><!-- .row -->
+                                                                                    
+                                    </div><!-- .show_dropdown -->
+                    </ul>
+                            
+                            </li>
+                        
+                        
+                                                                                                                                                                    
+                                                                                                
+                                                                        
+                                                                            <li class="blocky hasChild">
+                            <a href="https://www.seilspesialisten.no/categories/vedlikehold"><span>Vedlikehold</span></a>
+                            
+                              <ul class="level_one">
+                <div class="show_dropdown container">
+
+              
+                                                                                                                          
+                                                                                                
+                        
+                                                                            <div class="row">
+                        
+                                                    <div class="dropcontent col-md-3">
+                            <div class="dropcontent_block">
+                                <h4><a href="https://www.seilspesialisten.no/categories/bunnstoff"><span>Bunnstoff og olje</span></a></h4>
+                            </div>
+                            </div>
+                                                
+                                                                                                                                                                    
+                                                                                                
+                        
+                                                
+                                                    <div class="dropcontent col-md-3">
+                            <div class="dropcontent_block">
+                                <h4><a href="https://www.seilspesialisten.no/categories/sape-og-polish"><span>Såpe og polish</span></a></h4>
+                            </div>
+                            </div>
+                                                
+                                                                                                            
+                                    </div><!-- .show_dropdown -->
+                    </ul>
+                            
+                            </li>
+                        
+                        
+                                                                                                                                                                    
+                                                                                                
+                        
+                                                                            <li class="blocky "><a href="https://www.seilspesialisten.no/categories/elektronikk"><span>Elektronikk</span></a></li>
+                        
+                        
+                                                                                                                                                                    
+                                                                                                
+                        
+                                                                            <li class="blocky "><a href="https://www.seilspesialisten.no/categories/teknisk"><span>Teknisk</span></a></li>
+                        
+                        
+                                                                                                                                                                    
+                                                                                                
+                                                                        
+                                                                            <li class="blocky hasChild">
+                            <a href="https://www.seilspesialisten.no/categories/komfort"><span>Komfort</span></a>
+                            
+                              <ul class="level_one">
+                <div class="show_dropdown container">
+
+              
+                                                                                                                          
+                                                                                                
+                        
+                                                                            <div class="row">
+                        
+                                                    <div class="dropcontent col-md-3">
+                            <div class="dropcontent_block">
+                                <h4><a href="https://www.seilspesialisten.no/categories/briller"><span>Briller</span></a></h4>
+                            </div>
+                            </div>
+                                                
+                                                                                                                                                                    
+                                                                                                
+                        
+                                                
+                                                    <div class="dropcontent col-md-3">
+                            <div class="dropcontent_block">
+                                <h4><a href="https://www.seilspesialisten.no/categories/puter"><span>Puter</span></a></h4>
+                            </div>
+                            </div>
+                                                
+                                                                                                            
+                                    </div><!-- .show_dropdown -->
+                    </ul>
+                            
+                            </li>
+                        
+                        
+                                                                                                                                                                    
+                                                                                                
+                        
+                                                                            <li class="blocky "><a href="https://www.seilspesialisten.no/categories/administrasjon"><span>Gavekort</span></a></li>
+                        
+                        
+                                                                                                                                                                    
+                                                                                                
+                        
+                                                                            <li class="blocky "><a href="https://www.seilspesialisten.no/categories/charter"><span>Charter</span></a></li>
+                        
+                        
+                                                                                                            
+                                            
+
+                                    
+            	              </ul>
+            </div><!-- .container -->
+        </div><!-- .mega_menu -->
+      </div><!-- .header_full_wrapper -->
+    </section>
+
+    
+	                                    	<div class="container">
+    
+</div>
+                  		<script>
+			var current_lang_code = 'no';
+			$(document).ready(function () {
+                    $(".menu > li > a").hover( function (e){
+              $(this).addClass('active');
+                $(this).find('.dropmenu-small').stop(true,true).slideDown('medium');
+              },  function (e) {
+                $(this).removeClass('active');
+                $(this).find('.dropmenu-small').stop(true,true).slideDown('medium');
+              }
+            );
+
+				$('.mobile-menu .shadow').click(function() {
+					$('.mobile-menu .shadow').fadeOut();
+					$('.mobile-menu .main').fadeOut();
+				});
+
+
+        	            $('body').delegate('.mobile-menu .openclose', 'click', function(e){
+              if(!$(this).parent().hasClass('openedMenu')){
+                $(this).parent().find('.dropmenu-small').slideDown();
+                $(this).parent().addClass('openedMenu');
+              } else {
+                $(this).parent().find('.dropmenu-small').slideUp();
+                $(this).parent().removeClass('openedMenu');
+              }
+            });
+        	      });
+		</script>
+                                                
+<section class="main-page-section">
+    <section class=" breadhead">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            			<div class="breadcrumb">
+							<a href="https://www.seilspesialisten.no">Hjem</a>
+				 &raquo; 							<a href="https://www.seilspesialisten.no/categories/sikkerhet">Sikkerhet</a>
+				 &raquo; 							<a href="https://www.seilspesialisten.no/categories/flate">Flåte</a>
+									</div>
+	          </div>
+          <div class="col-md-6">
+                        <div class="product-filter filter-select"><form name="sort_form" action="index.php" method="get"><input type="hidden" name="sort"><input type="hidden" name="category_slug" value="flate"><select name="sort_by" onchange="dd_filter_sort();" class="sort_products" aria-label="Sort products"><option value="1" selected="selected">Sortere: Standard</option><option value="2">Bestselgere</option><option value="3">Navn A til Å</option><option value="4">Navn Å til A</option><option value="5">Pris fra lav til høy</option><option value="6">Høyeste til laveste pris</option><option value="7">Dato lagt til</option><option value="9">Høyeste rabattprosent</option></select></form>
+</div>
+                      </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="container">
+      <header class="content-header">
+        <h1 class="title mob-hide">
+                  Flåte
+                </h1>
+
+              </header>
+    </div>
+
+
+    <div class="container">
+            
+      <section class="row">
+        <ul class="products_list">
+                                                <li class="product-box-id-383 product-box col-lg-3 col-md-3 col-sm-4 col-xs-6" data-price-including-tax="25161" data-special-percent="0"      >
+
+
+  <div class="product " data-quantity="0" data-category-id="133">
+
+
+          <!-- Discount Ribbon START -->
+        <!-- Discount Ribbon END -->
+
+                                                     
+		 
+                		
+        
+        <a href="https://www.seilspesialisten.no/products/redningsflate-iso-9650-1-lalizas-6-mann-bag4">
+          <div class="image  equal_state">
+            <!-- Discount Ribbon START -->
+                        <!-- Discount Ribbon END -->
+                        	<span class="image-mainimage firstone">
+
+
+            		<img  src="https://seilspesialisten-i04.mycdn.no/mysimgprod/seilspesialisten_mystore_no/images/13308_Redningsfl_te_ISO_9650-1_Lalizas_6_mann__bag_1.jpeg/w300h300.jpeg" width="300" height="300" alt="Hovedbilde Redningsflåte ISO 9650-1 ..."></span>
+                                  </div>
+        </a>
+
+    <div class="product-meta">
+            <div class="product_box_title_row">
+        <a href="https://www.seilspesialisten.no/products/redningsflate-iso-9650-1-lalizas-6-mann-bag4" class="title col-md-12">Redningsflåte ISO 9650-1 ...</a>
+      </div>
+      
+                    		<p class="prbox-desc" >Lalizas ISO Redningsfl&aring;ter kan brukes p&aring; fritidsb&aring;ter og yrkesb&aring...</p>
+  		            <div class="">
+
+        <div class="price col-md-12">
+                                    25.161,-
+                      	
+          	                  </div>
+      </div>
+    </div>
+        <div class="product_box_button">
+            <div class="button">
+        <form name="buy_now_383" method="post" action="https://www.seilspesialisten.no/categories/flate/sort-by/1/?action=buy_now"><input type="hidden" name="products_id" value="383" /> <button type="submit" value="submit" class="button" onclick="gtag(&#039;event&#039;, &#039;add_to_cart&#039;, {&quot;currency&quot;:&quot;NOK&quot;,&quot;value&quot;:25161,&quot;items&quot;:[{&quot;item_id&quot;:&quot;383&quot;,&quot;item_name&quot;:&quot;Redningsfl\u00e5te ISO 9650-1 Lalizas 4 mann, container&quot;}]});"><span><span>Kjøp</span></span></button></form>
+              </div>
+          </div>
+      </div>
+</li>
+                                    </ul>
+      </section>
+    </div>
+  </section>
+  <!-- Remove this if after testing -->
+			                <section class="container block">
+                	<div class="row">
+	                    <div class="paginate_left col-md-6"></div>
+	                    <div class="paginate_right col-md-6">Viser <b>1</b> til <b>1</b> (av <b>1</b> produkter)</div>
+                    </div>
+                </section>
+                <div class="clear"></div>
+                                                    
+
+
+
+	
+    <section id="footer">
+
+		<footer class="container">
+          	<div class="row">
+                        <div class="footer-widgets">
+                                                                    			</div>
+          	</div>
+          	<div class="row">
+          		<div class="col-md-3 text-left">
+					<p class="copyright-mystore">
+                      <p>Org. nr. 988 869 783</p>                      <p><i class="icon-phone"></i> </p>                      <p><i class="icon-mail"></i><a href="mailto:post@seilspesialisten.no" target="_top"> post@seilspesialisten.no</a></p>
+                  	                        	Copyright by Mystore.no
+                                        	</p>
+
+
+				</div>
+				<div class="col-md-6 text-center">
+                                      
+                                                                                                                                        <img src="images/payment/paypal.png" alt="Paypal" style="height: 30px;margin:0 5px;">
+                                                                                                        
+					
+			    </div>
+              <div class="col-md-3 text-right">
+					<ul>
+                                                		<li style="display:inline-block;vertical-align: middle;margin-left: 8px;margin-bottom:4px;"><a href=" " target="_blank">
+                            	<img src="/templates/newyork/img/images/f_logo_RGB-Blue_72.png" width="65" height="65" alt="Facebook" />
+                            </a></li>
+                      	                                                  		<li style="display:inline-block;vertical-align: middle;margin-left: 8px;margin-bottom:4px;"><a href=" " target="_blank">
+                                                    			<img src="/templates/newyork/img/images/glyph-logo_May2016.png" width="65" height="65" alt="Instagram" />
+                            </a></li>
+                      	                        	                            					</ul>
+                					</div>
+
+			</div>
+			<div class="row">
+
+			</div>
+		</footer>
+	</section>
+<script>
+/* MOVE THIS TO BUNDLE, WILL BE RE-USED */
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    var expires = "expires="+ d.toUTCString();
+    const secure = location.protocol === 'https:' ? 'secure' : '';
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;"+secure;
+}
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+}
+
+  function onCurrencyChange(form){
+    //console.log(form.value);
+    if (form.value == 'NOK'){
+     	$.get('ajax.php?ajaxfunc=toggle_tax_display&display_price_ex_tax=0', function(){
+          setTimeout(
+            form.form.submit(), 400);
+        });
+    } else {
+		$.get('ajax.php?ajaxfunc=toggle_tax_display&display_price_ex_tax=1', function(){
+          setTimeout(
+            form.form.submit(), 400);
+        });
+    }
+   	//;
+  }
+/* END */
+</script>
+
+
+		
+      	
+	<script>
+      	var languages = {
+          sort: 'Sorter produkter ',
+          manufacturer: 'Produsenter'        }
+		var settings = {
+          dockedHeader: true,
+          lazyLoad: false,
+          advancedSearch: false,
+          advancedQuantity: true,
+          productAdvancedQuantity: true,
+          headerMegamenuShowBrandsTabbed: false,
+          infiniteScrolling: false,
+          advancedAjaxSearch: false,
+          currentPage: 'category.php',
+          productBoxesPerMobile: 'col-xs-6',
+          useSimpleCart: false,
+          customersGroupId: 0,
+          advancedClerkPopupOnPurchase: false,
+          productGridAdvancedImages: false,
+          productGridAdvancedImagesTimeout: 2000,
+          disableCartPopup: false        };
+      	var timer = null;
+
+       $(window).scroll(function() {
+         if ($(window).scrollTop() > 70) {
+           $('.remove_inc_ex').find('.inc_ex_mobile').fadeOut();
+         } else {
+           $('.remove_inc_ex').find('.inc_ex_mobile').fadeIn();
+         }
+       });
+	</script>
+			<script src="/templates/newyork/js/newyork.generic.js?v=1767361003"></script>
+				
+	<script>
+      $(document).ready(function preventSearchWithNoInput () {
+        var onKeyword = function onKeywordCallback () {
+          var submitButton = $(this).parent().find('button[type="submit"]');
+          if (submitButton.length === 0) {
+            return;
+          }
+
+          var keywordsCharacterCount = $(this).val().length;
+          var isDisabled = keywordsCharacterCount === 0;
+
+          submitButton.prop('disabled', isDisabled);
+        };
+
+                	$('.search-main input[name="keywords"]').on('input', onKeyword);
+        	$('.mobile-search input[name="keywords"]').on('input', onKeyword);
+                var onSearchSubmit = function onSearchSubmitCallback (e) {
+          var keywordsInput = $(this).find('input[name="keywords"]');
+          if (keywordsInput.length === 0) {
+            return;
+          }
+
+          var keywordsCharacterCount = keywordsInput.val().length;
+          if (keywordsCharacterCount === 0) {
+            e.preventDefault();
+          }
+        };
+
+        $('.search-main form[name="quick_find"]').submit(onSearchSubmit);
+  		$('.mobile-search form[name="quick_find"]').submit(onSearchSubmit);
+      });
+	</script>
+
+
+
+    <span data-stuff="false"></span>
+
+      	</body>
+</html>

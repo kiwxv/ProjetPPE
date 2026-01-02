@@ -1,0 +1,3051 @@
+
+<!DOCTYPE HTML>
+<html lang="en-GB">
+    <head>
+    <meta charset="UTF-8"/>
+    <title>Fleet management solutions for businesses | Alphabet.com</title>
+    
+    <meta name="description" content="Managing large fleets means dealing with complexity, costs, sustainability, data insights and more. Alphabet provides tailored solutions and innovative products and services, covering all aspects of business mobility, from funding to advanced mobility solutions."/>
+    <meta name="template" content="general-page"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+
+    
+    
+<link rel="canonical" href="https://www.alphabet.com/en-gb/corporate-fleet-solutions.html"/>
+
+
+    
+    
+    <link rel="stylesheet" href="/etc.clientlibs/alphabetweb/clientlibs/clientlib-base.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/alphabetweb/clientlibs/clientlib-site.min.css" type="text/css">
+
+
+
+    <link rel="preload" href="/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/fonts/slab/slab-medium.woff2" as="font" type="font/woff2" crossorigin="anonymous"/>
+    <link rel="preload" href="/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/fonts/sans/medium.woff2" as="font" type="font/woff2" crossorigin="anonymous"/>
+    <script>
+        window._dictionary = "{\x22belarus\x22:\x22Belarus\x22,\x22north_america\x22:\x22North America\x22,\x22democratic_republic_of_the_congo\x22:\x22Congo \u002D Kinshasa\x22,\x22japan\x22:\x22Japan\x22,\x22gambia\x22:\x22Gambia\x22,\x22guinea\x22:\x22Guinea\x22,\x22search.singular\x22:\x22Result\x22,\x22interactivemap.skip\x22:\x22Skip to card representation of map\x22,\x22estonia\x22:\x22Estonia\x22,\x22sao_tome_and_principe\x22:\x22São Tomé \x26 Príncipe\x22,\x22united_arab_emirates\x22:\x22United Arab Emirates\x22,\x22sps.expand_card\x22:\x22Expand card\x22,\x22search.results.search\x22:\x22Search...\x22,\x22Close popup\x22:\x22Close popup\x22,\x22philippines\x22:\x22Philippines\x22,\x22Mute\x22:\x22Mute\x22,\x22cuba\x22:\x22Cuba\x22,\x22mauritius\x22:\x22Mauritius\x22,\x22search.results.pages\x22:\x22Pages\x22,\x22mali\x22:\x22Mali\x22,\x22south_korea\x22:\x22South Korea\x22,\x22switzerland\x22:\x22Switzerland\x22,\x22armenia\x22:\x22Armenia\x22,\x22vietnam\x22:\x22Vietnam\x22,\x22australia\x22:\x22Australia\x22,\x22laos\x22:\x22Laos\x22,\x22sps.get_current_location\x22:\x22Get current location\x22,\x22common.errors.timeout\x22:\x22Request timed out. Please try again.\x22,\x22turkey\x22:\x22Turkey\x22,\x22Show less\x22:\x22Show less\x22,\x22ukraine\x22:\x22Ukraine\x22,\x22Close\x22:\x22Close\x22,\x22austria\x22:\x22Austria\x22,\x22sps.select_all\x22:\x22Select all\x22,\x22sps.results_count_one\x22:\x221 result found\x22,\x22cambodia\x22:\x22Cambodia\x22,\x22Turn captions on\x22:\x22Turn captions on\x22,\x22congo\x22:\x22Congo \u002D Brazzaville\x22,\x22monaco\x22:\x22Monaco\x22,\x22saint_lucia\x22:\x22St. Lucia\x22,\x22hungary\x22:\x22Hungary\x22,\x22kenya\x22:\x22Kenya\x22,\x22greece\x22:\x22Greece\x22,\x22paraguay\x22:\x22Paraguay\x22,\x22palau\x22:\x22Palau\x22,\x22vanuatu\x22:\x22Vanuatu\x22,\x22cyprus\x22:\x22Cyprus\x22,\x22search.results.results\x22:\x22Results for\x22,\x22common.states.loading\x22:\x22Loading...\x22,\x22colombia\x22:\x22Colombia\x22,\x22azerbaijan\x22:\x22Azerbaijan\x22,\x22syria\x22:\x22Syria\x22,\x22rwanda\x22:\x22Rwanda\x22,\x22antigua_and_barbuda\x22:\x22Antigua \x26 Barbuda\x22,\x22libya\x22:\x22Libya\x22,\x22sps.street\x22:\x22Street\x22,\x22Select\x22:\x22Select\x22,\x22Footer\x22:\x22Footer\x22,\x22afghanistan\x22:\x22Afghanistan\x22,\x22norway\x22:\x22Norway\x22,\x22cape_verde\x22:\x22Cape Verde\x22,\x22kiribati\x22:\x22Kiribati\x22,\x22bosnia_and_herzegovina\x22:\x22Bosnia \x26 Herzegovina\x22,\x22dominica\x22:\x22Dominica\x22,\x22bulgaria\x22:\x22Bulgaria\x22,\x22bahrain\x22:\x22Bahrain\x22,\x22saint_vincent_and_the_grenadines\x22:\x22St. Vincent \x26 Grenadines\x22,\x22vatican_city\x22:\x22Vatican City\x22,\x22guatemala\x22:\x22Guatemala\x22,\x22ghana\x22:\x22Ghana\x22,\x22solomon_islands\x22:\x22Solomon Islands\x22,\x22somalia\x22:\x22Somalia\x22,\x22common.errors.unauthorized\x22:\x22You are not authorized to perform this action.\x22,\x22sps.maintenance\x22:\x22Maintenance\x22,\x22jamaica\x22:\x22Jamaica\x22,\x22togo\x22:\x22Togo\x22,\x22liechtenstein\x22:\x22Liechtenstein\x22,\x22thailand\x22:\x22Thailand\x22,\x22search.results.summary.multiple\x22:\x22{count} results found\x22,\x22france\x22:\x22France\x22,\x22serbia\x22:\x22Serbia\x22,\x22common.link.opensinnewtab\x22:\x22Opens in new tab\x22,\x22senegal\x22:\x22Senegal\x22,\x22marshall_islands\x22:\x22Marshall Islands\x22,\x22north_korea\x22:\x22North Korea\x22,\x22north_macedonia\x22:\x22North Macedonia\x22,\x22zambia\x22:\x22Zambia\x22,\x22comoros\x22:\x22Comoros\x22,\x22namibia\x22:\x22Namibia\x22,\x22taiwan\x22:\x22Taiwan\x22,\x22canada\x22:\x22Canada\x22,\x22Toggle language selector\x22:\x22Toggle language selector\x22,\x22honduras\x22:\x22Honduras\x22,\x22sps.alphabet_partner\x22:\x22Alphabet Partner\x22,\x22maldives\x22:\x22Maldives\x22,\x22chile\x22:\x22Chile\x22,\x22oman\x22:\x22Oman\x22,\x22el_salvador\x22:\x22El Salvador\x22,\x22next\x22:\x22Next\x22,\x22brazil\x22:\x22Brazil\x22,\x22guyana\x22:\x22Guyana\x22,\x22lesotho\x22:\x22Lesotho\x22,\x22germany\x22:\x22Germany\x22,\x22Exit full screen\x22:\x22Exit full screen\x22,\x22india\x22:\x22India\x22,\x22malaysia\x22:\x22Malaysia\x22,\x22peru\x22:\x22Peru\x22,\x22equatorial_guinea\x22:\x22Equatorial Guinea\x22,\x22search.states.searching\x22:\x22Searching...\x22,\x22common.states.empty\x22:\x22No data available\x22,\x22denmark\x22:\x22Denmark\x22,\x22Language\x22:\x22Language\x22,\x22search.results.search_query\x22:\x22Search query\x22,\x22sps.type_service\x22:\x22Tyre service\x22,\x22belize\x22:\x22Belize\x22,\x22sps.select_category\x22:\x22Please select a category to get results.\x22,\x22sps.search_here\x22:\x22Search here\x22,\x22common.errors.validation\x22:\x22Please check your input and try again.\x22,\x22new_zealand\x22:\x22New Zealand\x22,\x22search.results.clear_search\x22:\x22Clear search\x22,\x22nauru\x22:\x22Nauru\x22,\x22united_states\x22:\x22United States\x22,\x22sps.filters\x22:\x22Filters\x22,\x22kuwait\x22:\x22Kuwait\x22,\x22slovenia\x22:\x22Slovenia\x22,\x22haiti\x22:\x22Haiti\x22,\x22zimbabwe\x22:\x22Zimbabwe\x22,\x22previous\x22:\x22Previous\x22,\x22search.results.none.message\x22:\x22No results found for \\\x22{query}\\\x22\x22,\x22sps.gas_station\x22:\x22Gas station\x22,\x22asia\x22:\x22Asia\x22,\x22micronesia\x22:\x22Micronesia\x22,\x22Overview\x22:\x22Overview\x22,\x22common.states.success\x22:\x22Success\x22,\x22south_sudan\x22:\x22South Sudan\x22,\x22common.states.warning\x22:\x22Warning\x22,\x22sps.glass_repair\x22:\x22Glass repair\x22,\x22bolivia\x22:\x22Bolivia\x22,\x22china\x22:\x22China\x22,\x22brunei\x22:\x22Brunei\x22,\x22israel\x22:\x22Israel\x22,\x22sps.results_count_zero\x22:\x22No results found\x22,\x22Show more\x22:\x22Show more\x22,\x22bangladesh\x22:\x22Bangladesh\x22,\x22sps.search_placeholder\x22:\x22Enter an address, city or ZIP code\x22,\x22ireland\x22:\x22Ireland\x22,\x22albania\x22:\x22Albania\x22,\x22poland\x22:\x22Poland\x22,\x22Select Language\x22:\x22Select Language\x22,\x22eswatini\x22:\x22Eswatini\x22,\x22botswana\x22:\x22Botswana\x22,\x22sierra_leone\x22:\x22Sierra Leone\x22,\x22andorra\x22:\x22Andorra\x22,\x22venezuela\x22:\x22Venezuela\x22,\x22central_african_republic\x22:\x22Central African Republic\x22,\x22interactivemap.office.plural\x22:\x22Offices\x22,\x22malawi\x22:\x22Malawi\x22,\x22moldova\x22:\x22Moldova\x22,\x22russia\x22:\x22Russia\x22,\x22guinea_bissau\x22:\x22Guinea\u002DBissau\x22,\x22sweden\x22:\x22Sweden\x22,\x22Back\x22:\x22Back\x22,\x22madagascar\x22:\x22Madagascar\x22,\x22saudi_arabia\x22:\x22Saudi Arabia\x22,\x22Unmute\x22:\x22Unmute\x22,\x22turkmenistan\x22:\x22Turkmenistan\x22,\x22africa\x22:\x22Africa\x22,\x22iran\x22:\x22Iran\x22,\x22iraq\x22:\x22Iraq\x22,\x22seychelles\x22:\x22Seychelles\x22,\x22indonesia\x22:\x22Indonesia\x22,\x22nicaragua\x22:\x22Nicaragua\x22,\x22Turn captions off\x22:\x22Turn captions off\x22,\x22ethiopia\x22:\x22Ethiopia\x22,\x22sps.directions\x22:\x22Directions\x22,\x22Country\x22:\x22Country\x22,\x22united_kingdom\x22:\x22United Kingdom\x22,\x22ecuador\x22:\x22Ecuador\x22,\x22common.states.saving\x22:\x22Saving...\x22,\x22mauritania\x22:\x22Mauritania\x22,\x22spain\x22:\x22Spain\x22,\x22search.results.none.suggestions\x22:\x22Try different keywords, check your spelling, or search in a different section.\x22,\x22Pause\x22:\x22Pause\x22,\x22algeria\x22:\x22Algeria\x22,\x22trinidad_and_tobago\x22:\x22Trinidad \x26 Tobago\x22,\x22mozambique\x22:\x22Mozambique\x22,\x22cameroon\x22:\x22Cameroon\x22,\x22portugal\x22:\x22Portugal\x22,\x22common.errors.generic\x22:\x22Something went wrong. Please try again or contact support if the problem persists.\x22,\x22lithuania\x22:\x22Lithuania\x22,\x22sps.results_count_many\x22:\x22{count} results found\x22,\x22interactivemap.office.singular\x22:\x22Office\x22,\x22sps.reset_all\x22:\x22Reset all\x22,\x22panama\x22:\x22Panama\x22,\x22search.results.summary.single\x22:\x221 result found\x22,\x22sps.filters_count_many\x22:\x22{count} filters available for {category}\x22,\x22common.states.info\x22:\x22Information\x22,\x22lebanon\x22:\x22Lebanon\x22,\x22luxembourg\x22:\x22Luxembourg\x22,\x22mongolia\x22:\x22Mongolia\x22,\x22search.results.summary.available\x22:\x22Available\x22,\x22sps.alternative_msg\x22:\x22Note: Alternatively, you can contact a manufacturer\u002Dauthorized repair shop of your choice.\x22,\x22common.errors.maintenance\x22:\x22The system is under maintenance. Please try again later.\x22,\x22sps.send_an_email\x22:\x22Send an email\x22,\x22europe\x22:\x22Europe\x22,\x22italy\x22:\x22Italy\x22,\x22papua_new_guinea\x22:\x22Papua New Guinea\x22,\x22interactivemap.sectionIntro\x22:\x22Our Locations \x26 Alphabet OneNet members\x22,\x22finland\x22:\x22Finland\x22,\x22benin\x22:\x22Benin\x22,\x22nigeria\x22:\x22Nigeria\x22,\x22sudan\x22:\x22Sudan\x22,\x22common.states.error\x22:\x22Error\x22,\x22chad\x22:\x22Chad\x22,\x22liberia\x22:\x22Liberia\x22,\x22djibouti\x22:\x22Djibouti\x22,\x22tajikistan\x22:\x22Tajikistan\x22,\x22fiji\x22:\x22Fiji\x22,\x22saint_kitts_and_nevis\x22:\x22St. Kitts \x26 Nevis\x22,\x22search.plural\x22:\x22Results\x22,\x22Play\x22:\x22Play\x22,\x22singapore\x22:\x22Singapore\x22,\x22mexico\x22:\x22Mexico\x22,\x22samoa\x22:\x22Samoa\x22,\x22tunisia\x22:\x22Tunisia\x22,\x22bahamas\x22:\x22Bahamas\x22,\x22bhutan\x22:\x22Bhutan\x22,\x22search.results.results_count\x22:\x22Results\x22,\x22stickybubble.open\x22:\x22Show contact options\x22,\x22uganda\x22:\x22Uganda\x22,\x22uruguay\x22:\x22Uruguay\x22,\x22gabon\x22:\x22Gabon\x22,\x22sps.collapse_card\x22:\x22Collapse card\x22,\x22sps.filters_count_one\x22:\x221 filter available for {category}\x22,\x22costa_rica\x22:\x22Costa Rica\x22,\x22interactivemap.partner.plural\x22:\x22Partners\x22,\x22niger\x22:\x22Niger\x22,\x22kyrgyzstan\x22:\x22Kyrgyzstan\x22,\x22pakistan\x22:\x22Pakistan\x22,\x22search.results.none.title\x22:\x22No results found\x22,\x22interactivemap.learnmore\x22:\x22Learn more\x22,\x22south_america\x22:\x22South America\x22,\x22georgia\x22:\x22Georgia\x22,\x22yemen\x22:\x22Yemen\x22,\x22argentina\x22:\x22Argentina\x22,\x22interactivemap.partner.singular\x22:\x22Partner\x22,\x22jordan\x22:\x22Jordan\x22,\x22search.results.summary.showMore\x22:\x22See ({count}) results\x22,\x22sps.more_filters\x22:\x22More filters\x22,\x22burundi\x22:\x22Burundi\x22,\x22slovakia\x22:\x22Slovakia\x22,\x22international\x22:\x22International\x22,\x22belgium\x22:\x22Belgium\x22,\x22Enter full screen\x22:\x22Enter full screen\x22,\x22uzbekistan\x22:\x22Uzbekistan\x22,\x22tanzania\x22:\x22Tanzania\x22,\x22interactivemap.alphabetPartner\x22:\x22Alphabet Partner\x22,\x22dominican_republic\x22:\x22Dominican Republic\x22,\x22san_marino\x22:\x22San Marino\x22,\x22grenada\x22:\x22Grenada\x22,\x22netherlands\x22:\x22Netherlands\x22,\x22burkina_faso\x22:\x22Burkina Faso\x22,\x22common.errors.network\x22:\x22Network error, please try again.\x22,\x22east_timor\x22:\x22Timor\u002DLeste\x22,\x22common.states.processing\x22:\x22Processing...\x22,\x22eritrea\x22:\x22Eritrea\x22,\x22ivory_coast\x22:\x22Côte d’Ivoire\x22,\x22interactivemap.alphabetOffice\x22:\x22Alphabet Office\x22,\x22croatia\x22:\x22Croatia\x22,\x22sri_lanka\x22:\x22Sri Lanka\x22,\x22sps.book_appointment\x22:\x22Book an appointment\x22,\x22sps.less_filters\x22:\x22Less filters\x22,\x22czech_republic\x22:\x22Czech Republic\x22,\x22nepal\x22:\x22Nepal\x22,\x22morocco\x22:\x22Morocco\x22,\x22sps.start_search\x22:\x22Please enter your location to start your search.\x22,\x22sps.select_partner\x22:\x22Select partner\x22,\x22interactivemap.readmore\x22:\x22Read more about\x22,\x22search.results.page\x22:\x22Page\x22,\x22search.results.view_result\x22:\x22View result\x22,\x22suriname\x22:\x22Suriname\x22,\x22romania\x22:\x22Romania\x22,\x22angola\x22:\x22Angola\x22,\x22common.errors.notFound\x22:\x22The requested resource was not found.\x22,\x22common.states.offline\x22:\x22You are offline\x22,\x22Select Country\x22:\x22Select Country\x22,\x22latvia\x22:\x22Latvia\x22,\x22kazakhstan\x22:\x22Kazakhstan\x22,\x22south_africa\x22:\x22South Africa\x22,\x22search.results.previous_page\x22:\x22Previous page\x22,\x22egypt\x22:\x22Egypt\x22,\x22malta\x22:\x22Malta\x22,\x22iceland\x22:\x22Iceland\x22,\x22myanmar\x22:\x22Myanmar (Burma)\x22,\x22Open main menu\x22:\x22Open main menu\x22,\x22montenegro\x22:\x22Montenegro\x22,\x22search.results.next_page\x22:\x22Next page\x22,\x22tuvalu\x22:\x22Tuvalu\x22,\x22interactivemap.heading\x22:\x22Our strategic cooperations\x22,\x22qatar\x22:\x22Qatar\x22,\x22search.states.no_results\x22:\x22No results found for your search.\x22,\x22tonga\x22:\x22Tonga\x22,\x22barbados\x22:\x22Barbados\x22}"
+    </script>
+
+
+
+    
+    
+        <!-- ESI S-->
+        
+                <!-- esi:include src="/etc/clientlibs/epaas/content/rcss/alphabetweb/alphabet_com/en_GB.epaasclientlibinclude.js" -->
+                <script id="epaasScriptTag" async src="https://www.bmw.com/etc/clientlibs/wcmp/consentcontroller.fallback/epaas.js" onload="epaas.api.initialize({tenant: 'alphabet_com-_unitedkingdom', locale: 'en_GB'})" type="text/javascript"></script>
+            
+        <!-- ESI E-->
+    
+    
+
+
+
+
+
+    
+
+    
+        
+    <script src="/etc.clientlibs/alphabetweb/clientlibs/trontracking.min.js"></script>
+
+
+        <script type="module">
+          import("https:\/\/tron.bmwgroup.com\/generic\u002Dpage\/archive\/v2\/TRONgenericPageTracking.js").then((tron) => {
+             const tronTracking = tron.default;
+             window.TRONgenericPageTracking = new tronTracking();
+             if (true) {
+                TRONgenericPageTracking.genericPageLoad(JSON.parse("{\x22componentName\x22:\x22alphabet website\x22,\x22componentPlatform\x22:\x22aem \\u003e central\x22,\x22componentVersion\x22:\x22last build:2025\u002D12\u002D15T17:15:10.130+01:00\x22,\x22pageBrand\x22:\x22alphabet\x22,\x22pageGeoRegion\x22:\x22gb\x22,\x22pageLanguage\x22:\x22en\x22,\x22pageName\x22:\x22Fleet management solutions for businesses | Alphabet.com\x22,\x22pageVariant\x22:\x22real page\x22,\x22pageVersion\x22:\x22acdl: 2025\u002D12\u002D15T17:15:10.130+01:00\x22,\x22pageSysEnv\x22:\x22prod\x22,\x22solutionSpecific1\x22:\x22alphabet website\x22}"));
+             }
+          });
+        </script>
+    
+
+
+
+    
+
+
+
+
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+
+    
+    
+
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="CQ9PV-MDKKQ-TF8BC-ADUWD-EDZ2Y",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"CQ9PV-MDKKQ-TF8BC-ADUWD-EDZ2Y",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="fiaq4cqis2fzakqce3ycxaaaf5uvpsrg-f-070c532d1-clienttons-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"1878514","ak.ai":parseInt("1228547",10),"ak.ol":"0","ak.cr":12,"ak.ipv":6,"ak.proto":"h2","ak.rid":"6f27be4e","ak.r":51300,"ak.a2":e,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"2a01:e0a:896:8b90::","ak.cport":51374,"ak.gh":"2.21.142.72","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1767361062","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==NqMApyUQes5mqYueTqDM8xRVg3Xd+JUu+O7GVe/yv4/4lm12zmD2hauBQGPx6pqnxGNDQuigpiUmGbAhpxWy+NQSBAtTFJVMhkSnLzQPTGYh9k34rq/EqYQSFlJ7+coBkKdDZNvNPiAVXwMXgznRUlwTdHm+DhDOy6xVVwGnnVWGRuDFoaCY8N9Bm8HMBoRP/OZIZGzz4p8sYTmHCjWntkSDT3HKlvqN5dU7+LBuEbNPOdyeacgn+eiXumWBI7dBGuFwMGtu+Mgq1ID3N1dxYQhopcH+jqm6VRMACc9DaPF1gvq7P791RhA1aMNsq9WZB7lykf1dk+IE0R2wZbeF9YdLc3187Xk5aau1gJ+nYO9r0Vc35ROmFW4TUTZxCg1CKXVvN6ebljzMDCpPAWAJgfpMD2Enxn+cb9OkpTz/yY0=","ak.pv":"24","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+    <body class="page basicpage" id="page-1b4fe9e287" data-cmp-link-accessibility-enabled data-cmp-link-accessibility-text="opens in a new tab" data-cmp-data-layer-name="adobeDataLayer">
+        
+        
+        
+            <div class="cmp-page__skiptomaincontent">
+    <a class="cmp-page__skiptomaincontent-link" href="#main-content">Skip to main content</a>
+</div>
+
+            
+<div class="root container responsivegrid" data-cmp-common="container">
+
+    
+    <div id="container-b25e27f642" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <header class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-ef07f9296a" class="cmp-experiencefragment cmp-experiencefragment--header">
+
+
+    
+    <div id="container-58d8efa39d" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="header aem-GridColumn aem-GridColumn--default--12" data-cmp-dependencies="nested-navigation" data-cmp-common="header"><div class="cmp-header" data-tracking-block="true" data-tracking-regionid="header¦¦main header¦¦¦">
+    <div class="cmp-header__logo" data-tracking-regionid="¦¦¦logo¦¦brand logo" data-ref="logo">
+        <div class="image"><div data-cmp-is="image" data-cmp-src="/content/experience-fragments/rcss/alphabetweb/alphabet_com/en_GB/header/master/_jcr_content/root/header/logo.coreimg{.width}.svg/1761817211416/logo-white.svg" data-cmp-filereference="/content/dam/rcss/alphabetweb/logo-white.svg" id="image-926ad66fcf" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    <a class="cmp-image__link" href="/en-gb.html">
+        <img src="/content/experience-fragments/rcss/alphabetweb/alphabet_com/en_GB/header/master/_jcr_content/root/header/logo.coreimg.svg/1761817211416/logo-white.svg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="Alphabet logo" title="Alphabet logo"/>
+    </a>
+    
+    <meta itemprop="caption" content="Alphabet logo"/>
+</div>
+
+    
+
+<style>
+    #image-926ad66fcf {
+        --x-position: ;
+        --y-position: ;
+    }
+</style>
+</div>
+
+    </div>
+    <div class="cmp-header__menu" data-ref="headerMenu" data-tracking-regionid="header¦¦main navigation¦¦¦" data-tracking-block="true">
+        <div class="cmp-header__mobile-menu show-below-header">
+            <button class="cmp-header__mobile-back" data-ref="backButton">
+                <span class="icon" data-icon="chevron-left" aria-hidden="true"></span>
+            </button>
+            <strong data-ref="activeParentTitle"></strong>
+            <button class="cmp-header__mobile-trigger close" data-ref="closeButton">
+                <span class="icon icon--big" data-icon="close" aria-hidden="true"></span>
+            </button>
+        </div>
+        <div class="nestednavigation navigation" data-cmp-common="nested-navigation">
+<nav id="navigation-10bc8ceb95" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement" class="cmp-nestednavigation cmp-navigation" data-tracking-regionid="¦¦¦navigation¦¦nestednavigation" aria-label="Navigation">
+
+    <!-- Main navigation level -->
+    <ul class="cmp-navigation__group main" id="main-nav">
+        
+            <li class="cmp-navigation__item active has-children" id="navigation-10bc8ceb95-item-1b4fe9e287">
+
+                
+                    <a class="cmp-navigation__item-link" data-tracking-linkid="link¦1¦corporate fleet solutions¦internal click" aria-expanded="false" aria-haspopup="true" aria-controls="submenu-navigation-10bc8ceb95-item-1b4fe9e287" data-ref-collection="navToggles" href="/en-gb/corporate-fleet-solutions.html">
+                        Corporate Fleet Solutions
+                        <span class="icon show-below-header" data-icon="chevron-right" aria-hidden="true"></span>
+                    </a>
+
+                    <!-- Submenu container -->
+                    <ul class="cmp-navigation__group cmp-navigation__submenu flyout" id="submenu-navigation-10bc8ceb95-item-1b4fe9e287" role="group" aria-label="Corporate Fleet Solutions" data-ref-collection="navSubmenus">
+
+                        <!-- Overview link to parent page -->
+                        <li class="cmp-navigation__item cmp-navigation__overview show-below-header">
+                            <a data-tracking-linkid="link¦1¦corporate fleet solutions¦internal click" class="cmp-navigation__item-link cmp-navigation__overview-link" href="/en-gb/corporate-fleet-solutions.html">
+                                <span>Corporate Fleet Solutions - Overview</span>
+                            </a>
+                        </li>
+
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem has-children" id="navigation-10bc8ceb95-item-f4945f1491">
+
+                                
+                                    <a class="cmp-navigation__item-link cmp-navigation__subtoggle" data-tracking-linkid="list link¦1¦leasing options¦internal click" aria-expanded="false" aria-haspopup="true" aria-controls="submenu-navigation-10bc8ceb95-item-f4945f1491" data-ref-collection="navToggles" href="/en-gb/corporate-fleet-solutions/leasing-solutions.html">
+                                        Leasing Options
+                                        <span class="icon" aria-hidden="true" data-icon="chevron-right" data-bold="true"></span>
+                                    </a>
+
+                                    <!-- Nested submenu -->
+                                    <ul class="cmp-navigation__group cmp-navigation__submenu cmp-navigation__nested-submenu flyout" id="submenu-navigation-10bc8ceb95-item-f4945f1491" role="group" aria-label="Leasing Options" data-ref-collection="navSubmenus">
+
+                                        <!-- Overview link to child parent page -->
+                                        <li class="cmp-navigation__item cmp-navigation__overview show-below-header">
+                                            <a data-tracking-linkid="list link¦1¦leasing options¦internal click" class="cmp-navigation__item-link cmp-navigation__overview-link" href="/en-gb/corporate-fleet-solutions/leasing-solutions.html">
+                                                <span>Leasing Options - Overview</span>
+                                            </a>
+                                        </li>
+
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦1¦finance lease¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/leasing-solutions/finance-lease.html">
+                                                    Finance Lease
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦2¦salary sacrifice¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/leasing-solutions/salary-sacrifice-car-scheme.html">
+                                                    Salary Sacrifice
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦3¦business contract hire¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/leasing-solutions/contract-hire.html">
+                                                    Business Contract Hire
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦4¦business contract purchase for fleets¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/leasing-solutions/contract-purchase.html">
+                                                    Business Contract Purchase for Fleets
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦5¦sale and leaseback¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/leasing-solutions/sale-and-leaseback.html">
+                                                    Sale and Leaseback
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+
+                                
+                            </li>
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem has-children" id="navigation-10bc8ceb95-item-274a8e875c">
+
+                                
+                                    <a class="cmp-navigation__item-link cmp-navigation__subtoggle" data-tracking-linkid="list link¦2¦alphabet consulting¦internal click" aria-expanded="false" aria-haspopup="true" aria-controls="submenu-navigation-10bc8ceb95-item-274a8e875c" data-ref-collection="navToggles" href="/en-gb/corporate-fleet-solutions/alphabet-consulting.html">
+                                        Alphabet Consulting
+                                        <span class="icon" aria-hidden="true" data-icon="chevron-right" data-bold="true"></span>
+                                    </a>
+
+                                    <!-- Nested submenu -->
+                                    <ul class="cmp-navigation__group cmp-navigation__submenu cmp-navigation__nested-submenu flyout" id="submenu-navigation-10bc8ceb95-item-274a8e875c" role="group" aria-label="Alphabet Consulting" data-ref-collection="navSubmenus">
+
+                                        <!-- Overview link to child parent page -->
+                                        <li class="cmp-navigation__item cmp-navigation__overview show-below-header">
+                                            <a data-tracking-linkid="list link¦2¦alphabet consulting¦internal click" class="cmp-navigation__item-link cmp-navigation__overview-link" href="/en-gb/corporate-fleet-solutions/alphabet-consulting.html">
+                                                <span>Alphabet Consulting - Overview</span>
+                                            </a>
+                                        </li>
+
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦1¦fleet emission consulting¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/alphabet-consulting/fleet-emission-consulting.html">
+                                                    Fleet Emission Consulting
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦2¦e-mobility consulting¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/alphabet-consulting/e-mobility-consulting.html">
+                                                    E-Mobility Consulting
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦3¦additional consulting services¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/alphabet-consulting/additional-consulting-services.html">
+                                                    Additional Consulting Services
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦4¦total cost of ownership¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/alphabet-consulting/total-cost-ownership.html">
+                                                    Total Cost of Ownership
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+
+                                
+                            </li>
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem" id="navigation-10bc8ceb95-item-253a8c7c72">
+
+                                
+
+                                
+                                    <a data-tracking-linkid="list link¦3¦commercial vehicles¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/commercial-vehicles.html">
+                                        Commercial Vehicles
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem" id="navigation-10bc8ceb95-item-3d20d7cf72">
+
+                                
+
+                                
+                                    <a data-tracking-linkid="list link¦4¦alphabet rent¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/alphabet-rent.html">
+                                        Alphabet Rent
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem has-children" id="navigation-10bc8ceb95-item-dcb9df7400">
+
+                                
+                                    <a class="cmp-navigation__item-link cmp-navigation__subtoggle" data-tracking-linkid="list link¦5¦fleet management tools ¦internal click" aria-expanded="false" aria-haspopup="true" aria-controls="submenu-navigation-10bc8ceb95-item-dcb9df7400" data-ref-collection="navToggles" href="/en-gb/corporate-fleet-solutions/fleet-management-tools.html">
+                                        Fleet Management Tools 
+                                        <span class="icon" aria-hidden="true" data-icon="chevron-right" data-bold="true"></span>
+                                    </a>
+
+                                    <!-- Nested submenu -->
+                                    <ul class="cmp-navigation__group cmp-navigation__submenu cmp-navigation__nested-submenu flyout" id="submenu-navigation-10bc8ceb95-item-dcb9df7400" role="group" aria-label="Fleet Management Tools " data-ref-collection="navSubmenus">
+
+                                        <!-- Overview link to child parent page -->
+                                        <li class="cmp-navigation__item cmp-navigation__overview show-below-header">
+                                            <a data-tracking-linkid="list link¦5¦fleet management tools ¦internal click" class="cmp-navigation__item-link cmp-navigation__overview-link" href="/en-gb/corporate-fleet-solutions/fleet-management-tools.html">
+                                                <span>Fleet Management Tools  - Overview</span>
+                                            </a>
+                                        </li>
+
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦1¦alphabet carbon manager¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/fleet-management-tools/alphabet-carbon-manager.html">
+                                                    Alphabet Carbon Manager
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦2¦fleet reporting¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/fleet-management-tools/fleet-reporting.html">
+                                                    Fleet Reporting
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦3¦online invoicing¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/fleet-management-tools/online-invoicing.html">
+                                                    Online Invoicing
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦4¦payment portal¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/fleet-management-tools/payment-portal.html">
+                                                    Payment Portal
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+
+                                
+                            </li>
+                        
+                    </ul>
+                
+
+                
+            </li>
+        
+            <li class="cmp-navigation__item has-children" id="navigation-10bc8ceb95-item-d615d3da13">
+
+                
+                    <a class="cmp-navigation__item-link" data-tracking-linkid="link¦2¦small and medium fleets¦internal click" aria-expanded="false" aria-haspopup="true" aria-controls="submenu-navigation-10bc8ceb95-item-d615d3da13" data-ref-collection="navToggles" href="/en-gb/small-medium-fleet.html">
+                        Small and Medium Fleets
+                        <span class="icon show-below-header" data-icon="chevron-right" aria-hidden="true"></span>
+                    </a>
+
+                    <!-- Submenu container -->
+                    <ul class="cmp-navigation__group cmp-navigation__submenu flyout" id="submenu-navigation-10bc8ceb95-item-d615d3da13" role="group" aria-label="Small and Medium Fleets" data-ref-collection="navSubmenus">
+
+                        <!-- Overview link to parent page -->
+                        <li class="cmp-navigation__item cmp-navigation__overview show-below-header">
+                            <a data-tracking-linkid="link¦2¦small and medium fleets¦internal click" class="cmp-navigation__item-link cmp-navigation__overview-link" href="/en-gb/small-medium-fleet.html">
+                                <span>Small and Medium Fleets - Overview</span>
+                            </a>
+                        </li>
+
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem" id="navigation-10bc8ceb95-item-5e1c9a150c">
+
+                                
+
+                                
+                                    <a data-tracking-linkid="list link¦1¦fleet solutions¦internal click" class="cmp-navigation__item-link" href="/en-gb/small-medium-fleet/fleet-dreams.html">
+                                        Fleet Solutions
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem" id="navigation-10bc8ceb95-item-4b7ce6e1c1">
+
+                                
+
+                                
+                                    <a data-tracking-linkid="list link¦2¦leasing offers and deals¦internal click" class="cmp-navigation__item-link" href="/en-gb/small-medium-fleet/leasing-offers-and-deals-for-small-and-medium-fleets.html">
+                                        Leasing Offers and Deals
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem has-children" id="navigation-10bc8ceb95-item-3132586351">
+
+                                
+                                    <a class="cmp-navigation__item-link cmp-navigation__subtoggle" data-tracking-linkid="list link¦3¦small and medium fleet guidance¦internal click" aria-expanded="false" aria-haspopup="true" aria-controls="submenu-navigation-10bc8ceb95-item-3132586351" data-ref-collection="navToggles" href="/en-gb/small-medium-fleet/small-and-medium-fleet-guidance.html">
+                                        Small and Medium Fleet Guidance
+                                        <span class="icon" aria-hidden="true" data-icon="chevron-right" data-bold="true"></span>
+                                    </a>
+
+                                    <!-- Nested submenu -->
+                                    <ul class="cmp-navigation__group cmp-navigation__submenu cmp-navigation__nested-submenu flyout" id="submenu-navigation-10bc8ceb95-item-3132586351" role="group" aria-label="Small and Medium Fleet Guidance" data-ref-collection="navSubmenus">
+
+                                        <!-- Overview link to child parent page -->
+                                        <li class="cmp-navigation__item cmp-navigation__overview show-below-header">
+                                            <a data-tracking-linkid="list link¦3¦small and medium fleet guidance¦internal click" class="cmp-navigation__item-link cmp-navigation__overview-link" href="/en-gb/small-medium-fleet/small-and-medium-fleet-guidance.html">
+                                                <span>Small and Medium Fleet Guidance - Overview</span>
+                                            </a>
+                                        </li>
+
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦1¦cost efficiency¦internal click" class="cmp-navigation__item-link" href="/en-gb/small-medium-fleet/small-and-medium-fleet-guidance/cost-efficiency.html">
+                                                    Cost Efficiency
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦2¦management¦internal click" class="cmp-navigation__item-link" href="/en-gb/small-medium-fleet/small-and-medium-fleet-guidance/fleet-management.html">
+                                                    Management
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦3¦sustainability¦internal click" class="cmp-navigation__item-link" href="/en-gb/small-medium-fleet/small-and-medium-fleet-guidance/Sustainability.html">
+                                                    Sustainability
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦4¦commercial vehicles¦internal click" class="cmp-navigation__item-link" href="/en-gb/small-medium-fleet/small-and-medium-fleet-guidance/commercial-vehicles.html">
+                                                    Commercial Vehicles
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+
+                                
+                            </li>
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem has-children" id="navigation-10bc8ceb95-item-73d21b5835">
+
+                                
+                                    <a class="cmp-navigation__item-link cmp-navigation__subtoggle" data-tracking-linkid="list link¦4¦electric vehicle advice for fleets¦internal click" aria-expanded="false" aria-haspopup="true" aria-controls="submenu-navigation-10bc8ceb95-item-73d21b5835" data-ref-collection="navToggles" href="/en-gb/small-medium-fleet/electric-advice-for-fleets.html">
+                                        Electric Vehicle Advice for Fleets
+                                        <span class="icon" aria-hidden="true" data-icon="chevron-right" data-bold="true"></span>
+                                    </a>
+
+                                    <!-- Nested submenu -->
+                                    <ul class="cmp-navigation__group cmp-navigation__submenu cmp-navigation__nested-submenu flyout" id="submenu-navigation-10bc8ceb95-item-73d21b5835" role="group" aria-label="Electric Vehicle Advice for Fleets" data-ref-collection="navSubmenus">
+
+                                        <!-- Overview link to child parent page -->
+                                        <li class="cmp-navigation__item cmp-navigation__overview show-below-header">
+                                            <a data-tracking-linkid="list link¦4¦electric vehicle advice for fleets¦internal click" class="cmp-navigation__item-link cmp-navigation__overview-link" href="/en-gb/small-medium-fleet/electric-advice-for-fleets.html">
+                                                <span>Electric Vehicle Advice for Fleets - Overview</span>
+                                            </a>
+                                        </li>
+
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦1¦the current ev landscape¦internal click" class="cmp-navigation__item-link" href="/en-gb/small-medium-fleet/electric-advice-for-fleets/todays-electric-vehicle-market.html">
+                                                    The Current EV Landscape
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦2¦alphabet&#39;s electric fleet explained¦internal click" class="cmp-navigation__item-link" href="/en-gb/small-medium-fleet/electric-advice-for-fleets/alphabet-fleet.html">
+                                                    Alphabet&#39;s Electric Fleet Explained
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦3¦the road to electrification¦internal click" class="cmp-navigation__item-link" href="/en-gb/small-medium-fleet/electric-advice-for-fleets/road-to-electrification.html">
+                                                    The Road to Electrification
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦4¦uk government support and grants¦internal click" class="cmp-navigation__item-link" href="/en-gb/small-medium-fleet/electric-advice-for-fleets/uk-government-support-ev.html">
+                                                    UK Government Support and Grants
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦5¦electric vehicle mythbusting¦internal click" class="cmp-navigation__item-link" href="/en-gb/small-medium-fleet/electric-advice-for-fleets/your-ev-mythbusting-guide.html">
+                                                    Electric Vehicle Mythbusting
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+
+                                
+                            </li>
+                        
+                    </ul>
+                
+
+                
+            </li>
+        
+            <li class="cmp-navigation__item has-children" id="navigation-10bc8ceb95-item-f2f70f3141">
+
+                
+                    <a class="cmp-navigation__item-link" data-tracking-linkid="link¦3¦drivers¦internal click" aria-expanded="false" aria-haspopup="true" aria-controls="submenu-navigation-10bc8ceb95-item-f2f70f3141" data-ref-collection="navToggles" href="/en-gb/drivers.html">
+                        Drivers
+                        <span class="icon show-below-header" data-icon="chevron-right" aria-hidden="true"></span>
+                    </a>
+
+                    <!-- Submenu container -->
+                    <ul class="cmp-navigation__group cmp-navigation__submenu flyout" id="submenu-navigation-10bc8ceb95-item-f2f70f3141" role="group" aria-label="Drivers" data-ref-collection="navSubmenus">
+
+                        <!-- Overview link to parent page -->
+                        <li class="cmp-navigation__item cmp-navigation__overview show-below-header">
+                            <a data-tracking-linkid="link¦3¦drivers¦internal click" class="cmp-navigation__item-link cmp-navigation__overview-link" href="/en-gb/drivers.html">
+                                <span>Drivers - Overview</span>
+                            </a>
+                        </li>
+
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem has-children" id="navigation-10bc8ceb95-item-6157a6b540">
+
+                                
+                                    <a class="cmp-navigation__item-link cmp-navigation__subtoggle" data-tracking-linkid="list link¦1¦managing your contract¦internal click" aria-expanded="false" aria-haspopup="true" aria-controls="submenu-navigation-10bc8ceb95-item-6157a6b540" data-ref-collection="navToggles" href="/en-gb/drivers/managing-your-contract.html">
+                                        Managing Your Contract
+                                        <span class="icon" aria-hidden="true" data-icon="chevron-right" data-bold="true"></span>
+                                    </a>
+
+                                    <!-- Nested submenu -->
+                                    <ul class="cmp-navigation__group cmp-navigation__submenu cmp-navigation__nested-submenu flyout" id="submenu-navigation-10bc8ceb95-item-6157a6b540" role="group" aria-label="Managing Your Contract" data-ref-collection="navSubmenus">
+
+                                        <!-- Overview link to child parent page -->
+                                        <li class="cmp-navigation__item cmp-navigation__overview show-below-header">
+                                            <a data-tracking-linkid="list link¦1¦managing your contract¦internal click" class="cmp-navigation__item-link cmp-navigation__overview-link" href="/en-gb/drivers/managing-your-contract.html">
+                                                <span>Managing Your Contract - Overview</span>
+                                            </a>
+                                        </li>
+
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦1¦vehicle management¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/managing-your-contract/vehicle-management.html">
+                                                    Vehicle Management
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦2¦amending your contract¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/managing-your-contract/amending-your-contract.html">
+                                                    Amending Your Contract
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦3¦calculating benefit-in-kind (bik) tax¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/managing-your-contract/calculating-bik-tax.html">
+                                                    Calculating Benefit-in-Kind (BIK) Tax
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦4¦novation requests¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/managing-your-contract/novation-requests.html">
+                                                    Novation Requests
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦5¦ending your contract early¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/managing-your-contract/ending-your-contract-early.html">
+                                                    Ending Your Contract Early
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦6¦moving your vehicle¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/managing-your-contract/moving-your-vehicle.html">
+                                                    Moving Your Vehicle
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦7¦declare your vehicle a total loss¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/managing-your-contract/total-loss.html">
+                                                    Declare Your Vehicle a Total Loss
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦8¦returning your vehicle¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/managing-your-contract/returning-your-vehicle.html">
+                                                    Returning Your Vehicle
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦9¦buy your lease car or fleet vehicle¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/managing-your-contract/buying-your-vehicle.html">
+                                                    Buy Your Lease Car or Fleet Vehicle
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+
+                                
+                            </li>
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem has-children" id="navigation-10bc8ceb95-item-facc75ec50">
+
+                                
+                                    <a class="cmp-navigation__item-link cmp-navigation__subtoggle" data-tracking-linkid="list link¦2¦fleet services¦internal click" aria-expanded="false" aria-haspopup="true" aria-controls="submenu-navigation-10bc8ceb95-item-facc75ec50" data-ref-collection="navToggles" href="/en-gb/drivers/fleet-management-services.html">
+                                        Fleet Services
+                                        <span class="icon" aria-hidden="true" data-icon="chevron-right" data-bold="true"></span>
+                                    </a>
+
+                                    <!-- Nested submenu -->
+                                    <ul class="cmp-navigation__group cmp-navigation__submenu cmp-navigation__nested-submenu flyout" id="submenu-navigation-10bc8ceb95-item-facc75ec50" role="group" aria-label="Fleet Services" data-ref-collection="navSubmenus">
+
+                                        <!-- Overview link to child parent page -->
+                                        <li class="cmp-navigation__item cmp-navigation__overview show-below-header">
+                                            <a data-tracking-linkid="list link¦2¦fleet services¦internal click" class="cmp-navigation__item-link cmp-navigation__overview-link" href="/en-gb/drivers/fleet-management-services.html">
+                                                <span>Fleet Services - Overview</span>
+                                            </a>
+                                        </li>
+
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦1¦vehicle servicing and tyre management¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/fleet-management-services/vehicle-servicing-tyre-management.html">
+                                                    Vehicle Servicing and Tyre Management
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦2¦glass repair and replacement ¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/fleet-management-services/glass-management.html">
+                                                    Glass Repair and Replacement 
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦3¦accident management ¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/fleet-management-services/accident-management.html">
+                                                    Accident Management 
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦4¦roadside assistance ¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/fleet-management-services/roadside-assistance.html">
+                                                    Roadside Assistance 
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦5¦taking your vehicle abroad¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/fleet-management-services/taking-your-vehicle-abroad.html">
+                                                    Taking Your Vehicle Abroad
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦6¦vehicle fine support¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/fleet-management-services/vehicle-fine-support.html">
+                                                    Vehicle Fine Support
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+
+                                
+                            </li>
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem" id="navigation-10bc8ceb95-item-56790140ad">
+
+                                
+
+                                
+                                    <a data-tracking-linkid="list link¦3¦alphabet app¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/alphabet-app.html">
+                                        Alphabet App
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem has-children" id="navigation-10bc8ceb95-item-4a1405e398">
+
+                                
+                                    <a class="cmp-navigation__item-link cmp-navigation__subtoggle" data-tracking-linkid="list link¦4¦electric vehicle advice for drivers¦internal click" aria-expanded="false" aria-haspopup="true" aria-controls="submenu-navigation-10bc8ceb95-item-4a1405e398" data-ref-collection="navToggles" href="/en-gb/drivers/electric-vehicle-advice-for-drivers.html">
+                                        Electric Vehicle Advice for Drivers
+                                        <span class="icon" aria-hidden="true" data-icon="chevron-right" data-bold="true"></span>
+                                    </a>
+
+                                    <!-- Nested submenu -->
+                                    <ul class="cmp-navigation__group cmp-navigation__submenu cmp-navigation__nested-submenu flyout" id="submenu-navigation-10bc8ceb95-item-4a1405e398" role="group" aria-label="Electric Vehicle Advice for Drivers" data-ref-collection="navSubmenus">
+
+                                        <!-- Overview link to child parent page -->
+                                        <li class="cmp-navigation__item cmp-navigation__overview show-below-header">
+                                            <a data-tracking-linkid="list link¦4¦electric vehicle advice for drivers¦internal click" class="cmp-navigation__item-link cmp-navigation__overview-link" href="/en-gb/drivers/electric-vehicle-advice-for-drivers.html">
+                                                <span>Electric Vehicle Advice for Drivers - Overview</span>
+                                            </a>
+                                        </li>
+
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦1¦understanding electric vehicles cost¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/electric-vehicle-advice-for-drivers/going-electric-what-is-the-cost.html">
+                                                    Understanding Electric Vehicles Cost
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦2¦electric vehicle charging¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/electric-vehicle-advice-for-drivers/charging-evs.html">
+                                                    Electric Vehicle Charging
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦3¦servicing an electric vehicle¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/electric-vehicle-advice-for-drivers/servicing-an-ev-fleet.html">
+                                                    Servicing an Electric Vehicle
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦4¦using an electric vehicle¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/electric-vehicle-advice-for-drivers/using-an-ev.html">
+                                                    Using an Electric Vehicle
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="cmp-navigation__item cmp-navigation__subitem">
+                                                <a data-tracking-linkid="list link¦5¦electric vehicle considerations¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/electric-vehicle-advice-for-drivers/things-to-consider-before-ordering-an-ev.html">
+                                                    Electric Vehicle Considerations
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+
+                                
+                            </li>
+                        
+                    </ul>
+                
+
+                
+            </li>
+        
+            <li class="cmp-navigation__item has-children" id="navigation-10bc8ceb95-item-7fdcbf5d2f">
+
+                
+                    <a class="cmp-navigation__item-link" data-tracking-linkid="link¦4¦sustainability ¦internal click" aria-expanded="false" aria-haspopup="true" aria-controls="submenu-navigation-10bc8ceb95-item-7fdcbf5d2f" data-ref-collection="navToggles" href="/en-gb/sustainability.html">
+                        Sustainability 
+                        <span class="icon show-below-header" data-icon="chevron-right" aria-hidden="true"></span>
+                    </a>
+
+                    <!-- Submenu container -->
+                    <ul class="cmp-navigation__group cmp-navigation__submenu flyout" id="submenu-navigation-10bc8ceb95-item-7fdcbf5d2f" role="group" aria-label="Sustainability " data-ref-collection="navSubmenus">
+
+                        <!-- Overview link to parent page -->
+                        <li class="cmp-navigation__item cmp-navigation__overview show-below-header">
+                            <a data-tracking-linkid="link¦4¦sustainability ¦internal click" class="cmp-navigation__item-link cmp-navigation__overview-link" href="/en-gb/sustainability.html">
+                                <span>Sustainability  - Overview</span>
+                            </a>
+                        </li>
+
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem" id="navigation-10bc8ceb95-item-d626674fe4">
+
+                                
+
+                                
+                                    <a data-tracking-linkid="list link¦1¦european fleet emission monitor 2025: report | alphabet¦internal click" class="cmp-navigation__item-link" href="/en-gb/sustainability/european-fleet-emission-monitor-report.html">
+                                        European Fleet Emission Monitor 2025: Report | Alphabet
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem" id="navigation-10bc8ceb95-item-7ea3a8682a">
+
+                                
+
+                                
+                                    <a data-tracking-linkid="list link¦2¦emissions reporting: the biggest challenge facing fleet decision-makers in 2025¦internal click" class="cmp-navigation__item-link" href="/en-gb/sustainability/emissions-reporting-biggest-challenge-facing-fleet-decision-makers-2025.html">
+                                        Emissions Reporting: The Biggest Challenge Facing Fleet Decision-Makers in 2025
+                                    </a>
+                                
+                            </li>
+                        
+                    </ul>
+                
+
+                
+            </li>
+        
+            <li class="cmp-navigation__item has-children" id="navigation-10bc8ceb95-item-05fd7fa177">
+
+                
+                    <a class="cmp-navigation__item-link" data-tracking-linkid="link¦5¦about us ¦internal click" aria-expanded="false" aria-haspopup="true" aria-controls="submenu-navigation-10bc8ceb95-item-05fd7fa177" data-ref-collection="navToggles" href="/en-gb/about-us.html">
+                        About Us 
+                        <span class="icon show-below-header" data-icon="chevron-right" aria-hidden="true"></span>
+                    </a>
+
+                    <!-- Submenu container -->
+                    <ul class="cmp-navigation__group cmp-navigation__submenu flyout" id="submenu-navigation-10bc8ceb95-item-05fd7fa177" role="group" aria-label="About Us " data-ref-collection="navSubmenus">
+
+                        <!-- Overview link to parent page -->
+                        <li class="cmp-navigation__item cmp-navigation__overview show-below-header">
+                            <a data-tracking-linkid="link¦5¦about us ¦internal click" class="cmp-navigation__item-link cmp-navigation__overview-link" href="/en-gb/about-us.html">
+                                <span>About Us  - Overview</span>
+                            </a>
+                        </li>
+
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem" id="navigation-10bc8ceb95-item-24d97bbf2a">
+
+                                
+
+                                
+                                    <a data-tracking-linkid="list link¦1¦contact us¦internal click" class="cmp-navigation__item-link" href="/en-gb/about-us/contact-us.html">
+                                        Contact Us
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem" id="navigation-10bc8ceb95-item-10b586ac2c">
+
+                                
+
+                                
+                                    <a data-tracking-linkid="list link¦2¦market presence / onenet partners ¦internal click" class="cmp-navigation__item-link" href="/en-gb/about-us/market-presence-onenet-partners.html">
+                                        Market Presence / OneNet Partners 
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="cmp-navigation__item cmp-navigation__subitem" id="navigation-10bc8ceb95-item-c76c0d848a">
+
+                                
+
+                                
+                                    <a data-tracking-linkid="list link¦3¦latest news and press ¦internal click" class="cmp-navigation__item-link" href="/en-gb/about-us/latest-news-press.html">
+                                        Latest News and Press 
+                                    </a>
+                                
+                            </li>
+                        
+                    </ul>
+                
+
+                
+            </li>
+        
+        <li class="cmp-navigation__item cmp-navigation__item--overflow has-children show-above-header" id="navigation-10bc8ceb95-overflow">
+
+            <button class="cmp-navigation__item-link cmp-navigation__item-link--overflow" type="button" aria-expanded="false" aria-haspopup="true" aria-label="More" aria-controls="navigation-10bc8ceb95-overflow-submenu" data-ref-collection="navToggles">
+                <span aria-hidden="true">⋯</span>
+            </button>
+
+            <ul class="cmp-navigation__group cmp-navigation__submenu flyout" id="navigation-10bc8ceb95-overflow-submenu" role="group" data-ref-collection="navSubmenus" data-overflow-submenu>
+            </ul>
+        </li>
+    </ul>
+</nav>
+
+    
+
+</div>
+
+    </div>
+    <div class="cmp-header__secondary-menu" data-tracking-block="true" data-tracking-regionid="header¦¦secondary navigation¦¦¦">
+        <div class="languagenavigation" data-tracking-regionid="¦¦¦language switcher¦¦languages">
+
+<script type="application/ld+json">{"@type":"WebPage","potentialAction":{"@type":"ReadAction","target":[{"@type":"EntryPoint","urlTemplate":"/en-gb/corporate-fleet-solutions.html","name":"United Kingdom - English","inLanguage":"en-GB"},{"@type":"EntryPoint","urlTemplate":"/en-ww.html","name":"International - English","inLanguage":"en-US"},{"@type":"EntryPoint","urlTemplate":"/de-at.html","name":"Austria - German","inLanguage":"de-AT"},{"@type":"EntryPoint","urlTemplate":"/nl-be.html","name":"Belgium - Dutch","inLanguage":"nl-BE"},{"@type":"EntryPoint","urlTemplate":"/fr-be.html","name":"Belgium - French","inLanguage":"fr-BE"},{"@type":"EntryPoint","urlTemplate":"/en-be.html","name":"Belgium - English","inLanguage":"en-BE"},{"@type":"EntryPoint","urlTemplate":"/da-dk.html","name":"Denmark - Danish","inLanguage":"da-DK"},{"@type":"EntryPoint","urlTemplate":"/fr-fr.html","name":"France - French","inLanguage":"fr-FR"},{"@type":"EntryPoint","urlTemplate":"/de-de.html","name":"Germany - German","inLanguage":"de-DE"},{"@type":"EntryPoint","urlTemplate":"/it-it.html","name":"Italy - Italian","inLanguage":"it-IT"},{"@type":"EntryPoint","urlTemplate":"/nl-nl.html","name":"Netherlands - Dutch","inLanguage":"nl-NL"},{"@type":"EntryPoint","urlTemplate":"/en.html","name":"Netherlands - English","inLanguage":"en-NL"},{"@type":"EntryPoint","urlTemplate":"/pl-pl.html","name":"Poland - Polish","inLanguage":"pl-PL"},{"@type":"EntryPoint","urlTemplate":"/en-pl.html","name":"Poland - English","inLanguage":"en-PL"},{"@type":"EntryPoint","urlTemplate":"/es-es.html","name":"Spain - Spanish","inLanguage":"es-ES"},{"@type":"EntryPoint","urlTemplate":"/sv-se.html","name":"Sweden - Swedish","inLanguage":"sv-SE"},{"@type":"EntryPoint","urlTemplate":"/de-ch.html","name":"Switzerland - German","inLanguage":"de-CH"},{"@type":"EntryPoint","urlTemplate":"/fr-ch.html","name":"Switzerland - French","inLanguage":"fr-CH"},{"@type":"EntryPoint","urlTemplate":"/en-ch.html","name":"Switzerland - English","inLanguage":"en-CH"}]},"inLanguage":"en-GB","@context":"https://schema.org"}</script>
+
+<div data-react-common="language-navigation" class="cmp-languagenavigation" data-countries="[{&#34;availableLanguages&#34;:[{&#34;code&#34;:&#34;en&#34;,&#34;title&#34;:&#34;English&#34;,&#34;url&#34;:&#34;/en-gb/corporate-fleet-solutions.html&#34;,&#34;active&#34;:true,&#34;tag&#34;:&#34;en-GB&#34;}],&#34;international&#34;:false,&#34;code&#34;:&#34;gb&#34;,&#34;title&#34;:&#34;United Kingdom&#34;,&#34;url&#34;:&#34;/en-gb/corporate-fleet-solutions.html&#34;,&#34;active&#34;:true,&#34;tag&#34;:&#34;en-GB&#34;,&#34;language&#34;:&#34;en&#34;},{&#34;availableLanguages&#34;:[{&#34;code&#34;:&#34;en&#34;,&#34;title&#34;:&#34;English&#34;,&#34;url&#34;:&#34;/en-ww.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;en-US&#34;}],&#34;international&#34;:true,&#34;code&#34;:&#34;ww&#34;,&#34;title&#34;:&#34;International&#34;,&#34;url&#34;:&#34;/en-ww.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;en-US&#34;,&#34;language&#34;:&#34;en&#34;},{&#34;availableLanguages&#34;:[{&#34;code&#34;:&#34;de&#34;,&#34;title&#34;:&#34;German&#34;,&#34;url&#34;:&#34;/de-at.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;de-AT&#34;}],&#34;international&#34;:false,&#34;code&#34;:&#34;at&#34;,&#34;title&#34;:&#34;Austria&#34;,&#34;url&#34;:&#34;/de-at.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;de-AT&#34;,&#34;language&#34;:&#34;de&#34;},{&#34;availableLanguages&#34;:[{&#34;code&#34;:&#34;nl&#34;,&#34;title&#34;:&#34;Dutch&#34;,&#34;url&#34;:&#34;/nl-be.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;nl-BE&#34;},{&#34;code&#34;:&#34;fr&#34;,&#34;title&#34;:&#34;French&#34;,&#34;url&#34;:&#34;/fr-be.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;fr-BE&#34;},{&#34;code&#34;:&#34;en&#34;,&#34;title&#34;:&#34;English&#34;,&#34;url&#34;:&#34;/en-be.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;en-BE&#34;}],&#34;international&#34;:false,&#34;code&#34;:&#34;be&#34;,&#34;title&#34;:&#34;Belgium&#34;,&#34;url&#34;:&#34;&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;&#34;,&#34;language&#34;:&#34;&#34;},{&#34;availableLanguages&#34;:[{&#34;code&#34;:&#34;da&#34;,&#34;title&#34;:&#34;Danish&#34;,&#34;url&#34;:&#34;/da-dk.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;da-DK&#34;}],&#34;international&#34;:false,&#34;code&#34;:&#34;dk&#34;,&#34;title&#34;:&#34;Denmark&#34;,&#34;url&#34;:&#34;/da-dk.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;da-DK&#34;,&#34;language&#34;:&#34;da&#34;},{&#34;availableLanguages&#34;:[{&#34;code&#34;:&#34;fr&#34;,&#34;title&#34;:&#34;French&#34;,&#34;url&#34;:&#34;/fr-fr.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;fr-FR&#34;}],&#34;international&#34;:false,&#34;code&#34;:&#34;fr&#34;,&#34;title&#34;:&#34;France&#34;,&#34;url&#34;:&#34;/fr-fr.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;fr-FR&#34;,&#34;language&#34;:&#34;fr&#34;},{&#34;availableLanguages&#34;:[{&#34;code&#34;:&#34;de&#34;,&#34;title&#34;:&#34;German&#34;,&#34;url&#34;:&#34;/de-de.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;de-DE&#34;}],&#34;international&#34;:false,&#34;code&#34;:&#34;de&#34;,&#34;title&#34;:&#34;Germany&#34;,&#34;url&#34;:&#34;/de-de.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;de-DE&#34;,&#34;language&#34;:&#34;de&#34;},{&#34;availableLanguages&#34;:[{&#34;code&#34;:&#34;it&#34;,&#34;title&#34;:&#34;Italian&#34;,&#34;url&#34;:&#34;/it-it.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;it-IT&#34;}],&#34;international&#34;:false,&#34;code&#34;:&#34;it&#34;,&#34;title&#34;:&#34;Italy&#34;,&#34;url&#34;:&#34;/it-it.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;it-IT&#34;,&#34;language&#34;:&#34;it&#34;},{&#34;availableLanguages&#34;:[{&#34;code&#34;:&#34;nl&#34;,&#34;title&#34;:&#34;Dutch&#34;,&#34;url&#34;:&#34;/nl-nl.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;nl-NL&#34;},{&#34;code&#34;:&#34;en&#34;,&#34;title&#34;:&#34;English&#34;,&#34;url&#34;:&#34;/en.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;en-NL&#34;}],&#34;international&#34;:false,&#34;code&#34;:&#34;nl&#34;,&#34;title&#34;:&#34;Netherlands&#34;,&#34;url&#34;:&#34;&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;&#34;,&#34;language&#34;:&#34;&#34;},{&#34;availableLanguages&#34;:[{&#34;code&#34;:&#34;pl&#34;,&#34;title&#34;:&#34;Polish&#34;,&#34;url&#34;:&#34;/pl-pl.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;pl-PL&#34;},{&#34;code&#34;:&#34;en&#34;,&#34;title&#34;:&#34;English&#34;,&#34;url&#34;:&#34;/en-pl.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;en-PL&#34;}],&#34;international&#34;:false,&#34;code&#34;:&#34;pl&#34;,&#34;title&#34;:&#34;Poland&#34;,&#34;url&#34;:&#34;&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;&#34;,&#34;language&#34;:&#34;&#34;},{&#34;availableLanguages&#34;:[{&#34;code&#34;:&#34;es&#34;,&#34;title&#34;:&#34;Spanish&#34;,&#34;url&#34;:&#34;/es-es.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;es-ES&#34;}],&#34;international&#34;:false,&#34;code&#34;:&#34;es&#34;,&#34;title&#34;:&#34;Spain&#34;,&#34;url&#34;:&#34;/es-es.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;es-ES&#34;,&#34;language&#34;:&#34;es&#34;},{&#34;availableLanguages&#34;:[{&#34;code&#34;:&#34;sv&#34;,&#34;title&#34;:&#34;Swedish&#34;,&#34;url&#34;:&#34;/sv-se.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;sv-SE&#34;}],&#34;international&#34;:false,&#34;code&#34;:&#34;se&#34;,&#34;title&#34;:&#34;Sweden&#34;,&#34;url&#34;:&#34;/sv-se.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;sv-SE&#34;,&#34;language&#34;:&#34;sv&#34;},{&#34;availableLanguages&#34;:[{&#34;code&#34;:&#34;de&#34;,&#34;title&#34;:&#34;German&#34;,&#34;url&#34;:&#34;/de-ch.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;de-CH&#34;},{&#34;code&#34;:&#34;fr&#34;,&#34;title&#34;:&#34;French&#34;,&#34;url&#34;:&#34;/fr-ch.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;fr-CH&#34;},{&#34;code&#34;:&#34;en&#34;,&#34;title&#34;:&#34;English&#34;,&#34;url&#34;:&#34;/en-ch.html&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;en-CH&#34;}],&#34;international&#34;:false,&#34;code&#34;:&#34;ch&#34;,&#34;title&#34;:&#34;Switzerland&#34;,&#34;url&#34;:&#34;&#34;,&#34;active&#34;:false,&#34;tag&#34;:&#34;&#34;,&#34;language&#34;:&#34;&#34;}]">
+    <!-- REACT COMPONENT -->
+</div>
+
+
+    
+
+</div>
+        <div data-ref="buttonFlyout" data-cmp="button-flyout" class="button buttonflyout btn--tertiary-light">
+<button type="button" data-ref="trigger" id="button-67c2a6506f" class="cmp-button">
+    
+    
+    
+
+    <!-- Styles for default icons -->
+    
+    
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+    
+</button>
+
+
+
+    
+
+
+</div>
+
+        <div class="search"><div data-react-common="search" data-searchroot="/content/rcss/alphabetweb/alphabet_com/en_GB" data-minlength="3" data-resultssize="5" data-relativepath="/jcr:content/root/header/quicksearch" data-result-page="/en-gb/meta/search-results.html" data-searchid="search-search-5afca4c2f1" data-quicklinks="[]" id="search-search-5afca4c2f1" class="cmp-search">
+    <!-- REACT COMPONENT -->
+</div>
+
+    
+
+</div>
+
+        <button class="cmp-header__mobile-trigger open show-below-header" data-ref="burgerButton" aria-label="Open main menu">
+            <span class="icon icon--big" data-icon="burger"></span>
+        </button>
+    </div>
+</div>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</header>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-1b5ebf58a7" class="cmp-experiencefragment cmp-experiencefragment--sticky-bubble">
+
+
+    
+    <div id="container-7b02e62607" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<main class="container responsivegrid aem-GridColumn aem-GridColumn--default--12" data-cmp-common="container">
+
+    
+    <div id="container-06c6bc90b3" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="teaserhero teaser mb--small aem-GridColumn aem-GridColumn--default--12"><div id="teaserhero-53b0de4409" class="cmp-teaser">
+    
+        
+    <div class="cmp-teaser__image video" data-cmp="video">
+<div id="video-53b0de4409" class="cmp-video" data-label=" " data-video-poster="/content/rcss/alphabetweb/alphabet_com/en_GB/corporate-fleet-solutions/jcr:content/root/container/teaserhero/poster.img.85.1920.jpeg/1762272717093.jpeg" data-video-type="asset" data-fetch-priority="false" data-desktop-source="/content/dam/rcss/alphabetweb/alphabet_com/common/enterprise-mobility/DF25_000248051.mp4" data-mobile-source="/content/dam/rcss/alphabetweb/alphabet_com/common/enterprise-mobility/DF25_000248051.mp4">
+    <div class="cmp-video__overlay" data-ref="overlay"></div>
+    <div class="cmp-video__wrapper" data-ref="wrapper">
+        
+    </div>
+    <div class="cmp-video__controls" data-ref="controls">
+        <button data-ref="play" type="button" aria-label="Play" data-label-active="Pause" data-label-inactive="Play" class="cmp-video__play">
+            
+    <span class="icon" data-icon="play" aria-hidden="true">
+    </span>
+    
+
+    <!-- Styles for default icons -->
+    <style>
+        .icon[data-icon="play"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/icons/play.svg");
+        }
+    </style>
+    
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+            
+    <span class="icon" data-icon="pause" aria-hidden="true">
+    </span>
+    
+
+    <!-- Styles for default icons -->
+    <style>
+        .icon[data-icon="pause"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/icons/pause.svg");
+        }
+    </style>
+    
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+        </button>
+        <button data-ref="audio" type="button" aria-label="Mute" data-label-active="Unmute" data-label-inactive="Mute" class="cmp-video__audio">
+            
+    <span class="icon" data-icon="audio" aria-hidden="true">
+    </span>
+    
+
+    <!-- Styles for default icons -->
+    <style>
+        .icon[data-icon="audio"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/icons/audio.svg");
+        }
+    </style>
+    
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+            
+    <span class="icon" data-icon="audio-mute" aria-hidden="true">
+    </span>
+    
+
+    <!-- Styles for default icons -->
+    <style>
+        .icon[data-icon="audio-mute"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/icons/audio-mute.svg");
+        }
+    </style>
+    
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+        </button>
+        
+        
+        
+    </div>
+</div>
+
+
+    
+
+<style>
+    #video-53b0de4409 {
+        --x-position: 0;
+        --y-position: 0;
+    }
+</style>
+</div>
+
+    
+
+        <div class="cmp-teaser__content ">
+            
+    <h2 class="cmp-teaser__pretitle">
+        Corporate fleet solutions
+    </h2>
+
+            
+    <h1 class="cmp-teaser__title">
+        Fleet management solutions for businesses
+    </h1>
+
+            
+    <div class="cmp-teaser__description"><p>Managing large fleets means dealing with complexity, costs, sustainability, data insights and more. Alphabet provides tailored solutions and innovative products and services, covering all aspects of business mobility, from funding to advanced mobility solutions.</p>
+</div>
+
+            
+    <div class="cmp-teaser__action-container">
+        
+    <div class="cmp-teaser__action-link button" data-cmp="button">
+        <a class="cmp-button" id="teaserhero-53b0de4409-cta-b2beeed577" href="/en-gb/about-us/contact-us.html">Talk to an expert</a>
+    </div>
+
+    </div>
+
+        </div>
+        
+    
+</div>
+
+    
+
+</div>
+<div class="introtext alignment--center aem-GridColumn aem-GridColumn--default--12"><div id="introtext-8ace0bd15a" class="cmp-intro-text">
+
+    <div class="cmp-intro-text__eyebrow"><div class="eyebrow text">
+<div id="eyebrow-46f9661dc3" class="cmp-text">
+    Classification and benefits of fleet management
+</div>
+
+    
+
+</div>
+</div>
+
+    <div class="cmp-intro-text__side">
+        <div class="cmp-intro-text__title"><div class="title"><div id="title-ebaf43d5ef" class="cmp-title">
+    <h2 class="cmp-title__text">What is corporate fleet management?</h2>
+</div>
+
+    
+
+</div>
+</div>
+        
+    </div>
+
+    <div class="cmp-intro-text__side cmp-intro-text__content">
+        <div class="content text">
+<div id="content-e3c3dfb0e4" class="cmp-text">
+    Corporate fleet management is about more than just vehicles. It’s a balancing act covering cost control, driver satisfaction, emissions targets and operational reliability - all while keeping your business mobile. At Alphabet we help businessess navigate this complexity and make mobility easier, with the aim of building a future ready fleet strategy together. 
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+</div>
+</div>
+<div class="horizontalteaser teaser cmp-horizontal-teaser--asset-left aem-GridColumn aem-GridColumn--default--12"><div id="horizontalteaser-b9c08cf98e" class="cmp-horizontal-teaser">
+
+    
+    
+
+    
+    <div class="cmp-teaser__image"><div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600,1920" data-cmp-src="/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/horizontalteaser.coreimg.85{.width}.jpeg/1758718105524/di24-000236140.jpeg" data-cmp-filereference="/content/dam/rcss/alphabetweb/alphabet_com/common/enterprise-mobility/DI24_000236140.jpg" id="horizontalteaser-b9c08cf98e-image" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <img src="/en-gb/corporate-fleet-solutions/_jcr_content/root/container/horizontalteaser.coreimg.jpeg/1758718105524/di24-000236140.jpeg" srcset="/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/horizontalteaser.coreimg.85.320.jpeg/1758718105524/di24-000236140.jpeg 320w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/horizontalteaser.coreimg.85.480.jpeg/1758718105524/di24-000236140.jpeg 480w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/horizontalteaser.coreimg.85.600.jpeg/1758718105524/di24-000236140.jpeg 600w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/horizontalteaser.coreimg.85.800.jpeg/1758718105524/di24-000236140.jpeg 800w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/horizontalteaser.coreimg.85.1024.jpeg/1758718105524/di24-000236140.jpeg 1024w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/horizontalteaser.coreimg.85.1200.jpeg/1758718105524/di24-000236140.jpeg 1200w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/horizontalteaser.coreimg.85.1600.jpeg/1758718105524/di24-000236140.jpeg 1600w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/horizontalteaser.coreimg.85.1920.jpeg/1758718105524/di24-000236140.jpeg 1920w" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="1900" height="1425" alt/>
+    
+    
+    
+</div>
+
+    
+
+<style>
+    #horizontalteaser-b9c08cf98e-image {
+        --x-position: 0;
+        --y-position: 0;
+    }
+</style>
+</div>
+
+
+    <div class="introtext distribution--vertical"><div id="introtext-99aa9956b7" class="cmp-intro-text">
+
+    <div class="cmp-intro-text__eyebrow"><div class="eyebrow text">
+<div id="eyebrow-04c3c26c57" class="cmp-text">
+    Alphabet as a partner
+</div>
+
+    
+
+</div>
+</div>
+
+    <div class="cmp-intro-text__side">
+        <div class="cmp-intro-text__title"><div class="title"><div id="title-5b0db5e41e" class="cmp-title">
+    <h2 class="cmp-title__text">Fleet management that fits your business needs</h2>
+</div>
+
+    
+
+</div>
+</div>
+        
+    </div>
+
+    <div class="cmp-intro-text__side cmp-intro-text__content">
+        <div class="content text">
+<div id="content-1911d498c7" class="cmp-text">
+    At Alphabet, we combine expert consulting with digital innovation to help corporate fleet teams manage their vehicles efficiently. No matter how many you operate, we offer scalable services that are tailored to your specific needs, including CO<sub>2</sub> tracking, electrification and driver support. 
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+</div>
+</div>
+
+</div>
+
+    
+
+</div>
+<div class="fourcardteaser verticalteaser container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+    
+    
+
+
+    <div class="introtext distribution--vertical alignment--center"><div id="introtext-d89725ea1e" class="cmp-intro-text">
+
+    <div class="cmp-intro-text__eyebrow"><div class="eyebrow text">
+<div id="eyebrow-2f2dc30056" class="cmp-text">
+    Our finance options
+</div>
+
+    
+
+</div>
+</div>
+
+    <div class="cmp-intro-text__side">
+        <div class="cmp-intro-text__title"><div class="title"><div id="title-f7c55f10bb" class="cmp-title">
+    <h2 class="cmp-title__text">Funding options for every business</h2>
+</div>
+
+    
+
+</div>
+</div>
+        
+    </div>
+
+    <div class="cmp-intro-text__side cmp-intro-text__content">
+        <div class="content text">
+<div id="content-20f40331ca" class="cmp-text">
+    Whatever your business goals are, Alphabet provides financial solutions that can be tailored to your operational needs. 
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+</div>
+</div>
+
+
+    <div class="cmp-fourcardteaser__items">
+        <div class="fourcardteaseritem verticalteaseritem image">
+
+    <div class="cmp-fourcardteaseritem__content">
+        <h3 class="cmp-fourcardteaseritem__title">Finance Lease</h3>
+        
+        <div class="cmp-fourcardteaseritem__description">
+            <p>A Finance Lease lets you keep vehicles on your balance sheet while enjoying fixed, flexible payments, with the option at the end to sell to a third party or continue using them under a peppercorn agreement (a percentage of the original invoice price).</p>
+
+        </div>
+
+        <div class="button btn--tertiary" data-cmp-common="button">
+    <a id="button-0d591e040d" class="cmp-button" data-tron-enabled="false" href="/en-gb/corporate-fleet-solutions/leasing-solutions/finance-lease.html" target="_blank">
+        
+    
+    
+
+    <!-- Styles for default icons -->
+    
+    
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+        <span class="cmp-button__text">Learn more</span>
+    </a>
+    
+
+
+
+    
+
+</div>
+
+    </div>
+
+
+    <div class="cmp-fourcardteaseritem__image">
+        <div data-cmp-is="image" data-cmp-src="/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/fourcardteaser/teaser1.coreimg{.width}.jpeg/1762167655762/di24-000233990.jpeg" data-asset-id="93acf520-d4e9-4a83-92dd-ab896690bbc7" data-cmp-filereference="/content/dam/rcss/alphabetweb/alphabet_com/common/homepage/DI24_000233990.jpg" id="fourcardteaseritem-2a554de4ae" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <img src="/en-gb/corporate-fleet-solutions/_jcr_content/root/container/fourcardteaser/teaser1.coreimg.jpeg/1762167655762/di24-000233990.jpeg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="1900" height="1425" alt/>
+    
+    
+    
+</div>
+
+    
+
+<style>
+    #fourcardteaseritem-2a554de4ae {
+        --x-position: 0;
+        --y-position: 0;
+    }
+</style>
+
+    </div>
+
+
+    
+
+</div>
+
+        <div class="fourcardteaseritem verticalteaseritem image">
+
+    <div class="cmp-fourcardteaseritem__content">
+        <h3 class="cmp-fourcardteaseritem__title">Salary Sacrifice</h3>
+        
+        <div class="cmp-fourcardteaseritem__description">
+            <p>Offer employees a cost-efficient car benefit that’s easy to implement, with full support from our expert team and access to a wide range of low and zero-emission vehicles.</p>
+
+        </div>
+
+        <div class="button btn--tertiary" data-cmp-common="button">
+    <a id="button-08d9aef340" class="cmp-button" data-tron-enabled="false" href="/en-gb/corporate-fleet-solutions/leasing-solutions/salary-sacrifice-car-scheme.html" target="_blank">
+        
+    
+    
+
+    <!-- Styles for default icons -->
+    
+    
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+        <span class="cmp-button__text">Learn more</span>
+    </a>
+    
+
+
+
+    
+
+</div>
+
+    </div>
+
+
+    <div class="cmp-fourcardteaseritem__image">
+        <div data-cmp-is="image" data-cmp-src="/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/fourcardteaser/teaser2.coreimg{.width}.jpeg/1762167674955/di24-000236250.jpeg" data-asset-id="1aa12831-f0d6-4a96-b78f-3f6ceb0e6820" data-cmp-filereference="/content/dam/rcss/alphabetweb/alphabet_com/common/leasing/DI24_000236250.jpg" id="fourcardteaseritem-9f38983bc7" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <img src="/en-gb/corporate-fleet-solutions/_jcr_content/root/container/fourcardteaser/teaser2.coreimg.jpeg/1762167674955/di24-000236250.jpeg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="1900" height="912" alt/>
+    
+    
+    
+</div>
+
+    
+
+<style>
+    #fourcardteaseritem-9f38983bc7 {
+        --x-position: 0;
+        --y-position: 0;
+    }
+</style>
+
+    </div>
+
+
+    
+
+</div>
+
+        <div class="fourcardteaseritem verticalteaseritem image">
+
+    <div class="cmp-fourcardteaseritem__content">
+        <h3 class="cmp-fourcardteaseritem__title">Sale and Leaseback</h3>
+        
+        <div class="cmp-fourcardteaseritem__description">
+            <p>This can give your business the immediate financial advantage of releasing the value tied up in your owned vehicles. </p>
+
+        </div>
+
+        <div class="button btn--tertiary" data-cmp-common="button">
+    <a id="button-95d0755bb1" class="cmp-button" data-tron-enabled="false" href="/en-gb/corporate-fleet-solutions/leasing-solutions/sale-and-leaseback.html" target="_blank">
+        
+    
+    
+
+    <!-- Styles for default icons -->
+    
+    
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+        <span class="cmp-button__text">Learn more</span>
+    </a>
+    
+
+
+
+    
+
+</div>
+
+    </div>
+
+
+    <div class="cmp-fourcardteaseritem__image">
+        <div data-cmp-is="image" data-cmp-src="/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/fourcardteaser/teaser3.coreimg{.width}.jpeg/1762167693058/di23-000162263.jpeg" data-asset-id="4fe7f3a5-98ea-44af-a19a-c50c87acc8dc" data-cmp-filereference="/content/dam/rcss/alphabetweb/alphabet_com/common/enterprise-mobility/DI23_000162263.jpg" id="fourcardteaseritem-3f92831ede" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <img src="/en-gb/corporate-fleet-solutions/_jcr_content/root/container/fourcardteaser/teaser3.coreimg.jpeg/1762167693058/di23-000162263.jpeg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="1900" height="1267" alt/>
+    
+    
+    
+</div>
+
+    
+
+<style>
+    #fourcardteaseritem-3f92831ede {
+        --x-position: 0;
+        --y-position: 0;
+    }
+</style>
+
+    </div>
+
+
+    
+
+</div>
+
+        <div class="fourcardteaseritem verticalteaseritem image">
+
+    <div class="cmp-fourcardteaseritem__content">
+        <h3 class="cmp-fourcardteaseritem__title">Contract Purchase</h3>
+        
+        <div class="cmp-fourcardteaseritem__description">
+            <p>Under this fixed-term, fixed amount agreement, you have all the advantages of a managed vehicle, plus the option to buy it at the end of the contract.</p>
+
+        </div>
+
+        <div class="button btn--tertiary" data-cmp-common="button">
+    <a id="button-f9fdddbafc" class="cmp-button" data-tron-enabled="false" href="/en-gb/corporate-fleet-solutions/leasing-solutions/contract-purchase.html" target="_blank">
+        
+    
+    
+
+    <!-- Styles for default icons -->
+    
+    
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+        <span class="cmp-button__text">Learn more</span>
+    </a>
+    
+
+
+
+    
+
+</div>
+
+    </div>
+
+
+    <div class="cmp-fourcardteaseritem__image">
+        <div data-cmp-is="image" data-cmp-src="/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/fourcardteaser/teaser4.coreimg{.width}.jpeg/1762167701112/di24-000233952.jpeg" data-asset-id="894db8ef-526c-4b91-bbf5-bc036a18e8c3" data-cmp-filereference="/content/dam/rcss/alphabetweb/alphabet_com/common/leasing/DI24_000233952.jpg" id="fourcardteaseritem-66ec5d4adb" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <img src="/en-gb/corporate-fleet-solutions/_jcr_content/root/container/fourcardteaser/teaser4.coreimg.jpeg/1762167701112/di24-000233952.jpeg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="1900" height="1425" alt/>
+    
+    
+    
+</div>
+
+    
+
+<style>
+    #fourcardteaseritem-66ec5d4adb {
+        --x-position: 0;
+        --y-position: 0;
+    }
+</style>
+
+    </div>
+
+
+    
+
+</div>
+
+    </div>
+
+
+
+</div>
+<div class="accordioncardlist container responsivegrid accordioncardlist--switch aem-GridColumn aem-GridColumn--default--12" data-cmp-common="container">
+
+    
+    
+    
+    <div id="accordioncardlist-47666ec917" class="cmp-container">
+        
+        <div class="accordioncardlist__container">
+
+    
+    
+    
+    <div id="container-163d2449c1" class="cmp-container">
+        
+        <div class="introtext distribution--vertical"><div id="introtext-f064d9ef92" class="cmp-intro-text">
+
+    <div class="cmp-intro-text__eyebrow"><div class="eyebrow text">
+<div id="eyebrow-d924965983" class="cmp-text">
+    Our expertise
+</div>
+
+    
+
+</div>
+</div>
+
+    <div class="cmp-intro-text__side">
+        <div class="cmp-intro-text__title"><div class="title"><div id="title-071b75574f" class="cmp-title">
+    <h2 class="cmp-title__text">Gain access to our specialists consultants</h2>
+</div>
+
+    
+
+</div>
+</div>
+        
+    </div>
+
+    
+</div>
+</div>
+<div class="accordion panelcontainer" data-cmp="accordion"><div id="accordion-bbcd4a6aac" class="cmp-accordion core" data-enabled data-cmp-is="accordion" data-placeholder-text="false">
+    <div class="cmp-accordion__items">
+        
+            <div class="cmp-accordion__item" data-ref-collection="items" data-cmp-hook-accordion="item" data-cmp-data-layer="{&#34;accordion-bbcd4a6aac-item-ef61685d9f&#34;:{&#34;@type&#34;:&#34;alphabetweb/components/accordion/item&#34;,&#34;dc:title&#34;:&#34;Fleet emissions consulting &#34;}}" id="accordion-bbcd4a6aac-item-ef61685d9f" data-cmp-expanded>
+                <h3 class="cmp-accordion__header" data-ref="title">
+                    <button id="accordion-bbcd4a6aac-item-ef61685d9f-button" class="cmp-accordion__button cmp-accordion__button--expanded" type="button" aria-controls="accordion-bbcd4a6aac-item-ef61685d9f-panel" data-cmp-hook-accordion="button">
+                        
+                        <span class="cmp-accordion__fronticon">
+                            
+    
+    <span class="icon" data-icon="co2_and_arrow_down_lt" aria-hidden="true">
+    </span>
+
+    <!-- Styles for default icons -->
+    
+    <style>
+        .icon[data-icon="co2_and_arrow_down_lt"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/bmw-icons/co2_and_arrow_down_lt.svg");
+        }
+    </style>
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+                        </span>
+                        <span class="cmp-accordion__itemtitle">Fleet emissions consulting </span>
+                        
+                    </button>
+                </h3>
+                <div data-cmp-hook-accordion="panel" data-ref="content" id="accordion-bbcd4a6aac-item-ef61685d9f-panel" class="cmp-accordion__panel cmp-accordion__panel--expanded" role="region" aria-labelledby="accordion-bbcd4a6aac-item-ef61685d9f-button"><div class="panel container responsivegrid" data-cmp-common="container"><div><div class="item"><div class="cmp-accordionitem text">
+    
+    <div class="cmp-accordionitem__text"><p>Comprehensive CO₂ analysis, measurement and reduction strategies. </p>
+
+    </div>
+    
+</div>
+
+    
+
+</div>
+</div></div>
+</div>
+            </div>
+        
+            <div class="cmp-accordion__item" data-ref-collection="items" data-cmp-hook-accordion="item" data-cmp-data-layer="{&#34;accordion-bbcd4a6aac-item-1ac05cee58&#34;:{&#34;@type&#34;:&#34;alphabetweb/components/accordion/item&#34;,&#34;dc:title&#34;:&#34;E-mobility consulting &#34;}}" id="accordion-bbcd4a6aac-item-1ac05cee58">
+                <h3 class="cmp-accordion__header" data-ref="title">
+                    <button id="accordion-bbcd4a6aac-item-1ac05cee58-button" class="cmp-accordion__button" type="button" aria-controls="accordion-bbcd4a6aac-item-1ac05cee58-panel" data-cmp-hook-accordion="button">
+                        
+                        <span class="cmp-accordion__fronticon">
+                            
+    
+    <span class="icon" data-icon="leaf_and_plug_lt" aria-hidden="true">
+    </span>
+
+    <!-- Styles for default icons -->
+    
+    <style>
+        .icon[data-icon="leaf_and_plug_lt"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/bmw-icons/leaf_and_plug_lt.svg");
+        }
+    </style>
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+                        </span>
+                        <span class="cmp-accordion__itemtitle">E-mobility consulting </span>
+                        
+                    </button>
+                </h3>
+                <div data-cmp-hook-accordion="panel" data-ref="content" id="accordion-bbcd4a6aac-item-1ac05cee58-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden" role="region" aria-labelledby="accordion-bbcd4a6aac-item-1ac05cee58-button"><div class="panel container responsivegrid" data-cmp-common="container"><div><div class="item"><div class="cmp-accordionitem text">
+    
+    <div class="cmp-accordionitem__text"><p>Guidance on integrating electric vehicles and charging infrastructure, tailored to your fleet. </p>
+
+    </div>
+    
+</div>
+
+    
+
+</div>
+</div></div>
+</div>
+            </div>
+        
+            <div class="cmp-accordion__item" data-ref-collection="items" data-cmp-hook-accordion="item" data-cmp-data-layer="{&#34;accordion-bbcd4a6aac-item-94a7ce53c3&#34;:{&#34;@type&#34;:&#34;alphabetweb/components/accordion/item&#34;,&#34;dc:title&#34;:&#34;Additional consulting services &#34;}}" id="accordion-bbcd4a6aac-item-94a7ce53c3">
+                <h3 class="cmp-accordion__header" data-ref="title">
+                    <button id="accordion-bbcd4a6aac-item-94a7ce53c3-button" class="cmp-accordion__button" type="button" aria-controls="accordion-bbcd4a6aac-item-94a7ce53c3-panel" data-cmp-hook-accordion="button">
+                        
+                        <span class="cmp-accordion__fronticon">
+                            
+    
+    <span class="icon" data-icon="buying_tool_lt" aria-hidden="true">
+    </span>
+
+    <!-- Styles for default icons -->
+    
+    <style>
+        .icon[data-icon="buying_tool_lt"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/bmw-icons/buying_tool_lt.svg");
+        }
+    </style>
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+                        </span>
+                        <span class="cmp-accordion__itemtitle">Additional consulting services </span>
+                        
+                    </button>
+                </h3>
+                <div data-cmp-hook-accordion="panel" data-ref="content" id="accordion-bbcd4a6aac-item-94a7ce53c3-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden" role="region" aria-labelledby="accordion-bbcd4a6aac-item-94a7ce53c3-button"><div class="panel container responsivegrid" data-cmp-common="container"><div><div class="item"><div class="cmp-accordionitem text">
+    
+    <div class="cmp-accordionitem__text"><p>Explore the full range of expert consultation that’s designed to help you make smarter, more efficient decisions. </p>
+
+    </div>
+    
+</div>
+
+    
+
+</div>
+</div></div>
+</div>
+            </div>
+        
+    </div>
+    
+</div>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="accordioncardlist__container">
+
+    
+    
+    
+    <div id="container-6326430dd9" class="cmp-container">
+        
+        <div class="image"><div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600,1920" data-cmp-src="/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/accordioncardlist/container2/image.coreimg.85{.width}.jpeg/1758717315724/di24-000236143.jpeg" data-cmp-filereference="/content/dam/rcss/alphabetweb/alphabet_com/common/enterprise-mobility/DI24_000236143.jpg" id="image-a66ba22d72" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <img src="/en-gb/corporate-fleet-solutions/_jcr_content/root/container/accordioncardlist/container2/image.coreimg.jpeg/1758717315724/di24-000236143.jpeg" srcset="/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/accordioncardlist/container2/image.coreimg.85.320.jpeg/1758717315724/di24-000236143.jpeg 320w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/accordioncardlist/container2/image.coreimg.85.480.jpeg/1758717315724/di24-000236143.jpeg 480w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/accordioncardlist/container2/image.coreimg.85.600.jpeg/1758717315724/di24-000236143.jpeg 600w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/accordioncardlist/container2/image.coreimg.85.800.jpeg/1758717315724/di24-000236143.jpeg 800w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/accordioncardlist/container2/image.coreimg.85.1024.jpeg/1758717315724/di24-000236143.jpeg 1024w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/accordioncardlist/container2/image.coreimg.85.1200.jpeg/1758717315724/di24-000236143.jpeg 1200w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/accordioncardlist/container2/image.coreimg.85.1600.jpeg/1758717315724/di24-000236143.jpeg 1600w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/accordioncardlist/container2/image.coreimg.85.1920.jpeg/1758717315724/di24-000236143.jpeg 1920w" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="1900" height="1425" alt/>
+    
+    
+    
+</div>
+
+    
+
+<style>
+    #image-a66ba22d72 {
+        --x-position: 0;
+        --y-position: 0;
+    }
+</style>
+</div>
+
+        
+    </div>
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="verticalteaser container responsivegrid aem-GridColumn aem-GridColumn--default--12"><div class="introtext distribution--vertical alignment--center"><div id="introtext-c9e944f01d" class="cmp-intro-text">
+
+    <div class="cmp-intro-text__eyebrow"><div class="eyebrow text">
+<div id="eyebrow-7d838f3d63" class="cmp-text">
+    Our tools
+</div>
+
+    
+
+</div>
+</div>
+
+    <div class="cmp-intro-text__side">
+        <div class="cmp-intro-text__title"><div class="title"><div id="title-5bddd29e55" class="cmp-title">
+    <h2 class="cmp-title__text">Explore our digital fleet management tools</h2>
+</div>
+
+    
+
+</div>
+</div>
+        
+    </div>
+
+    <div class="cmp-intro-text__side cmp-intro-text__content">
+        <div class="content text">
+<div id="content-7fc68a0107" class="cmp-text">
+    Discover how our innovative tools, like Alphabet Carbon Manager or our AI-driven Fleet Reporting tool, give you full control over performance, cost, and compliance.
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+</div>
+</div>
+
+
+<ol class="cmp-verticalteaser__list cmp-verticalteaser__list--four">
+    <li><div class="verticalteaseritem" id="parent-verticalteaseritem-bdd93d4fc4">
+
+    
+
+    <div data-cmp-is="image" data-cmp-src="/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/verticalteaser_1897603448/teaser1.coreimg{.width}.jpeg/1762168736560/di25-000246630.jpeg" data-asset-id="8ee63071-f458-4cdb-a122-3671faed5b7c" data-cmp-filereference="/content/dam/rcss/alphabetweb/alphabet_com/en_GB/images/fleet-reporting/DI25_000246630.jpg" id="verticalteaseritem-bdd93d4fc4" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <img src="/en-gb/corporate-fleet-solutions/_jcr_content/root/container/verticalteaser_1897603448/teaser1.coreimg.jpeg/1762168736560/di25-000246630.jpeg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="1900" height="1425" alt/>
+    
+    
+    
+</div>
+
+    
+
+<style>
+    #verticalteaseritem-bdd93d4fc4 {
+        --x-position: 0;
+        --y-position: 0;
+    }
+</style>
+
+
+    <div class="verticalteaseritem__content">
+        <h3 class="verticalteaseritem__title">AI-driven Fleet Reporting</h3>
+        
+        <p>A personal AI Assistant that helps you navigate complex data, identify trends, and act with confidence based on real-time insights to make smarter fleet decisions.</p>
+
+        <div class="button btn--tertiary" data-cmp-common="button">
+    <a id="button-87fa4ce926" class="cmp-button" data-tron-enabled="false" href="/en-gb/corporate-fleet-solutions/fleet-management-tools/fleet-reporting.html" target="_blank">
+        
+    
+    
+
+    <!-- Styles for default icons -->
+    
+    
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+        <span class="cmp-button__text">Discover AI Fleet Reporting</span>
+    </a>
+    
+
+
+
+    
+
+</div>
+
+    </div>
+</div>
+
+    
+
+</li>
+    <li><div class="verticalteaseritem" id="parent-verticalteaseritem-a4c7e1bb88">
+
+    
+
+    <div data-cmp-is="image" data-cmp-src="/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/verticalteaser_1897603448/teaser2.coreimg{.width}.jpeg/1762168882060/di23-000180792.jpeg" data-asset-id="6d7f9303-7385-409c-b594-617045c8825e" data-cmp-filereference="/content/dam/rcss/alphabetweb/alphabet_com/en_GB/images/alphabet-carbon-manager/DI23_000180792.jpg" id="verticalteaseritem-a4c7e1bb88" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <img src="/en-gb/corporate-fleet-solutions/_jcr_content/root/container/verticalteaser_1897603448/teaser2.coreimg.jpeg/1762168882060/di23-000180792.jpeg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="1900" height="1267" alt/>
+    
+    
+    
+</div>
+
+    
+
+<style>
+    #verticalteaseritem-a4c7e1bb88 {
+        --x-position: 0;
+        --y-position: 0;
+    }
+</style>
+
+
+    <div class="verticalteaseritem__content">
+        <h3 class="verticalteaseritem__title">Alphabet Carbon Manager</h3>
+        
+        <p>Measure, report, and reduce your fleet’s carbon footprint with Greenhouse Gas (GHG) compliant data and clear visualisation that allows you to make informed, eco-friendly decisions. </p>
+
+        <div class="button btn--tertiary" data-cmp-common="button">
+    <a id="button-4ab11c7134" class="cmp-button" data-tron-enabled="false" href="/en-gb/corporate-fleet-solutions/fleet-management-tools/alphabet-carbon-manager.html" target="_blank">
+        
+    
+    
+
+    <!-- Styles for default icons -->
+    
+    
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+        <span class="cmp-button__text">Explore Alphabet Carbon Manager</span>
+    </a>
+    
+
+
+
+    
+
+</div>
+
+    </div>
+</div>
+
+    
+
+</li>
+    <li><div class="verticalteaseritem" id="parent-verticalteaseritem-c75b45c6dd">
+
+    
+
+    <div data-cmp-is="image" data-cmp-src="/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/verticalteaser_1897603448/teaser3.coreimg{.width}.jpeg/1762168899176/di24-000236172.jpeg" data-asset-id="1a9b1802-e65c-41c0-9dce-7d69f1ea5be9" data-cmp-filereference="/content/dam/rcss/alphabetweb/alphabet_com/en_GB/images/fleet-management-tools/DI24_000236172.jpg" id="verticalteaseritem-c75b45c6dd" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <img src="/en-gb/corporate-fleet-solutions/_jcr_content/root/container/verticalteaser_1897603448/teaser3.coreimg.jpeg/1762168899176/di24-000236172.jpeg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="1900" height="1425" alt/>
+    
+    
+    
+</div>
+
+    
+
+<style>
+    #verticalteaseritem-c75b45c6dd {
+        --x-position: 0;
+        --y-position: 0;
+    }
+</style>
+
+
+    <div class="verticalteaseritem__content">
+        <h3 class="verticalteaseritem__title">Online Payment Portal</h3>
+        
+        <p>You can use our self-service payment portal to make one-off payments by credit or debit card or check outstanding invoices, in addition to your usual monthly Direct Debit payments.</p>
+
+        <div class="button btn--tertiary" data-cmp-common="button">
+    <a id="button-d6baa3d3db" class="cmp-button" data-tron-enabled="false" href="/en-gb/corporate-fleet-solutions/fleet-management-tools/payment-portal.html" target="_blank">
+        
+    
+    
+
+    <!-- Styles for default icons -->
+    
+    
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+        <span class="cmp-button__text">Discover Online Payment Portal</span>
+    </a>
+    
+
+
+
+    
+
+</div>
+
+    </div>
+</div>
+
+    
+
+</li>
+    <li><div class="verticalteaseritem" id="parent-verticalteaseritem-afbd354145">
+
+    
+
+    <div data-cmp-is="image" data-cmp-src="/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/verticalteaser_1897603448/teaser4.coreimg{.width}.jpeg/1762168800769/di24-000236044.jpeg" data-asset-id="9eaad43d-c581-4caf-b990-1f082c979996" data-cmp-filereference="/content/dam/rcss/alphabetweb/alphabet_com/en_GB/images/alphabet-app/DI24_000236044.jpg" id="verticalteaseritem-afbd354145" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <img src="/en-gb/corporate-fleet-solutions/_jcr_content/root/container/verticalteaser_1897603448/teaser4.coreimg.jpeg/1762168800769/di24-000236044.jpeg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="5824" height="4368" alt="Man in a light blue shirt holding a smartphone." title="Man Smartphone Car"/>
+    
+    
+    <meta itemprop="caption" content="Man Smartphone Car"/>
+</div>
+
+    
+
+<style>
+    #verticalteaseritem-afbd354145 {
+        --x-position: 0;
+        --y-position: 0;
+    }
+</style>
+
+
+    <div class="verticalteaseritem__content">
+        <h3 class="verticalteaseritem__title">Online Invoicing</h3>
+        
+        <p> </p>
+<p>Our secure online invoicing platform lets you view invoices and fines anytime, with documents uploaded within 24 hours, helping you manage your fleet efficiently.</p>
+
+        <div class="button btn--tertiary" data-cmp-common="button">
+    <a id="button-9239a36735" class="cmp-button" data-tron-enabled="false" href="/en-gb/corporate-fleet-solutions/fleet-management-tools/online-invoicing.html" target="_blank">
+        
+    
+    
+
+    <!-- Styles for default icons -->
+    
+    
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+        <span class="cmp-button__text">Discover Online Invoicing</span>
+    </a>
+    
+
+
+
+    
+
+</div>
+
+    </div>
+</div>
+
+    
+
+</li>
+</ol>
+</div>
+<div class="video aem-GridColumn aem-GridColumn--default--12" data-cmp="video">
+
+
+
+    
+
+<style>
+    #video-eb83d8441d {
+        --x-position: 0;
+        --y-position: 0;
+    }
+</style>
+</div>
+<div class="optioncards container responsivegrid aem-GridColumn aem-GridColumn--default--12"><div id="optioncards-a4f5b21b20" class="cmp-optioncards">
+    
+    <style>
+        #optioncards-a4f5b21b20 {
+            --bg-image: url("/content/rcss/alphabetweb/alphabet_com/en_GB/corporate-fleet-solutions/jcr:content/root/container/optioncards/image.img.85.1920.jpeg/1758712103151.jpeg");
+        }
+    </style>
+    <style>
+        #optioncards-a4f5b21b20 {
+            --sections-count: 6;
+        }
+    </style>
+    <div class="cmp-optioncards__container cmp-optioncards-1-card">
+        <div id="card-163bee7eb6" class="cmp-optioncards__card" xmlns="http://www.w3.org/1999/html">
+        <div class="cmp-optioncards__card__content-top">
+            
+            <h3 class="cmp-optioncards__card__title">Making sustainability a reality </h3>
+            <div class="text cmp-optioncards__card__description"><p>82% of companies see reducing fleet emissions as critical. Yet 43% have no clear targets in place.* With Alphabet, you can transform sustainability from an ambition into a reality; with measurable results to help you prepare for future regulatory demands.</p>
+<p><i>*Source: Fleet emission monitor 2025</i></p>
+</div>
+        </div>
+        <div class="cmp-optioncards__card__content-bottom">
+            
+    
+        <div class="cmp-benefitlist">
+            
+            <ul class="cmp-benefitlist__list">
+                <li class="cmp-benefitlist__item">
+                    
+                    <div class="cmp-benefitlist__item-text">
+                        <span class="cmp-benefitlist__item-title">   </span>
+                        <div class="cmp-benefitlist__item-content text">   </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    
+
+        </div>
+        <div class="button btn--tertiary cmp-optioncards__card__button" data-cmp-common="button">
+    <a id="button-a4a4a80172" class="cmp-button" data-tron-enabled="false" href="/en-gb/sustainability.html" target="_blank">
+        
+    
+    
+
+    <!-- Styles for default icons -->
+    
+    
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+        <span class="cmp-button__text">See our sustainability commitments </span>
+    </a>
+    
+
+
+
+    
+
+</div>
+
+        
+</div>
+
+
+    
+
+
+        
+        
+        
+    </div>
+    
+</div>
+</div>
+<div class="contactus aem-GridColumn aem-GridColumn--default--12" data-cmp="contact-us"><div class="cmp-contactus with-image" id="contactus-492f3a00c4">
+    <div class="cmp-contactus__title">
+        <div class="title"><div id="title-f13fd0eb8d" class="cmp-title">
+    <h1 class="cmp-title__text">Talk to our experts</h1>
+</div>
+
+    
+
+</div>
+
+    </div>
+    <div class="cmp-contactus__card">
+        <div class="image cmp-contactus__image"><div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600,1920" data-cmp-src="/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/contactus/image.coreimg.85{.width}.png/1758624128047/image03.png" data-cmp-filereference="/content/dam/rcss/alphabetweb/alphabet_com/common/ai-agents/image03.png" id="image-a3a6183edc" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <img src="/en-gb/corporate-fleet-solutions/_jcr_content/root/container/contactus/image.coreimg.png/1758624128047/image03.png" srcset="/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/contactus/image.coreimg.85.320.png/1758624128047/image03.png 320w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/contactus/image.coreimg.85.480.png/1758624128047/image03.png 480w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/contactus/image.coreimg.85.600.png/1758624128047/image03.png 600w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/contactus/image.coreimg.85.800.png/1758624128047/image03.png 800w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/contactus/image.coreimg.85.1024.png/1758624128047/image03.png 1024w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/contactus/image.coreimg.85.1200.png/1758624128047/image03.png 1200w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/contactus/image.coreimg.85.1600.png/1758624128047/image03.png 1600w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/contactus/image.coreimg.85.1920.png/1758624128047/image03.png 1920w" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="960" height="948" alt title="Confident Business Professional in a Suit"/>
+    
+    
+    <meta itemprop="caption" content="Confident Business Professional in a Suit"/>
+</div>
+
+    
+
+<style>
+    #image-a3a6183edc {
+        --x-position: 0;
+        --y-position: 0;
+    }
+</style>
+</div>
+
+        
+        <div class="cmp-contactus__stage">
+            <h2 class="cmp-contactus__subtitle"> </h2>
+            <div class="cmp-contactus__text">For detailed insight and individual support regarding corporate fleet management, our team of experts are here to help. Each offers comprehensive knowledge and the, clarity to focus on your specific requirements.</div>
+
+            <ul class="cmp-contactus__iconlist">
+                <li class="cmp-contactus__icontext">
+                    <span class="cmp-contactus__icon">
+    <span class="icon" data-icon="clock" aria-hidden="true">
+    </span>
+    
+
+    <!-- Styles for default icons -->
+    <style>
+        .icon[data-icon="clock"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/icons/clock.svg");
+        }
+    </style>
+    
+
+    <!-- Styles for toggle icons -->
+    
+    
+</span>
+                    <span class="cmp-benefitlist__item-content"><p>Mon - Fri   08:30 - 17:30</p>
+</span>
+                </li>
+            
+                <li class="cmp-contactus__icontext">
+                    <span class="cmp-contactus__icon">
+    <span class="icon" data-icon="telephone" aria-hidden="true">
+    </span>
+    
+
+    <!-- Styles for default icons -->
+    <style>
+        .icon[data-icon="telephone"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/icons/telephone.svg");
+        }
+    </style>
+    
+
+    <!-- Styles for toggle icons -->
+    
+    
+</span>
+                    <span class="cmp-benefitlist__item-content"><p><a href="tel:03705050100">0370 50 50 100</a></p>
+</span>
+                </li>
+            </ul>
+
+            <div class="button" data-cmp-common="button">
+
+
+    
+
+</div>
+
+            
+        </div>
+    </div>
+</div>
+</div>
+<div class="faq aem-GridColumn aem-GridColumn--default--12" data-cmp="faq"><div class="cmp-faq">
+    <div class="cmp-faq__image">
+        <div class="image"><div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600,1920" data-cmp-src="/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/faq/image.coreimg.85{.width}.jpeg/1760437986644/di24-000236145.jpeg" data-cmp-filereference="/content/dam/rcss/alphabetweb/alphabet_com/common/flexible-mobility-offers/DI24_000236145.jpg" id="image-a6bb5f687f" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <img src="/en-gb/corporate-fleet-solutions/_jcr_content/root/container/faq/image.coreimg.jpeg/1760437986644/di24-000236145.jpeg" srcset="/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/faq/image.coreimg.85.320.jpeg/1760437986644/di24-000236145.jpeg 320w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/faq/image.coreimg.85.480.jpeg/1760437986644/di24-000236145.jpeg 480w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/faq/image.coreimg.85.600.jpeg/1760437986644/di24-000236145.jpeg 600w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/faq/image.coreimg.85.800.jpeg/1760437986644/di24-000236145.jpeg 800w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/faq/image.coreimg.85.1024.jpeg/1760437986644/di24-000236145.jpeg 1024w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/faq/image.coreimg.85.1200.jpeg/1760437986644/di24-000236145.jpeg 1200w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/faq/image.coreimg.85.1600.jpeg/1760437986644/di24-000236145.jpeg 1600w,/content/rcss/alphabetweb/alphabet_com/en-gb/corporate-fleet-solutions/_jcr_content/root/container/faq/image.coreimg.85.1920.jpeg/1760437986644/di24-000236145.jpeg 1920w" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="1900" height="1425" alt/>
+    
+    
+    
+</div>
+
+    
+
+<style>
+    #image-a6bb5f687f {
+        --x-position: 0;
+        --y-position: 0;
+    }
+</style>
+</div>
+
+    </div>
+    <div class="cmp-faq__questions">
+        <div class="experiencefragment">
+<div id="experiencefragment-255190c983" class="cmp-experiencefragment cmp-experiencefragment--faqs">
+
+
+    
+    <div id="container-491d270b51" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="title mb--small aem-GridColumn aem-GridColumn--default--12"><div id="title-6b05ee9a32" class="cmp-title">
+    <h3 class="cmp-title__text">Got questions? We’ve got answers</h3>
+</div>
+
+    
+
+</div>
+<div class="accordion faqaccordion aem-GridColumn aem-GridColumn--default--12" data-cmp="accordion"><div id="accordion-c0a556608a" class="cmp-accordion core" data-enabled data-cmp-is="accordion" data-placeholder-text="false">
+    <div class="cmp-accordion__items">
+        
+            <div class="cmp-accordion__item" data-ref-collection="items" data-cmp-hook-accordion="item" data-cmp-data-layer="{&#34;accordion-c0a556608a-item-5d06c01f8f&#34;:{&#34;@type&#34;:&#34;alphabetweb/components/faq/accordion/item&#34;,&#34;dc:title&#34;:&#34;How does corporate fleet management work?&#34;}}" id="accordion-c0a556608a-item-5d06c01f8f">
+                <h3 class="cmp-accordion__header" data-ref="title">
+                    <button id="accordion-c0a556608a-item-5d06c01f8f-button" class="cmp-accordion__button" type="button" aria-controls="accordion-c0a556608a-item-5d06c01f8f-panel" data-cmp-hook-accordion="button">
+                        
+                        
+                        <span class="cmp-accordion__itemtitle">How does corporate fleet management work?</span>
+                        <span class="cmp-accordion__backicon">
+                            
+    
+    <span class="icon" data-icon="arrow_chevron_down_lt" data-toggle-icon="arrow_chevron_up_lt" data-ref="icon" aria-hidden="true">
+    </span>
+
+    <!-- Styles for default icons -->
+    
+    <style>
+        .icon[data-icon="arrow_chevron_down_lt"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/bmw-icons/arrow_chevron_down_lt.svg");
+        }
+    </style>
+
+    <!-- Styles for toggle icons -->
+    
+    <style>
+        .icon.toggle[data-toggle-icon="arrow_chevron_up_lt"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/bmw-icons/arrow_chevron_up_lt.svg");
+        }
+    </style>
+
+                        </span>
+                    </button>
+                </h3>
+                <div data-cmp-hook-accordion="panel" data-ref="content" id="accordion-c0a556608a-item-5d06c01f8f-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden" role="region" aria-labelledby="accordion-c0a556608a-item-5d06c01f8f-button"><div class="panel container responsivegrid" data-cmp-common="container"><div><div class="item container responsivegrid" data-cmp-common="container">
+
+    
+    
+    
+    <div id="item-2a305db220" class="cmp-container">
+        
+        <div class="text mb--small">
+<div id="text-c71c303b85" class="cmp-text">
+    Enterprise fleet management is about more than just vehicles. It’s a balancing act covering cost control, driver satisfaction, emissions targets and operational reliability all while keeping your business mobile. At Alphabet we help corporations navigate this complexity and make mobility easier, with the aim of together building a future ready fleet strategy. 
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+</div></div>
+</div>
+            </div>
+        
+            <div class="cmp-accordion__item" data-ref-collection="items" data-cmp-hook-accordion="item" data-cmp-data-layer="{&#34;accordion-c0a556608a-item-16c6eb5a3f&#34;:{&#34;@type&#34;:&#34;alphabetweb/components/faq/accordion/item&#34;,&#34;dc:title&#34;:&#34;What is corporate fleet management?&#34;}}" id="accordion-c0a556608a-item-16c6eb5a3f">
+                <h3 class="cmp-accordion__header" data-ref="title">
+                    <button id="accordion-c0a556608a-item-16c6eb5a3f-button" class="cmp-accordion__button" type="button" aria-controls="accordion-c0a556608a-item-16c6eb5a3f-panel" data-cmp-hook-accordion="button">
+                        
+                        
+                        <span class="cmp-accordion__itemtitle">What is corporate fleet management?</span>
+                        <span class="cmp-accordion__backicon">
+                            
+    
+    <span class="icon" data-icon="arrow_chevron_down_lt" data-toggle-icon="arrow_chevron_up_lt" data-ref="icon" aria-hidden="true">
+    </span>
+
+    <!-- Styles for default icons -->
+    
+    <style>
+        .icon[data-icon="arrow_chevron_down_lt"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/bmw-icons/arrow_chevron_down_lt.svg");
+        }
+    </style>
+
+    <!-- Styles for toggle icons -->
+    
+    <style>
+        .icon.toggle[data-toggle-icon="arrow_chevron_up_lt"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/bmw-icons/arrow_chevron_up_lt.svg");
+        }
+    </style>
+
+                        </span>
+                    </button>
+                </h3>
+                <div data-cmp-hook-accordion="panel" data-ref="content" id="accordion-c0a556608a-item-16c6eb5a3f-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden" role="region" aria-labelledby="accordion-c0a556608a-item-16c6eb5a3f-button"><div class="panel container responsivegrid" data-cmp-common="container"><div><div class="item container responsivegrid" data-cmp-common="container">
+
+    
+    
+    
+    <div id="item-cefb03b662" class="cmp-container">
+        
+        <div class="text mb--small">
+<div id="text-b985975552" class="cmp-text">
+    Enterprise fleet management is a balancing act covering cost control, driver satisfaction, emissions targets and operational reliability all while keeping your business mobile. 
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+</div></div>
+</div>
+            </div>
+        
+            <div class="cmp-accordion__item" data-ref-collection="items" data-cmp-hook-accordion="item" data-cmp-data-layer="{&#34;accordion-c0a556608a-item-d9d7564fdf&#34;:{&#34;@type&#34;:&#34;alphabetweb/components/faq/accordion/item&#34;,&#34;dc:title&#34;:&#34;What is a corporate fleet?&#34;}}" id="accordion-c0a556608a-item-d9d7564fdf">
+                <h3 class="cmp-accordion__header" data-ref="title">
+                    <button id="accordion-c0a556608a-item-d9d7564fdf-button" class="cmp-accordion__button" type="button" aria-controls="accordion-c0a556608a-item-d9d7564fdf-panel" data-cmp-hook-accordion="button">
+                        
+                        
+                        <span class="cmp-accordion__itemtitle">What is a corporate fleet?</span>
+                        <span class="cmp-accordion__backicon">
+                            
+    
+    <span class="icon" data-icon="arrow_chevron_down_lt" data-toggle-icon="arrow_chevron_up_lt" data-ref="icon" aria-hidden="true">
+    </span>
+
+    <!-- Styles for default icons -->
+    
+    <style>
+        .icon[data-icon="arrow_chevron_down_lt"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/bmw-icons/arrow_chevron_down_lt.svg");
+        }
+    </style>
+
+    <!-- Styles for toggle icons -->
+    
+    <style>
+        .icon.toggle[data-toggle-icon="arrow_chevron_up_lt"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/bmw-icons/arrow_chevron_up_lt.svg");
+        }
+    </style>
+
+                        </span>
+                    </button>
+                </h3>
+                <div data-cmp-hook-accordion="panel" data-ref="content" id="accordion-c0a556608a-item-d9d7564fdf-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden" role="region" aria-labelledby="accordion-c0a556608a-item-d9d7564fdf-button"><div class="panel container responsivegrid" data-cmp-common="container"><div><div class="item container responsivegrid" data-cmp-common="container">
+
+    
+    
+    
+    <div id="item-fbdafb76a4" class="cmp-container">
+        
+        <div class="text mb--small">
+<div id="text-766f5466fe" class="cmp-text">
+    A corporate fleet is a collection of vehicles such as cars, vans, or specialised equipment, that a business or organisation owns or leases to support its operations and transport goods, services, or people. 
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+</div></div>
+</div>
+            </div>
+        
+            <div class="cmp-accordion__item" data-ref-collection="items" data-cmp-hook-accordion="item" data-cmp-data-layer="{&#34;accordion-c0a556608a-item-c6a580b9b3&#34;:{&#34;@type&#34;:&#34;alphabetweb/components/faq/accordion/item&#34;,&#34;dc:title&#34;:&#34;How many cars can you have in an enterprise fleet?&#34;}}" id="accordion-c0a556608a-item-c6a580b9b3">
+                <h3 class="cmp-accordion__header" data-ref="title">
+                    <button id="accordion-c0a556608a-item-c6a580b9b3-button" class="cmp-accordion__button" type="button" aria-controls="accordion-c0a556608a-item-c6a580b9b3-panel" data-cmp-hook-accordion="button">
+                        
+                        
+                        <span class="cmp-accordion__itemtitle">How many cars can you have in an enterprise fleet?</span>
+                        <span class="cmp-accordion__backicon">
+                            
+    
+    <span class="icon" data-icon="arrow_chevron_down_lt" data-toggle-icon="arrow_chevron_up_lt" data-ref="icon" aria-hidden="true">
+    </span>
+
+    <!-- Styles for default icons -->
+    
+    <style>
+        .icon[data-icon="arrow_chevron_down_lt"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/bmw-icons/arrow_chevron_down_lt.svg");
+        }
+    </style>
+
+    <!-- Styles for toggle icons -->
+    
+    <style>
+        .icon.toggle[data-toggle-icon="arrow_chevron_up_lt"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/bmw-icons/arrow_chevron_up_lt.svg");
+        }
+    </style>
+
+                        </span>
+                    </button>
+                </h3>
+                <div data-cmp-hook-accordion="panel" data-ref="content" id="accordion-c0a556608a-item-c6a580b9b3-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden" role="region" aria-labelledby="accordion-c0a556608a-item-c6a580b9b3-button"><div class="panel container responsivegrid" data-cmp-common="container"><div><div class="item container responsivegrid" data-cmp-common="container">
+
+    
+    
+    
+    <div id="item-3b87e22324" class="cmp-container">
+        
+        <div class="text mb--small">
+<div id="text-64f2519b48" class="cmp-text">
+    The size of an enterprise fleet can vary greatly depending on the type of business, but generally they can consist of anything from 1 to 10,000 cars. 
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+</div></div>
+</div>
+            </div>
+        
+            <div class="cmp-accordion__item" data-ref-collection="items" data-cmp-hook-accordion="item" data-cmp-data-layer="{&#34;accordion-c0a556608a-item-51f387c096&#34;:{&#34;@type&#34;:&#34;alphabetweb/components/faq/accordion/item&#34;,&#34;dc:title&#34;:&#34;What is corporate fleet management software?&#34;}}" id="accordion-c0a556608a-item-51f387c096">
+                <h3 class="cmp-accordion__header" data-ref="title">
+                    <button id="accordion-c0a556608a-item-51f387c096-button" class="cmp-accordion__button" type="button" aria-controls="accordion-c0a556608a-item-51f387c096-panel" data-cmp-hook-accordion="button">
+                        
+                        
+                        <span class="cmp-accordion__itemtitle">What is corporate fleet management software?</span>
+                        <span class="cmp-accordion__backicon">
+                            
+    
+    <span class="icon" data-icon="arrow_chevron_down_lt" data-toggle-icon="arrow_chevron_up_lt" data-ref="icon" aria-hidden="true">
+    </span>
+
+    <!-- Styles for default icons -->
+    
+    <style>
+        .icon[data-icon="arrow_chevron_down_lt"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/bmw-icons/arrow_chevron_down_lt.svg");
+        }
+    </style>
+
+    <!-- Styles for toggle icons -->
+    
+    <style>
+        .icon.toggle[data-toggle-icon="arrow_chevron_up_lt"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/bmw-icons/arrow_chevron_up_lt.svg");
+        }
+    </style>
+
+                        </span>
+                    </button>
+                </h3>
+                <div data-cmp-hook-accordion="panel" data-ref="content" id="accordion-c0a556608a-item-51f387c096-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden" role="region" aria-labelledby="accordion-c0a556608a-item-51f387c096-button"><div class="panel container responsivegrid" data-cmp-common="container"><div><div class="item container responsivegrid" data-cmp-common="container">
+
+    
+    
+    
+    <div id="item-a9a98bdaff" class="cmp-container">
+        
+        <div class="text mb--small">
+<div id="text-93d1a0e2a9" class="cmp-text">
+    Enterprise fleet management software is a suite of digital tools designed to assist in the management of the vehicles. They provide a range of functions to improve decision making and operations including tracking, maintenance, driver monitoring, fuel management and reporting.
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+</div></div>
+</div>
+            </div>
+        
+    </div>
+    
+</div>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+
+        <div class="button btn--link cmp-faq__toggle-more">
+            <button type="button" class="cmp-button hidden" data-ref="toggle">
+                <span class="cmp-button__more-label" data-ref="moreLabel">Show more</span>
+                <span class="cmp-button__less-label hidden" data-ref="lessLabel">Show less</span>
+                <span class="icon" data-icon="chevron-down" aria-hidden="true"></span>
+            </button>
+        </div>
+
+        
+    </div>
+</div>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</main>
+<footer class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-bd72a5c76f" class="cmp-experiencefragment cmp-experiencefragment--footer">
+
+
+    
+    <div id="container-253d25a504" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="footer aem-GridColumn aem-GridColumn--default--12" data-cmp-common="footer"><div class="cmp-footer" data-tracking-block="true" data-tracking-regionid="footer¦¦main footer¦¦¦">
+    <h2>Footer</h2>
+    <div class="cmp-footer__columns" data-ref="columns">
+        
+        <div data-cmp="accordion" class="cmp-accordion" data-tracking-regionid="footer navigation¦¦navigation vertical¦¦¦" data-tracking-block="true">
+            <div class="cmp-footer__links" data-cmp-mobile-only="true" data-cmp-single-expansion="true">
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    <div class="cmp-footer__column cmp-accordion__item" data-ref-collection="items">
+                        <div class="cmp-footer__item cmp-accordion__item" data-tracking-regionid="¦¦¦link list¦¦Corporate Fleet Solutions">
+    <h3 data-ref="title" class="title cmp-footer__item-title cmp-accordion__header">
+        
+            Corporate Fleet Solutions
+        
+    </h3>
+    <div class="navigation cmp-accordion__panel" data-ref="content">
+        <div class="cmp-accordion__panel__inner-wrapper">
+            <nav id="navigation-e7c093e3a7" class="cmp-navigation" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Fleet Management">
+    <ul class="cmp-navigation__group">
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦1¦leasing options¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/leasing-solutions.html">Leasing Options</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦2¦alphabet consulting¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/alphabet-consulting.html">Alphabet Consulting</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦3¦commercial vehicles¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/commercial-vehicles.html">Commercial Vehicles</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦4¦alphabet rent¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/alphabet-rent.html">Alphabet Rent</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦5¦fleet management tools ¦internal click" class="cmp-navigation__item-link" href="/en-gb/corporate-fleet-solutions/fleet-management-tools.html">Fleet Management Tools </a>
+
+        
+    </li>
+
+    </ul>
+</nav>
+
+    
+
+
+            
+        </div>
+    </div>
+</div>
+
+    
+
+
+                    </div>
+                
+                    <div class="cmp-footer__column cmp-accordion__item" data-ref-collection="items">
+                        <div class="cmp-footer__item cmp-accordion__item" data-tracking-regionid="¦¦¦link list¦¦Small and Medium Fleets">
+    <h3 data-ref="title" class="title cmp-footer__item-title cmp-accordion__header">
+        
+            Small and Medium Fleets
+        
+    </h3>
+    <div class="navigation cmp-accordion__panel" data-ref="content">
+        <div class="cmp-accordion__panel__inner-wrapper">
+            <nav id="navigation-c7bbbf953a" class="cmp-navigation" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Small &amp; Medium Fleet">
+    <ul class="cmp-navigation__group">
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦1¦fleet solutions¦internal click" class="cmp-navigation__item-link" href="/en-gb/small-medium-fleet/fleet-dreams.html">Fleet Solutions</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦2¦leasing offers and deals¦internal click" class="cmp-navigation__item-link" href="/en-gb/small-medium-fleet/leasing-offers-and-deals-for-small-and-medium-fleets.html">Leasing Offers and Deals</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦3¦small and medium fleet guidance¦internal click" class="cmp-navigation__item-link" href="/en-gb/small-medium-fleet/small-and-medium-fleet-guidance.html">Small and Medium Fleet Guidance</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦4¦electric vehicle advice for fleets¦internal click" class="cmp-navigation__item-link" href="/en-gb/small-medium-fleet/electric-advice-for-fleets.html">Electric Vehicle Advice for Fleets</a>
+
+        
+    </li>
+
+    </ul>
+</nav>
+
+    
+
+
+            
+        </div>
+    </div>
+</div>
+
+    
+
+
+                    </div>
+                
+                    <div class="cmp-footer__column cmp-accordion__item" data-ref-collection="items">
+                        <div class="cmp-footer__item cmp-accordion__item" data-tracking-regionid="¦¦¦link list¦¦Drivers">
+    <h3 data-ref="title" class="title cmp-footer__item-title cmp-accordion__header">
+        
+            Drivers
+        
+    </h3>
+    <div class="navigation cmp-accordion__panel" data-ref="content">
+        <div class="cmp-accordion__panel__inner-wrapper">
+            <nav id="navigation-6e33c8d4c3" class="cmp-navigation" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Drivers">
+    <ul class="cmp-navigation__group">
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦1¦managing your contract¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/managing-your-contract.html">Managing Your Contract</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦2¦fleet services¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/fleet-management-services.html">Fleet Services</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦3¦alphabet app¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/alphabet-app.html">Alphabet App</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦4¦electric vehicle advice for drivers¦internal click" class="cmp-navigation__item-link" href="/en-gb/drivers/electric-vehicle-advice-for-drivers.html">Electric Vehicle Advice for Drivers</a>
+
+        
+    </li>
+
+    </ul>
+</nav>
+
+    
+
+
+            
+        </div>
+    </div>
+</div>
+
+    
+
+
+                    </div>
+                
+                    <div class="cmp-footer__column cmp-accordion__item" data-ref-collection="items">
+                        <div class="cmp-footer__item cmp-accordion__item" data-tracking-regionid="¦¦¦link list¦¦Sustainability">
+    <h3 data-ref="title" class="title cmp-footer__item-title cmp-accordion__header">
+        
+            Sustainability
+        
+    </h3>
+    <div class="navigation cmp-accordion__panel" data-ref="content">
+        <div class="cmp-accordion__panel__inner-wrapper">
+            <nav id="navigation-2832550ddd" class="cmp-navigation" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Sustainability">
+    <ul class="cmp-navigation__group">
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦1¦european fleet emission monitor 2025: report | alphabet¦internal click" class="cmp-navigation__item-link" href="/en-gb/sustainability/european-fleet-emission-monitor-report.html">European Fleet Emission Monitor 2025: Report | Alphabet</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦2¦emissions reporting: the biggest challenge facing fleet decision-makers in 2025¦internal click" class="cmp-navigation__item-link" href="/en-gb/sustainability/emissions-reporting-biggest-challenge-facing-fleet-decision-makers-2025.html">Emissions Reporting: The Biggest Challenge Facing Fleet Decision-Makers in 2025</a>
+
+        
+    </li>
+
+    </ul>
+</nav>
+
+    
+
+
+            
+        </div>
+    </div>
+</div>
+
+    
+
+
+                    </div>
+                
+                    <div class="cmp-footer__column cmp-accordion__item" data-ref-collection="items">
+                        <div class="cmp-footer__item cmp-accordion__item" data-tracking-regionid="¦¦¦link list¦¦About Us">
+    <h3 data-ref="title" class="title cmp-footer__item-title cmp-accordion__header">
+        
+            About Us
+        
+    </h3>
+    <div class="navigation cmp-accordion__panel" data-ref="content">
+        <div class="cmp-accordion__panel__inner-wrapper">
+            <nav id="navigation-121b5d2d23" class="cmp-navigation" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="About us">
+    <ul class="cmp-navigation__group">
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦1¦contact us¦internal click" class="cmp-navigation__item-link" href="/en-gb/about-us/contact-us.html">Contact Us</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦2¦market presence / onenet partners ¦internal click" class="cmp-navigation__item-link" href="/en-gb/about-us/market-presence-onenet-partners.html">Market Presence / OneNet Partners </a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦3¦latest news and press ¦internal click" class="cmp-navigation__item-link" href="/en-gb/about-us/latest-news-press.html">Latest News and Press </a>
+
+        
+    </li>
+
+    </ul>
+</nav>
+
+    
+
+
+            
+        </div>
+    </div>
+</div>
+
+    
+
+
+                    </div>
+                
+                    <div class="cmp-footer__column cmp-accordion__item" data-ref-collection="items">
+                        <div class="cmp-footer__item cmp-accordion__item" data-tracking-regionid="¦¦¦link list¦¦Legal">
+    <h3 data-ref="title" class="title cmp-footer__item-title cmp-accordion__header">
+        
+            Legal
+        
+    </h3>
+    <div class="navigation cmp-accordion__panel" data-ref="content">
+        <div class="cmp-accordion__panel__inner-wrapper">
+            <nav id="navigation-7dd20bbf28" class="cmp-navigation" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Legal">
+    <ul class="cmp-navigation__group">
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦1¦quality statement | alphabet¦internal click" class="cmp-navigation__item-link" href="/en-gb/footer/legal-disclaimer/quality-statement.html">Quality Statement | Alphabet</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦2¦gender pay gap report¦internal click" class="cmp-navigation__item-link" href="/en-gb/footer/legal-disclaimer/gender-pay-gap-report.html">Gender Pay Gap Report</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦3¦compliance and whistleblowing policy¦internal click" class="cmp-navigation__item-link" href="/en-gb/footer/legal-disclaimer/speak-up-line.html">Compliance and Whistleblowing Policy</a>
+
+        
+    </li>
+
+    </ul>
+</nav>
+
+    
+
+
+            
+        </div>
+    </div>
+</div>
+
+    
+
+
+                    </div>
+                
+                
+            </div>
+        </div>
+    </div>
+    <div class="cmp-footer__legal" data-tracking-regionid="footer navigation¦¦navigation horizontal¦¦¦" data-tracking-block="true">
+        <div class="cmp-footer__legal-inner">
+            <div class="navigation" data-tracking-regionid="¦¦¦link list¦¦legal links"><nav id="navigation-e320c20366" class="cmp-navigation" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Footer">
+    <ul class="cmp-navigation__group">
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦1¦privacy policy¦internal click" class="cmp-navigation__item-link" href="/en-gb/footer/privacy-policy.html">Privacy Policy</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦2¦cookies¦internal click" class="cmp-navigation__item-link" href="/en-gb/footer/cookies.html">Cookies</a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0">
+        
+    <a data-tracking-linkid="link¦3¦imprint and legal notice¦internal click" class="cmp-navigation__item-link" href="/en-gb/footer/imprint-and-legal-notice.html">Imprint and Legal Notice</a>
+
+        
+    </li>
+
+    </ul>
+</nav>
+
+    
+
+</div>
+            <div class="sociallinks" data-tracking-regionid="¦¦¦social links¦¦social media" data-ref="socialLinks"><div class="cmp-social-links">
+    <div class="button btn--tertiary btn--only-icon" data-cmp-common="button">
+    <a id="button-00020272dd" class="cmp-button" aria-label="Linkedin" title="Linkedin" data-tron-enabled="false" href="https://www.linkedin.com/company/210706/" target="_blank">
+        
+    <span class="icon" data-icon="linkedin" aria-hidden="true">
+    </span>
+    
+
+    <!-- Styles for default icons -->
+    <style>
+        .icon[data-icon="linkedin"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/icons/linkedin.svg");
+        }
+    </style>
+    
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+        
+    </a>
+    
+
+
+
+    
+
+</div>
+<div class="button btn--tertiary btn--only-icon" data-cmp-common="button">
+    <a id="button-ea77152b82" class="cmp-button" aria-label="Youtube" title="Youtube" data-tron-enabled="false" href="https://www.youtube.com/user/AlphabetGB" target="_blank">
+        
+    
+    <span class="icon" data-icon="youtube_lt" aria-hidden="true">
+    </span>
+
+    <!-- Styles for default icons -->
+    
+    <style>
+        .icon[data-icon="youtube_lt"] {
+            --icon-path: url("/etc.clientlibs/alphabetweb/clientlibs/clientlib-site/resources/bmw-icons/youtube_lt.svg");
+        }
+    </style>
+
+    <!-- Styles for toggle icons -->
+    
+    
+
+        
+    </a>
+    
+
+
+
+    
+
+</div>
+
+    
+</div>
+</div>
+            <div class="text cmp-footer__copyright" data-tracking-regionid="¦¦¦text¦¦copyright" data-ref="copyright">
+<div id="text-911102be42" class="cmp-text">
+    <p>©2025 Alphabet • All Rights Reserved.</p>
+
+</div>
+
+    
+
+</div>
+        </div>
+    </div>
+</div>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</footer>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+
+            
+    
+    
+
+    
+    <script async src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.min.js"></script>
+<script async src="/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.min.js"></script>
+<script async src="/etc.clientlibs/alphabetweb/clientlibs/clientlib-base.min.js"></script>
+<script async src="/etc.clientlibs/alphabetweb/clientlibs/clientlib-site.min.js"></script>
+
+
+
+
+
+    
+
+
+    
+
+    
+    
+
+        
+    </body>
+</html>

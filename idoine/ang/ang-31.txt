@@ -1,0 +1,1266 @@
+
+<!doctype html>
+<html lang="fr" data-language="fr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/images/fav/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/static/images/fav/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/static/images/fav/favicon-16x16.png">
+    <link rel="manifest" href="/static/images/fav/site.webmanifest">
+    <link rel="shortcut icon" href="/static/images/fav/favicon.ico">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-config" content="/static/images/fav/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="/static/CACHE/css/output.744a05909b3b.css" type="text/css">
+    
+
+    
+    
+        <title>Home - We drive our industry | fleetlogistics.com</title>
+        
+
+	
+	
+	
+	
+		<meta property="og:title" content="Home">
+		<meta property="og:url" content="https://www.fleetlogistics.com/fr/">
+		
+		
+		<meta property="og:type" content="Article">
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+		<meta name="twitter:domain" content="www.fleetlogistics.com">
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Home">
+		<meta name="twitter:url" content="https://www.fleetlogistics.com/fr/">
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+        <meta name="description" content=""/>
+    
+    <script type="text/javascript">
+        // Set to the same value as the web property used on the site
+        var gaProperty = 'UA-87344031-1';
+        // Disable tracking if the opt-out cookie exists.
+        var disableStr = 'ga-disable-' + gaProperty;
+        if (document.cookie.indexOf(disableStr + '=true') > -1) {
+            window[disableStr] = true;
+        }
+
+        // Opt-out function
+        function gaOptout() {
+            document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+            window[disableStr] = true;
+            alert('Das Tracking durch Google Analytics wurde in Ihrem Browser für diese Website deaktiviert.');
+        }
+
+        function ga_code() {
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+            ga('create', 'UA-87344031-1', 'auto');
+            ga('send', 'pageview');
+            ga('set', 'anonymizeIp', true);
+        }
+    </script>
+    <script type="text/javascript">
+        var trigger_functions = [];
+    </script>
+</head>
+<body class="">
+
+
+<header>
+    <div class="container">
+        <nav class="navbar navbar-expand-xl">
+            <a class="navbar-brand" href="/">
+                <img src="/static/images/logo.svg"
+                     alt="We drive our industry | fleetlogistics.com"
+                     title="We drive our industry | fleetlogistics.com"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto">
+                    
+
+
+    <li class="nav-item active ">
+        <a class="nav-link" href="/fr/">Home</a>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link" href="/fr/prestations/">Prestations</a>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link" href="/fr/applications-utilisateur/">Applications</a>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link" href="/fr/newsroom/">Newsroom</a>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link" href="/fr/qui-sommes-nous/">Qui sommes-nous?</a>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link" href="/fr/contact-fr/">Contact</a>
+    </li>
+
+
+                </ul>
+                
+                    <ul class="navbar-nav language-chooser">
+                        
+
+<div class="dropdown">
+    <button class="btn dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+        
+            Français
+        
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+        
+            <a class="dropdown-item "
+               href="/en/">English</a>
+        
+            <a class="dropdown-item "
+               href="/de/">Deutsch</a>
+        
+            <a class="dropdown-item "
+               href="/es/">Español</a>
+        
+            <a class="dropdown-item active"
+               href="/fr/">Français</a>
+        
+            <a class="dropdown-item "
+               href="/it/">Italiano</a>
+        
+    </div>
+</div>
+
+                    </ul>
+                
+                <button class="navbar-toggler navbar-toggler-mobile" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon-mobile">&#x2715;</span></button>
+            </div>
+        </nav>
+    </div>
+</header>
+
+
+    
+
+    <div class="banner-container">
+        
+            
+<div class="item">
+    <div class="banner-element banner-element-image banner-element-has-image">
+        <div class="banner-image" style="background-image: url('/media/filer_public_thumbnails/filer_public/09/fe/09fedb87-00a0-43cb-8b95-983e4cf5a403/home-managed-mobility-fleetlogistics.jpg__1920x0_q80_ALIAS-banner_crop_subsampling-2_upscale.jpg');"></div>
+        
+            <div class="banner-caption-container">
+                <div class="banner-caption">
+                    <div class="container">
+                        <div class="banner-caption-inner">
+                            
+                                <h3>It’s time to move together</h3>
+
+<h1>Gestion de la mobilité</h1>
+
+<p><a class="btn btn-orange btn-icon" href="/fr/prestations/"><i class="fal fa-angle-right"></i>Trouvez votre solution maintenant</a></p>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+    </div>
+</div>
+        
+    </div>
+
+
+
+	
+
+<div class="section"
+        ">
+    <div class="container">
+        
+            <h2 style="text-align: center;">FLEET LOGISTICS</h2>
+
+<p style="text-align: center;"><span class="text-large">Des solutions fiables, adaptées à vos besoins individuels en matière d’organisation et de mobilité.</span></p>
+
+<p style="text-align: center;"> </p>
+        
+            
+
+<div class="teaser-with-icon-container">
+    
+        
+
+<div class="row no-gutters">
+    
+        
+
+<div class="col col-12 col-lg-6">
+    
+        
+<!-- @formatter:off -->
+<div class="teaser-with-icon teaser-dark-blue">
+    
+    <div class="teaser-icon"><i class="fal fa-border-all"></i></div>
+    
+    
+        <h2>Simplification</h2>
+
+<p>Nous proposons l’agrégation de structures complexes et la mise en œuvre de solutions simples.</p>
+    
+</div>
+<!-- @formatter:on -->
+    
+</div>
+
+    
+        
+
+<div class="col col-12 col-lg-6">
+    
+        
+<!-- @formatter:off -->
+<div class="teaser-with-icon teaser-dark-blue">
+    
+    <div class="teaser-icon"><i class="fal fa-random"></i></div>
+    
+    
+        <h2>Flexibilité</h2>
+
+<p>Nous offrons la flexibilité nécessaire pour adapter notre offre de services aux besoins de nos clients en utilisant des outils, des systèmes et des processus standards.</p>
+    
+</div>
+<!-- @formatter:on -->
+    
+</div>
+
+    
+</div>
+
+    
+        
+
+<div class="row no-gutters">
+    
+        
+
+<div class="col col-12 col-lg-6">
+    
+        
+<!-- @formatter:off -->
+<div class="teaser-with-icon teaser-dark-blue">
+    
+    <div class="teaser-icon"><i class="fal fa-desktop"></i></div>
+    
+    
+        <h2>Neutralité</h2>
+
+<p>Nous fournissons des conseils objectifs et pertinents, de la stratégie à l’exécution.</p>
+    
+</div>
+<!-- @formatter:on -->
+    
+</div>
+
+    
+        
+
+<div class="col col-12 col-lg-6">
+    
+        
+<!-- @formatter:off -->
+<div class="teaser-with-icon teaser-dark-blue">
+    
+    <div class="teaser-icon"><i class="fal fa-chart-line"></i></div>
+    
+    
+        <h2>Meilleures pratiques</h2>
+
+<p>Nous vous proposons nos solutions éprouvées pour assurer une mise en œuvre optimale de votre stratégie.</p>
+    
+</div>
+<!-- @formatter:on -->
+    
+</div>
+
+    
+</div>
+
+    
+</div>
+
+        
+    </div>
+</div>
+
+<div class="split-content">
+    <div class="container container-custom">
+        <div class="row no-gutters">
+            <div class="col col-12 col-lg-6">
+                <div class="split-content--content">
+                    
+                        <h4 style="text-align: center;"><span class="text-uppercase">EXIGENCES DIVERSES</span></h4>
+
+<h2 style="text-align: center;">Des solutions de mobilité à multiples facettes</h2>
+
+<p style="text-align: center;">Des besoins d’un individu aux objectifs d’une entreprise, en passant par les exigences technologiques et juridiques, il y a des changements notables dans tous les domaines.</p>
+
+<h4 style="text-align: center;"><span class="text-uppercase">RÉPONDRE AUX QUESTIONS</span></h4>
+
+<p style="text-align: center;">Comment concilier la satisfaction des salariés avec la question de l’« épargne » ou de la gestion de la mobilité durable ? Comment les exigences relatives aux questions de responsabilité et à la mise en œuvre de l’innovation technologique sont-elles appliquées efficacement ?</p>
+
+<h4 style="text-align: center;"><span class="text-uppercase">ATTEINDRE LES OBJECTIFS</span></h4>
+
+<p style="text-align: center;">Notre mission est de soutenir nos clients dans leurs besoins opérationnels et stratégiques pour atteindre leurs objectifs. Pour un succès mutuel, nous apportons l’expérience, la flexibilité, la transparence et la technologie.</p>
+                    
+                </div>
+            </div>
+            <div class="col col-12 col-lg-6">
+                
+                    <div class="split-content-image" style="background-image: url('/media/filer_public_thumbnails/filer_public/24/35/243541f4-dbdd-4d58-bfda-b8dea45e96d2/home-mobilitaetsloesungen-fleetlogistics.jpg__2500x0_q80_ALIAS-split_content_crop_subsampling-2_upscale.jpg')"></div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="section"
+        ">
+    <div class="container">
+        
+            <h3 class="text-uppercase" style="text-align: center;">LAISSEZ-VOUS CONVAINCRE PAR VOUS-MÊME</h3>
+
+<h2 class="h2-large" style="text-align: center;">Ce qu’en disent nos clients</h2>
+
+<p style="text-align: center;">
+
+
+
+
+
+
+
+
+<img src="/media/filer_public_thumbnails/filer_public/72/13/72135ad3-6e74-4f2a-8966-5fcfb51a4d18/testimonial-stars.png__95x15_q85_subsampling-2.png"
+    alt=""
+    
+    
+    
+    class
+>
+
+
+
+
+
+
+
+
+</p>
+
+<p style="text-align: center;"> </p>
+        
+            
+
+<div class="owl-carousel-container">
+    <div class="owl-carousel owl-theme customer-voice-slider">
+        
+            
+
+<div class="customer-voice-element">
+    
+        <h4>Client international depuis 2009  </h4>
+
+<h6>4700 véhicules à travers 27 pays</h6>
+
+<p>Nous avons récemment reconnu Fleet Logistics comme l'un de nos principaux fournisseurs stratégiques. Au cours des 12 dernières années, Fleet Logistics nous a aidé à développer un programme de gestion des véhicules cohérent et efficace en Europe, en Russie et en Turquie. Nous continuerons à bénéficier de leur indépendance et de leur expertise à l'avenir...</p>
+    
+</div>
+
+        
+            
+
+<div class="customer-voice-element">
+    
+        <h4>Client national depuis 2007</h4>
+
+<p>550 véhicules de société et 2 000 véhicules utilitaires dans un pays</p>
+
+<p>Il y a quelques années, nous avons vérifié que la gestion de la flotte nécessitait 3,5 postes. Nous avons donc cherché des partenaires et lancé un appel d’offres pour un fournisseur de services de flotte. Le contrat a été attribué à la filiale de Fleet Logistics.</p>
+    
+</div>
+
+        
+            
+
+<div class="customer-voice-element">
+    
+        <h4>Client international depuis 2012  </h4>
+
+<h6>2100 véhicules à travers 10 pays</h6>
+
+<p>Apporter un changement dans l'organisation n'est pas un processus facile, apporter un changement dans la flotte est encore plus difficile. Fleet Logistics est capable d'exécuter des initiatives de changement de politique dans plusieurs pays en même temps. Cela rend le processus cohérent et permet d'obtenir des résultats dans un délai très court dans toute la région. La réalisation de la stratégie de la flotte est plus efficace lorsque vous avez un partenaire fiable qui vous fournit des données transparentes, une exécution claire et qui ajoute de la valeur en introduisant des innovations pour rendre votre flotte plus efficace.</p>
+    
+</div>
+
+        
+            
+
+<div class="customer-voice-element">
+    
+        <h4>Client national depuis 2012</h4>
+
+<p>741 véhicules de société dans un pays</p>
+
+<p>À un stade particulier de notre activité, le soutien de Fleet Logistics nous a permis de limiter les défis et les coûts auxquels l’entreprise devait faire face. L’apport des idées et leur mise en œuvre ont créé un fort sentiment d’atteindre des objectifs mutuels.</p>
+    
+</div>
+
+        
+            
+
+<div class="customer-voice-element">
+    
+        <h4>Client national depuis 2011</h4>
+
+<p>220 véhicules de société dans un pays</p>
+
+<p>Faites ce que vous savez faire de mieux et externalisez le reste ! Chez Fleet Logistics, nous pouvons choisir parmi un large éventail de services et ainsi influencer nous-mêmes le degré d’allégement administratif le plus efficace.</p>
+    
+</div>
+
+        
+            
+
+<div class="customer-voice-element">
+    
+        <h4>Client national depuis 2012</h4>
+
+<p>363 véhicules de société dans un pays</p>
+
+<p>Dès le début, il y a eu un bon échange autour de tous les projets, et les besoins du client ont rapidement été compris, ce qui est plutôt rare. De vrais professionnels qui sont toujours prêts à nous soutenir dans les défis permanents.</p>
+    
+</div>
+
+        
+            
+
+<div class="customer-voice-element">
+    
+        <h4>Client national depuis 2013</h4>
+
+<p>700 véhicules de société dans un pays</p>
+
+<p>À l’époque, nous nous sommes demandé s’il était encore économique de s’occuper de la flotte nous-mêmes ou de faire sous-traiter sa gestion. Surtout lorsque la flotte s’est agrandie au fil des ans et que l’organisation n’a pas suivi le rythme. Des coûts évitables se sont accumulés, ce qui n’aurait pas été le cas si la flotte avait été confiée à une entreprise professionnelle..</p>
+    
+</div>
+
+        
+            
+
+<div class="customer-voice-element">
+    
+        <h4>Client national depuis 201</h4>
+
+<p>898 véhicules de société dans un pays</p>
+
+<p>Nous avions déjà une certaine expérience de l’externalisation avec la division du département interne. L’augmentation des compétences et du service qui a accompagné l’arrivée de FL a agréablement surpris même les collègues les plus sceptiques.</p>
+    
+</div>
+
+        
+    </div>
+    
+        <div class="owl-carousel-controls-container--container">
+            <div class="owl-carousel-controls-container">
+                <div id="customerVoiceSliderNav" class="owl-nav-custom"></div>
+                <div id="customerVoiceDotsNav" class="owl-dots-custom"></div>
+            </div>
+        </div>
+    
+</div>
+        
+    </div>
+</div>
+
+<div class="stage stage-dark-blue" style="background-image: url('/media/filer_public_thumbnails/filer_public/2b/a6/2ba6143d-a7e6-479f-823c-b9e4d4f90ca4/contact-fleetlogistics.jpg__2500x0_q80_ALIAS-stage_crop_subsampling-2_upscale.jpg');" id="section-contact">
+    <div class="container">
+        <div class="stage-content">
+        
+            
+
+<div id="contactFormContent">
+    
+        <form method="post" action="." class="contact-form" id="contactForm"><input type="hidden" name="csrfmiddlewaretoken" value="9CJrGTy4UcXXyS700AxE1TC4uu16OWQpuTXXYhZo6NpWDDyVFuDP06W6NJ6fzvL9">
+            <div class="contact-form-text-above">
+                <h3>NOUS SOMMES LÀ POUR VOUS</h3>
+
+<h2>Envoyez nous votre message</h2></div>
+            <div class="contact-form-content">
+                
+
+
+    <div class="">
+        <input type="hidden" name="captcha_other" id="captchaFormOther">
+        <div class="row">
+            <div class="col-md-4">
+                
+
+
+    
+    <div id="div_id_salutation" class="form-group">
+        
+            <label for="id_salutation" class=" requiredField">
+                Salutation<span class="asteriskField">*</span>
+            </label>
+        
+
+        
+
+        
+
+        
+            
+                <div class="">
+                    <select name="salutation" class="select form-control" required id="id_salutation">
+  <option value="" selected>Titre*</option>
+
+  <option value="Mrs">Madame</option>
+
+  <option value="Mr">Monsieur</option>
+
+  <option value="*">*</option>
+
+</select>
+                    
+
+
+    
+
+
+
+
+    
+
+
+
+                </div>
+            
+        
+    </div>
+    
+
+
+            </div>
+            <div class="col-md-4">
+                
+
+
+    
+    <div id="div_id_first_name" class="form-group">
+        
+            <label for="id_first_name" class=" requiredField">
+                First Name<span class="asteriskField">*</span>
+            </label>
+        
+
+        
+
+        
+
+        
+            
+                <div class="">
+                    <input type="text" name="first_name" placeholder="Votre prénom*" class="textinput textInput form-control" required id="id_first_name">
+                    
+
+
+    
+
+
+
+
+    
+
+
+
+                </div>
+            
+        
+    </div>
+    
+
+
+            </div>
+            <div class="col-md-4">
+                
+
+
+    
+    <div id="div_id_last_name" class="form-group">
+        
+            <label for="id_last_name" class=" requiredField">
+                Last Name<span class="asteriskField">*</span>
+            </label>
+        
+
+        
+
+        
+
+        
+            
+                <div class="">
+                    <input type="text" name="last_name" placeholder="Votre nom*" class="textinput textInput form-control" required id="id_last_name">
+                    
+
+
+    
+
+
+
+
+    
+
+
+
+                </div>
+            
+        
+    </div>
+    
+
+
+            </div>
+            <div class="col-md-12">
+                
+
+
+    
+    <div id="div_id_email" class="form-group">
+        
+            <label for="id_email" class=" requiredField">
+                Email Address<span class="asteriskField">*</span>
+            </label>
+        
+
+        
+
+        
+
+        
+            
+                <div class="">
+                    <input type="text" name="email" placeholder="Votre adresse e-mail*" class="textinput textInput form-control" required id="id_email">
+                    
+
+
+    
+
+
+
+
+    
+
+
+
+                </div>
+            
+        
+    </div>
+    
+
+
+            </div>
+            <div class="col-md-12">
+                
+
+
+    
+    <div id="div_id_service_interest" class="form-group">
+        
+            <label for="" class=" requiredField">
+                Quelle(s) prestation(s) vous intéresse(nt)?<span class="asteriskField">*</span>
+            </label>
+        
+
+        
+            
+
+
+<div class="">
+
+    
+    <div class="form-check">
+        <input type="checkbox" class="form-check-input" name="service_interest" id="id_service_interest_1" value="1" >
+        <label class="form-check-label" for="id_service_interest_1">
+            Fleet Management
+        </label>
+        
+    </div>
+   
+    <div class="form-check">
+        <input type="checkbox" class="form-check-input" name="service_interest" id="id_service_interest_2" value="2" >
+        <label class="form-check-label" for="id_service_interest_2">
+            Mobility Budget
+        </label>
+        
+    </div>
+   
+    <div class="form-check">
+        <input type="checkbox" class="form-check-input" name="service_interest" id="id_service_interest_3" value="3" >
+        <label class="form-check-label" for="id_service_interest_3">
+            Consulting
+        </label>
+        
+    </div>
+   
+    <div class="form-check">
+        <input type="checkbox" class="form-check-input" name="service_interest" id="id_service_interest_4" value="4" >
+        <label class="form-check-label" for="id_service_interest_4">
+            Reporting
+        </label>
+        
+    </div>
+   
+    <div class="form-check">
+        <input type="checkbox" class="form-check-input" name="service_interest" id="id_service_interest_5" value="5" >
+        <label class="form-check-label" for="id_service_interest_5">
+            Fournisseur / Revendeur / Garage
+        </label>
+        
+    </div>
+   
+    
+
+    
+
+</div>
+        
+
+        
+
+        
+    </div>
+    
+
+
+            </div>
+            <div class="col-md-12">
+                
+
+
+    
+    <div id="div_id_country" class="form-group">
+        
+            <label for="id_country" class=" requiredField">
+                Dans quel pays les services doivent-ils être fournis?<span class="asteriskField">*</span>
+            </label>
+        
+
+        
+
+        
+
+        
+            
+                <div class="">
+                    <select name="country" class="lazyselect form-control" required id="id_country">
+  <option value="" selected>---------</option>
+
+  <option value="GS">Multi-Country</option>
+
+  <option value="EH">Country not listed</option>
+
+  <option value="DE">Allemagne</option>
+
+  <option value="AT">Autriche</option>
+
+  <option value="BE">Belgique</option>
+
+  <option value="BY">Biélorussie</option>
+
+  <option value="BG">Bulgarie</option>
+
+  <option value="HR">Croatie</option>
+
+  <option value="DK">Danemark</option>
+
+  <option value="ES">Espagne</option>
+
+  <option value="US">États-Unis d&#x27;Amérique</option>
+
+  <option value="FI">Finlande</option>
+
+  <option value="FR">France</option>
+
+  <option value="GR">Grèce</option>
+
+  <option value="HU">Hongrie</option>
+
+  <option value="IE">Irlande</option>
+
+  <option value="IL">Israël</option>
+
+  <option value="IT">Italie</option>
+
+  <option value="LU">Luxembourg</option>
+
+  <option value="NO">Norvège</option>
+
+  <option value="NL">Pays-Bas</option>
+
+  <option value="PL">Pologne</option>
+
+  <option value="PT">Portugal</option>
+
+  <option value="CZ">République tchèque</option>
+
+  <option value="RO">Roumanie</option>
+
+  <option value="GB">Royaume-Uni</option>
+
+  <option value="RU">Russie</option>
+
+  <option value="RS">Serbie</option>
+
+  <option value="SK">Slovaquie</option>
+
+  <option value="SI">Slovénie</option>
+
+  <option value="SE">Suède</option>
+
+  <option value="CH">Suisse</option>
+
+  <option value="TR">Turquie</option>
+
+  <option value="UA">Ukraine</option>
+
+</select>
+                    
+
+
+    
+
+
+
+
+    
+
+
+
+                </div>
+            
+        
+    </div>
+    
+
+
+            </div>
+            <div class="col-md-12">
+                
+
+
+    
+    <div id="div_id_message" class="form-group">
+        
+            <label for="id_message" class="">
+                Message
+            </label>
+        
+
+        
+
+        
+
+        
+            
+                <div class="">
+                    <textarea name="message" cols="40" rows="10" placeholder="Votre message" class="textarea form-control" id="id_message">
+</textarea>
+                    
+
+
+    
+
+
+
+
+    
+
+
+
+                </div>
+            
+        
+    </div>
+    
+
+
+            </div>
+            <div class="col-10 col-sm-9 col-md-7">
+                
+
+
+    
+    <div id="div_id_captcha" class="form-group">
+        
+            <label for="id_captcha_1" class=" requiredField">
+                Captcha<span class="asteriskField">*</span>
+            </label>
+        
+
+        
+
+        
+
+        
+            
+                <div class="">
+                    <img src="/fr/captcha/image/d96e22cf3e41f031a5e91595d403eb75ce3fd796/" alt="captcha" class="captcha" />
+<input type="hidden" name="captcha_0" value="d96e22cf3e41f031a5e91595d403eb75ce3fd796" class="hiddeninput" required id="id_captcha_0"><input type="text" name="captcha_1" class="captchaanswerinput" required id="id_captcha_1" autocapitalize="off" autocomplete="off" autocorrect="off" spellcheck="false">
+                    
+
+
+    
+
+
+
+
+    
+
+
+
+                </div>
+            
+        
+    </div>
+    
+
+
+            </div>
+        </div>
+        <p>Fields marked with * are mandatory.</p>
+    </div>
+
+
+            </div>
+            <div class="contact-form-button-container">
+                <button class="btn btn-orange btn-submit js-captcha-refresh"
+                        id="submitButton"
+                        type="button">Envoyer le message</button>
+            </div>
+        </form>
+    
+</div>
+
+        
+        </div>
+    </div>
+</div>
+
+
+<div class="section"
+        ">
+    <div class="container">
+        
+            <h2 class="h2-large" style="text-align: center;">Créer de la confiance</h2>
+        
+            
+
+<div class="owl-carousel-container">
+    <div class="owl-carousel owl-theme logo-slider">
+        
+            
+
+<div class="logo-slide-element">
+    <div class="logo-slide-image">
+        
+        <img src="/media/filer_public_thumbnails/filer_public/3c/dd/3cdd723e-2f3f-4725-aa49-a46cd640b1ec/fn-reader-rec-2021_fleetmanagement-300x300.png__300x0_q80_ALIAS-logo_slide_crop_subsampling-2_upscale.png"
+             alt="">
+        
+    </div>
+    
+        <p>Recommandé par la pratique</p>
+    
+</div>
+
+        
+            
+
+<div class="logo-slide-element">
+    <div class="logo-slide-image">
+        <a href="https://recognition.ecovadis.com/xynl6nHZokCiWAf5yP5-zQ" target="_blank">
+        <img src="/media/filer_public_thumbnails/filer_public/9a/ea/9aeab98b-7831-4f69-a7e2-43e25559dde2/ecovaids_2025.png__300x0_q80_ALIAS-logo_slide_crop_subsampling-2_upscale.png"
+             alt="">
+        </a>
+    </div>
+    
+        <p>Sustainability Ranking</p>
+    
+</div>
+
+        
+    </div>
+    
+        <div class="owl-carousel-controls-container--container">
+            <div class="owl-carousel-controls-container">
+                <div id="logoSliderNav" class="owl-nav-custom"></div>
+                <div id="logoSliderDotsNav" class="owl-dots-custom"></div>
+            </div>
+        </div>
+    
+</div>
+        
+    </div>
+</div>
+	
+
+<div class="overlay-container">
+    
+        <div class="o-element bottom-right o-element-has-image"
+             data-show="exit-from-site" data-close="click-outside-popup"
+             data-show-scroll-length="49"
+             data-show-scroll-delay="20"
+             data-show-inactivity="30">
+            <div class="o-element-row">
+                
+                    <div class="over-element-col o-element-col-left">
+                        <div class="overlay-image"
+                             style="background-image: url('/media/filer_public_thumbnails/filer_public/c1/e4/c1e4a315-7c23-48b9-9063-4748db86c3ef/popup.jpg__350x0_q80_ALIAS-popup_crop_subsampling-2_upscale.jpg');"></div>
+                    </div>
+                
+                <div class="o-element-col o-element-col-right">
+                    <div class="o-element-text-container">
+                        <div class="e-element-close">&#x2715;</div>
+                        <div class="o-element-text"><h6>Suivez Fleet Logistics sur LinkedIn</h6>
+                            <!--@formatter:off-->
+                            
+                            
+                            
+                                <a href="https://www.linkedin.com/company/fleet-logistics/?originalSubdomain=de" class="btn btn-orange" target="_blank"><i class="fab fa-linkedin-in"></i>Connectez-vous</a>
+                            
+                            
+                            <!--@formatter:on-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+</div>
+<script>
+    trigger_functions.push(function () {
+        /* click outside overlay */
+        $(document).click(function (event) {
+            if (!$(event.target).is('.o-element *')) {
+                $('.o-element[data-close=click-outside-popup].active').remove();
+            }
+        });
+
+        /* click close x to close overlay */
+        $('.e-element-close').on('click', function () {
+            $(this).closest('.o-element').remove();
+        });
+
+        /* detect mouse move top/bottom outside window to show overlay */
+        $(document).mouseleave(function (event) {
+            if (event.clientY <= 0 || (event.clientY >= window.innerHeight)) {
+                $('.o-element[data-show=exit-from-site]').addClass('active');
+            }
+        });
+
+        /* detect if user scroll 50% or more with delay to show overlay */
+        function amountscrolled() {
+            var winheight = $(window).height()
+            var docheight = $(document).height()
+            var scrollTop = $(window).scrollTop()
+            var trackLength = docheight - winheight
+            var pctScrolled = Math.floor(scrollTop / trackLength * 100) // gets percentage scrolled (ie: 80 NaN if tracklength == 0)
+            //console.log(pctScrolled + '% scrolled')
+
+            $('.o-element[data-show=scroll-window]').each(function () {
+                if ($(this).attr('data-show-scroll-length') !== '') {
+                    var percentScrolled = $(this).attr('data-show-scroll-length');
+                    var delayScrolled = $(this).attr('data-show-scroll-delay');
+                    delayScrolled = parseInt(delayScrolled);
+                    delayScrolled = delayScrolled * 1000;
+                    //console.log('we have a match.');
+                    //console.log(percentScrolled);
+                    //console.log(delayScrolled);
+                    if (pctScrolled >= percentScrolled) {
+                        $(this).delay(delayScrolled).queue(function (next) {
+                            $(this).addClass('active');
+                            next();
+                        });
+                    }
+                }
+            });
+        }
+
+        $(window).on("scroll", function () {
+            amountscrolled();
+        });
+
+        /* user inactivity to show overlay */
+        //Increment the idle time counter every minute.
+        var idleInterval = setInterval(timerIncrement, 1000);
+        var idleTime = 0;
+
+        //console.log(idleInterval);
+
+        function timerIncrement() {
+            $('.o-element[data-show=after-inactivity]').each(function () {
+                var showInactivity = $(this).attr('data-show-inactivity');
+                // console.log(showInactivity);
+
+                //Zero the idle timer on mouse movement.
+                document.addEventListener('mousemove', function () {
+                    idleTime = 0;
+                    //console.log('mousemove');
+                });
+                document.addEventListener('keypress', function () {
+                    idleTime = 0;
+                    //console.log('keypress');
+                });
+                document.addEventListener('touchmove', function () {
+                    idleTime = 0;
+                    //console.log('touchmove');
+                });
+
+                idleTime = idleTime + 1;
+                if (idleTime > showInactivity) {
+                    $(this).addClass('active');
+                }
+            });
+        }
+    });
+</script>
+
+
+
+<footer>
+    <div class="container">
+        
+
+<div class="row">
+    
+        
+
+<div class="col col-12 col-md-4">
+    
+        <p>FleetCompany GmbH<br>
+Keltenring 13<br>
+82041 Oberhaching<br>
+Germany</p>
+
+<p> </p>
+    
+</div>
+
+    
+        
+
+<div class="col col-12 col-md-4">
+    
+        <p><a href="mailto:info.fr@fleetlogistics.com" class="icon-mail">info.fr@fleetlogistics.com</a><br>
+<a href="tel:+33363270065" class="icon-phone">+33 3 63 27 00 65</a><br>
+<a href="https://www.linkedin.com/company/fleet-logistics/about/" target="_blank" class="icon-linkedin">Follow us</a></p>
+    
+</div>
+
+    
+        
+
+<div class="col col-12 col-md-4">
+    
+        <p><a href="//www.fleetlogistics.com/fr/abis-juridique/">Abis juridique</a><br>
+<a href="//www.fleetlogistics.com/fr/politique-de-confidentialite/">politique de confidentialité</a><br>
+<a href="/media/filer_public/8d/d1/8dd1fa2b-bb25-4a56-979a-da785c855296/fleet_logistics_code_of_conduct_-_english.pdf"
+     target="_blank"
+    
+    >
+    
+        Code of Conduct
+    
+    
+</a>
+
+
+<br>
+<a href="###" class="btn-cookie-settings">Cookie-Consent</a><br>
+© 2024 FleetCompany GmbH</p>
+    
+</div>
+
+    
+</div>
+
+    </div>
+</footer>
+<a href="#" id="scrollToTop"><i class="fal fa-angle-up" id="scrollup-arrow"></i></a>
+<div class="modal modal-custom" tabindex="-1" id="modalVideo">
+    <div class="modal-dialog modal-xl modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">&nbsp;</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&#x2715;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div id="modalVideoBody">
+                    <div class="embed-responsive embed-responsive-16by9"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="cookieConsent"></div>
+<script src="/static/CACHE/js/output.2284de6c40fa.js"></script>
+
+
+</body>
+</html>

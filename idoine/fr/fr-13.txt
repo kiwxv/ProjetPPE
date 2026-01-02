@@ -1,0 +1,2133 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr" prefix="og: http://ogp.me/ns#">
+    <head>
+                <link rel="preconnect" href="https://cdn.lesnumeriques.com" crossorigin>         <link rel="dns-prefetch" href="https://cdn.lesnumeriques.com">         <link rel="preconnect" href="https://cdn.lesnums.com">         <link rel="dns-prefetch" href="//cdn.lesnums.com">         <link rel="preconnect" href="https://sdk.privacy-center.org"/>         <link rel="dns-prefetch" href="//sdk.privacy-center.org">         <link rel="preconnect" href="https://www.googletagmanager.com"/>         <link rel="dns-prefetch" href="//www.googletagmanager.com">                         <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/titillium-web-v14-latin-600.woff2"/>
+        <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/titillium-web-v14-latin-700.woff2"/>
+        <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/titillium-web-v14-latin-regular.woff2"/>
+        <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/open-sans-v28-latin-600.woff2"/>
+        <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/open-sans-v28-latin-regular.woff2"/>
+        <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/roboto-v29-latin-500.woff2"/>
+        <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/roboto-v29-latin-700.woff2"/>
+        <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/roboto-v29-latin-regular.woff2"/>
+        <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/lesnumeriques_font-icons.woff2"/>
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/img/svg/logo-horizontal.svg" as="image" type="image/svg+xml" fetchpriority="high" />
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/img/svg/lazyload-placeholder.svg" as="image" type="image/svg+xml" fetchpriority="high" />
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/img/png/rating_ed@x1.png" as="image" type="image/png" fetchpriority="high" />
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/img/png/rating_usr@x1.png" as="image" type="image/png" fetchpriority="high" />
+        <link rel="preload" href="https://www.googletagmanager.com/gtm.js?id=GTM-N8FW6BPP&l=unify_dataSlayer" as="script" type="text/javascript" fetchpriority="low" />
+        <link rel="preload" href="https://www.googletagmanager.com/gtm.js?id=GTM-T6MP99&l=unify_dataSlayer" as="script" type="text/javascript" fetchpriority="low" />
+                        <script type="text/javascript">
+            unify_dataSlayer = [];
+            var LesNums = LesNums || {};
+        </script>
+        <script type="text/javascript">
+    window.unify_dataSlayer = window.unify_dataSlayer || [];
+    var dmpData = [
+    {
+        "content": {
+            "id": "247890",
+            "label": "Stellantis s'associe à Bolt pour déployer une flotte de robotaxis autonomes",
+            "type": "Actualité",
+            "class": "Actualité",
+            "author": "Aurélien Piot",
+            "date": "20251210",
+            "hour": "07:30",
+            "note": "",
+            "subNotes": ""
+        },
+        "ops": {
+            "name": "",
+            "id": "",
+            "brand": ""
+        },
+        "page": {
+            "subSection": "Voiture",
+            "section": "Voitures & co",
+            "mainTag": "",
+            "sectionId": "",
+            "subSectionId": "",
+            "productSubType": "",
+            "path": "\/voiture\/stellantis-s-associe-a-bolt-pour-deployer-une-flotte-de-robotaxis-autonomes-n247890.html",
+            "trackPageview": "",
+            "filters": [],
+            "brand": "",
+            "label": "",
+            "isPro": 0
+        },
+        "site": {
+            "platform": "les-numeriques",
+            "environment": "prod",
+            "lang": "fr",
+            "sid": 385933
+        },
+        "utm": {
+            "medium": "",
+            "source": "",
+            "campaign": ""
+        }
+    }
+];
+    dmpData[0].user = {
+    "dom": "",
+    "isLoggedIn": 0,
+    "adBlocker": 0,
+    "referer": "",
+    "id": "",
+    "registrationDate": "",
+    "firstPost": "",
+    "device": "",
+    "screenResolution": "",
+    "newsletterOptin": 0
+};
+    dmpData[0].user.referer = document.referrer;
+    dmpData[0].user.screenResolution = window.screen.width + "x" + window.screen.height;
+    unify_dataSlayer = dmpData.concat(unify_dataSlayer);
+</script>
+                                    
+    <meta property="mrf:sections" content="Voitures & co;Voiture">
+<meta property="mrf:tags" content="keywords:Actualité" />
+<!-- Global RM Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','unify_dataSlayer','GTM-N8FW6BPP');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','unify_dataSlayer','GTM-T6MP99');</script>
+<!-- End Google Tag Manager -->
+
+                                                                    <link rel="canonical" href="https://www.lesnumeriques.com/voiture/stellantis-s-associe-a-bolt-pour-deployer-une-flotte-de-robotaxis-autonomes-n247890.html">
+                            <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="google-site-verification" content="f3YRHLdr87kPrx0qOAl8c1mf38s2tXeaJmwnV9KBAvg" />
+        <meta name='impact-site-verification' value='79881e0b-8747-49bf-a6e5-bb0c1e9dea45'>
+        <meta name="p:domain_verify" content="ac980295bfdfb277429271ec5b8fa4d7"/>                 <meta name='dailymotion-domain-verification' content='dmh979eqw2kwukcml' />
+        <title>Stellantis s&#039;associe à Bolt pour déployer une flotte de robotaxis autonomes - Les Numériques</title>
+                    <meta name="description" content="Stellantis et Bolt annoncent le lancement prochain d&#039;un service de robotaxis. Des véhicules autonomes seront mis en service par le groupe automobile et la plateforme de mobilité partagée à partir de 2026.">
+                                            <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+        
+    <meta property="og:title" content="Stellantis s&#039;associe à Bolt pour déployer une flotte de robotaxis autonomes"/>
+    <meta property="og:description" content="Stellantis et Bolt annoncent le lancement prochain d&#039;un service de robotaxis. Des véhicules autonomes seront mis en service par le groupe automobile et la plateforme de mobilité partagée à partir de 2026."/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="https://www.lesnumeriques.com/voiture/stellantis-s-associe-a-bolt-pour-deployer-une-flotte-de-robotaxis-autonomes-n247890.html"/>
+    <meta property="og:image" content="https://cdn.lesnumeriques.com/optim/news/24/247890/75b3f1b7-stellantis-bolt__1200_678__0-33-2880-1545.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="678" />
+    <meta name="thumbnail" content="https://cdn.lesnumeriques.com/optim/news/24/247890/75b3f1b7-stellantis-bolt__908_512__1-0-2866-1616.jpg" />
+    <meta property="article:published_time" content="2025-12-10T06:30:00Z">
+    <meta property="article:modified_time" content="2025-12-10T06:30:00Z">
+
+    <meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@lesnums" />
+<meta name="twitter:title" content="Stellantis s&#039;associe à Bolt pour déployer une flotte de robotaxis autonomes" />
+<meta name="twitter:description" content="Stellantis et Bolt annoncent le lancement prochain d&#039;un service de robotaxis. Des véhicules autonomes seront mis en service par le groupe automobile et la plateforme de mobilité partagée à partir de 2026." />
+<meta name="twitter:image" content="https://cdn.lesnumeriques.com/optim/news/24/247890/75b3f1b7-stellantis-bolt__1200_678__0-33-2880-1545.jpg" />
+<meta name="twitter:url" content="https://www.lesnumeriques.com/voiture/stellantis-s-associe-a-bolt-pour-deployer-une-flotte-de-robotaxis-autonomes-n247890.html" />
+
+    
+            <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.lesnumeriques.com/assets/favicon/apple-touch-icon.png?v=1573230463777">
+<link rel="icon" type="image/png" sizes="32x32" href="https://cdn.lesnumeriques.com/assets/favicon/favicon-32x32.png?v=1573230463777">
+<link rel="icon" type="image/png" sizes="16x16" href="https://cdn.lesnumeriques.com/assets/favicon/favicon-16x16.png?v=1573230463777">
+<link rel="mask-icon" href="https://cdn.lesnumeriques.com/assets/favicon/safari-pinned-tab.svg?v=1573230463777" color="#73b914">
+<link rel="shortcut icon" href="https://cdn.lesnumeriques.com/assets/favicon/favicon.ico?v=1573230463777">
+<meta name="apple-mobile-web-app-title" content="Les Num&eacute;riques">
+<meta name="application-name" content="Les Num&eacute;riques">
+<meta name="msapplication-TileColor" content="#00a300">
+<meta name="msapplication-TileImage" content="https://cdn.lesnumeriques.com/assets/favicon/mstile-144x144.png?v=1573230463777">
+<meta name="msapplication-config" content="https://cdn.lesnumeriques.com/assets/favicon/browserconfig.xml?v=1573230463777">
+<meta name="theme-color" content="#ffffff">                <link rel="search" type="application/opensearchdescription+xml" href="/opensearch/search_fr.xml" title="Les Numériques" />
+                            <link rel="manifest" href="https://cdn.lesnumeriques.com/assets/2025/12/15/1765808972038/v4/json/manifest.json">
+                                <style type="text/css">html{box-sizing:border-box;-webkit-text-size-adjust:100%;scroll-padding-top:4.8125rem}@media only screen and (min-width:60.5rem){html{scroll-padding-top:5rem}}*{box-sizing:inherit;margin:0;padding:0;text-decoration:none;outline:0;-webkit-user-drag:none;-webkit-tap-highlight-color:transparent}::selection{color:#fff;background-color:#4e4e4e;text-shadow:none;-webkit-text-fill-color:#fff}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}figure{position:relative}img{vertical-align:middle;border:0}body{line-height:1}nav,ol,ul{list-style:none}a{color:inherit}code{white-space:break-spaces}h2,h3,h4{text-wrap:balance}@font-face{font-family:"Titillium Web";font-weight:400;font-style:normal;font-display:optional;src:local(""),url(https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/titillium-web-v14-latin-regular.woff2) format("woff2")}@font-face{font-family:"Titillium Web";font-weight:600;font-style:normal;font-display:optional;src:local(""),url(https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/titillium-web-v14-latin-600.woff2) format("woff2")}@font-face{font-family:"Titillium Web";font-weight:700;font-style:normal;font-display:optional;src:local(""),url(https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/titillium-web-v14-latin-700.woff2) format("woff2")}@font-face{font-family:"Open Sans";font-weight:400;font-style:normal;font-display:optional;src:local(""),url(https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/open-sans-v28-latin-regular.woff2) format("woff2")}@font-face{font-family:"Open Sans";font-weight:600;font-style:normal;font-display:optional;src:local(""),url(https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/open-sans-v28-latin-600.woff2) format("woff2")}@font-face{font-family:Roboto;font-weight:400;font-style:normal;font-display:optional;src:local(""),url(https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/roboto-v29-latin-regular.woff2) format("woff2")}@font-face{font-family:Roboto;font-weight:500;font-style:normal;font-display:optional;src:local(""),url(https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/roboto-v29-latin-500.woff2) format("woff2")}@font-face{font-family:Roboto;font-weight:700;font-style:normal;font-display:optional;src:local(""),url(https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/roboto-v29-latin-700.woff2) format("woff2")}@font-face{font-family:lesnumeriques_font-icons;font-weight:400;font-style:normal;src:local(""),url(https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/fonts/lesnumeriques_font-icons.woff2) format("woff2");font-display:block}.ln__a-dp[data-ad^=dyninfeed]{min-height:22.5rem;max-height:22.5rem;height:22.5rem;overflow:hidden;margin:0 auto}@media only screen and (max-width:44.4375rem){.ln__a-dp{background-color:#f5f5f5}.ln__a-dp[data-ad=banner_atf]{min-height:8.75rem;max-height:8.75rem;height:8.75rem;overflow:hidden;box-shadow:0 .125rem .3125rem 0 rgba(0,0,0,.3)}.ln__a-dp[data-ad=banner_atf].ln__a-dc{background-color:#f5f5f5}.ln__a-dp[data-ad="300_atf"]{min-height:21.875rem;max-height:21.875rem;height:21.875rem;overflow:hidden;box-shadow:0 .0625rem .0625rem 0 rgba(0,0,0,.3)}.ln__a-dp[data-ad^=dyninfeed]{box-shadow:0 .0625rem .0625rem 0 rgba(0,0,0,.3)}}.ln__a-dc{position:relative;z-index:9992}.is--sticky .ln__a-dc,.ln__a-dc.is--sticky{position:sticky;z-index:9993;top:3rem;overflow:hidden;height:8.75rem;background-color:#fff;box-shadow:0 .125rem .3125rem 0 rgba(0,0,0,.3)}@media only screen and (min-width:44.5rem){.is--sticky .ln__a-dc,.ln__a-dc.is--sticky{height:15.6875rem}}@media only screen and (min-width:80rem){.is--sticky .ln__a-dc,.ln__a-dc.is--sticky{position:relative;top:auto;height:auto;background-color:transparent;box-shadow:none;display:flex;flex-direction:column}}@media only screen and (min-width:80rem){.ln__a-dc.has--skin{z-index:0}}.is--top .ln__a-dc,.ln__a-dc.is--top{margin-top:.75rem}@media only screen and (min-width:60.5rem){.is--top .ln__a-dc,.ln__a-dc.is--top{margin-top:1.5rem}}.is--in-list .ln__a-dc,.ln__a-dc.is--in-list{flex-direction:column;width:100%;margin-top:.5rem;margin-bottom:.5rem}.is--mpu .ln__a-dc .adm-ad-empty:before,.is--mpu .ln__a-dc .adm-ad-loading:before,.ln__a-dc.is--mpu .adm-ad-empty:before,.ln__a-dc.is--mpu .adm-ad-loading:before{height:19.375rem}.is--in-article .ln__a-dc,.ln__a-dc.is--in-article{margin-top:1.5rem;margin-bottom:.5rem;display:flex;flex-direction:column;clear:both}.ln__a-dc.is--in-article--mobile{margin-bottom:1.5rem}@media only screen and (min-width:60.5rem){.ln__a-dc.is--in-article--mobile{margin-bottom:0}}.ln__a-dc__lbl{line-height:1;display:block;margin:.125rem 0 0 0;text-align:center;color:#636363}.ln__a-dc__lbl.is--top{margin:0 0 .125rem 0}.ln__a-dc__lbl.is--top:after,.ln__a-dc__lbl.is--top:before{margin:0 .125rem;font-family:lesnumeriques_font-icons;font-size:.75rem;font-weight:400;font-style:normal;font-variant:normal;content:"";vertical-align:middle;text-transform:none;text-rendering:auto;speak:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;vertical-align:initial}.ln__a-dc__lbl.is--top--article{display:none;margin:0 0 .125rem 0}.is--in-article--mobile .ln__a-dc__lbl.is--top--article{display:block}@media only screen and (min-width:60.5rem){.is--in-article--mobile .ln__a-dc__lbl.is--top--article{display:none}}.ln__a-dc__lbl.is--top--article:after,.ln__a-dc__lbl.is--top--article:before{margin:0 .125rem;font-family:lesnumeriques_font-icons;font-size:.75rem;font-weight:400;font-style:normal;font-variant:normal;content:"";vertical-align:middle;text-transform:none;text-rendering:auto;speak:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;vertical-align:initial}.ln__a-dc__cntnt{display:block;margin:0 auto;text-align:center}.adm-ad-empty,.adm-ad-loading{position:relative;text-align:center}.adm-ad-empty:before,.adm-ad-loading:before{display:block;width:100%;margin:0 auto;content:"";border:1px solid #ededed;background:#f5f5f5}.adm-ad-empty:after,.adm-ad-loading:after{position:absolute;top:50%;left:50%;width:25px;height:25px;margin:0 auto;content:"";transform:translate(-50%,-50%);animation:admspinner .8s linear infinite;border:4px solid #ebebeb;border-top-color:transparent;border-radius:50%}.adm-ad-empty:before,.adm-ad-loading:before{width:18.75rem;height:3.125rem}.adm-ad-empty[data-ad-name^=banner]:before,.adm-ad-empty[data-ad^=banner]:before,.adm-ad-loading[data-ad-name^=banner]:before,.adm-ad-loading[data-ad^=banner]:before{width:20rem;height:7.5rem}@media only screen and (min-width:44.5rem){.adm-ad-empty[data-ad-name^=banner]:before,.adm-ad-empty[data-ad^=banner]:before,.adm-ad-loading[data-ad-name^=banner]:before,.adm-ad-loading[data-ad^=banner]:before{width:45.5rem;height:14.4375rem}}@media only screen and (min-width:80rem){.adm-ad-empty[data-ad-name^=banner]:before,.adm-ad-empty[data-ad^=banner]:before,.adm-ad-loading[data-ad-name^=banner]:before,.adm-ad-loading[data-ad^=banner]:before{width:62.5rem;height:15.625rem}}.adm-ad-rendered[data-ad^=banner]{min-height:7.5625rem;display:flex;align-items:center;justify-content:center;min-width:18.75rem}@media only screen and (max-width:44.4375rem){.adm-ad-rendered[data-ad^=banner]{max-height:7.5625rem;height:7.5625rem;overflow:hidden}}@media only screen and (min-width:44.5rem){.adm-ad-rendered[data-ad^=banner]{min-height:14.4375rem;min-width:44.5rem}}@media only screen and (min-width:80rem){.adm-ad-rendered[data-ad^=banner]{min-height:15.625rem;min-width:45.5rem}}#rw_skin_clickMask~.adm-ad-rendered[data-ad^=banner]{min-height:0;display:block}@media only screen and (min-width:44.5rem){#rw_skin_clickMask~.adm-ad-rendered[data-ad^=banner]{min-height:0}}@media only screen and (min-width:80rem){#rw_skin_clickMask~.adm-ad-rendered[data-ad^=banner]{min-height:0}}.adm-ad-empty[data-ad-name^="300"]:before,.adm-ad-empty[data-ad^="300"]:before,.adm-ad-loading[data-ad-name^="300"],.adm-ad-loading[data-ad^="300"]{height:15.625rem}.adm-ad-empty[data-ad-name="300_atf"]:before,.adm-ad-empty[data-ad="300_atf"]:before,.adm-ad-loading[data-ad-name="300_atf"]:before,.adm-ad-loading[data-ad="300_atf"]:before{width:19.375rem;height:19.375rem}.adm-ad-rendered[data-ad="300_atf"]{min-height:19.375rem;min-width:18.75rem;display:flex;align-items:center;justify-content:center}@media only screen and (min-width:80rem){.adm-ad-empty[data-ad-name^="300"]:before,.adm-ad-empty[data-ad^="300"]:before,.adm-ad-loading[data-ad-name^="300"]:before,.adm-ad-loading[data-ad^="300"]:before{height:37.5rem}}.adm-ad-empty[data-ad-name^=dyninfeed]:before,.adm-ad-empty[data-ad^=dyninfeed]:before,.adm-ad-empty[id^=dyninfeed]:before,.adm-ad-loading[data-ad-name^=dyninfeed]:before,.adm-ad-loading[data-ad^=dyninfeed]:before,.adm-ad-loading[id^=dyninfeed]:before{height:19.375rem}.adm-ad-rendered[data-ad^=dyninfeed],.adm-ad-rendered[id^=dyninfeed]{display:flex;align-items:center;justify-content:center;min-width:18.75rem}#oop{height:1rem;width:auto;display:none}@media only screen and (max-width:36.1875rem){#oop{display:block}}#oop.adm-ad-empty:before,#oop.adm-ad-loading:before{width:0;height:0;border:none;background:0 0;content:""}#oop.adm-ad-empty:after,#oop.adm-ad-loading:after{width:0;height:0;border:none;background:0 0;content:"";animation:none}@keyframes admspinner{0%{transform:translate(-50%,-50%) rotate(0)}100%{transform:translate(-50%,-50%) rotate(360deg)}}.ln__ar__xs--3-4{aspect-ratio:3/4}.ln__ar__xs--1-1{aspect-ratio:1/1}.ln__ar__xs--16-9{aspect-ratio:16/9}.ln__ar__xs--182-43{aspect-ratio:182/43}@media only screen and (min-width:36.25rem){.ln__ar__sm--3-4{aspect-ratio:3/4}.ln__ar__sm--1-1{aspect-ratio:1/1}.ln__ar__sm--16-9{aspect-ratio:16/9}.ln__ar__sm--182-43{aspect-ratio:182/43}}@media only screen and (min-width:60.5rem){.ln__ar__md--3-4{aspect-ratio:3/4}.ln__ar__md--1-1{aspect-ratio:1/1}.ln__ar__md--16-9{aspect-ratio:16/9}.ln__ar__md--182-43{aspect-ratio:182/43}}@media only screen and (min-width:80rem){.ln__ar__lg--3-4{aspect-ratio:3/4}.ln__ar__lg--1-1{aspect-ratio:1/1}.ln__ar__lg--16-9{aspect-ratio:16/9}.ln__ar__lg--182-43{aspect-ratio:182/43}}img{max-width:100%;height:auto}picture>img{display:inline-block;color:#000;background-color:#f2f2f2}.ln__vr--48{margin-top:3rem}@media only screen and (min-width:80rem){.ln__vr--48--v-lg{margin-top:3rem}}@media only screen and (min-width:60.5rem)and (max-width:79.9375rem){.ln__vr--48--v-md{margin-top:3rem}}@media only screen and (max-width:79.9375rem){.ln__vr--48--v-md--mw{margin-top:3rem}}@media only screen and (min-width:36.25rem)and (max-width:60.4375rem){.ln__vr--48--v-sm{margin-top:3rem}}@media only screen and (max-width:60.4375rem){.ln__vr--48--v-sm--mw{margin-top:3rem}}@media only screen and (max-width:36.1875rem){.ln__vr--48--v-xs{margin-top:3rem}}.ln__vr--32{margin-top:2rem}@media only screen and (min-width:80rem){.ln__vr--32--v-lg{margin-top:2rem}}@media only screen and (min-width:60.5rem)and (max-width:79.9375rem){.ln__vr--32--v-md{margin-top:2rem}}@media only screen and (max-width:79.9375rem){.ln__vr--32--v-md--mw{margin-top:2rem}}@media only screen and (min-width:36.25rem)and (max-width:60.4375rem){.ln__vr--32--v-sm{margin-top:2rem}}@media only screen and (max-width:60.4375rem){.ln__vr--32--v-sm--mw{margin-top:2rem}}@media only screen and (max-width:36.1875rem){.ln__vr--32--v-xs{margin-top:2rem}}.ln__vr--24{margin-top:1.5rem}@media only screen and (min-width:80rem){.ln__vr--24--v-lg{margin-top:1.5rem}}@media only screen and (min-width:60.5rem)and (max-width:79.9375rem){.ln__vr--24--v-md{margin-top:1.5rem}}@media only screen and (max-width:79.9375rem){.ln__vr--24--v-md--mw{margin-top:1.5rem}}@media only screen and (min-width:36.25rem)and (max-width:60.4375rem){.ln__vr--24--v-sm{margin-top:1.5rem}}@media only screen and (max-width:60.4375rem){.ln__vr--24--v-sm--mw{margin-top:1.5rem}}@media only screen and (max-width:36.1875rem){.ln__vr--24--v-xs{margin-top:1.5rem}}.ln__vr--16{margin-top:1rem}@media only screen and (min-width:80rem){.ln__vr--16--v-lg{margin-top:1rem}}@media only screen and (min-width:60.5rem)and (max-width:79.9375rem){.ln__vr--16--v-md{margin-top:1rem}}@media only screen and (max-width:79.9375rem){.ln__vr--16--v-md--mw{margin-top:1rem}}@media only screen and (min-width:36.25rem)and (max-width:60.4375rem){.ln__vr--16--v-sm{margin-top:1rem}}@media only screen and (max-width:60.4375rem){.ln__vr--16--v-sm--mw{margin-top:1rem}}@media only screen and (max-width:36.1875rem){.ln__vr--16--v-xs{margin-top:1rem}}.ln__vr--12{margin-top:.75rem}@media only screen and (min-width:80rem){.ln__vr--12--v-lg{margin-top:.75rem}}@media only screen and (min-width:60.5rem)and (max-width:79.9375rem){.ln__vr--12--v-md{margin-top:.75rem}}@media only screen and (max-width:79.9375rem){.ln__vr--12--v-md--mw{margin-top:.75rem}}@media only screen and (min-width:36.25rem)and (max-width:60.4375rem){.ln__vr--12--v-sm{margin-top:.75rem}}@media only screen and (max-width:60.4375rem){.ln__vr--12--v-sm--mw{margin-top:.75rem}}@media only screen and (max-width:36.1875rem){.ln__vr--12--v-xs{margin-top:.75rem}}.ln__vr--8{margin-top:.5rem}@media only screen and (min-width:80rem){.ln__vr--8--v-lg{margin-top:.5rem}}@media only screen and (min-width:60.5rem)and (max-width:79.9375rem){.ln__vr--8--v-md{margin-top:.5rem}}@media only screen and (max-width:79.9375rem){.ln__vr--8--v-md--mw{margin-top:.5rem}}@media only screen and (min-width:36.25rem)and (max-width:60.4375rem){.ln__vr--8--v-sm{margin-top:.5rem}}@media only screen and (max-width:60.4375rem){.ln__vr--8--v-sm--mw{margin-top:.5rem}}@media only screen and (max-width:36.1875rem){.ln__vr--8--v-xs{margin-top:.5rem}}.ln__vr--4{margin-top:.25rem}@media only screen and (min-width:80rem){.ln__vr--4--v-lg{margin-top:.25rem}}@media only screen and (min-width:60.5rem)and (max-width:79.9375rem){.ln__vr--4--v-md{margin-top:.25rem}}@media only screen and (max-width:79.9375rem){.ln__vr--4--v-md--mw{margin-top:.25rem}}@media only screen and (min-width:36.25rem)and (max-width:60.4375rem){.ln__vr--4--v-sm{margin-top:.25rem}}@media only screen and (max-width:60.4375rem){.ln__vr--4--v-sm--mw{margin-top:.25rem}}@media only screen and (max-width:36.1875rem){.ln__vr--4--v-xs{margin-top:.25rem}}.ln__vr--0{margin-top:0}@media only screen and (min-width:80rem){.ln__vr--0--v-lg{margin-top:0}}@media only screen and (min-width:60.5rem)and (max-width:79.9375rem){.ln__vr--0--v-md{margin-top:0}}@media only screen and (max-width:79.9375rem){.ln__vr--0--v-md--mw{margin-top:0}}@media only screen and (min-width:36.25rem)and (max-width:60.4375rem){.ln__vr--0--v-sm{margin-top:0}}@media only screen and (max-width:60.4375rem){.ln__vr--0--v-sm--mw{margin-top:0}}@media only screen and (max-width:36.1875rem){.ln__vr--0--v-xs{margin-top:0}}.ln__list--24{margin-bottom:-1.5rem}.ln__list--24>*{display:flex;justify-content:stretch;margin-bottom:1.5rem}.ln__list--24>*>a{display:flex;flex-grow:1}.ln__list--24>* div.ln__pnl,.ln__list--24>* div.ln__pnl--lg,.ln__list--24>* div.ln__pnl--sm{display:flex;flex:1 0 auto;flex-direction:column}.ln__list--16{margin-bottom:-1rem}.ln__list--16>*{display:flex;justify-content:stretch;margin-bottom:1rem}.ln__list--16>*>a{display:flex;flex-grow:1}.ln__list--16>* div.ln__pnl,.ln__list--16>* div.ln__pnl--lg,.ln__list--16>* div.ln__pnl--sm{display:flex;flex:1 0 auto;flex-direction:column}.ln__list--8{margin-bottom:-.5rem}.ln__list--8>*{display:flex;justify-content:stretch;margin-bottom:.5rem}.ln__list--8>*>a{display:flex;flex-grow:1}.ln__list--8>* div.ln__pnl,.ln__list--8>* div.ln__pnl--lg,.ln__list--8>* div.ln__pnl--sm{display:flex;flex:1 0 auto;flex-direction:column}@media only screen and (max-width:60.4375rem){.ln__list--8--v-sm--mw{margin-bottom:-.5rem}.ln__list--8--v-sm--mw>*{display:flex;justify-content:stretch;margin-bottom:.5rem}.ln__list--8--v-sm--mw>*>a{display:flex;flex-grow:1}.ln__list--8--v-sm--mw>* div.ln__pnl,.ln__list--8--v-sm--mw>* div.ln__pnl--lg,.ln__list--8--v-sm--mw>* div.ln__pnl--sm{display:flex;flex:1 0 auto;flex-direction:column}}@media only screen and (max-width:36.1875rem){.ln__list--8--v-xs{margin-bottom:-.5rem}.ln__list--8--v-xs>*{display:flex;justify-content:stretch;margin-bottom:.5rem}.ln__list--8--v-xs>*>a{display:flex;flex-grow:1}.ln__list--8--v-xs>* div.ln__pnl,.ln__list--8--v-xs>* div.ln__pnl--lg,.ln__list--8--v-xs>* div.ln__pnl--sm{display:flex;flex:1 0 auto;flex-direction:column}}</style>
+         <noscript id="css-fallback">
+    <link rel="stylesheet" data-css-main type="text/css" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/index.css" />
+</noscript>
+         
+        
+        
+                        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/common-foundation.css" as="style" />
+            <link data-css-modular rel="stylesheet" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/common-foundation.css" id="common-foundation"  />
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/common.css" as="style" />
+            <link data-css-modular rel="stylesheet" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/common.css" id="common"  data-path="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/" />
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/editorial-items-xs-hot-new.css" as="style" />
+            <link data-css-modular rel="stylesheet" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/editorial-items-xs-hot-new.css" id="editorial-items-xs-hot-new"  />
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/nav.css" as="style" />
+            <link data-css-modular rel="stylesheet" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/nav.css" id="nav"  />
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/forms-molecules.css" as="style" />
+            <link rel="noopener" data-css-load="forms-molecules" />
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/atom-link-chip.css" as="style" />
+            <link rel="noopener" data-css-load="atom-link-chip" />
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/page-article.css" as="style" />
+            <link data-css-modular rel="stylesheet" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/page-article.css" id="page-article"  />
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/editorial-molecules.css" as="style" />
+            <link data-css-modular rel="stylesheet" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/editorial-molecules.css" id="editorial-molecules"  />
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/editorial-atoms-articles.css" as="style" />
+            <link data-css-modular rel="stylesheet" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/editorial-atoms-articles.css" id="editorial-atoms-articles"  />
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/editorial-atoms-items.css" as="style" />
+            <link rel="noopener" data-css-load="editorial-atoms-items" />
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/editorial-items-sm-list.css" as="style" />
+            <link rel="noopener" data-css-load="editorial-items-sm-list" />
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/editorial-items-xs.css" as="style" />
+            <link rel="noopener" data-css-load="editorial-items-xs" />
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/user-atoms.css" as="style" />
+            <link rel="noopener" data-css-load="user-atoms" />
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/editorial-items-sm.css" as="style" />
+            <link rel="noopener" data-css-load="editorial-items-sm" />
+                                    <script type="text/javascript">
+    window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+    else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+        var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+        if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+        var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("f4286ec0-d898-46a1-bda8-217c9a6fa3e9")})();
+</script>
+<script type="text/javascript">
+    window.didomiOnReady = window.didomiOnReady || [];
+    window.didomiOnReady.push(function cmpDidomiPushOnReady(Didomi) {
+            });
+</script>
+<script type="text/javascript">
+    window.didomiConfig = {
+        tagManager: {
+            provider: 'gtm',
+            dataLayerName: 'unify_dataSlayer'
+        },
+        custom: {
+            unify_wall: {
+                wall_active: false
+            }
+        }
+    };
+</script><script type="text/javascript">((o,r)=>{var d=o.Didomi||{},t=!1,a=!1,l=!1,s=!1,c="",u="multiple didomi-buttons didomi-popup-notice-buttons",n="buttons",p="style",m="form",i=o.console||{log:function(e){}},f=function(){},v={wall_active:!0,ignored_vendors:[],ignored_purposes:[]};function g(){f=!1;r.getElementById("didomi-host").remove();var e=r.getElementById("old-didomi-host");e.setAttribute("id","didomi-host"),e.style.display="block",d.notice.show("informations")}function y(){return d.getConfig().app.logoUrl?"<div class='didomi-popup-notice-logo-container'><img class='didomi-popup-notice-logo' alt='Logo' src='"+d.getConfig().app.logoUrl+"'></div>":""}function b(e){e=Object.assign({id:"X",defaultClasses:"didomi-components-button didomi-button standard-button",class:"",content:"OK",disabled:!1},e);return e.class=e.defaultClasses+" "+e.class,e.disabled=e.disabled?"disabled":"","<button id='"+e.id+"' class='"+e.class.trim()+"' "+e.disabled+"><span>"+e.content+"</span></button>"}function _(){!r.getElementById("old-didomi-host")&&(e=r.getElementById("didomi-host"),(t=r.createElement("div")).setAttribute("id","didomi-host"),t.setAttribute("unifywall",!0),t.innerHTML=e.innerHTML,i=t.querySelector(".didomi-popup-view"))&&(i.id="unify_wall_content",e.setAttribute("id","old-didomi-host"),e.style.display="none",r.body.insertBefore(t,r.getElementById("old-didomi-host")),r.body.classList.add("didomi-popup-open"),setTimeout(function(){r.body.classList.add("didomi-popup-open")},200),f=!1);var e,t,i=r.getElementById("unify_wall_content");i&&(e={id:"unify-accept-finally",class:"didomi-button-highlight",content:v.btn_accept_finally},t={id:"unify-goto-subscribe",class:"didomi-button-highlight",content:v.btn_abo_text},i.innerHTML=y()+"<div class='didomi-popup-notice-text-container'><div class='didomi-popup-notice-text'>"+v.paywall_text+"<div id='"+n+"' class='"+u+"'>"+b(e)+b(t)+"</div></div></div>",i.querySelector("#unify-accept-finally").addEventListener("click",function(){g();var e,t,i,n=v.ignored_vendors||[],o=v.ignored_purposes||[];0==n.length&&0==o.length?d.setUserAgreeToAll():(e=d.openCurrentUserStatusTransaction(),i=d.getCurrentUserStatus(),t=Object.keys(i.vendors).filter(function(e){return!n.includes(e)}),i=Object.keys(i.purposes).filter(function(e){return!o.includes(e)}),e.enablePurposes(i),e.enableVendors(t),e.commit()),r.body.classList.remove("didomi-popup-open")}),i.querySelector("#unify-goto-subscribe").addEventListener("click",function(){h()}),f=!1)}function h(){var e,t,i,o=r.getElementById("unify_wall_content");return!(!o||(e=v.legal_text_full.split("</p>",1)[0]+"</p>",t={id:"unify-pay",class:"didomi-button-highlight",content:"Confirmer",disabled:0==c.trim().length},o.innerHTML=y()+"<div class='didomi-popup-notice-text-container'><div class='didomi-popup-notice-text'><div class='didomi-popup-title'>"+v.prepayment_title+"</div><"+m+" action='/?payment' method='post' id='prepayment-form'><div class='didomi-popup-form-row'><div class='didomi-field-container didomi-field-container-2'><input type='email' name='email' value='"+c+"' placeholder='Adresse e-mail*' aria-label='Adresse e-mail' required /></div><div><small>* champ obligatoire</small></div></div><div class='didomi-popup-form-row'><p><strong>"+v.legal_text_title+"</strong></p>"+e+"<p "+p+"='margin-top:-5px; text-align:center'><svg id='unify-see-legal-screen' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 452 452' "+p+"='width:20px;margin:0 auto;cursor:pointer'><path fill='"+d.getConfig().theme.color+"' d='m226 355c-8 0-16-3-22-9l-194-194c-12-12-12-32 0-45 12-12 32-12 45 0l172 172 172-172c12-12 32-12 45 0 12 12 12 32 0 45l-194 194c-6 6-14 9-22 9z'/></svg></p></div><div class='"+u+"'>"+b({id:"unify-goback",content:"Retour"})+b(t)+"</div></"+m+"></div></div>",o.querySelector("#unify-goback").addEventListener("click",function(e){e.preventDefault(),o.querySelector("input[name=email]").remove(),_()}),o.querySelector("#unify-pay").addEventListener("click",function(e){i(),e.preventDefault(),o.querySelector("input[name=email]").remove(),w()}),o.querySelector("#unify-see-legal-screen").addEventListener("click",function(e){i(),e.preventDefault(),o.querySelector("input[name=email]").remove();e=r.getElementById("unify_wall_content");e&&(e.innerHTML=y()+"<div class='didomi-popup-notice-text-container'><div class='didomi-popup-notice-text'><p><strong>"+v.legal_text_title+"</strong></p>"+v.legal_text_full+"<p "+p+"='margin-top:-5px; text-align:center; transform:rotate(180deg)'><svg class='unify-goback' id='unify-see-legal-screen-back' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 452 452' "+p+"='width:20px;margin:0 auto;cursor:pointer'><path fill='"+d.getConfig().theme.color+"' d='m226 355c-8 0-16-3-22-9l-194-194c-12-12-12-32 0-45 12-12 32-12 45 0l172 172 172-172c12-12 32-12 45 0 12 12 12 32 0 45l-194 194c-6 6-14 9-22 9z'/></svg></p></div></div>",e.querySelectorAll(".unify-goback").forEach(function(e){e.addEventListener("click",h)}),f=!1)}),i=function(e){var t=o.querySelector("input[name=email]"),i=t.checkValidity(),n=o.querySelector("#unify-pay");i&&(c=t.value,n.removeAttribute("disabled")),i||n.hasAttribute("disabled")||n.setAttribute("disabled","disabled")},o.querySelector("input[name=email]").addEventListener("keyup",i),o.querySelector("input[name=email]").addEventListener("onblur",i),l||q(function(){}),f=!1))}function x(e){e=e||"Merci de réitérer ultérieurement",o.clearTimeout(a);var t=r.getElementById("unify_wall_content");if(!t)return!1;t.innerHTML=y()+"<div class='didomi-popup-notice-text-container'><div class='didomi-popup-notice-text' "+p+"='text-align:center'><div class='didomi-popup-title'>Désolé...</div><p>Une erreur s'est produite : <em>"+e+"</em></p></div></div>",f=!1}function w(){var e,t,i,n=r.getElementById("unify_wall_content");if(!n)return!1;if((e=r.getElementById("unify_wall_content"))&&(e.scrollHeight,e.innerHTML=y()+"<div class='didomi-popup-notice-text-container'><div class='didomi-popup-notice-text' "+p+"='text-align:center'><"+p+'>.unifywall-loader-icon {display: block;width: 80px;height: 80px;margin-left: auto;margin-right: auto;}.unifywall-loader-icon:after {content: " ";display: block;width: 64px;height: 64px;margin: 8px;border-radius: 50%;border: 6px solid '+d.getConfig().theme.color+";border-color: "+d.getConfig().theme.color+" transparent "+d.getConfig().theme.color+" transparent;animation: unifywall-loader-icon 1.2s linear infinite;}@keyframes unifywall-loader-icon {0% { transform: rotate(0deg);}100% { transform: rotate(360deg);}}</"+p+"><div class='unifywall-loader-icon'></div><span class='didomi-popup-notice'>Chargement en cours...</span></div></div>",o.clearTimeout(a),a=o.setTimeout(function(){return x("temps d'attente dépassé")},2e4),f=!1),l){if(s)return o.clearTimeout(a),e={id:"unify-pay",class:"didomi-button-highlight",content:v.btn_pay_text,disabled:!0},i="brand_name"in v?v.brand_name:d.getConfig().app.name,n.innerHTML=y()+"<div class='didomi-popup-notice-text-container'><div class='didomi-popup-notice-text'><div class='didomi-popup-title'>S'abonner à <span>"+i+"</span></div><div class='didomi-popup-arguments'>"+v.arguments_text+"</div><"+m+" action='/?payment' method='post' id='payment-form'><div id='card-errors' role='alert'></div><div class='didomi-popup-form-row'><label for='card-number'>&#x1F512; Informations de la carte*</label><div class='didomi-field-container'><div id='card-number'></div><div id='card-expiry'></div><div id='card-cvc'></div></div><div><small>* champs obligatoires</small></div></div><div class='didomi-popup-form-row'>"+v.payment_legal_text+"</div><div class='"+u+"'>"+b({id:"unify-goback",content:"Retour"})+b(e)+"</div></"+m+"></div></div>",n.querySelector("#unify-goback").addEventListener("click",h),i=l.elements(),(t=i.create("cardNumber",{style:e={base:{color:"#3F3735",fontWeight:500,fontSize:"15px",fontSmoothing:"antialiased","::placeholder":{color:"#CFD7DF"},":-webkit-autofill":{color:"#e39f48"}},invalid:{color:"#E25950","::placeholder":{color:"#FFCCA5"}}},showIcon:!0,placeholder:"Numéro de carte"})).mount("#card-number"),i.create("cardExpiry",{style:e}).mount("#card-expiry"),(i=i.create("cardCvc",{style:e})).mount("#card-cvc"),i.on("change",function(e){n.querySelector("#unify-pay").disabled=!e.complete,n.querySelector("#card-errors").textContent=e.error?e.error.message:""}),n.querySelector("#payment-form").addEventListener("submit",function(e){e.preventDefault(),n.querySelector("#unify-pay").disabled=!0,n.querySelector("#unify-pay span").innerHTML="Vérifications en cours",l.confirmCardPayment(s,{payment_method:{card:t,billing_details:{email:c}}}).then(C)}),!(f=!1);f=!1,function t(i,e){if(!e)return void k(L("create_intent"),function(e){t(i,e)});if("object"!=typeof e||!("status"in e))return void x();if("success"!==e.status)return void x();s=e.intent.client_secret;i();return}(w)}else q(w)}function C(e){var t,i=null;"object"!=typeof e?i="Une erreur innattendue est survenue":e.error?i=e.error.message:"paymentIntent"in e&&"status"in e.paymentIntent&&"succeeded"==e.paymentIntent.status||(i="Ce paiement a été refusé, veuillez vérifier vos informations bancaires"),i?(o.document.querySelector("#unify-pay span").innerHTML=v.btn_pay_text,o.document.querySelector("#unify-pay").disabled=!1,i=i,(t=r.getElementById("card-errors"))&&(t.textContent=i)):k(L("check_and_grant_access",{stripe_client_secret:e.paymentIntent.id}),function(e){return!(e&&"object"==typeof e&&"status"in e&&"success"===e.status)?x():void((e=r.getElementById("unify_wall_content"))&&(e.innerHTML=y()+"<div class='didomi-popup-notice-text-container'><div class='didomi-popup-notice-text' "+p+"='text-align:center'><div "+p+"='width:80px;margin: 0 auto 20px'><svg viewBox='0 0 44 44' xmlns='http://www.w3.org/2000/svg'><path d='M42.833 7.792L19.062 31.584l-8.833-8.833 2.937-2.938 5.896 5.896L39.895 4.876l2.937 2.917zm-4.604 10.5c.27 1.188.437 2.438.437 3.708 0 9.209-7.458 16.667-16.667 16.667S5.332 31.21 5.332 22 12.791 5.333 22 5.333c3.292 0 6.334.959 8.917 2.605l3-3a20.625 20.625 0 00-11.917-3.771C10.499 1.167 1.166 10.5 1.166 22s9.333 20.833 20.833 20.833S42.832 33.499 42.832 22c0-2.48-.458-4.854-1.25-7.063l-3.354 3.354z' fill='"+d.getConfig().theme.color+"' fill-rule='nonzero' stroke='#fff' stroke-width='1.5'/></svg></div><div class='didomi-popup-title'>Votre paiement a bien été enregistré.</div><p><span>Vous allez recevoir un e-mail de confirmation dans quelques instants.</span></p><div id='"+n.split("").join("")+"' class='"+u+"'>"+b({id:"btn-close-confirm-payment",class:"didomi-button-highlight",content:"Je commence à naviguer"})+"</div></div></div>",e.querySelector("#btn-close-confirm-payment").addEventListener("click",function(){g(),d.setUserDisagreeToAll(),r.body.classList.remove("didomi-popup-open")}),f=!1))})}function e(){var e=r.getElementById("didomi-host");o.MutationObserver&&!t&&(t=new MutationObserver(function(e){e=e.filter(function(e){return 0<e.addedNodes.length&&e.target.className.includes("notranslate")}),e=e.filter(function(e){return e.target.className.includes("notranslate")});0<e.length&&f&&f()}),e.setAttribute("unify_wall",!0),t.observe(e,{childList:!0,subtree:!0}))}function S(){var e,t;for(e in v.required_purposes_ids){var i=v.required_purposes_ids[e];if(!1===d.getUserConsentStatusForPurpose(i))return!1}for(t in v.required_vendors_ids){var n=v.required_vendors_ids[t];if(!1===d.getUserConsentStatusForVendor(n))return!1}return!0}function q(e){var t=r.createElement("script");t.type="text/javascript",t.src="https://js.stripe.com/v3/",t.onload=function(){l=Stripe(v.stripe_publishable_key,{locale:"fr"}),e()},o.document.head.appendChild(t)}function k(e,t){var i=new XMLHttpRequest;i.onreadystatechange=function(){var e;i.readyState==XMLHttpRequest.DONE&&(e=JSON.parse(i.responseText),t(e))},i.ontimeout=function(){return x("Délai d'attente dépassé")},i.onerror=function(e){t(!0)},i.open("POST",e),i.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),i.withCredentials=!0,i.send()}function L(e,t){var i=(i=v.stripe_proxy_url)+(i.includes("?")?"&":"?")+("action="+e);if(t)for(var n in t)i+="&"+n+"="+encodeURIComponent(t[n]);return i}o.didomiConfig=o.didomiConfig||{},o.didomiConfig.notice=o.didomiConfig.notice||{},"enable"in o.didomiConfig.notice&&!1===o.didomiConfig.notice.enable||(!0==!!r.cookie.split("; ").find(function(e){return e.startsWith("unifywall_paid=")})?o.didomiConfig.notice.enable=!1:(o.didomiConfig.notice.enable=!0,o.didomiOnReady=o.didomiOnReady||[],o.didomiOnReady.push(function(){d=o.Didomi||{},0!=(()=>"custom"in d.getConfig()&&"unify_wall"in d.getConfig().custom&&((v=Object.assign({},v,d.getConfig().custom.unify_wall)).debug&&v.debug,!(0<["wall_active","paywall_text","btn_abo_text","btn_accept_finally","required_purposes_ids","required_vendors_ids","stripe_publishable_key","stripe_proxy_url","prepayment_title","legal_text_title","legal_text_full","arguments_text","payment_legal_text","btn_pay_text"].reduce(function(e,t){return t in v?e:(i.error("-> Unify Wall: Missing mandatory variable "+t),e+1)},0))))()&&v.wall_active&&(0==d.notice.isVisible()&&0==S()&&0==d.shouldConsentBeCollected()&&(e(),f=function(){_()},d.notice.show("informations")),d.on("notice.clickdisagree",function(){f=function(){_()},_()}),d.on("preferences.clickdisagreetoall",function(){e(),f=function(){_()},d.preferences.hide(),d.notice.show("informations")}),d.on("preferences.clicksavechoices",function(){0==S()&&(e(),f=function(){_()},d.preferences.hide(),d.notice.show("informations"))}),d.on("notice.shown",function(){}))})))})(window,document);
+</script>
+
+                <script id="xieg6Sie" src="https://cdn.viously.com/js/sdk/boot.js" async></script>
+
+                    <script id="poool-audit" src="https://assets.poool.fr/audit.min.js" async></script>
+<script>
+    const audit = document.getElementById('poool-audit');
+    audit.addEventListener('load', function () {
+        window.didomiOnReady = window.didomiOnReady || [];
+        window.didomiOnReady.push(Didomi => {
+            Audit
+                .init('FV3ps5v4LM5VWyiav5dT1RMYz2lmCUvGOxISKwnIIDi7sk42ohOCoce1wmDZxngn')
+                .config({
+                    cookies_enabled: Didomi.getUserConsentStatusForVendor('c:poool-VyhCit7N'),
+                })
+                .sendEvent('page-view', { type: 'free' })
+            ;
+        });
+    });
+</script>
+
+        
+            
+
+    <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"NewsArticle","headline":"Stellantis s'associe \u00e0 Bolt pour d\u00e9ployer une flotte de robotaxis autonomes","datePublished":"2025-12-10T07:30:00+01:00","dateModified":"2025-12-10T07:30:00+01:00","publisher":{"@type":"Organization","name":"Les Num\u00e9riques","url":"https:\/\/www.lesnumeriques.com\/","logo":{"@type":"ImageObject","url":"https:\/\/cdn.lesnumeriques.com\/assets\/images\/logo-lesnumeriques-600x60.png","width":600,"height":60}},"mainEntityOfPage":{"@type":"WebPage","url":"https:\/\/www.lesnumeriques.com\/voiture\/stellantis-s-associe-a-bolt-pour-deployer-une-flotte-de-robotaxis-autonomes-n247890.html"},"speakable":{"@type":"SpeakableSpecification","xpath":["\/html\/head\/title","\/html\/head\/meta[@name='description']\/@content"]},"image":[{"@type":"ImageObject","url":"https:\/\/cdn.lesnumeriques.com\/optim\/news\/24\/247890\/75b3f1b7-stellantis-bolt__1200_1200__110-0-1726-1616.jpg","contentUrl":"https:\/\/cdn.lesnumeriques.com\/optim\/news\/24\/247890\/75b3f1b7-stellantis-bolt__1200_1200__110-0-1726-1616.jpg","width":1200,"height":1200,"caption":"Stellantis Bolt"},{"@type":"ImageObject","url":"https:\/\/cdn.lesnumeriques.com\/optim\/news\/24\/247890\/75b3f1b7-stellantis-bolt__1200_900__1-0-2866-1616.jpg","contentUrl":"https:\/\/cdn.lesnumeriques.com\/optim\/news\/24\/247890\/75b3f1b7-stellantis-bolt__1200_900__1-0-2866-1616.jpg","width":1200,"height":900,"caption":"Stellantis Bolt"},{"@type":"ImageObject","url":"https:\/\/cdn.lesnumeriques.com\/optim\/news\/24\/247890\/75b3f1b7-stellantis-bolt__1200_678__1-0-2866-1616.jpg","contentUrl":"https:\/\/cdn.lesnumeriques.com\/optim\/news\/24\/247890\/75b3f1b7-stellantis-bolt__1200_678__1-0-2866-1616.jpg","width":1200,"height":678,"caption":"Stellantis Bolt"}],"associatedMedia":[{"@context":"http:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/cdn.lesnumeriques.com\/optim\/news\/24\/247890\/d9a483c4-stellantis-bolt__w1280.jpg","caption":"Stellantis s'associe \u00e0 Bolt pour d\u00e9ployer une flotte de robotaxis autonomes","copyrightNotice":["Stellantis\/Bolt"]}],"author":[{"@type":"Person","image":"https:\/\/cdn.lesnumeriques.com\/optim\/images\/auteurs\/aurelien-piot-d36daba8__60_60.jpg","name":"Aur\u00e9lien Piot","url":"https:\/\/www.lesnumeriques.com\/auteur\/389\/aurelien-piot","sameAs":["https:\/\/twitter.com\/Aurelien_Piot"]}]}</script>
+
+    <script type="text/javascript">
+        LesNums.typePage = 'news';
+        LesNums.trackingId = 247890;
+    </script>
+
+                
+    
+    <script src="https://www.flashb.id/universal/a1930a16-812d-5f61-8e66-434a2284f2a2.js" async data-cfasync="false"></script>
+    <script type="text/javascript" data-cfasync="false">
+        var gimiiActiriseTag = localStorage.getItem("__gimii_association__") ? "raiser_d6030f-" + localStorage.getItem("__gimii_association__") : "";
+
+        window._hbdbrk = window._hbdbrk || [];
+        window._hbdbrk.push(["_vars", {
+            page_type: "news",
+            custom1: "voitures-co",
+            custom3: "",
+            custom4: "",
+            custom5: gimiiActiriseTag,
+            no_pub: false
+        }]);
+    </script>
+
+    
+    
+                        
+    
+    <script type="text/javascript" data-cfasync="false">
+        window._hbdbrk = window._hbdbrk || [];
+        window._hbdbrk.push([
+            "_adserver",{
+                "throttling": false,
+                "targeting": {
+    "content_class": "rg",
+    "story": "247890",
+    "section": "voitures-co",
+    "subsubsection": "voiture",
+    "contenttype": "news",
+    "url": "/voiture/stellantis-s-associe-a-bolt-pour-deployer-une-flotte-de-robotaxis-autonomes-n247890.html"
+},
+                "gam": {
+                    "allowRefresh": true,
+                    "zoneOverrides": [
+                        {
+                            "slot": "banner_atf",
+                            "adUnitPath": "/46980923/lesnumeriques/organic/section_automobile/banner_atf",
+                            "targeting": [{
+                                "key": "pos",
+                                "value": 150,
+                                "params": {
+                                    "devices": ["mobile", "tablet"]
+                                }
+                            }, {
+                                "key": "pos",
+                                "value": 1,
+                                "params": {
+                                    "devices": ["desktop"]
+                                }
+                            }]
+                        },
+                        {
+                            "slot": "300_atf",
+                            "adUnitPath": "/46980923/lesnumeriques/organic/section_automobile/300_atf",
+                            "targeting": [{
+                                "key": "pos",
+                                "value": 101,
+                                "params": {
+                                    "devices": ["mobile", "tablet"]
+                                }
+                            }, {
+                                "key": "pos",
+                                "value": 2,
+                                "params": {
+                                    "devices": ["desktop"]
+                                }
+                            }]
+                        },
+                        {
+                            "slot": "oop",
+                            "adUnitPath": "/46980923/lesnumeriques/organic/section_automobile/oop"
+                        },
+                        {
+                            "slot": "dyninfeed",
+                            "adUnitPath": "/46980923/lesnumeriques/organic/section_automobile/dyninfeed",
+                            "targeting": [{
+                                "key": "pos",
+                                "value": 102,
+                                "params": {
+                                    "increment": true,
+                                    "devices": ["mobile", "tablet"]
+                                }
+                            }, {
+                                "key": "pos",
+                                "value": 23,
+                                "params": {
+                                    "increment": true,
+                                    "devices": ["desktop"]
+                                }
+                            }]
+                        }
+                    ]
+                }
+            }
+        ]);
+    </script>
+
+        <script type="module" async="" src="https://static-rmr.reworldmediafactory.com/cwv/cwv.js"></script>
+    <script type="application/json" id="esm-loading-map">{"onClick":{"[cc-load-content]":"https:\/\/cdn.lesnumeriques.com\/assets\/2025\/12\/26\/1766763953391\/newebfrontstyleguide\/build\/js\/content-loader-ca21faf3.js","[data-a-link]":"https:\/\/cdn.lesnumeriques.com\/assets\/2025\/12\/26\/1766763953391\/newebfrontstyleguide\/build\/js\/link-click-32c2928b.js","[data-autocomplete-reset]":"https:\/\/cdn.lesnumeriques.com\/assets\/2025\/12\/26\/1766763953391\/newebfrontstyleguide\/build\/js\/input-text-reset-396be064.js"},"onComplete":{"body":"https:\/\/cdn.lesnumeriques.com\/assets\/2025\/12\/26\/1766763953391\/newebfrontstyleguide\/build\/js\/lazyload-88a8cc9e.js"},"onInjection":{"[data-sidebar]":"https:\/\/cdn.lesnumeriques.com\/assets\/2025\/12\/26\/1766763953391\/newebfrontstyleguide\/build\/js\/sidebar-110ebc7d.js"}}</script><link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/vendors-mobile-detect-e213d042.js" fetchpriority="high"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/ua-detect-6447aed2.js" fetchpriority="high"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/crm-gapush-052fe0e1.js" fetchpriority="high"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/eventsTracker-v2-a5a623f2.js" fetchpriority="high"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/forum-v2-e82be948.js" fetchpriority="high"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/tracking-4f7f0816.js" fetchpriority="high"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/vendors-ua-parser-5a3e325e.js" fetchpriority="high"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/babel-polyfills-e94b577f.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/core-3ade42d0.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/header-utils-63fea1f1.js" fetchpriority="high"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/notifier-e5ab5afe.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/unbracket-0562fe07.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/eventClosest-7ea59ad7.js" fetchpriority="high"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/support-passive-events-4656e5b3.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/autocomplete-3ae97fd3.js" fetchpriority="high"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/underscore-functions-05f912d4.js" fetchpriority="high"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/lazyload-88a8cc9e.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/iframe-d09e1f8f.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/image-loader-abc85153.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/carousel-dfc9890a.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/set-styles-c2a7af8f.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/image-zoomer-e04df391.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/thumbnail-template-f6133d38.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/carousel-figure-template-5272b7b7.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/lightbox-figure-template-b4493285.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/slider-249aec49.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/xhr-progress-loader-9c98ffc2.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/template-image-zoom-e104cccb.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/await-callback-93163576.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/modal-ln-1a3fc8db.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/modal-6b44c4ac.js" fetchpriority="low"/>
+<link rel="modulepreload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/ajax-login-e7f1de1f.js" fetchpriority="low"/>
+<script type="module" src="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/ua-detect-6447aed2.js" fetchpriority="high"></script>
+<script type="module" src="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/ui-status-84769c82.js" fetchpriority="high"></script>
+<script type="module" src="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/script-light-6b951ef2.js" fetchpriority="high"></script>
+<script type="module" src="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/css-loader-4f61aa4e.js" fetchpriority="high"></script>
+<script type="module" src="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/header-desktop-cfac899d.js" fetchpriority="high"></script>
+<script type="module" src="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/header-mobile-be389c85.js" fetchpriority="high"></script>
+<script type="module" src="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/search-global-autocomplete-cfe9f69c.js" fetchpriority="high"></script>
+<script type="module" src="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/signal-unify-f9a06b7f.js" fetchpriority="low"></script>
+<script type="module" src="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/esm-dynamic-loader-86caedc7.js" fetchpriority="low"></script>
+<script type="module" src="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/offer-tracking-5f27cbfd.js" fetchpriority="low"></script>
+<script type="module" src="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/review-article-e5178f51.js" fetchpriority="low"></script>
+<script type="module" src="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/twitch-players-5295e89b.js" fetchpriority="low"></script>
+<script type="module" src="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/button-back-to-top-5485fd22.js" fetchpriority="low"></script>
+<script type="module" src="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/lightbox-f9b45179.js" fetchpriority="low"></script>
+<script type="module" src="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/wait-for-connect-31603f26.js" fetchpriority="low"></script>
+<script nomodule defer src="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/js/bundle-nomodule-5aecc33f.js"></script>
+</head>
+
+    <body class="ln__body">
+        <!-- Global RM Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8FW6BPP"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T6MP99"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+            <script type="text/javascript">
+        window.adsConf = {
+            params: {
+                site: "lesnumeriques",
+                keywords: "story=247890;section=voitures-co;subsubsection=voiture;contenttype=news;content_class=rg;",
+                traffic: "organic",
+                section: "section_automobile"
+            }
+        };
+    </script>
+
+                            
+<nav class="ln__c-nav" data-site-nav data-ad-sticky-follow data-afad-header>
+    <div class="ln__c-nav__inr" data-site-nav-inner>
+
+                <div class="ln__c-nav__hdr"><div class="ln__c-nav__hdr__s-btn" data-search-button>
+			
+<span class="ln__a-s-btn is--md"></span>		</div><a href="/" class="ln__c-nav__hdr__logo" title="Les Numériques">
+			<img src="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/img/svg/logo-horizontal.svg" width="208" height="36" alt="Les Numériques">
+		</a><div class="ln__c-nav__hdr__s-cnt" data-header-search-container="desktop">
+			
+
+    <form method="get" action="/recherche.json">
+    <div class="ln__m-inpt-s ">
+        <label for="q">Rechercher</label>
+        <input type="text" id="q" name="q" required="required" placeholder="Rechercher un produit, un test, une marque, un logiciel..." class="ln__font--500 ln__form-body-xl ln__form-body-xl--v-xs" autocomplete="off" data-header-search-input="" aria-label="Rechercher" />
+        <div class="ln__m-inpt-s__c-btn" role="button" title="Effacer la recherche" aria-label="Effacer la recherche" data-autocomplete-reset hidden>
+            
+<span class="ln__a-c-btn is--xs "></span>        </div>
+        <button class="ln__m-inpt-s__s-btn" type="submit" title="Lancer la recherche" aria-label="Lancer la recherche">
+            
+<span class="ln__a-s-btn is--md"></span>        </button>
+    </div>
+    </form>
+			
+<ul class="ln__m-auto-c ln__font--400 ln__body-lg" data-autocomplete-container>
+</ul>		</div>	<ul class="ln__c-nav__hdr__scl"><li>
+                
+
+    <span class="ln__a-btn-s ln__font--700 ln__body-sm is--mini is--tiktok" data-a-link="https://www.tiktok.com/@lesnumeriques" data-target="_blank" aria-label="Suivre Les Numériques sur Tiktok" title="tiktok" rel="me noopener noreferrer">
+
+        <span class="ln__font--500 ln__body-md ln__font-smooth">
+                                </span>
+
+            </span>
+            </li><li>
+                
+
+    <span class="ln__a-btn-s ln__font--700 ln__body-sm is--mini is--instagram" data-a-link="https://www.instagram.com/lesnumeriques/" data-target="_blank" aria-label="Suivre Les Numériques sur Instagram" title="instagram" rel="me noopener noreferrer">
+
+        <span class="ln__font--500 ln__body-md ln__font-smooth">
+                                </span>
+
+            </span>
+            </li><li>
+                
+
+    <span class="ln__a-btn-s ln__font--700 ln__body-sm is--mini is--youtube" data-a-link="https://www.youtube.com/channel/UCqRSWOqkW_oelrdUN7KQ-aQ" data-target="_blank" aria-label="Suivre Les Numériques sur Youtube" title="youtube" rel="me noopener noreferrer">
+
+        <span class="ln__font--500 ln__body-md ln__font-smooth">
+                                </span>
+
+            </span>
+            </li><li>
+                
+
+    <span class="ln__a-btn-s ln__font--700 ln__body-sm is--mini is--whatsapp" data-a-link="https://whatsapp.com/channel/0029VaF6vbW1t90TjSTDUy3s" data-target="_blank" aria-label="Suivre Les Numériques sur Whatsapp" title="whatsapp" rel="me noopener noreferrer">
+
+        <span class="ln__font--500 ln__body-md ln__font-smooth">
+                                </span>
+
+            </span>
+            </li></ul>
+
+		<div class="ln__c-nav__hdr__m-tgr" data-open-nav>
+		
+<div class="ln__a-brg-btn ln__is--hidden--v-lg">
+	<span></span>
+	<span></span>
+	<span></span>
+	<span></span>
+</div>	</div>
+</div>
+
+                <div class="ln__c-nav__usr">
+        <a class="ln__a-btn-i-o has--i--download ln__font-uppercase ln__font--500 ln__body-md ln__is--hidden--v-md--mw" href="/telecharger/" title="Télécharger">
+        <i></i>Télécharger
+    </a>
+
+    <a class="ln__font-uppercase ln__font--500 ln__body-md ln__is--hidden--v-md--mw" href="https://forum.lesnumeriques.com" title="Forum">Forum</a>
+
+                
+                                <span class="ln__font-uppercase ln__font--500 ln__body-md ln__is--hidden--v-md--mw" data-a-link="/utilisateur/connexion.html">connexion</span>
+            
+    
+    
+</div>
+
+                <div class="ln__c-nav__nws ln__body-sm" data-nav-chips>
+				<div class="ln__c-nav__nws__t">
+			<i aria-hidden="true"></i>
+			<span>En ce moment&nbsp;&#58;</span>
+		</div>
+
+						<div class="ln__c-nav__nws__lnks"><input type="checkbox" value="affichage liens news" id="toggle_chips">
+					<label for="toggle_chips">
+						<span class="ln__a-link-chip ln__level-two" aria-label="afficher plus de liens">Afficher plus</span>
+						<span class="ln__a-link-chip ln__level-two" aria-label="afficher moins de liens">Afficher moins</span>
+					</label><label>
+					
+<a class="ln__a-link-chip ln__body-sm ln__level-one " href="/societe-numerique/noel-a-moins-de-100-voici-les-meilleurs-produits-tech-pour-faire-plaisir-sans-se-ruiner-a247351.html">
+    Idées cadeaux
+</a>
+				</label><label>
+					
+<a class="ln__a-link-chip ln__body-sm ln__level-one " href="/societe-numerique/bons-plans-de-noel-toutes-les-offres-chez-amazon-e247852.html">
+    Noël Amazon
+</a>
+				</label><label>
+					
+<a class="ln__a-link-chip ln__body-sm ln__level-one " href="/societe-numerique/bons-plans-de-noel-les-meilleures-offres-chez-fnac-darty-e247836.html">
+    Noël Fnac/Darty
+</a>
+				</label><label>
+					
+<a class="ln__a-link-chip ln__body-sm ln__level-one " href="/societe-numerique/bon-plan-de-noel-toutes-les-offres-chez-cdiscount-e247860.html">
+    Noël Boulanger
+</a>
+				</label><label>
+					
+<a class="ln__a-link-chip ln__body-sm ln__level-one " href="/societe-numerique/c-est-noel-avant-l-heure-plus-de-10-000-de-tech-a-gagner-avec-la-super-hotte-les-numeriques-e247059.html">
+    Super Hotte 2025
+</a>
+				</label><label>
+					
+<a class="ln__a-link-chip ln__body-sm ln__level-one " href="/emission/les-numeriques-l-update-12.html">
+    Podcasts
+</a>
+				</label><label>
+					
+<a class="ln__a-link-chip ln__body-sm ln__level-one " href="/telephone-portable/apple-iphone-17-air-p76292/test.html">
+    Apple iPhone Air
+</a>
+				</label><label>
+					
+<a class="ln__a-link-chip ln__body-sm ln__level-one is--red" href="/comparateur-forfait-mobile/">
+    Comparateurs
+</a>
+				</label><label>
+					
+<a class="ln__a-link-chip ln__body-sm ln__level-one " href="/ram-memoire-vive/penurie-de-memoire-vive-des-pc-jusqu-aux-consoles-de-jeu-explications-sur-la-flambee-des-prix-n246998.html">
+    Pénurie de RAM
+</a>
+				</label><label>
+					
+<a class="ln__a-link-chip ln__body-sm ln__level-one " href="/casque-bluetooth/sony-wh-1000xm6-p76615/test.html">
+    Sony WH-1000XM6
+</a>
+				</label><label>
+					
+<a class="ln__a-link-chip ln__body-sm ln__level-one " href="/vie-du-net/les-numeriques-cree-un-score-pour-identifier-les-smartphones-les-plus-durables-n172335.html">
+    Durabilité
+</a>
+				</label><label>
+					
+<a class="ln__a-link-chip ln__body-sm ln__level-one " href="/vie-du-net/evaluer-noter-comparer-dans-les-laboratoires-des-numeriques-a156773.html">
+    Nos labos
+</a>
+				</label></div>
+		
+			</div>
+                <div class="ln__c-nav__hub-lv1 ln__body-md ln__font--700 ln__font-uppercase">
+	<div class="ln__c-nav__hub-lv1__l-cnt" data-main-links>
+				<button class="ln__c-nav__hub-lv1__btn" aria-haspopup="true" aria-expanded="false" aria-label="afficher ou masquer le menu" data-toggle-lv1>
+			<div>
+				<div>
+					<div></div>
+					<div></div>
+					<div></div>
+				</div>
+				<span>tous les produits</span>
+			</div>
+		</button>
+
+				<ul>
+																								
+				<li data-open-lv2="c1" data-url="/ajax/header/hub/303/desktop">
+					<a class="has--arrow" href="/mobilite-c17.html" id="Téléphonie" data-double-tap>Téléphonie</a>
+				</li>
+																								
+				<li data-open-lv2="c5" data-url="/ajax/header/hub/305/desktop">
+					<a class="has--arrow" href="/tv-video-c11.html" id="TV" data-double-tap>TV</a>
+				</li>
+																								
+				<li data-open-lv2="c12" data-url="/ajax/header/hub/629/desktop">
+					<a class="has--arrow" href="/audio.html" id="Audio" data-double-tap>Audio</a>
+				</li>
+																								
+				<li data-open-lv2="c3" data-url="/ajax/header/hub/307/desktop">
+					<a class="has--arrow" href="/electromenager-c16.html" id="Maison" data-double-tap>Maison</a>
+				</li>
+																								
+				<li data-open-lv2="c27" data-url="/ajax/header/hub/521/desktop">
+					<a class="has--arrow" href="/sante-sport.html" id="Santé &amp; Sport" data-double-tap>Santé &amp; Sport</a>
+				</li>
+																								
+				<li data-open-lv2="c2" data-url="/ajax/header/hub/309/desktop">
+					<a class="has--arrow" href="/informatique-c14.html" id="Informatique" data-double-tap>Informatique</a>
+				</li>
+																								
+				<li data-open-lv2="c6" data-url="/ajax/header/hub/311/desktop">
+					<a class="has--arrow" href="/photo-c10.html" id="Photo" data-double-tap>Photo</a>
+				</li>
+																								
+				<li data-open-lv2="c25" data-url="/ajax/header/hub/493/desktop">
+					<a class="has--arrow" href="/gaming.html" id="Gaming" data-double-tap>Gaming</a>
+				</li>
+																								
+				<li data-open-lv2="c29" data-url="/ajax/header/hub/543/desktop">
+					<a class="has--arrow" href="/velos-trottinettes.html" id="Vélos &amp; Trottinettes" data-double-tap>Vélos &amp; Trottinettes</a>
+				</li>
+																								
+				<li data-open-lv2="c13" data-url="/ajax/header/hub/315/desktop">
+					<a class="has--arrow" href="/voitures-co-c21.html" id="Auto &amp; Moto" data-double-tap>Auto &amp; Moto</a>
+				</li>
+																								
+				<li data-open-lv2="c33" data-url="/ajax/header/hub/619/desktop">
+					<a class="has--arrow" href="/science-espace.html" id="Science &amp; Espace" data-double-tap>Science &amp; Espace</a>
+				</li>
+																								
+				<li data-open-lv2="c31" data-url="/ajax/header/hub/611/desktop">
+					<a class="has--arrow" href="/societe-numerique.html" id="Société numérique" data-double-tap>Société numérique</a>
+				</li><li style="transition: opacity 0.15s ease-out 0.366667s; opacity: 1;">
+                <a style="transition: transform 0.12s ease-out 0.366667s; transform: translate3d(0px, 0px, 0px);" class="has--arrow" href="/emission/les-numeriques-l-update-12.html" id="Podcasts">Podcasts</a>
+            </li>
+		</ul>
+        		<div class="ln__c-nav__hub-lv1__nry ln__is--hidden--v-md--mw" role="presentation" data-nav-underlay></div>
+	</div>
+
+		<span class="ln__c-nav__hub-lv1__sp ln__body-sm ln__vr--16--v-md--mw ln__font-uppercase">Et aussi</span>
+
+    	<div class="ln__c-nav__hub-lv1__scndy-l-cnt">
+												
+		<ul><li><a href="/vie-du-net/bons-plans-e1296.html">🔥&nbsp;Bons plans</a></li><li><a href="/codes-promo.html">Codes Promo</a></li><li><a href="/actualites/tests">Tests</a></li><li><a href="/actualites">Actualités</a></li><li><a href="/tests-comparatifs-choix-redaction.html">Comparatifs & guides d'achat</a></li><li><a href="/tech-durable.html" class='is--hero' >Tech+durable</a></li><li><a href="/svod.html">Streaming</a></li><li><a href="/intelligence-artificielle.html">IA</a></li><li>
+                <span class="ln__a-btn-i-o ln__is--inl-blck ln__link ln__vr--12--v-md--mw ln__is--hidden--v-lg has--i--download" data-a-link="/telecharger/" title="Télécharger">
+                    <i></i>Télécharger
+                </span>
+            </li>
+        </ul>
+	</div>
+
+    	<span class="ln__c-nav__hub-lv1__sp ln__body-sm ln__vr--16--v-md--mw ln__font-uppercase">Communauté</span>
+    	<a class="ln__is--inl-blck ln__link ln__vr--12--v-md--mw ln__is--hidden--v-lg" href="https://forum.lesnumeriques.com" title="Accèder au forum">Acc&eacute;der au forum</a>
+</div>
+
+                <div class="ln__c-nav__l-p ln__is--hidden--v-lg" data-header-search-container="mobile">
+            
+
+    <form method="get" action="/recherche.json">
+    <div class="ln__m-inpt-s is--dark">
+        <label for="m_q">Rechercher</label>
+        <input type="text" id="m_q" name="q" required="required" placeholder="Rechercher un produit, un test, une marque, un logiciel..." class="ln__font--500 ln__form-body-xl ln__form-body-xl--v-xs" autocomplete="off" data-header-search-input="" aria-label="Rechercher" />
+        <div class="ln__m-inpt-s__c-btn" role="button" title="Effacer la recherche" aria-label="Effacer la recherche" data-autocomplete-reset hidden>
+            
+<span class="ln__a-c-btn is--xs "></span>        </div>
+        <button class="ln__m-inpt-s__s-btn" type="submit" title="Lancer la recherche" aria-label="Lancer la recherche">
+            
+<span class="ln__a-s-btn is--md"></span>        </button>
+    </div>
+    </form>
+            
+<ul class="ln__m-auto-c ln__font--400 ln__body-lg" data-autocomplete-container>
+</ul>        </div>
+
+                <div class="ln__c-nav__scndy-l-pnl ln__body-md ln__is--hidden ln__is--showed--v-lg" data-secondary-links-panel>
+        <ul></ul>
+</div>
+    </div>
+        <div class="ln__c-nav__ldr" data-header-search-loader></div>
+</nav>
+
+<script type="text/template" data-nav-sub-links-template>
+    <div class="ln__c-nav__sub-lvls-cnt" data-nav-sub-links>
+	<ul><li class="is--c1" aria-labelledby="Téléphonie" data-level-2>
+
+			
+						<div class="ln__c-nav__skltns" data-skeletons><div class="ln__c-nav__skltns__chps"><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div></div><div class="ln__c-nav__skltns__lnks"><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div></div>
+</div>
+		</li><li class="is--c5" aria-labelledby="TV" data-level-2>
+
+			
+						<div class="ln__c-nav__skltns" data-skeletons><div class="ln__c-nav__skltns__chps"><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div></div><div class="ln__c-nav__skltns__lnks"><div>
+            <div></div>
+        </div></div>
+</div>
+		</li><li class="is--c12" aria-labelledby="Audio" data-level-2>
+
+			
+						<div class="ln__c-nav__skltns" data-skeletons><div class="ln__c-nav__skltns__chps"><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div></div><div class="ln__c-nav__skltns__lnks"><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div></div>
+</div>
+		</li><li class="is--c3" aria-labelledby="Maison" data-level-2>
+
+			
+						<div class="ln__c-nav__skltns" data-skeletons><div class="ln__c-nav__skltns__chps"><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div></div><div class="ln__c-nav__skltns__lnks"><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div></div>
+</div>
+		</li><li class="is--c27" aria-labelledby="Santé &amp; Sport" data-level-2>
+
+			
+						<div class="ln__c-nav__skltns" data-skeletons><div class="ln__c-nav__skltns__chps"><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div></div><div class="ln__c-nav__skltns__lnks"><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div></div>
+</div>
+		</li><li class="is--c2" aria-labelledby="Informatique" data-level-2>
+
+			
+						<div class="ln__c-nav__skltns" data-skeletons><div class="ln__c-nav__skltns__chps"><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div></div><div class="ln__c-nav__skltns__lnks"><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div></div>
+</div>
+		</li><li class="is--c6" aria-labelledby="Photo" data-level-2>
+
+			
+						<div class="ln__c-nav__skltns" data-skeletons><div class="ln__c-nav__skltns__chps"><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div></div><div class="ln__c-nav__skltns__lnks"><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div></div>
+</div>
+		</li><li class="is--c25" aria-labelledby="Gaming" data-level-2>
+
+			
+						<div class="ln__c-nav__skltns" data-skeletons><div class="ln__c-nav__skltns__chps"><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div></div><div class="ln__c-nav__skltns__lnks"><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div></div>
+</div>
+		</li><li class="is--c29" aria-labelledby="Vélos &amp; Trottinettes" data-level-2>
+
+			
+						<div class="ln__c-nav__skltns" data-skeletons><div class="ln__c-nav__skltns__chps"><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div></div><div class="ln__c-nav__skltns__lnks"><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div></div>
+</div>
+		</li><li class="is--c13" aria-labelledby="Auto &amp; Moto" data-level-2>
+
+			
+						<div class="ln__c-nav__skltns" data-skeletons><div class="ln__c-nav__skltns__chps"><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div></div><div class="ln__c-nav__skltns__lnks"><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div></div>
+</div>
+		</li><li class="is--c33" aria-labelledby="Science &amp; Espace" data-level-2>
+
+			
+						<div class="ln__c-nav__skltns" data-skeletons><div class="ln__c-nav__skltns__chps"><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div></div><div class="ln__c-nav__skltns__lnks"><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div></div>
+</div>
+		</li><li class="is--c31" aria-labelledby="Société numérique" data-level-2>
+
+			
+						<div class="ln__c-nav__skltns" data-skeletons><div class="ln__c-nav__skltns__chps"><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div><div>
+	            <div></div>
+            </div></div><div class="ln__c-nav__skltns__lnks"><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div><div>
+            <div></div>
+        </div></div>
+</div>
+		</li></ul>
+</div>
+</script>
+
+    
+                
+    <div class="ln__c-nav__lgn-btn ln__is--hidden ln__is--hidden--v-lg" data-modal-login-url="/utilisateur/modal-login">
+        
+	<button class="ln__a-btn is--b ln__body-md ln__font--700 is--fw" type="button"    data-a-link="/utilisateur/connexion.html"  >Connexion</button>
+
+    </div>
+
+
+<script type="text/template" data-autocomplete-list-template>
+    <% if ( data.blob.results ) { %>
+        <% for ( let key in data.blob.results ) { %>
+            <% let item = data.blob.results[key] %>
+            <% if ( item.type === "Bon plan" ) { %>
+                <li data-autocomplete-item><a href="<%= item.url %>"><span><%= item.type %> /</span> <%= item.title %></a></li><%
+            } else { %>
+                <li data-autocomplete-item>
+                    <a href="<%= item.url %>">
+                        <%= item.hasDeals ? '🔥 ' : '' %><%=item.type %> / <%= item.title %>
+                    </a>
+                </li><%
+            } %>
+        <% } %>
+    <% } else { %>
+    <li>Aucun résultat trouvé</li>
+    <% } %>
+</script>
+
+        
+            
+
+    
+
+<div data-ad="banner_atf" class="ln__a-dp ln__a-dc has--skin is--sticky">
+    <span class="ln__a-dc__lbl is--top--article ln__body-xxs ln__font-uppercase">Publicité, votre contenu continue ci-dessous</span>
+                <div class="ln__a-dc__cntnt adm-ad-loading" data-ad="banner_atf" id="banner_atf"></div>
+    
+            <span class="ln__a-dc__lbl ln__body-xxs ln__font-uppercase" id="ad-banner_atf-label">Publicité</span>
+    </div>
+
+                    
+
+<div class="ln__a-btn-btt ln__level-two" data-button-back-to-top></div>
+    <div id="oop"></div>
+    <section class="ln__lyt" data-main-container>
+        <div class="ln__lyt__ctnr">
+                            
+                                    
+
+
+
+    <div class="ln__main is--full-width">
+        <div class="row">
+            <div class="col-xs-12">
+                    
+        <ol class="ln__a-bc ln__body-md has--padding" aria-label="breadcrumb">                <li><a href="/">Accueil</a></li>
+                            <li><a href="/voitures-co-c21.html">Auto &amp; Moto</a></li>
+                            <li><a href="/voiture.html">Voitures</a></li>
+                            <li><a href="/voiture.html" aria-current="page">Voiture</a></li>
+            </ol>
+
+    <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"type":"ListItem","position":1,"item":{"@id":"https:\/\/www.lesnumeriques.com\/","name":"Accueil"}},{"type":"ListItem","position":2,"item":{"@id":"https:\/\/www.lesnumeriques.com\/voitures-co-c21.html","name":"Auto & Moto"}},{"type":"ListItem","position":3,"item":{"@id":"https:\/\/www.lesnumeriques.com\/voiture.html","name":"Voitures"}},{"type":"ListItem","position":4,"item":{"@id":"https:\/\/www.lesnumeriques.com\/voiture.html","name":"Voiture"}}]}</script>
+            </div>
+        </div>
+    </div>
+
+<div class="ln__main is--full-width">
+    <div class="row ln__vr--8 ln__vr--4--v-sm--mw">
+        <div class="col-xs-12">
+
+            <article class="ed__p-artc__cntnr">
+
+                <section class="ed__p-artc__hdr">
+                    <div class="ed__cntnr">
+                        
+                        
+<h1 class="ed__a-t">Stellantis s&#039;associe à Bolt pour déployer une flotte de robotaxis autonomes</h1>                        <div class="ed__m-st middle-xs ln__body-sm ln__vr--8 ln__vr--4--v-sm--mw">
+
+    <div class="ed__m-st__fl"><span class="is--main">Par&nbsp;<strong><a class="ln__link--in-hlst" href="/auteur/389/aurelien-piot">Aurélien Piot</a></strong>&nbsp;(<span class="ed__a-athr is--inline ln__body-sm ln__body-xs--v-xs"><a href="https://twitter.com/Aurelien_Piot" target="_blank"><i class="is--tw"></i>&#64;Aurelien_Piot</a></span>)</span></div><time class="is--secondary ln__font--400 ln__body-xs--v-sm ln__body-sm" datetime="December 10, 2025 07:30">
+            Testé le 10/12/25 à 07h30</time></div>
+
+                        <div class="row bottom-xs ln__vr--16">
+                            <div class="col-xs-12 col-md start-xs">
+                                
+<div class="ln__m-shr middle-xs between-xs start-sm is--default">
+	<span class="ln__body-sm">Nos réseaux :</span>
+	<div>
+        
+    <span
+        data-a-link="https://profile.google.com/cp/CgwvZy8xczA1N25xeHA"
+        class="ln__a-btn is--d ln__body-md ln__font--700  is--d"
+        title="Stellantis s&#039;associe à Bolt pour déployer une flotte de robotaxis autonomes"                                                                data-target="_blank"
+                                         >
+        Suivez-nous<i></i>
+    </span>
+    </div>
+</div>
+                            </div>
+
+                                                            <div class="col-xs-12 col-md end-xs first-xs last-md ln__is--hidden--v-sm--mw">
+                                    
+    <button class="ln__a-btn ln__body-md ln__font--700"data-sidebar-opener="comments" cc-load-content={&quot;url&quot;:&quot;\/ajax\/247890\/sidebar&quot;,&quot;triggerEvent&quot;:&quot;click&quot;}>
+Commenter&nbsp; <span class="js-forum-nb-comments">(1)</span></button>
+                                </div>
+                                                    </div>
+                    </div>
+
+                    
+                    <div class="ed__p-artc__hdr__txt">
+                                                    
+<div class="ed__a-hg">
+	<span class="ln__body-sm ln__font--700">2</span>
+</div>                                                
+<header class="ed__cntnr"><p class="ed__a-h ed__bdy__l">Stellantis et Bolt annoncent le lancement prochain d'un service de robotaxis. Des véhicules autonomes seront mis en service par le groupe automobile et la plateforme de mobilité partagée à partir de 2026.</p></header>
+                    </div>
+
+                </section>
+
+                <aside class="ed__p-artc__sb">
+                                <div class="ln__sb__first">
+                <div class="is--position-sticky--16">
+                    
+
+    
+
+<div data-ad="300_atf" class="ln__a-dp ln__a-dc has--skin is--in-article--mobile">
+    <span class="ln__a-dc__lbl is--top--article ln__body-xxs ln__font-uppercase">Publicité, votre contenu continue ci-dessous</span>
+                <div class="ln__a-dc__cntnt adm-ad-loading" data-ad="300_atf" id="300_atf"></div>
+    
+            <span class="ln__a-dc__lbl ln__body-xxs ln__font-uppercase" id="ad-300_atf-label">Publicité</span>
+    </div>
+                </div>
+            </div>
+                        </aside>
+
+                <section class="ed__p-artc__artcl" data-review-article data-article-progress-bar>
+                    <div class="ed__p-artc__artcl__bdy ed__bdy">
+                                                
+    <div class="ed__s-btn-vrtcl is--article" data-social-buttons-vertical>
+	<div class="ed__s-btn-vrtcl__inr">
+        
+    
+    <span class="ln__a-btn-s ln__font--700 ln__body-sm is--sticky is--facebook" data-a-link="//www.facebook.com/sharer.php?u=https://www.lesnumeriques.com/voiture/stellantis-s-associe-a-bolt-pour-deployer-une-flotte-de-robotaxis-autonomes-n247890.html">
+
+        <span class="ln__font--500 ln__body-md ln__font-smooth ln__level-one">
+                                </span>
+
+            </span>
+        
+    
+    <span class="ln__a-btn-s ln__font--700 ln__body-sm is--sticky is--twitter" data-a-link="//twitter.com/intent/tweet?original_referer=https://www.lesnumeriques.com/voiture/stellantis-s-associe-a-bolt-pour-deployer-une-flotte-de-robotaxis-autonomes-n247890.html&amp;url=https://www.lesnumeriques.com/n247890&amp;text=Stellantis s&#039;associe à Bolt pour déployer une flotte de robotaxis autonomes&amp;tw_p=tweetbutton">
+
+        <span class="ln__font--500 ln__body-md ln__font-smooth ln__level-one">
+                                </span>
+
+            </span>
+        
+    
+    <span class="ln__a-btn-s ln__font--700 ln__body-sm is--sticky is--linkedin" data-a-link="//www.linkedin.com/shareArticle?mini=true&amp;url=https://www.lesnumeriques.com/voiture/stellantis-s-associe-a-bolt-pour-deployer-une-flotte-de-robotaxis-autonomes-n247890.html&amp;title=Stellantis s&#039;associe à Bolt pour déployer une flotte de robotaxis autonomes">
+
+        <span class="ln__font--500 ln__body-md ln__font-smooth ln__level-one">
+                                </span>
+
+            </span>
+
+
+                        <div class="ln__a-btn-s ln__font--700 ln__body-sm is--sticky is--comment has--value"
+    aria-label="Commenter" data-sidebar-opener="comments" cc-load-content="{&quot;url&quot;:&quot;\/ajax\/247890\/sidebar&quot;,&quot;triggerEvent&quot;:&quot;click&quot;}">
+
+        <span class="ln__font--500 ln__body-md ln__font-smooth ln__level-one">
+                                </span>
+
+        <p>1</p>    </div>
+    </div>
+</div>
+
+                        
+                        
+                                                
+                                                    <div class="ed__cntnr is--sw"><p class="ed__a-p ed__bdy__l"><figure class="ed__m-fgr has--lightbox" data-gt-lightbox-id="publication-lightbox" data-gt-index="1217867"><picture><!--[if IE 9]><video style="display: none;"><![endif]--><source media="(max-width: 579px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/247890/d9a483c4-stellantis-bolt__w380.webp" type="image/webp"><source media="(max-width: 579px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/247890/d9a483c4-stellantis-bolt__w380.jpg"><source media="(min-width: 580px) and (max-width: 967px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/247890/d9a483c4-stellantis-bolt__w700.webp" type="image/webp"><source media="(min-width: 580px) and (max-width: 967px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/247890/d9a483c4-stellantis-bolt__w700.jpg"><source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/247890/d9a483c4-stellantis-bolt__w800.webp" type="image/webp" data-img-src-default><source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/247890/d9a483c4-stellantis-bolt__w800.jpg" data-img-src-default><!--[if IE 9]></video><![endif]--><img src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039;%3E%3C/svg%3E" draggable="false"width="2880" height="1615" class="ed__title-xxs" alt="Robotaxis autonomes Bolt"style="background-color: #f2f2f2; aspect-ratio:2880/1615;"></picture><figcaption class="ed__m-fgr__fgcptn ln__body-sm ed__bdy__l"><div class="ed__m-fgr__fgcptn__cntnr"><div class="ed__m-fgr__txt__cntnr"><p>© Stellantis/Bolt</p></div></div></figcaption></figure></p></div><div class="ed__cntnr"><p class="ed__a-p ed__bdy__l">Tous les acteurs de l'industrie automobile s'intéressent de près ou de loin à la conduite autonome. C'est notamment le cas du groupe Stellantis et de la plateforme de VTC Bolt, qui annoncent s'associer pour déployer une flotte de véhicules autonomes en Europe.</p><div class="ln__a-dp" data-ad="dyninfeed">
+            <div class="ln__a-dc is--in-article">
+            <span class="ln__a-dc__lbl is--top ln__body-sm">Publicité, votre contenu continue ci-dessous</span>
+            <div class="ln__a-dc__cntnt adm-ad-loading" data-ad="dyninfeed" id="dyninfeed_1"></div>
+            <span class="ln__a-dc__lbl ln__body-xxs ln__font-uppercase">Publicité</span>
+        </div>
+    </div>
+<p class="ed__a-p ed__bdy__l">Bolt entend disposer de 100 000 véhicules autonomes sur sa plateforme de mobilité partagée d’ici 2035. Stellantis sera donc son premier partenaire avec la fourniture de véhicules autonomes dès 2026. <em>"Le déploiement se fera par étapes, allant des prototypes et les flottes pilotes jusqu’à l’industrialisation à grande échelle, avec un objectif de production initial prévu pour 2029"</em>, précise Stellantis.</p><h2 class="ed__a-t" id="des-vans-et-des-citadines-autonomes">Des vans et des citadines autonomes</h2><p class="ed__a-p ed__bdy__l">Le partenariat prévoit la fourniture de véhicules basés sur l'architecture Ek0, tel que le van Peugeot Traveller en photo, ainsi que sur la plateforme STLA Small, prévue pour les citadines du groupe. On ne sait pas encore combien de véhicules seront mis à disposition.</p><p class="ed__a-p ed__bdy__l">Rappelons toutefois que Stellantis ne figure pas parmi les entreprises les plus avancées en matière de conduite autonome. Le groupe a d'ailleurs récemment fait un pas en arrière en freinant son développement.</p></div><div class="">
+<div class="ed__cntnr"><span class="ed__a-nxt-up">à lire également :</span><div class="row ln__list--16"><div class="col-xs-12"><a aria-label="Stellantis aurait fait marche arrière sur la conduite autonome sans supervision" href="/voiture/stellantis-aurait-fait-marche-arriere-sur-la-conduite-autonome-sans-supervision-n241543.html"><article class="ed__i-act__sm-lst row ln__pnl ln__level-one"><span class="ed__i-act__sm-lst__com-wrp"><span class="ed__a-com ln__font--700 ln__body-xs ln__level-one">1</span></span><figure><span class="ln__g__c13 ln__hvr-img"></span><span class="ln__g__c13--to-top ed__i-act__sm-lst__brd"></span><picture><!--[if IE 9]><video style="display: none;"><![endif]--><source media="(max-width: 579px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/241543/8763b302-stellantis-aurait-fait-marche-arriere-sur-la-conduite-autonome-sans-supervision_png__80_80__621-0-1823-1202.webp" type="image/webp" size="80,80"><source media="(max-width: 579px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/241543/8763b302-stellantis-aurait-fait-marche-arriere-sur-la-conduite-autonome-sans-supervision_png__80_80__621-0-1823-1202.jpg" size="80,80"><source media="(min-width: 580px) and (max-width: 967px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/241543/8763b302-stellantis-aurait-fait-marche-arriere-sur-la-conduite-autonome-sans-supervision_png__168_168__621-0-1823-1202.webp" type="image/webp" size="168,168"><source media="(min-width: 580px) and (max-width: 967px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/241543/8763b302-stellantis-aurait-fait-marche-arriere-sur-la-conduite-autonome-sans-supervision_png__168_168__621-0-1823-1202.jpg" size="168,168"><source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/241543/8763b302-stellantis-aurait-fait-marche-arriere-sur-la-conduite-autonome-sans-supervision_png__312_176__269-0-2401-1202.webp" type="image/webp" data-img-src-default size="312,176"><source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/241543/8763b302-stellantis-aurait-fait-marche-arriere-sur-la-conduite-autonome-sans-supervision_png__312_176__269-0-2401-1202.jpg" data-img-src-default size="312,176"><!--[if IE 9]></video><![endif]--><img src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039;%3E%3C/svg%3E" draggable="false" class="ln__ar__lg--16-9 ln__ar__md--16-9 ln__ar__sm--1-1 ln__ar__xs--1-1 ed__title-xxs" alt="Stellantis aurait fait marche arrière sur la conduite autonome sans supervision"></picture></figure><div class="col-xs between-xs ed__i-act__sm-lst__col"><div class="ed__i-act__sm-lst__cntnt row"><span class="ed__i-act__sm-lst__ct"><span class="ed__a-ed-t-c is--inline is--c13 ln__font--500 ln__body-xs">NEWS&nbsp;:&nbsp;<span>Voiture</span></span></span><div class="ed__i-act__sm-lst__t ln__font--700 ln__title-xs ln__body-lg--v-xs" id="241543">Stellantis aurait fait marche arrière sur la conduite autonome sans supervision</div><p class="ed__i-act__sm-lst__st ln__body-lg ln__body-md--v-xs">Stellantis aurait abandonné le développement de sa technologie de conduite autonome de niveau 3 SAE, censée permettre une conduite automa...</p></div><div class="ed__i-act__sm-lst__info row end-xs"><time datetime="2025-08-27T12:17:00+02:00" class="ed__a-dt ln__body-xs is--inline" title="27-08-2025 12:17:00">
+            il y a 4 mois
+    </time></div></div></article></a></div></div></div></div><div class="ed__cntnr"><p class="ed__a-p ed__bdy__l">Pour déployer ces robotaxis, Stellantis s'appuiera sur son architecture AV-Ready, sur laquelle on ne sait pas encore grand-chose, si ce n'est qu'elle est développée en partenariat avec plusieurs acteurs, dont le spécialiste de la conduite autonome chinois Pony.ai.</p><p class="ed__a-p ed__bdy__l">Ces véhicules proposeront une conduite autonome de niveau 4 SAE, soit une conduite sans conducteur derrière le volant, mais dans des conditions prédéfinies et dans une zone délimitée. La mise en œuvre de ce service devra se conformer aux réglementations locales, qui ne permettent pas encore de proposer un tel niveau d'autonomie librement. Stellantis et son partenaire Bolt devront donc obtenir des autorisations spécifiques pour lancer de premières expérimentations.</p><p class="ed__a-p ed__bdy__l"><em>"Les deux entreprises travailleront en étroite collaboration avec les autorités européennes pour garantir un déploiement responsable et conforme aux normes de sécurité, de protection des données et de cybersécurité"</em>, précise Stellantis.</p><div class="ln__a-dp" data-ad="dyninfeed">
+            <div class="ln__a-dc is--in-article">
+            <span class="ln__a-dc__lbl is--top ln__body-sm">Publicité, votre contenu continue ci-dessous</span>
+            <div class="ln__a-dc__cntnt adm-ad-loading" data-ad="dyninfeed" id="dyninfeed_2"></div>
+            <span class="ln__a-dc__lbl ln__body-xxs ln__font-uppercase">Publicité</span>
+        </div>
+    </div>
+</div>
+                        
+                                                
+                        
+                        
+                                                                                                        <div class="ed__cntnr"><p class="ed__a-p ed__bdy__l">Suivez toute l'actualité des Numériques sur <a href="https://news.google.com/publications/CAAqBwgKMJPPoQkw_umWAg?hl=fr&amp;gl=FR&amp;ceid=FR%3Afr" target="_blank" rel="nofollow" >Google Actualités</a> et sur la chaîne <a href="https://whatsapp.com/channel/0029VaF6vbW1t90TjSTDUy3s" target="_blank" rel="nofollow" >WhatsApp</a> des Numériques</p></div>
+
+                                                        <div class="ed__cntnr"><p class="ed__a-p ed__bdy__l">Envie de faire encore plus d'économies ? Découvrez <a href="/codes-promo.html">nos codes promo</a> sélectionnés pour vous.</p></div>
+                        
+                                            </div>
+                    <div id="poool-widget"></div>
+                    
+<footer data-editorial-limit>
+
+     
+        <aside class="ln__vr--32">
+
+                            
+<p class="ed__a-btm-lnk">
+			<span class="ln__font-uppercase">Source&nbsp;:&nbsp;</span>
+				<a href="https://www.media.stellantis.com/fr-fr/corporate-communications/press/stellantis-et-bolt-s-associent-pour-accelerer-le-deploiement-a-grande-echelle-de-la-mobilite-autonome-en-europe" class="ln__font--600" target="_blank">Stellantis</a>
+	</p>            
+            
+            
+            
+                                        <div class="row ln__vr--24">
+                    <div class="col-xs-12">
+                                                                                                                            
+<div class="ln__heading-3 is--default">
+    <span>Comparatif &amp; Guides d&#039;achat</span>
+</div>
+                    </div>
+                    <div class="col-xs-12 ln__vr--16">
+                        <div class="ln__vr--4">
+                            
+
+    
+<a class="js-track-comparison-guide" aria-label="Comparatif / 200 voitures (SUV, berline, compacte ou citadine) testées" href="/voiture/quelle-voiture-suv-berline-compacte-ou-citadine-choisir-a163527.html">
+    <article class="ed__i-cpr__xs ln__pnl ln__level-one ln__c__c10">
+        <span class="ed__i-cpr__xs__itm ln__body-lg ln__font--500">Comparatif / 200 voitures (SUV, berline, compacte ou citadine) testées</span>
+        <span class="ln__g__c10--to-left ed__i-cpr__xs__brd"></span>
+    </article>
+</a>
+                        </div>
+
+                        <div class="ln__vr--4">
+                            
+
+<article class="ed__i-bg__xs-m ln__pnl ln__level-one">
+    <ul>
+                                                                                <li>
+                                        <a class="js-track-comparison-guide" aria-label="Quelle citadine électrique abordable choisir ?" href="/voiture/quelle-citadine-electrique-abordable-choisir-a232576.html">
+                        <div class="ed__i-bg__xs-m__itm ln__body-lg ln__font--500">Quelle citadine électrique abordable choisir ?</div>
+                    </a>
+                </li>
+                                        </ul>
+</article>
+                        </div>
+
+                                                                                <div class="row has--no-margin end-xs ln__vr--12">
+                                
+	<a
+	    href="/voiture/guides-achat.html"
+	    class="ln__a-btn is--l ln__body-md ln__font--700 "
+	    	    aria-label="Voir tous les guides"	                        >
+        Voir tous les guides<i></i>
+    </a>
+                            </div>
+                                            </div>
+                </div>
+            
+            
+                                                
+                                            
+                        
+            <div class="row ln__vr--24 bottom-xs">
+                <div class="col-xs-12 col-md start-xs ln__vr--16--v-sm--mw">
+                    
+<div class="ln__m-shr middle-xs between-xs start-sm is--default">
+	<span class="ln__body-sm">Nos réseaux :</span>
+	<div>
+        
+    <span
+        data-a-link="https://profile.google.com/cp/CgwvZy8xczA1N25xeHA"
+        class="ln__a-btn is--d ln__body-md ln__font--700  is--d"
+        title="Stellantis s&#039;associe à Bolt pour déployer une flotte de robotaxis autonomes"                                                                data-target="_blank"
+                                         >
+        Suivez-nous<i></i>
+    </span>
+    </div>
+</div>
+                </div>
+                                    <div class="col-xs-12 col-md-4 end-xs first-xs last-md">
+                        
+    <button class="ln__a-btn ln__body-md ln__font--700 is--fw"data-sidebar-opener="comments" cc-load-content={&quot;url&quot;:&quot;\/ajax\/247890\/sidebar&quot;,&quot;triggerEvent&quot;:&quot;click&quot;}>
+Commenter&nbsp; <span class="js-forum-nb-comments">(1)</span></button>
+                    </div>
+                            </div>
+
+        </aside>
+
+    
+            <div class="ln__vr--24">
+            
+<div class="ed__m-ftr">
+                        <div class="ed__m-ftr__athr">
+                                                        
+                                                                
+                    <div class="ed__m-ftr__athr__img">
+                        
+<div class="us__a-avtr is--md">
+
+        
+    
+                                                
+    
+    
+<picture>
+                                                                            <!--[if IE 9]><video style="display: none;"><![endif]-->                                                                                                                                                                                                                        <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/images/auteurs/aurelien-piot-d36daba8__40_40.jpg" data-img-src-default>
+                            <!--[if IE 9]></video><![endif]-->
+            <img src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039;%3E%3C/svg%3E" draggable="false" width="40" height="40" class="ed__title-xxs" alt="">
+        </picture></div>
+                    </div>
+                
+                <div class="ed__m-ftr__athr__inr">
+                    <div class="ed__m-ftr__athr__h">
+                                                    <a href="/auteur/389/aurelien-piot" class="ed__m-ftr__athr__h__nm ln__body-lg ln__font--700">Aurélien Piot</a>
+                                                                            <div class="ed__m-ftr__athr__h__s ln__body-md">
+                                                                                                    <span class="ed__a-athr is--inline ln__body-sm ln__body-xs--v-xs"><a href="https://twitter.com/Aurelien_Piot" target="_blank"><i class="is--tw"></i>&#64;Aurelien_Piot</a></span>                                </div>
+                                            </div>
+                                            <p class="ed__m-ftr__athr__b ln__body-lg">Passionné par les automobiles, il souhaiterait pouvoir toutes les acheter.</p>
+                                    </div>
+            </div>
+            </div>
+
+    
+
+<div class="ed__a-na-cntnr">
+    <div class="ed__a-na-cntnr__inr">
+    	    	    		
+    	    </div>
+</div>
+
+    
+
+
+<div class="ed__a-af-plyr">
+    <div class="ed__a-af-plyr__inr">
+                    <span class="ln__title-xs ln__body-xl--v-xs ln__font--700 ln__font-color-dark">Découvrir d&#039;autres vidéos</span>
+                        <div class="ln__vr--8">
+                    <script type="text/javascript">
+                var viouslyId = '5ANzr3o0xZw';
+            </script>
+            <div class="vsly-plyr"></div>
+<script type="text/javascript">
+    // Function to load the Viously player and return a Promise
+    function loadViouslyPlayer() {
+
+        return new Promise((resolve, reject) => {
+            if (typeof viouslyId !== 'undefined') {
+                // Get keywords from window.adsConf.params.keywords
+                var keywords = window.adsConf?.params?.keywords?.replaceAll(';', '&') || '';
+
+                var position = ';position=BTF;';
+
+                // Construct the custom-macro part of the URL
+                                var customKeywords = '&cust_params=' + encodeURIComponent(keywords + "mics_reworld=" + getAllSegmentsIds() + position);
+
+                // Create the div element
+                var divElement = document.createElement("div");
+                divElement.className = "vsly-player";
+                                    divElement.id = viouslyId;
+                
+                                                                            divElement.setAttribute("data-template", "PV_wgLF_pk69a");
+                                                    divElement.setAttribute("data-vast-booster-custom-macro", customKeywords);
+                divElement.style = "background:#ddd;padding-top:56.25%;font-size:0;position:relative;overflow:hidden;width:100%;";
+
+                var container = document.querySelector('.vsly-plyr');
+
+                // Append the div to the container
+                if (container) {
+                    container.appendChild(divElement);
+
+                    // Set up a callback function to be called when the video player is ready
+                    window.vslyCallback = function(vsly) {
+                        resolve(vsly);
+                    };
+
+                    // Check for vsly availability in intervals
+                    checkVslyAvailability(resolve, reject);
+                } else {
+                    reject(new Error("[Viously] Container not found!"));
+                }
+            } else {
+                reject(new Error('Viously ID is undefined.'));
+            }
+        });
+    }
+
+    function getAllSegmentsIds() {
+        var allSegs = [];
+        var tmpSegs = [];
+        // Segments récupérés depuis le serveur
+        var parsed = JSON.parse(localStorage.getItem("mics_segments") || '{}')
+        if(parsed && "segments" in parsed){
+            tmpSegs = parsed.segments.map(function(s){return s.id}).filter(function(i){return parseInt(i)});
+            Array.prototype.push.apply(allSegs, tmpSegs);
+        }
+        // Segments calculés dans le navigateur
+        parsed = JSON.parse(localStorage.getItem("mics_sgmts") || '{}')
+        if(parsed && Object.keys(parsed).length >= 1){
+            Object.keys(parsed).forEach(function(k){
+                tmpSegs = parsed[k].filter(function(i){return parseInt(i)});
+                Array.prototype.push.apply(allSegs, tmpSegs);
+            });
+        }
+        // Suppression des doublons
+        return allSegs.filter(function(value, index, array){ return array.indexOf(value) === index});
+    }
+
+    // Recursive function to check for vsly availability
+    function checkVslyAvailability(resolve, reject) {
+        if (typeof window.vsly !== 'undefined') {
+            // vsly is now available, resolve the promise
+            resolve(window.vsly);
+        } else {
+            // Retry after a delay (e.g., 500 milliseconds)
+            setTimeout(() => {
+                checkVslyAvailability(resolve, reject);
+            }, 500);
+        }
+    }
+
+    // Usage of the Promise
+    loadViouslyPlayer()
+        .then((vsly) => {
+            // Now vsly object and its events are known
+            vsly().on('contentStart', function (e) {
+                console.log('video_started');
+                const eventData = {
+                    event: 'video_started',
+                    eventCategory: 'Video',
+                    eventAction: 'Play',
+                    eventLabel: e.title,
+                    eventValue: '',
+                    eventNonInt: true,
+                    video: {
+                        id: e.vid,
+                        context: "Javascript",
+                        place: 'BTF',
+                        url: e.url,
+                        tags: '',
+                        title: e.title,
+                        player: "viously-player",
+                        date_publication: e.upload_date,
+                    },
+                };
+                window.unify_dataSlayer.push(eventData);
+            });
+
+            vsly().on('contentComplete', function (e) {
+                console.log('video_completed');
+                const eventData = {
+                    event: 'video_completed',
+                    eventCategory: 'Video',
+                    eventAction: 'Completed',
+                    eventLabel: e.title,
+                    eventValue: '',
+                    eventNonInt: true,
+                    video: {
+                        id: e.vid,
+                        context: "Javascript",
+                        place: 'BTF',
+                        url: e.url,
+                        tags: '',
+                        title: e.title,
+                        player: "viously-player",
+                        date_publication: e.upload_date,
+                    },
+                };
+                window.unify_dataSlayer.push(eventData);
+            });
+        })
+        .catch((error) => {
+            // Error until the video is shown
+        });
+</script>
+                </div>
+    </div>
+</div>
+
+
+        </div>
+    
+</footer>
+                </section>
+
+                <aside class="ln__vr--24">
+
+                    
+                                            
+                                    </aside>
+
+            </article>
+        </div>
+    </div>
+</div>
+
+<section class="ln__vr--24">
+                                                        
+            
+                            
+
+
+<span class="ln__heading-3 is--default">
+    <span>Publications qui peuvent vous intéresser</span>
+</span>
+
+<article class="row ln__vr--16 ln__list--16">
+            <aside class="col-sm-4 col-xs-12">
+            
+<a aria-label="Nissan résout le principal problème des chargeurs sans fil pour voiture en adoptant le standard Qi2" href="/voiture/nissan-resout-le-principal-probleme-des-chargeurs-sans-fil-pour-voiture-en-adoptant-le-standard-qi2-n248840.html" class="js-track-personalized-content" >
+        <article class="ed__i-act__sm ln__level-one">
+            <figure>
+                                    
+<picture>
+                                                                                                            <!--[if IE 9]><video style="display: none;"><![endif]-->                                                                                                                                                                                                                            <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/248840/ef395ab0-nissan-resout-le-principal-probleme-des-chargeurs-sans-fil-pour-voiture-en-adoptant-le-standard-qi2__312_176__overflow.webp" type="image/webp" data-img-src-default size="312,176">
+                                        <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/248840/ef395ab0-nissan-resout-le-principal-probleme-des-chargeurs-sans-fil-pour-voiture-en-adoptant-le-standard-qi2__312_176__overflow.jpg" data-img-src-default size="312,176">
+                            <!--[if IE 9]></video><![endif]-->
+            <img src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039;%3E%3C/svg%3E" draggable="false" width="312" height="176" class="ed__title-xxs" alt="Nissan résout le principal problème des chargeurs sans fil pour voiture en adoptant le standard Qi2">
+        </picture><span class="ln__g__c13 ln__hvr-img"></span>
+                            <span class="ln__g__c13--to-left ed__i-act__sm__brd"></span>
+                    </figure>
+        
+        
+                <div class="ln__pnl--sm">
+                    <div class="ed__i-act__sm__cntnt row">
+                <span class="ed__a-ed-t-c is--inline is--c13 ln__font--500 ln__body-xs">NEWS&nbsp;:&nbsp;<span>Voiture</span></span>
+                <div class="ed__i-act__sm__t ln__font--500 ln__body-lg">Nissan résout le principal problème des chargeurs sans fil pour voiture en adoptant le standard Qi2</div>
+            </div>
+            <div class="ed__i-act__sm__info row end-xs">
+                
+<time datetime="2025-12-31T11:37:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="31-12-2025 11:37:00">
+            il y a 2 jours
+    </time>
+            </div>
+                </div>
+            </article>
+</a>
+        </aside>
+            <aside class="col-sm-4 col-xs-12">
+            
+<a aria-label="Des caméras qui scannent votre plaque : la France prépare un réseau de surveillance automobile sans précédent" href="/voiture/des-cameras-qui-scannent-votre-plaque-la-france-prepare-un-reseau-de-surveillance-automobile-sans-precedent-n248776.html" class="js-track-personalized-content" >
+        <article class="ed__i-act__sm ln__level-one">
+            <figure>
+                                    
+<picture>
+                                                                                                            <!--[if IE 9]><video style="display: none;"><![endif]-->                                                                                                                                                                                                                            <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/248776/3d44ea31-des-cameras-qui-scannent-votre-plaque-la-france-prepare-un-reseau-de-surveillance-automobile-sans-precedent__312_176__0-87-1254-794.webp" type="image/webp" data-img-src-default size="312,176">
+                                        <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/248776/3d44ea31-des-cameras-qui-scannent-votre-plaque-la-france-prepare-un-reseau-de-surveillance-automobile-sans-precedent__312_176__0-87-1254-794.jpg" data-img-src-default size="312,176">
+                            <!--[if IE 9]></video><![endif]-->
+            <img src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039;%3E%3C/svg%3E" draggable="false" width="312" height="176" class="ed__title-xxs" alt="Des caméras qui scannent votre plaque : la France prépare un réseau de surveillance automobile sans précédent">
+        </picture><span class="ln__g__c13 ln__hvr-img"></span>
+                            <span class="ln__g__c13--to-left ed__i-act__sm__brd"></span>
+                    </figure>
+        
+        
+<span class="ed__i-act__sm__com-wrp">
+        
+<span class="ed__a-com ln__font--700 ln__body-xs ln__level-one">7</span></span>
+                <div class="ln__pnl--sm">
+                    <div class="ed__i-act__sm__cntnt row">
+                <span class="ed__a-ed-t-c is--inline is--c13 ln__font--500 ln__body-xs">NEWS&nbsp;:&nbsp;<span>Voiture</span></span>
+                <div class="ed__i-act__sm__t ln__font--500 ln__body-lg">Des caméras qui scannent votre plaque : la France prépare un réseau de surveillance automobile sans précédent</div>
+            </div>
+            <div class="ed__i-act__sm__info row end-xs">
+                
+<time datetime="2025-12-30T07:00:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="30-12-2025 07:00:00">
+            il y a 3 jours
+    </time>
+            </div>
+                </div>
+            </article>
+</a>
+        </aside>
+            <aside class="col-sm-4 col-xs-12">
+            
+<a aria-label="À peine lancée, cette voiture de luxe Huawei détrône Mercedes, BMW et Porsche en Chine" href="/voiture/a-peine-lancee-cette-voiture-de-luxe-huawei-detrone-mercedes-bmw-et-porsche-en-chine-n248654.html" class="js-track-personalized-content" >
+        <article class="ed__i-act__sm ln__level-one">
+            <figure>
+                                    
+<picture>
+                                                                                                            <!--[if IE 9]><video style="display: none;"><![endif]-->                                                                                                                                                                                                                            <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/248654/e4876786-a-peine-lancee-cette-voiture-de-luxe-signee-huawei-detrone-deja-mercedes-bmw-et-porsche-en-chine_png__312_176__381-162-2420-1311.webp" type="image/webp" data-img-src-default size="312,176">
+                                        <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/248654/e4876786-a-peine-lancee-cette-voiture-de-luxe-signee-huawei-detrone-deja-mercedes-bmw-et-porsche-en-chine_png__312_176__381-162-2420-1311.jpg" data-img-src-default size="312,176">
+                            <!--[if IE 9]></video><![endif]-->
+            <img src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039;%3E%3C/svg%3E" draggable="false" width="312" height="176" class="ed__title-xxs" alt="À peine lancée, cette voiture de luxe signée Huawei détrône déjà Mercedes, BMW et Porsche en Chine">
+        </picture><span class="ln__g__c13 ln__hvr-img"></span>
+                            <span class="ln__g__c13--to-left ed__i-act__sm__brd"></span>
+                    </figure>
+        
+        
+                <div class="ln__pnl--sm">
+                    <div class="ed__i-act__sm__cntnt row">
+                <span class="ed__a-ed-t-c is--inline is--c13 ln__font--500 ln__body-xs">NEWS&nbsp;:&nbsp;<span>Voiture</span></span>
+                <div class="ed__i-act__sm__t ln__font--500 ln__body-lg">À peine lancée, cette voiture de luxe Huawei détrône Mercedes, BMW et Porsche en Chine</div>
+            </div>
+            <div class="ed__i-act__sm__info row end-xs">
+                
+<time datetime="2025-12-26T11:15:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="26-12-2025 11:15:00">
+            il y a 7 jours
+    </time>
+            </div>
+                </div>
+            </article>
+</a>
+        </aside>
+            <aside class="col-sm-4 col-xs-12">
+            
+<a aria-label="&quot;L&#039;avenir est électrique” : c&#039;est officiel, Volkswagen abandonne le moteur essence sur les petites voitures" href="/voiture/trop-chers-pour-nos-clients-volkswagen-abandonne-le-moteur-essence-sur-les-petites-voitures-n248391.html" class="js-track-personalized-content" >
+        <article class="ed__i-act__sm ln__level-one">
+            <figure>
+                                    
+<picture>
+                                                                                                            <!--[if IE 9]><video style="display: none;"><![endif]-->                                                                                                                                                                                                                            <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/248391/30d8d6af-trop-chers-pour-nos-clients-volkswagen-abandonne-le-moteur-essence-sur-les-petites-voitures__312_176__609-0-4871-2403.webp" type="image/webp" data-img-src-default size="312,176">
+                                        <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/248391/30d8d6af-trop-chers-pour-nos-clients-volkswagen-abandonne-le-moteur-essence-sur-les-petites-voitures__312_176__609-0-4871-2403.jpg" data-img-src-default size="312,176">
+                            <!--[if IE 9]></video><![endif]-->
+            <img src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039;%3E%3C/svg%3E" draggable="false" width="312" height="176" class="ed__title-xxs" alt=""Trop chers pour nos clients" : Volkswagen abandonne le moteur essence sur les petites voitures">
+        </picture><span class="ln__g__c13 ln__hvr-img"></span>
+                            <span class="ln__g__c13--to-left ed__i-act__sm__brd"></span>
+                    </figure>
+        
+        
+<span class="ed__i-act__sm__com-wrp">
+        
+<span class="ed__a-com ln__font--700 ln__body-xs ln__level-one">3</span></span>
+                <div class="ln__pnl--sm">
+                    <div class="ed__i-act__sm__cntnt row">
+                <span class="ed__a-ed-t-c is--inline is--c13 ln__font--500 ln__body-xs">NEWS&nbsp;:&nbsp;<span>Voiture</span></span>
+                <div class="ed__i-act__sm__t ln__font--500 ln__body-lg">&quot;L&#039;avenir est électrique” : c&#039;est officiel, Volkswagen abandonne le moteur essence sur les petites voitures</div>
+            </div>
+            <div class="ed__i-act__sm__info row end-xs">
+                
+<time datetime="2025-12-19T07:00:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="19-12-2025 07:00:00">
+            il y a 14 jours
+    </time>
+            </div>
+                </div>
+            </article>
+</a>
+        </aside>
+            <aside class="col-sm-4 col-xs-12">
+            
+<a aria-label="Renault débranche déjà sa filiale Mobilize dédiée aux nouvelles mobilités" href="/voiture/renault-debranche-deja-sa-filiale-mobilize-dediee-aux-nouvelles-mobilites-n248144.html" class="js-track-personalized-content" >
+        <article class="ed__i-act__sm ln__level-one">
+            <figure>
+                                    
+<picture>
+                                                                                                            <!--[if IE 9]><video style="display: none;"><![endif]-->                                                                                                                                                                                                                            <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/248144/a54dfaea-renault-debranche-deja-sa-filiale-mobilize-dediee-aux-nouvelles-mobilites__312_176__8-232-2150-1440_wtmk.webp" type="image/webp" data-img-src-default size="312,176">
+                                        <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/248144/a54dfaea-renault-debranche-deja-sa-filiale-mobilize-dediee-aux-nouvelles-mobilites__312_176__8-232-2150-1440_wtmk.jpg" data-img-src-default size="312,176">
+                            <!--[if IE 9]></video><![endif]-->
+            <img src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039;%3E%3C/svg%3E" draggable="false" width="312" height="176" class="ed__title-xxs" alt="Renault débranche déjà sa filiale Mobilize dédiée aux nouvelles mobilités">
+        </picture><span class="ln__g__c13 ln__hvr-img"></span>
+                            <span class="ln__g__c13--to-left ed__i-act__sm__brd"></span>
+                    </figure>
+        
+        
+                <div class="ln__pnl--sm">
+                    <div class="ed__i-act__sm__cntnt row">
+                <span class="ed__a-ed-t-c is--inline is--c13 ln__font--500 ln__body-xs">NEWS&nbsp;:&nbsp;<span>Voiture</span></span>
+                <div class="ed__i-act__sm__t ln__font--500 ln__body-lg">Renault débranche déjà sa filiale Mobilize dédiée aux nouvelles mobilités</div>
+            </div>
+            <div class="ed__i-act__sm__info row end-xs">
+                
+<time datetime="2025-12-15T07:15:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="15-12-2025 07:15:00">
+            il y a 18 jours
+    </time>
+            </div>
+                </div>
+            </article>
+</a>
+        </aside>
+            <aside class="col-sm-4 col-xs-12">
+            
+<a aria-label="“C&#039;était peut-être délibéré” : en Russie, les Porsche ont soudainement arrêté de fonctionner" href="/voiture/c-etait-peut-etre-delibere-en-russie-les-porsche-ont-soudainement-arrete-de-fonctionner-n247917.html" class="js-track-personalized-content" >
+        <article class="ed__i-act__sm ln__level-one">
+            <figure>
+                                    
+<picture>
+                                                                                                            <!--[if IE 9]><video style="display: none;"><![endif]-->                                                                                                                                                                                                                            <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/247917/b21947f9-c-etait-peut-etre-delibere-en-russie-les-porsches-ont-soudainement-arrete-de-fonctionner__312_176__0-338-5306-3329.webp" type="image/webp" data-img-src-default size="312,176">
+                                        <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/news/24/247917/b21947f9-c-etait-peut-etre-delibere-en-russie-les-porsches-ont-soudainement-arrete-de-fonctionner__312_176__0-338-5306-3329.jpg" data-img-src-default size="312,176">
+                            <!--[if IE 9]></video><![endif]-->
+            <img src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039;%3E%3C/svg%3E" draggable="false" width="312" height="176" class="ed__title-xxs" alt=""C'était peut-être délibéré" : en Russie, les Porsches ont soudainement arrêté de fonctionner">
+        </picture><span class="ln__g__c13 ln__hvr-img"></span>
+                            <span class="ln__g__c13--to-left ed__i-act__sm__brd"></span>
+                    </figure>
+        
+        
+<span class="ed__i-act__sm__com-wrp">
+        
+<span class="ed__a-com ln__font--700 ln__body-xs ln__level-one">4</span></span>
+                <div class="ln__pnl--sm">
+                    <div class="ed__i-act__sm__cntnt row">
+                <span class="ed__a-ed-t-c is--inline is--c13 ln__font--500 ln__body-xs">NEWS&nbsp;:&nbsp;<span>Voiture</span></span>
+                <div class="ed__i-act__sm__t ln__font--500 ln__body-lg">“C&#039;était peut-être délibéré” : en Russie, les Porsche ont soudainement arrêté de fonctionner</div>
+            </div>
+            <div class="ed__i-act__sm__info row end-xs">
+                
+<time datetime="2025-12-10T15:40:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="10-12-2025 15:40:00">
+            il y a 23 jours
+    </time>
+            </div>
+                </div>
+            </article>
+</a>
+        </aside>
+            <aside class="col-sm-4 col-xs-12">
+            
+<a aria-label="Alpine A390 GT : le crossover électrique qui veut séduire les passionnés de voitures sportives" href="/voiture/alpine-a390-gt-p77564/test.html" class="js-track-personalized-content" >
+        <article class="ed__i-act__sm ln__level-one">
+            <figure>
+                                    
+<picture>
+                                                                                                            <!--[if IE 9]><video style="display: none;"><![endif]-->                                                                                                                                                                                                                            <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/test/24/246760/0b70e065-nda-04-12-alpine-a390-gt__312_176__0-203-2160-1420_wtmk.webp" type="image/webp" data-img-src-default size="312,176">
+                                        <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/test/24/246760/0b70e065-nda-04-12-alpine-a390-gt__312_176__0-203-2160-1420_wtmk.jpg" data-img-src-default size="312,176">
+                            <!--[if IE 9]></video><![endif]-->
+            <img src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039;%3E%3C/svg%3E" draggable="false" width="312" height="176" class="ed__title-xxs" alt="[NDA 04/12] Alpine A390 GT :">
+        </picture><span class="ln__g__c7 ln__hvr-img"></span>
+                            <span class="ln__g__c7--to-left ed__i-act__sm__brd"></span>
+                    </figure>
+        
+        
+<span class="ed__i-act__sm__com-wrp">
+        
+<span class="ed__a-com ln__font--700 ln__body-xs ln__level-one">9</span></span>
+                <div class="ln__pnl--sm">
+                    <div class="ed__i-act__sm__cntnt row">
+                <span class="ed__a-ed-t-c is--inline is--c7 ln__font--500 ln__body-xs">Test&nbsp;:&nbsp;<span>Voiture</span></span>
+                <div class="ed__i-act__sm__t ln__font--500 ln__body-lg">Alpine A390 GT : le crossover électrique qui veut séduire les passionnés de voitures sportives</div>
+            </div>
+            <div class="ed__i-act__sm__info row end-xs">
+                
+<time datetime="2025-12-04T09:00:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="04-12-2025 09:00:00">
+            il y a 29 jours
+    </time>
+            </div>
+                </div>
+            </article>
+</a>
+        </aside>
+            <aside class="col-sm-4 col-xs-12">
+            
+<a aria-label="Peugeot e-308 SW GT : un break électrique pour déménager… à proximité" href="/voiture/peugeot-e-308-sw-gt-p77559/test.html" class="js-track-personalized-content" >
+        <article class="ed__i-act__sm ln__level-one">
+            <figure>
+                                    
+<picture>
+                                                                                                            <!--[if IE 9]><video style="display: none;"><![endif]-->                                                                                                                                                                                                                            <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/test/24/246286/b8061d8b-peugeot-e-308-sw-gt__312_176__127-319-1854-1293_wtmk.webp" type="image/webp" data-img-src-default size="312,176">
+                                        <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/test/24/246286/b8061d8b-peugeot-e-308-sw-gt__312_176__127-319-1854-1293_wtmk.jpg" data-img-src-default size="312,176">
+                            <!--[if IE 9]></video><![endif]-->
+            <img src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039;%3E%3C/svg%3E" draggable="false" width="312" height="176" class="ed__title-xxs" alt="Peugeot e-308 SW GT">
+        </picture><span class="ln__g__c7 ln__hvr-img"></span>
+                            <span class="ln__g__c7--to-left ed__i-act__sm__brd"></span>
+                    </figure>
+        
+        
+<span class="ed__i-act__sm__com-wrp">
+        
+<span class="ed__a-com ln__font--700 ln__body-xs ln__level-one">1</span></span>
+                <div class="ln__pnl--sm">
+                    <div class="ed__i-act__sm__cntnt row">
+                <span class="ed__a-ed-t-c is--inline is--c7 ln__font--500 ln__body-xs">Test&nbsp;:&nbsp;<span>Voiture</span></span>
+                <div class="ed__i-act__sm__t ln__font--500 ln__body-lg">Peugeot e-308 SW GT : un break électrique pour déménager… à proximité</div>
+            </div>
+            <div class="ed__i-act__sm__info row end-xs">
+                
+<time datetime="2025-12-01T12:01:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="01-12-2025 12:01:00">
+            il y a 1 mois
+    </time>
+            </div>
+                </div>
+            </article>
+</a>
+        </aside>
+            <aside class="col-sm-4 col-xs-12">
+            
+<a aria-label="Peugeot e-308 GT : la 308 électrique consolide sa fiche technique" href="/voiture/peugeot-e-308-gt-p77558/test.html" class="js-track-personalized-content" >
+        <article class="ed__i-act__sm ln__level-one">
+            <figure>
+                                    
+<picture>
+                                                                                                            <!--[if IE 9]><video style="display: none;"><![endif]-->                                                                                                                                                                                                                            <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/test/24/246285/ea6712a3-peugeot-e-308-gt__312_176__13-238-2146-1440_wtmk.webp" type="image/webp" data-img-src-default size="312,176">
+                                        <source media="(min-width: 0px)"data-lazyload data-srcset="https://cdn.lesnumeriques.com/optim/test/24/246285/ea6712a3-peugeot-e-308-gt__312_176__13-238-2146-1440_wtmk.jpg" data-img-src-default size="312,176">
+                            <!--[if IE 9]></video><![endif]-->
+            <img src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039;%3E%3C/svg%3E" draggable="false" width="312" height="176" class="ed__title-xxs" alt="Peugeot e-308 GT">
+        </picture><span class="ln__g__c7 ln__hvr-img"></span>
+                            <span class="ln__g__c7--to-left ed__i-act__sm__brd"></span>
+                    </figure>
+        
+        
+<span class="ed__i-act__sm__com-wrp">
+        
+<span class="ed__a-com ln__font--700 ln__body-xs ln__level-one">10</span></span>
+                <div class="ln__pnl--sm">
+                    <div class="ed__i-act__sm__cntnt row">
+                <span class="ed__a-ed-t-c is--inline is--c7 ln__font--500 ln__body-xs">Test&nbsp;:&nbsp;<span>Voiture</span></span>
+                <div class="ed__i-act__sm__t ln__font--500 ln__body-lg">Peugeot e-308 GT : la 308 électrique consolide sa fiche technique</div>
+            </div>
+            <div class="ed__i-act__sm__info row end-xs">
+                
+<time datetime="2025-12-01T12:00:00+01:00" class="ed__a-dt ln__body-xs is--inline" title="01-12-2025 12:00:00">
+            il y a 1 mois
+    </time>
+            </div>
+                </div>
+            </article>
+</a>
+        </aside>
+    </article>
+
+                    </section>
+
+    <div class="ln__m-lbx" data-gt-lightbox="publication-lightbox" data-gt-lightbox-url="/publication/247890/lightbox.json" data-count-items="1" hidden>
+    
+
+<a class="ln__a-btn-i-o has--i--download ln__m-lbx__btn is--dl for--base is--d ln__level-one"    download="" target="_blank" data-gt-download="" title="télécharger l&#039;image">
+    <i></i>
+</a>
+
+
+    
+
+<button
+    class="ln__a-btn-i-o has--i--downscale ln__body-md ln__level-one ln__m-lbx__btn is--cls  is--d "
+     aria-label="Fermer la lightbox"      data-gt-close-lightbox=""     title="fermer la lightbox"><i></i>
+</button>
+
+
+    
+
+<button
+    class="ln__a-btn-i-o has--i--arrow-md-left ln__body-md ln__level-one ln__m-lbx__btn is--prv  is--d "
+     aria-label="Image Précédente"      data-gt-toggle-slide="previous"     title="image précédente"><i></i>
+</button>
+
+
+    
+
+<button
+    class="ln__a-btn-i-o has--i--arrow-md-right ln__body-md ln__level-one ln__m-lbx__btn is--nxt  is--d "
+     aria-label="Image suivante"      data-gt-toggle-slide="next"     title="image suivante"><i></i>
+</button>
+
+
+    <ul data-gt-img-container></ul>
+
+    
+<svg class="ln__a-ldr" x="0px" y="0px" width="32" height="32" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve" data-loader  id="publication-lightbox">
+    <circle class="ln__a-ldr__crcl" cx="16" cy="16" r="14"/>
+</svg></div>                                <aside class="ln__main is--full-width">
+        <div class="row ln__vr--24">
+            <div class="col-xs-12">
+                <div id="taboola-below-article-thumbnails"></div>
+            </div>
+        </div>
+    </aside>
+
+            <div class="ln__main is--full-width ln__vr--24"><div class="rwm-podcast-player" data-pid="1efcea93-006b-6564-a42e-0bad0b3afa0e"></div><script type="text/javascript" src="https://publishers.edisound.com/player/javascript/init.js" async></script></div>
+            </div>
+    </section>
+
+                            
+
+
+<footer class="ln__o-ftr">
+    <div class="ln__o-ftr__m">
+        <div class="ln__o-ftr__c middle-xs bottom-md between-md">
+
+            <div class="ln__o-ftr__m__s middle-md">
+                <p class="ln__title-md ln__font--700">Suivez-nous</p>
+                <ul class="ln__o-ftr__m__s__b center-xs start-md">
+                    <li>
+                        
+
+    <span class="ln__a-btn-s ln__font--700 ln__body-sm is--wired is--tiktok" data-a-link="https://www.tiktok.com/@lesnumeriques" aria-label="Suivre Les Numériques sur Tiktok" title="tiktok" rel="me noopener noreferrer">
+
+        <span class="ln__font--500 ln__body-md ln__font-smooth">
+                                </span>
+
+            </span>
+                    </li>
+                    <li>
+                        
+
+    <span class="ln__a-btn-s ln__font--700 ln__body-sm is--wired is--youtube" data-a-link="https://www.youtube.com/channel/UCqRSWOqkW_oelrdUN7KQ-aQ" aria-label="Suivre Les Numériques sur Youtube" title="youtube" rel="me noopener noreferrer">
+
+        <span class="ln__font--500 ln__body-md ln__font-smooth">
+                                </span>
+
+            </span>
+                    </li>
+                    <li>
+                        
+
+    <span class="ln__a-btn-s ln__font--700 ln__body-sm is--wired is--instagram" data-a-link="https://www.instagram.com/lesnumeriques/" aria-label="Suivre Les Numériques sur Instagram" title="instagram" rel="me noopener noreferrer">
+
+        <span class="ln__font--500 ln__body-md ln__font-smooth">
+                                </span>
+
+            </span>
+                    </li>
+                    <li>
+                        
+
+    <span class="ln__a-btn-s ln__font--700 ln__body-sm is--wired is--twitch" data-a-link="https://www.twitch.tv/lesnumeriques" aria-label="Suivre Les Numériques sur Twitch" title="twitch" rel="me noopener noreferrer">
+
+        <span class="ln__font--500 ln__body-md ln__font-smooth">
+                                </span>
+
+            </span>
+                    </li>
+                    <li>
+                        
+
+    <span class="ln__a-btn-s ln__font--700 ln__body-sm is--wired is--whatsapp" data-a-link="https://whatsapp.com/channel/0029VaF6vbW1t90TjSTDUy3s" aria-label="Suivre Les Numériques sur Whatsapp" title="whatsapp" rel="me noopener noreferrer">
+
+        <span class="ln__font--500 ln__body-md ln__font-smooth">
+                                </span>
+
+            </span>
+                    </li>
+                    <li>
+                        
+
+    <span class="ln__a-btn-s ln__font--700 ln__body-sm is--wired is--rss" data-a-link="/rss.html" aria-label="Suivre Les Numériques via Facebook" title="rss">
+
+        <span class="ln__font--500 ln__body-md ln__font-smooth">
+                                </span>
+
+            </span>
+                    </li>
+                </ul>
+            </div>
+
+            <ul class="ln__o-ftr__m__lm">
+                                    <li>
+                                                    <span class="ln__link" data-a-link="/categories.html">Les rubriques</span>
+                                            </li>
+                                    <li>
+                                                    <span class="ln__link" data-a-link="/toutes-les-marques.html">Les marques</span>
+                                            </li>
+                                    <li>
+                                                    <span class="ln__link" data-a-link="/telecharger/">Téléchargement</span>
+                                            </li>
+                                    <li>
+                                                    <span class="ln__link" data-a-link="/a-propos.html#contact">Contact</span>
+                                            </li>
+                                    <li>
+                                                    <span class="ln__link" data-a-link="/faq">FAQ</span>
+                                            </li>
+                                    <li>
+                                                    <span class="ln__link" data-a-link="/a-propos.html">La&nbsp;rédaction</span>
+                                            </li>
+                                    <li>
+                                                    <span class="ln__link" data-a-link="/a-propos.html#comparaison-de-prix">Comparaison&nbsp;de&nbsp;prix</span>
+                                            </li>
+                                    <li>
+                                                    <span class="ln__link" data-a-link="/partenaires-techniques.html">Partenaires techniques</span>
+                                            </li>
+                                    <li>
+                                                    <span class="ln__link" data-a-link="/eisa.html">EISA</span>
+                                            </li>
+                                    <li>
+                                                    <span class="ln__link" data-a-link="/partenaire/prix-des-lecteurs-les-numeriques-2025.html">Prix des Lecteurs 2025</span>
+                                            </li>
+                                    <li>
+                                                    <span class="ln__link" data-a-link="/evenement/les-jours-les-plus-tech-2025.html">Jours les plus tech 2025</span>
+                                            </li>
+                            </ul>
+
+                        <div class="ln__o-ftr__m__n" >
+                                                        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/forms-molecules.css" as="style" />
+            <link rel="noopener" data-css-load="forms-molecules" />
+        <link rel="preload" href="https://cdn.lesnumeriques.com/assets/2025/12/26/1766763953391/newebfrontstyleguide/build/css/modular/common.css" as="style" />
+            <link rel="noopener" data-css-load="common" />
+        <form name="subscribe" method="post" action="/check-newsletter-subscription-user" novalidate="novalidate">
+    
+
+<label class="ln__m-ipt-txt" for="subscribe_email">
+    <span class="ln__body-md">Abonnez-vous à la Newsletter</span>    <input id="subscribe_email"
+           name="subscribe[email]"
+           class="ln__body-sm ln__form-body-xl--v-xs col-xs ln__form-input"
+           type="text" placeholder="Mon adresse mail" required value=""           data-input>
+
+            <div class="ln__m-ipt-txt__inr-btn ">
+                            
+	<button class="ln__a-btn is--s ln__font--500 ln__body-sm"  >ok</button>
+                    </div>
+        </label>
+    </form>
+
+                            </div>
+            
+        </div>
+    </div>
+    <div class="ln__o-ftr__b ln__body-sm ln__font-smooth">
+        <div class="ln__o-ftr__c">
+            <div>
+                <ul>
+                                            <li>
+                                                            <span data-a-link="/mentions-legales.html">Mentions légales</span>
+                                                    </li>
+                                            <li>
+                                                            <span data-a-link="/politique-de-confidentialite.html">Politique de protection des données personnelles</span>
+                                                    </li>
+                                            <li>
+                                                            <span data-a-link="/utiq">Gérer Utiq</span>
+                                                    </li>
+                                            <li>
+                                                            <span data-a-link="/conditions-generales-utilisation.html">Conditions Générales d’Utilisation</span>
+                                                    </li>
+                                            <li>
+                                                            <span data-a-link="/faq-cookies.html">FAQ - Vos choix concernant l'utilisation de cookie</span>
+                                                    </li>
+                                            <li>
+                                                            <span data-a-link="javascript:Didomi.preferences.show()">Paramétrer les cookies</span>
+                                                    </li>
+                                        <li>
+                        <span>Tout droits réservés&nbsp;&copy;&nbsp;2026</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+        
+        
+        
+        <script type="text/template" id="price-table-tpl">
+    <div class="ln__price<% if (data.hasTabs) { %> ln__price--tabs<% } %>">
+        <% if (data.hasTabs) { %>
+            <ul class="ln__price__tabs">
+                <% for (var i = 0; i < data.tabs.length; i++) { %>
+                    <% if (data.labels.hasOwnProperty(data.tabs[i])) { %>
+                        <li<% if (i === 0) { %> class="ln__price__tab__active js-tab-active"<% } %>>
+                            <a href="#" data-price-id="<%= data.tabs[i] %>" class="js-tab-link">
+                            <%= data.labels[data.tabs[i]] %>
+                            </a>
+                        </li>
+                    <% } %>
+                <% } %>
+                <li>
+                    <a href="#" class="js-more-tabs">+</a>
+                </li>
+            </ul>
+            <ul class="ln__price__more__tabs js-more-tabs-container hidden"></ul>
+        <% } %>
+        <div class="ln__price__offers<% if (data.hasTabs) { %> ln__price__offers--tabs<% } %> js-price-offers">
+            <div class="ln__price__head"></div>
+            <ul>
+                <% for (var i = 0; i < data.offers.length; i++) { %>
+                <li<% if (i === 0) { %> class="ln__price__offers__item--is-highlight"<% } %><% if (i > 5) { %> class="hidden"<% } %>>
+                    <a href="<%= data.offers[i].trackingUrl %>"
+                       target="_blank"
+                       title="<%= data.offers[i].productName %>"
+                       class="js-price-lead js-track-price-url"
+                       data-track-action="<%= data.offers[i].merchantName %>"
+                       data-track-label="<%= data.productName %>"
+                       rel="nofollow"
+                    >
+                        <div class="ln__price__offers__merchant">
+                            <img src="<%= data.offers[i].merchantIcon %>" width="16" height="16" alt="" />
+                            <%= data.offers[i].merchantName %>
+                            <br />
+                            <span class="ln__price__offers__merchant__shipping">
+                                <% if (!data.offers[i].hasShippingInfo) { %>
+                                    Livraison NC
+                                <% } else if (parseFloat(data.offers[i].shipping.replace(',', '.')) > 0) { %>
+                                    Livraison +<%= data.offers[i].shipping %>&nbsp;€
+                                <% } else { %>
+                                    Livraison gratuite
+                                <% } %>
+                            </span>
+                        </div>
+                        <div class="ln__price__offers__stock">
+                            <% if (data.offers[i].stockStatus) { %>
+                                <span class="ln__icon ln__icon-check"></span>
+                            <% } else { %>
+                                <span class="ln__icon ln__icon-close"></span>
+                            <% } %>
+                        </div>
+                        <div class="ln__price__offers__price">
+                            <%= data.offers[i].total %>&nbsp;€
+                            <br/>
+                            <% if (data.offers[i].hasShippingInfo && data.offers[i].shipping > 0) { %>
+                                <span class="ln__price__offers__price__without-fees">
+                                    <%= data.offers[i].price %>&nbsp;€
+                                </span>
+                            <% } %>
+                        </div>
+                        <div class="ln__price__offers__see">
+                            <div>
+                                <span class="ln__price__cta__sm">Voir</span>
+                                <span class="ln__price__cta__md">l'offre </span>
+                                <span class="ln__icon ln__icon-arrow-md-right"></span>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <% } %>
+            </ul>
+            <% if (data.offers.length > 6) { %>
+                <a href="#" class="js-prices-more ln__price__more">Voir plus d'offres <span class="ln__icon ln__icon-arrow-md-bottom"></span></a>
+                <a href="#" class="js-prices-more ln__price__more hidden">Voir moins d'offres <span class="ln__icon ln__icon-arrow-md-top"></span></a>
+            <% } %>
+        </div>
+    </div>
+</script>
+
+    <script src="https://cdn.lesnumeriques.com/assets/2025/12/15/1765808972038/v4/js/website-light-min.js" async></script>
+
+
+<script type="text/template" data-notification-overlay-template>
+	<div class="ln__a-ovr-notif ln__body-md ln__font-smooth top-xs is--<%= type %>" data-notification-overlay>
+		<div class="ln__a-ovr-notif__inr" data-notification-overlay-close>
+			<% if (text) { %>
+				<%= text %>
+			<% } %>
+			<span class="ln__a-ovr-notif__inr__close">
+				
+<span class="ln__a-c-btn is--sm is--revert"></span>			</span>
+		</div>
+	</div>
+</script>
+<div class="ln__a-ldr__vry"  id="loader-overlay"><svg class="ln__a-ldr" x="0px" y="0px" width="32" height="32" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve" data-loader >
+    <circle class="ln__a-ldr__crcl" cx="16" cy="16" r="14"/>
+</svg></div>
+        <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","name":"Les Num\u00e9riques","url":"https:\/\/www.lesnumeriques.com\/","logo":{"@type":"ImageObject","url":"https:\/\/cdn.lesnumeriques.com\/assets\/images\/logo-lesnumeriques-600x60.png","width":600,"height":60},"sameAs":["https:\/\/www.facebook.com\/LesNumeriques","https:\/\/twitter.com\/lesnums","https:\/\/www.instagram.com\/lesnumeriques\/","https:\/\/www.youtube.com\/user\/LesNumeriques","https:\/\/www.linkedin.com\/company\/lesnumeriques\/","https:\/\/www.pinterest.fr\/lesnums\/"]}</script>
+    </body>
+</html>
