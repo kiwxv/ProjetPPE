@@ -1,0 +1,517 @@
+   #ChannelNews » Flux ChannelNews » Flux des commentaires JSON oEmbed
+   (JSON) oEmbed (XML)
+
+   ChannelNews
+
+   open
+     * News
+          + Actu des sociétés
+          + Agenda
+          + Expertises
+          + Produits et solutions
+          + Talents
+          + En bref
+          + Interviews
+          + Nominations
+          + Régions
+          + Helpline se constitue en groupe pour mieux se saisir des
+            transformations suscitées par l’IA
+          + Nokia confirme 421 licenciements à Paris et Lannion
+          + Willem Hendrickx prend la tête de NetApp dans les régions EMEA
+            et Amérique latine
+          + Keepit et Ingram Micro signent un partenariat de mise sur le
+            marché en France
+          + Palo Alto Networks et Google Cloud renforcent leur partenariat
+            autour de la sécurité du cloud et de l’IA
+          + Acronis en pleine accélération en France grâce aux MSP
+          + IT Partners 2026 : RX France enrichit sa formule pour
+            remobiliser son audience
+          + Facturation électronique 2026 : comment transformer la
+            contrainte réglementaire en relais de croissance ?
+          + Les 5 bonnes raisons d’exposer sur IT Partners 2026
+          + Souveraineté Numérique et Partenaires IT : Opportunité ou
+            Mirage ?
+          + Cheops Technology se lance dans un Tour de France sur le thème
+            de la compétitivité et de la souveraineté numérique pour les
+            PME
+          + Cinquième édition du GreenTech Forum : focus sur l’IA
+          + Amazon, Microsoft et Google détiennent désormais 58% de la
+            capacité totale des centres de données hyperscale
+          + Marché du numérique 2025 : un ralentissement moindre que
+            redouté grâce à un début de reprise en fin d’année
+          + Les dépenses en serveurs alimentées par la frénésie des
+            hyperscalers
+          + Microsoft France restructure sa division partenaires
+          + Les dépenses informatiques mondiales enregistrent leur plus
+            forte progression depuis 30 ans
+          + Pénurie de mémoire : Dell pourrait augmenter ses prix de 15 à
+            20% dès décembre
+          + Pure Storage et Nutanix réunissent leurs technologies dans une
+            offre commune
+          + Ignite 2025 : Microsoft positionne Windows 11 en OS agentique
+          + NVidia lance DGX Spark, une station de travail pour l’IA
+          + IBM réinvente l’ingénierie logicielle avec son nouvel IDE
+            Project Bob
+          + Microsoft augmente OneDrive à l’IA
+          + OVHcloud muscle son offre de Kubernetes managé (MKS)
+          + ArcITek confie sa direction générale à Julien Mouton pour
+            accélérer sur l’IA et les services managés
+          + Cécile Leduc succède à Delphine Cuynet à la direction générale
+            de la Fédération Eben
+          + Eurabis : Emmanuel Tessier passe la main à Henri Clément
+          + Ronan Dacquay rejoint Hexanet au poste de directeur du
+            marketing et des partenariats
+          + Stordata recrute son nouveau Directeur commercial
+          + Mike Lynch disparaît dans un naufrage en Sicile
+          + eParts’ s’allie à ABC Agencement pour lancer une offre clé en
+            main d’espaces de visioconférence
+          + Nokia veut supprimer 427 postes sur 2.300 en France
+          + Le Groupe Quéguiner confie à Blue la refonte de sa téléphonie
+            et le déploiement de son SD-WAN
+          + Réforme de la facture électronique (RFE) : 10 idées reçues,
+            décryptage spécial distribution IT
+          + Crayon Partner Party 2025 : l’IA s’invite sur les
+            Champs-Élysées
+          + L’ECCO publie un nouveau rapport à charge contre Broadcom
+          + Cheops Technology : « Le rapatriement des workloads depuis les
+            hyperscalers s’accélère »
+          + Ce qu’Etix compte faire de son financement de 170 M€
+          + Trois questions à Alexandre Pierrin-Néron, vice-président en
+            charge des ventes de SentinelOne France
+          + Gaël Menu (SCC France) : “Notre ambition est de doubler notre
+            activité services d’ici 2030 pour intégrer le Top 5 à 7 des
+            ESN françaises”
+          + ACKnowledge acquiert uQuidIT.co
+          + Cyllene mise sur la souveraineté
+          + Georgina Lopez promue DSI de Bouygues Telecom
+          + L’opérateur Sewan nomme une nouvelle direction Service Client
+          + Cédric Falgas, nouveau DG d’Altitude Infra THD
+          + Marie Blanchet est de retour chez Nutanix
+          + Yves Ackermann nommé directeur commercial d’Akidaia
+          + Thierry Corneloup devient directeur adjoint d’Access Group
+          + Marseille : Phocea DC inaugure son centre de données local à
+            taille humaine
+          + BEA Solutions annonce l’ouverture d’une filiale à Montpellier
+          + Poitiers : Foliateam rachète l’intégrateur réseaux e-Qual à la
+            barre du tribunal
+          + Dynamips gagne en productivité en migrant sur le vertical
+            métier Artis
+          + PACA : AddixGroup et ARS s’associent pour monter un SOC
+            externalisé
+          + L’intégrateur nantais Almeria jette son dévolu sur son
+            concurrent IP Ouest
+     * Fournisseurs
+          + Kaspersky
+          + Crayon
+          + Sophos
+          + Dstny
+          + Vertiv
+          + WatchGuard
+          + Bitdefender
+          + Arrow
+          + Avast
+          + Comstor
+          + Jumpcloud
+          + Ingram
+          + Hermitage
+          + TD Synnex
+          + Programme MSP Kaspersky, ce sont les partenaires qui en
+            parlent le mieux !
+          + Programme MSP Kaspersky, Catherine Oudot, Directrice Channel
+            présente le programme
+          + Rapport : analyse du marché des MSP et attentes des clients
+          + «Un programme MSP pour se diversifier et gagner des parts de
+            marché », Catherine Oudot, Kaspersky
+          + Protégez la messagerie Microsoft Office 365 de vos clients !
+          + Bénéfices maximum, risques minimum : rejoignez le programme
+            MSP de Kaspersky Lab
+          + Aure Easy – Le futur est dans le Cloud
+          + Devenez revendeur DocuSign Jeudi 25 Mars à 11h
+          + Les pièges et les risques du contrat Microsoft SPLA
+          + Construisez une démarche Zero Trust avec Azure AD
+          + Crayon signe un accord de collaboration stratégique avec
+            Amazon Web Services
+          + Innovez en créant des application pour les besoins métiers vos
+            clients grâce à Microsoft Power Apps
+          + Renforcer Microsoft Defender avec Sophos MDR
+          + L’état de la sécurité du cloud 2020
+          + Cybersecurity Evolved : les bénéfices de la sécurité
+            synchronisée de Sophos
+          + L’état des Ramsomwares 2020
+          + Le phishing, un business très lucratif ! Comment ne pas mordre
+            à l’hameçon et prendre les devants ?
+          + 7 vérités qui dérangent sur la sécurité des systèmes
+            d’informations
+          + Comment bénéficier de la fin du RTC avec OpenIP ?
+          + Les Communications Unifiées, quand la téléphonie devient
+            collaborative
+          + L’intégrateur, nouvel opérateur de services IT, Télécom &
+            Cloud des entreprises
+          + MyOpenIP, votre marketplace IT, Télécom & Cloud
+          + Réussir son Passage du RTC au Full-IP avec OpenIP
+          + OpenIP certifie les D7XX de Snom avec MetaCentrex
+          + Définir le Edge: quatre archétypes Edge et leurs exigences
+            technologiques
+          + L’impact du Cloud et l’Internet des Objets sur la demande en
+            matière de datacenter
+          + Performance énergétique élevée pour le Datacenter Equinix
+          + Infrastructure IT pour un leader mondial de l’automobile
+          + Refroidissement Air-Eau pour Hautes Densités – Études de cas
+            EPFL
+          + Votre guide pour la commercialisation rapide des services MDR
+          + WatchGuard MDR pour les MSP
+          + Accéder à l’univers du XDR
+          + L’intelligence artificielle, une couche de sécurité
+            indispensable !
+          + Maximisez votre securité !
+          + Les 6 catégories connues de menaces Wi-Fi ciblant votre
+            entreprise et les façons de vous en protéger
+          + Pourquoi les équipes de sécurité de vos clients ont besoin de
+            l’EDR (Endpoint Detection and Response) ?
+          + Les erreurs de configurations, un vecteur d’attaque à ne pas
+            négliger
+          + Webinar Bitdefender / Managed Detection and Response ou
+            Comment tirer profit d’un marché en plein essor
+          + Vous souhaitez augmenter vos revenus et proposer les solutions
+            Bitdefender en mode MSP ?
+          + Bitdefender GravityZone Endpoint Detection & Response, la
+            nouvelle solution pour générer de nouvelles opportunités de
+            vente
+          + Comment Bitdefender EDR permet à vos clients de détecter plus
+            rapidement les activités suspectes ?
+          + Arrow vous ouvre les portes de son Solution Center
+          + Garantir la conformité en matière de sécurité des PME en 2023
+          + Sortir du modèle “Break/Fix”
+          + Modernisez la cybersécurité de vos clients dès maintenant : 10
+            raisons de le faire et 10 façons de le faire
+          + Briser le lien entre les utilisateurs et les cybermenaces
+          + Correctifs logiciels : la « ceinture de cybersécurité »
+          + Sécurité Cisco par Comstor – Adoptez la connectivité en toute
+            confiance
+          + Sécurité Cisco par Comstor – Adoptez la connectivité en toute
+            confiance
+          + Le guide des MSPs sur la centralisation des ressources
+            informatiques
+          + JumpCloud pour MSPs
+          + Le Zéro Trust pour les MSP
+          + Les PME françaises et l’IT : Etat des lieux 2023
+          + Les PME dans le viseur des cybercriminels : Fortinet et Ingram
+            proposent un plan de bataille adapté
+          + Comment Fortinet assure une protection complète aux PME face
+            aux cybermenaces ?
+          + 10 raisons de choisir la signature électronique DocuSign
+          + Découvrez une expérience documentaire totalement inédite
+          + Le guide de la cybersécurité pour les très petites entreprises
+          + Fin de support Windows 10 et PC IA : 2 livres blancs pour
+            booster vos ventes de PC Windows 11
+
+   S’inscrire
+     * Twitter
+     * YouTube
+     * Linkedin
+     * Flux RSS
+
+Recevoir l’actualité
+
+   ____________________ S'abonner Please wait Please wait
+
+   [INS: :INS]
+
+   Communiqués de presse
+
+Bien piloter sa flotte mobile, un projet qui ne s’improvise pas
+
+   le 08-12-2025
+
+   Par Cpresse
+     * Print
+     * Twitter
+     * Linkedin
+
+   La montée en puissance du digital et de la mobilité est aujourd’hui une
+   réalité concrète au sein des entreprises. Dans ce contexte, ces
+   dernières investissent des ressources importantes pour équiper leurs
+   collaborateurs et leur permettre de mener à bien leurs activités dans
+   les meilleures conditions. Mais comment déployer une démarche
+   efficiente pour gérer sa flotte mobile et prendre les bonnes options ?
+
+   Industrialiser sa démarche
+
+   Piloter une flotte mobile est un exercice complexe qui nécessite
+   d‘intégrer de nombreuses dimensions pour faire les bons choix. Ainsi,
+   opter pour l’internalisation de ces étapes n’est pas forcément une
+   approche pertinente. S’appuyer sur des experts externes est en revanche
+   l’assurance de pouvoir piloter efficacement sa flotte mobile en
+   utilisant des solutions dédiées à l’image des outils MDM. On notera à
+   ce sujet que les solutions MDM historiquement réservées aux grands
+   comptes se sont aujourd’hui largement démocratisées et permettent de
+   répondre pragmatiquement aux besoins des ETI et des PME.
+
+   Concilier outils performants et coûts optimisés
+
+   S’équiper d’une flotte mobile peut représenter un coût particulièrement
+   important en fonction des besoins de l’entreprise. En ce sens, opter
+   pour un achat systématique de mobiles neufs n’est pas forcément une
+   réponse pertinente. En effet, il est aujourd’hui possible de s’équiper
+   de mobiles reconditionnés qui intègrent les dernières innovations du
+   marché pour une fraction de leur valeur sur le marché du neuf. Cette
+   tendance de fond est en forte accélération au regard de la qualité des
+   offres proposées sur le marché B2B.
+
+   Avoir une approche intégrale du cycle de vie de sa flotte mobile
+
+   Sur ce sujet, rappelons tout d’abord que nombre d’entreprises ne
+   valorisent pas leur flotte en partant du principe qu’une fois les
+   mobiles arrivés au terme de leur vie, ils sont purement jetés. Une
+   approche pertinente peut consister à revendre ses mobiles lors du
+   renouvellement de sa flotte. Pour ce faire, dès l’acquisition de ses
+   nouveaux mobiles, il est nécessaire de définir une durée d’utilisation
+   optimale et de valoriser un prix de reprise de ces derniers. L’achat de
+   mobiles n’est alors plus uniquement synonyme de perte sèche lors du
+   renouvellement de la flotte.
+
+   Sourcer les bons partenaires
+
+   Traditionnellement, les entreprises se tournaient vers les opérateurs
+   historiques pour s’équiper de mobiles neufs. Cela s’expliquait
+   notamment par les remises généreuses pratiquées sur les équipements.
+   Cependant, ces dernières ne sont plus aussi avantageuses, ce qui permet
+   à de nombreux acteurs spécialisés de proposer des mobiles à des
+   conditions plus avantageuses, mais également de se positionner comme
+   des partenaires stratégiques pour piloter les flottes à 360°.
+
+   Adelin Revault
+
+   CEO | Co-founder chez Phoner Business
+   __________________________________________________________________
+
+Nos lecteurs ont lu ensuite
+
+   Cybersécurité : Quelles solutions pour vos mobiles ?
+   Par Sébastien REVERDY, CEO de BetooBe Les cyberattaques sont de plus en
+   plus fréquentes. Le télétravail et la mobilité permanente des
+   collaborateurs sont devenus incontournables et exposent les entreprises
+   à de nouveaux défis en termes...
+   __________________________________________________________________
+
+   Numérique responsable : les 4 principes essentiels de la gestion des
+   flottes de mobiles responsable
+   L’une des principales problématiques actuelles pour les gestionnaires
+   de flotte est de garantir une excellente expérience utilisateur
+   connectée en toutes circonstances. Mais la problématique est en réalité
+   double, car il est nécessaire d’allier cette expérience...
+   __________________________________________________________________
+
+   Quatre points clés pour piloter sa flotte mobile efficacement
+   Une chose est sûre, l’utilisation à grande échelle de la téléphonie
+   mobile est aujourd’hui une réalité concrète au regard des nouveaux
+   usages professionnels et aux attentes exprimées par les collaborateurs.
+   Dans ce contexte, avoir un...
+   __________________________________________________________________
+
+   4 grands défis pour gérer sa flotte mobiles efficacement
+   Mobilité et travail hybride sont des aspects cruciaux pour cette année,
+   mais ils ne sont que quelques-uns des enjeux qui devront être pris en
+   compte pour gérer ses flottes mobiles. Les DSI vont devoir prendre...
+   __________________________________________________________________
+
+   Septeo optimise la gestion de sa flotte mobile avec MobileHub, la
+   plateforme SAAS de betoobe
+   Betoobe, éditeur de la plateforme MobileHub permettant de gérer
+   l’intégralité du cycle de vie des flottes mobiles, accompagne le groupe
+   Septeo dans la mise en œuvre d’un dispositif éprouvé et industriel
+   permettant au gestionnaire de flotte de piloter...
+   __________________________________________________________________
+
+   ____________________ search
+
+   [INS: :INS]
+     * Helpline se constitue en groupe pour mieux se saisir des
+       transformations suscitées par l’IA
+       23 décembre - 18h15
+     * Georgina Lopez promue DSI de Bouygues Telecom
+       23 décembre - 13h02
+     * Nokia confirme 421 licenciements à Paris et Lannion
+       23 décembre - 11h27
+     * Amazon, Microsoft et Google détiennent désormais 58% de la capacité
+       totale des centres de données hyperscale
+       22 décembre - 14h16
+     * Willem Hendrickx prend la tête de NetApp dans les régions EMEA et
+       Amérique latine
+       22 décembre - 09h50
+     * Keepit et Ingram Micro signent un partenariat de mise sur le marché
+       en France
+       19 décembre - 15h08
+     * Palo Alto Networks et Google Cloud renforcent leur partenariat
+       autour de la sécurité du cloud et de l’IA
+       19 décembre - 15h02
+     * Acronis en pleine accélération en France grâce aux MSP
+       19 décembre - 13h26
+     * Free pourrait écoper d’une amende de 48 millions d’euros
+       19 décembre - 12h11
+     * S3NS qualifié SecNumCloud pour son « cloud de confiance » basé sur
+       les services Google Cloud
+       19 décembre - 11h24
+     * Marché du numérique 2025 : un ralentissement moindre que redouté
+       grâce à un début de reprise en fin d’année
+       18 décembre - 19h46
+     * SFR touché de nouveau par une importante fuite de données
+       18 décembre - 13h58
+     * Econocom lance un e-shop dédié au matériel IT reconditionné pour le
+       B2B
+       18 décembre - 12h45
+     * Cyber et spatial : Sopra Steria négocie le rachat de Nexova et
+       Starion
+       18 décembre - 10h41
+     * L’accélérateur ESN de Bpifrance et Numeum accueille sa première
+       promotion
+       18 décembre - 09h51
+     * Freshworks acquiert FireHydrant
+       17 décembre - 14h59
+     * Databricks opère sa troisième levée de 2025 avec une valorisation
+       de 134 milliards de dollars
+       17 décembre - 14h07
+     * Veeam finalise l’acquisition de Securiti AI
+       17 décembre - 10h55
+     * Les dépenses en serveurs alimentées par la frénésie des
+       hyperscalers
+       17 décembre - 09h10
+     * Pure Storage et Nutanix réunissent leurs technologies dans une
+       offre commune
+       17 décembre - 08h30
+     * VMware arrête de commercialiser vSphere Foundation dans des pays de
+       la zone EMEA
+       16 décembre - 16h24
+     * NeoEdge franchit le cap des 10 millions d’euros de chiffre
+       d’affaires
+       16 décembre - 15h44
+     * Ilham Djehaich nommée Directrice Générale des concessions COVAGE
+       16 décembre - 15h28
+     * ServiceNow en passe d’acquérir Armis pour 7 Md$
+       16 décembre - 13h58
+     * Adista coche le premier jalon vers la qualification SecNumCloud
+       16 décembre - 08h35
+     * Nextcloud signe un accord de partenariat avec Smile
+       15 décembre - 21h40
+     * Apple et Google comblent d’urgence des failles zero-day
+       15 décembre - 21h16
+     * Rajesh Krishnamurthy nommé au poste de directeur général de Sopra
+       Steria
+       15 décembre - 17h51
+     * Crowdstrike lance Falcon AIDR pour Sécuriser la Surface d’Attaque
+       de l’IA
+       15 décembre - 10h43
+     * Microsoft 365 : la facture va grimper en 2026
+       15 décembre - 07h41
+     * NetApp France dévoile les six partenaires distingués lors d’Insight
+       Xtra 2025
+       12 décembre - 15h52
+     * SPIE se renforce dans la transformation numérique en acquérant 93%
+       d’Artemys
+       12 décembre - 11h32
+     * Suse et Evroc s’allient pour accélérer la souveraineté numérique en
+       Europe
+       12 décembre - 07h16
+     * LDLC renoue avec la profitabilité au premier semestre
+       12 décembre - 07h00
+     * LastPass condamnée à une amende de 1,2 million de livres sterling
+       12 décembre - 05h42
+     * IT Partners 2026 : RX France enrichit sa formule pour remobiliser
+       son audience
+       11 décembre - 19h20
+     * Guillaume Poupard va rejoindre Orange pour conduire la stratégie de
+       souveraineté et de confiance
+       11 décembre - 19h15
+     * Intel abandonne le projet de revente de son activité NEX
+       11 décembre - 19h12
+     * Evernex acquiert Sunrise Technologies au Maroc
+       11 décembre - 17h52
+     * Oracle dévisse en bourse après ses résultats
+       11 décembre - 16h25
+     * Microsoft France restructure sa division partenaires
+       11 décembre - 12h59
+     * Arcadis prend part à la construction du plus grand campus IA
+       d’Europe
+       10 décembre - 23h50
+     * Les lauréates de la sixième édition des Trophées de la femme cyber
+       10 décembre - 15h36
+     * Ali Bouzidi nommé au poste de Senior Channel Account Manager chez
+       Cato Networks France
+       10 décembre - 14h26
+     * Les dépenses informatiques mondiales enregistrent leur plus forte
+       progression depuis 30 ans
+       10 décembre - 11h16
+     * Vertiv signe un accord de distribution EMEA avec PNY et finalise
+       l’acquisition de PurgeRite
+       09 décembre - 12h58
+     * Le Cesin et Hexatrust dévoilent leur Cyber Panorama des solutions
+       souveraines
+       09 décembre - 12h25
+     * L’opérateur Sewan nomme une nouvelle direction Service Client
+       09 décembre - 12h09
+     * Pénurie de mémoire : Dell pourrait augmenter ses prix de 15 à 20%
+       dès décembre
+       09 décembre - 10h07
+     * Le Groupe OCI acquiert l’intégrateur Apik
+       08 décembre - 18h18
+     * Confluent racheté par IBM pour 11 milliards de dollars
+       08 décembre - 17h54
+     * Cellenza décroche le prix de l’innovation IA de Microsoft et
+       filialise son activité de création d’agents IA
+       08 décembre - 15h49
+     * Gartner recommande d’éviter les navigateurs IA pour le moment
+       08 décembre - 15h46
+     * Netexplorer lance sa solution de sauvegarde froide Vault
+       08 décembre - 11h16
+     * Cédric Falgas, nouveau DG d’Altitude Infra THD
+       05 décembre - 19h11
+     * OVHcloud pris en étau entre lois canadienne et française
+       05 décembre - 18h28
+     * L’exercice 2025 de HPE se termine sur une baisse des serveurs et
+       montée en flèche des réseaux
+       05 décembre - 17h34
+     * Re:Invent 2025 : AWS lance ses « AI Factories », des usines IA clé
+       en main à déployer dans votre datacenter
+       05 décembre - 07h56
+     * Microsoft annonce des hausses jusqu’à 33% des prix d’abonnement
+       pour Microsoft 365
+       05 décembre - 07h30
+     * Marie Blanchet est de retour chez Nutanix
+       04 décembre - 22h04
+
+   [INS: :INS]
+
+   ChannelNews ChannelNews
+
+   Nous proposons aux professionnels des marchés de l'informatique et des
+   télécoms une information centrée exclusivement sur les problématiques
+   business, les pratiques métiers de l'ensemble des acteurs du channel
+   français (Constructeurs informatique et télécoms, éditeurs,
+   distributeurs, revendeurs, opérateurs, ISV, MSP, VARs,...)
+   Heberge par Ikoula Heberge par Ikoula
+   Cloud privé | Infogérance
+   PLAN DU SITE
+     * Actu des sociétés
+     * Agenda
+     * En bref
+     * Expertises
+     * Interviews
+
+     * Nominations
+     * Produits et solutions
+     * Régions
+     * Talents
+
+   NOS SITES
+     * InformatiqueNews.fr
+     * Projets-Informatiques.fr
+     * BtoBMarketers.fr
+
+   CONTACTS
+     * Rédaction
+     * Publicité
+     * Advertising
+
+   Terms of use
+     * Mentions légales
+     * Politique de confidentialité
