@@ -46,7 +46,7 @@
   <!-- CMP Didomi ------------------------------------------------------------------------------------>
   <script>
   window.gdprAppliesGlobally=true;
-  (function(){function n(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var r=document.createElement("iframe");r.style.display="none";r.name=e;r.title=e;t.insertBefore(r,t.firstChild)}else{setTimeout(function(){n(e)},5)}}}function e(r,a,o,s,c){function e(e,t,r,n){if(typeof r!=="function"){return}if(!window[a]){window[a]=[]}var i=false;if(c){i=c(e,n,r)}if(!i){window[a].push({command:e,version:t,callback:r,parameter:n})}}e.stub=true;e.stubVersion=2;function t(n){if(!window[r]||window[r].stub!==true){return}if(!n.data){return}var i=typeof n.data==="string";var e;try{e=i?JSON.parse(n.data):n.data}catch(t){return}if(e[o]){var a=e[o];window[r](a.command,a.version,function(e,t){var r={};r[s]={returnValue:e,success:t,callId:a.callId};n.source.postMessage(i?JSON.stringify(r):r,"*")},a.parameter)}}if(typeof window[r]!=="function"){window[r]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__uspapi","__uspapiBuffer","__uspapiCall","__uspapiReturn");n("__uspapiLocator");e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");n("__tcfapiLocator");(function(e){var t=document.createElement("link");t.rel="preconnect";t.as="script";var r=document.createElement("link");r.rel="dns-prefetch";r.as="script";var n=document.createElement("link");n.rel="preload";n.as="script";var i=document.createElement("script");i.id="spcloader";i.type="text/javascript";i["async"]=true;i.charset="utf-8";var a="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname+"&bust="+1767022376527;if(window.didomiConfig&&window.didomiConfig.user){var o=window.didomiConfig.user;var s=o.country;var c=o.region;if(s){a=a+"&country="+s;if(c){a=a+"&region="+c}}}t.href="https://sdk.privacy-center.org/";r.href="https://sdk.privacy-center.org/";n.href=a;i.src=a;var d=document.getElementsByTagName("script")[0];d.parentNode.insertBefore(t,d);d.parentNode.insertBefore(r,d);d.parentNode.insertBefore(n,d);d.parentNode.insertBefore(i,d)})("97d9cc3e-4f0e-4d58-ad0e-4b418ce971c9")})();</script>
+  (function(){function n(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var r=document.createElement("iframe");r.style.display="none";r.name=e;r.title=e;t.insertBefore(r,t.firstChild)}else{setTimeout(function(){n(e)},5)}}}function e(r,a,o,s,c){function e(e,t,r,n){if(typeof r!=="function"){return}if(!window[a]){window[a]=[]}var i=false;if(c){i=c(e,n,r)}if(!i){window[a].push({command:e,version:t,callback:r,parameter:n})}}e.stub=true;e.stubVersion=2;function t(n){if(!window[r]||window[r].stub!==true){return}if(!n.data){return}var i=typeof n.data==="string";var e;try{e=i?JSON.parse(n.data):n.data}catch(t){return}if(e[o]){var a=e[o];window[r](a.command,a.version,function(e,t){var r={};r[s]={returnValue:e,success:t,callId:a.callId};n.source.postMessage(i?JSON.stringify(r):r,"*")},a.parameter)}}if(typeof window[r]!=="function"){window[r]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__uspapi","__uspapiBuffer","__uspapiCall","__uspapiReturn");n("__uspapiLocator");e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");n("__tcfapiLocator");(function(e){var t=document.createElement("link");t.rel="preconnect";t.as="script";var r=document.createElement("link");r.rel="dns-prefetch";r.as="script";var n=document.createElement("link");n.rel="preload";n.as="script";var i=document.createElement("script");i.id="spcloader";i.type="text/javascript";i["async"]=true;i.charset="utf-8";var a="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname+"&bust="+1767387039785;if(window.didomiConfig&&window.didomiConfig.user){var o=window.didomiConfig.user;var s=o.country;var c=o.region;if(s){a=a+"&country="+s;if(c){a=a+"&region="+c}}}t.href="https://sdk.privacy-center.org/";r.href="https://sdk.privacy-center.org/";n.href=a;i.src=a;var d=document.getElementsByTagName("script")[0];d.parentNode.insertBefore(t,d);d.parentNode.insertBefore(r,d);d.parentNode.insertBefore(n,d);d.parentNode.insertBefore(i,d)})("97d9cc3e-4f0e-4d58-ad0e-4b418ce971c9")})();</script>
 
   <script type="text/javascript" charset="UTF-8">
     window.isGDPRMode = function() { return true; };
@@ -863,7 +863,7 @@
      }
   </style>
 
-		<script async src="/statics/js/audioplayer.js?bust=1767022376527"></script>
+		<script async src="/statics/js/audioplayer.js?bust=1767387039785"></script>
         
 	</head>
 
@@ -1327,8 +1327,8 @@
 
 		<!-- Content -->
 		<div class="ws-c">
-			<link rel="stylesheet" href="/statics/css/aside.css?bust=1767022376527">
-			<link rel="stylesheet" href="/statics/css/commons.css?bust=1767022376527">
+			<link rel="stylesheet" href="/statics/css/aside.css?bust=1767387039785">
+			<link rel="stylesheet" href="/statics/css/commons.css?bust=1767387039785">
 			
   <div class="leftslot-wrapper">
     <div id="ad_leftslot">
@@ -1448,23 +1448,23 @@ flotte<span class="d_sound_cont"><sound class="d_sound">
               <div class="slide first">
                 
   <div class="g4 b blog">
-    <a href="/dis-moi-robert/raconte-moi-robert/coin-pedago">
+    <a href="/dis-moi-robert/raconte-moi-robert/mot-jour">
       <span class="blog-w-c">
-          <span class="blog-c" style="background-color:#9a59b5">Le coin pédago</span>
+          <span class="blog-c" style="background-color:#9a59b5">Le mot du jour</span>
       </span>
     </a>
-    <a onclick="gtag2(&#39;clic_blog&#39;, &#39;billet_blog&#39;, &quot;Le Robert pr\u00E9sente Gymglish&quot;);" title="Le Robert présente Gymglish" href="https://www.gymglish.com/partner/pylwnnvwlw/109417?rfextension=DICO_MULTI_7DAYS">
+    <a onclick="gtag2(&#39;clic_blog&#39;, &#39;billet_blog&#39;, &quot;verbeux&quot;);" title="verbeux" href="/definition/verbeux">
       <picture>
-          <img src="/statics/medias/images/blog/103/banner_learning-serie_new-year_le-robert_2000x1000.png" alt="Le Robert présente Gymglish" />
+          <img src="/statics/medias/images/blog/148/mot_du_jour_-_blog-_verbeux.png" alt="verbeux" />
       </picture>
-      <span class="blog-t">Le Robert présente Gymglish</span>
+      <span class="blog-t">verbeux</span>
     </a>
-    <span class="blog-d"><p>10 minutes par jour sur mesure pour maîtriser une langue et sa culture. Humour inclus.&nbsp;<a href="https://www.gymglish.com/partner/pylwnnvwlw/109417?rfextension=DICO_MULTI_7DAYS" target="_blank">Testez gratuitement</a></p></span>
+    <span class="blog-d"><p>Découvrez le mot du jour :&nbsp;<em>verbeux</em> !</p></span>
     <div class="blog-da">
       <span class="blog-a"></span>
-      <span class="blog-date">26/11/2024</span>
+      <span class="blog-date">22/12/2025</span>
     </div>
-    <a onclick="gtag2(&#39;clic_blog&#39;, &#39;billet_blog&#39;, &quot;Le Robert pr\u00E9sente Gymglish&quot;);" title="Le Robert présente Gymglish" href="https://www.gymglish.com/partner/pylwnnvwlw/109417?rfextension=DICO_MULTI_7DAYS" >
+    <a onclick="gtag2(&#39;clic_blog&#39;, &#39;billet_blog&#39;, &quot;verbeux&quot;);" title="verbeux" href="/definition/verbeux" >
       <span class="blog-e">…</span>
     </a>
   </div>
@@ -1918,7 +1918,7 @@ flotte<span class="d_sound_cont"><sound class="d_sound">
 </footer>
 
 
-		<script async src="/statics/js/commons.js?bust=1767022376527"></script>
+		<script async src="/statics/js/commons.js?bust=1767387039785"></script>
 		<iframe name="__cmpLocator" style="display: none;"></iframe>
 	</body>
 </html>

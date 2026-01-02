@@ -583,18 +583,18 @@ Header style 1
 
     <div class="menu-menu-container"><ul id="menu-menu-1" class="sf-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first td-menu-item td-mega-menu menu-item-1205"><a href="https://www.flotauto.com/gestion-parcs/">Gestion de parc</a>
 <ul class="sub-menu">
-	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_1_6957fbb91450f_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_1_6957fbb91450f" ><script>var block_td_uid_1_6957fbb91450f = new tdBlock();
-block_td_uid_1_6957fbb91450f.id = "td_uid_1_6957fbb91450f";
-block_td_uid_1_6957fbb91450f.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"129","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_1_6957fbb91450f_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
-block_td_uid_1_6957fbb91450f.td_column_number = "3";
-block_td_uid_1_6957fbb91450f.block_type = "td_block_mega_menu";
-block_td_uid_1_6957fbb91450f.post_count = "4";
-block_td_uid_1_6957fbb91450f.found_posts = "2792";
-block_td_uid_1_6957fbb91450f.header_color = "";
-block_td_uid_1_6957fbb91450f.ajax_pagination_infinite_stop = "";
-block_td_uid_1_6957fbb91450f.max_num_pages = "698";
-tdBlocksArray.push(block_td_uid_1_6957fbb91450f);
-</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_1_6957fbb91450f"  id="td_uid_2_6957fbb914ee4" data-td_block_id="td_uid_1_6957fbb91450f" data-td_filter_value="195" href="https://www.flotauto.com/gestion-parcs/flottes-expert/">Flottes Expert</a><a class="mega-menu-sub-cat-td_uid_1_6957fbb91450f"  id="td_uid_3_6957fbb914f0f" data-td_block_id="td_uid_1_6957fbb91450f" data-td_filter_value="135" href="https://www.flotauto.com/gestion-parcs/fiscalite/">Fiscalité/réglementation</a><a class="mega-menu-sub-cat-td_uid_1_6957fbb91450f"  id="td_uid_4_6957fbb914f2b" data-td_block_id="td_uid_1_6957fbb91450f" data-td_filter_value="131" href="https://www.flotauto.com/gestion-parcs/assurance-assistance/">Assurance / Assistance</a><a class="mega-menu-sub-cat-td_uid_1_6957fbb91450f"  id="td_uid_5_6957fbb914f44" data-td_block_id="td_uid_1_6957fbb91450f" data-td_filter_value="137" href="https://www.flotauto.com/gestion-parcs/outils-solutions/">Outils et logiciels</a><a class="mega-menu-sub-cat-td_uid_1_6957fbb91450f"  id="td_uid_6_6957fbb914f5b" data-td_block_id="td_uid_1_6957fbb91450f" data-td_filter_value="6607" href="https://www.flotauto.com/gestion-parcs/ressources-humaines/">Ressources humaines</a><a class="mega-menu-sub-cat-td_uid_1_6957fbb91450f"  id="td_uid_7_6957fbb914f72" data-td_block_id="td_uid_1_6957fbb91450f" data-td_filter_value="141" href="https://www.flotauto.com/gestion-parcs/tco/">TCO</a><a class="mega-menu-sub-cat-td_uid_1_6957fbb91450f"  id="td_uid_8_6957fbb914f89" data-td_block_id="td_uid_1_6957fbb91450f" data-td_filter_value="133" href="https://www.flotauto.com/gestion-parcs/car-policy/">Car policy</a></div></div><div id=td_uid_1_6957fbb91450f class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_1_6958357b6f413_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_1_6958357b6f413" ><script>var block_td_uid_1_6958357b6f413 = new tdBlock();
+block_td_uid_1_6958357b6f413.id = "td_uid_1_6958357b6f413";
+block_td_uid_1_6958357b6f413.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"129","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_1_6958357b6f413_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_1_6958357b6f413.td_column_number = "3";
+block_td_uid_1_6958357b6f413.block_type = "td_block_mega_menu";
+block_td_uid_1_6958357b6f413.post_count = "4";
+block_td_uid_1_6958357b6f413.found_posts = "2792";
+block_td_uid_1_6958357b6f413.header_color = "";
+block_td_uid_1_6958357b6f413.ajax_pagination_infinite_stop = "";
+block_td_uid_1_6958357b6f413.max_num_pages = "698";
+tdBlocksArray.push(block_td_uid_1_6958357b6f413);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_1_6958357b6f413"  id="td_uid_2_6958357b6fac1" data-td_block_id="td_uid_1_6958357b6f413" data-td_filter_value="195" href="https://www.flotauto.com/gestion-parcs/flottes-expert/">Flottes Expert</a><a class="mega-menu-sub-cat-td_uid_1_6958357b6f413"  id="td_uid_3_6958357b6fae6" data-td_block_id="td_uid_1_6958357b6f413" data-td_filter_value="135" href="https://www.flotauto.com/gestion-parcs/fiscalite/">Fiscalité/réglementation</a><a class="mega-menu-sub-cat-td_uid_1_6958357b6f413"  id="td_uid_4_6958357b6fb00" data-td_block_id="td_uid_1_6958357b6f413" data-td_filter_value="131" href="https://www.flotauto.com/gestion-parcs/assurance-assistance/">Assurance / Assistance</a><a class="mega-menu-sub-cat-td_uid_1_6958357b6f413"  id="td_uid_5_6958357b6fb18" data-td_block_id="td_uid_1_6958357b6f413" data-td_filter_value="137" href="https://www.flotauto.com/gestion-parcs/outils-solutions/">Outils et logiciels</a><a class="mega-menu-sub-cat-td_uid_1_6958357b6f413"  id="td_uid_6_6958357b6fb2e" data-td_block_id="td_uid_1_6958357b6f413" data-td_filter_value="6607" href="https://www.flotauto.com/gestion-parcs/ressources-humaines/">Ressources humaines</a><a class="mega-menu-sub-cat-td_uid_1_6958357b6f413"  id="td_uid_7_6958357b6fb45" data-td_block_id="td_uid_1_6958357b6f413" data-td_filter_value="141" href="https://www.flotauto.com/gestion-parcs/tco/">TCO</a><a class="mega-menu-sub-cat-td_uid_1_6958357b6f413"  id="td_uid_8_6958357b6fb5b" data-td_block_id="td_uid_1_6958357b6f413" data-td_filter_value="133" href="https://www.flotauto.com/gestion-parcs/car-policy/">Car policy</a></div></div><div id=td_uid_1_6958357b6f413 class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
                 <div class="td-module-thumb"><a href="https://www.flotauto.com/tres-grand-exces-de-vitesse-delit/" rel="bookmark" title="Le très grand excès de vitesse est un délit passible de prison depuis le 29 décembre"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/voiture-vitesse-218x150-derived.jpg" alt="voiture vitesse" title="voiture vitesse"/></a></div>                <a href="https://www.flotauto.com/gestion-parcs/fiscalite/" class="td-post-category">Fiscalité/réglementation</a>            </div>
@@ -626,23 +626,23 @@ tdBlocksArray.push(block_td_uid_1_6957fbb91450f);
             <div class="item-details">
                 <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/paquet-automobile-europeen-vehicules-thermiques/" rel="bookmark" title="Paquet automobile européen : la fin du thermique repoussée">Paquet automobile européen : la fin du thermique repoussée</a></span>            </div>
         </div>
-        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_1_6957fbb91450f" data-td_block_id="td_uid_1_6957fbb91450f" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_1_6957fbb91450f" data-td_block_id="td_uid_1_6957fbb91450f" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_1_6958357b6f413" data-td_block_id="td_uid_1_6958357b6f413" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_1_6958357b6f413" data-td_block_id="td_uid_1_6958357b6f413" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor td-menu-item td-mega-menu menu-item-1219"><a href="https://www.flotauto.com/financement-location/">Financement / LLD</a>
 <ul class="sub-menu">
-	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_9_6957fbb915b69_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_9_6957fbb915b69" ><script>var block_td_uid_9_6957fbb915b69 = new tdBlock();
-block_td_uid_9_6957fbb915b69.id = "td_uid_9_6957fbb915b69";
-block_td_uid_9_6957fbb915b69.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"143","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_9_6957fbb915b69_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
-block_td_uid_9_6957fbb915b69.td_column_number = "3";
-block_td_uid_9_6957fbb915b69.block_type = "td_block_mega_menu";
-block_td_uid_9_6957fbb915b69.post_count = "4";
-block_td_uid_9_6957fbb915b69.found_posts = "1156";
-block_td_uid_9_6957fbb915b69.header_color = "";
-block_td_uid_9_6957fbb915b69.ajax_pagination_infinite_stop = "";
-block_td_uid_9_6957fbb915b69.max_num_pages = "289";
-tdBlocksArray.push(block_td_uid_9_6957fbb915b69);
-</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_9_6957fbb915b69"  id="td_uid_10_6957fbb91658e" data-td_block_id="td_uid_9_6957fbb915b69" data-td_filter_value="7205" href="https://www.flotauto.com/financement-location/fleet-management/">Fleet management</a><a class="mega-menu-sub-cat-td_uid_9_6957fbb915b69"  id="td_uid_11_6957fbb9165d0" data-td_block_id="td_uid_9_6957fbb915b69" data-td_filter_value="149" href="https://www.flotauto.com/financement-location/location-longue-duree/">Location Longue Durée</a><a class="mega-menu-sub-cat-td_uid_9_6957fbb915b69"  id="td_uid_12_6957fbb916604" data-td_block_id="td_uid_9_6957fbb915b69" data-td_filter_value="145" href="https://www.flotauto.com/financement-location/captives/">Captives</a><a class="mega-menu-sub-cat-td_uid_9_6957fbb915b69"  id="td_uid_13_6957fbb916635" data-td_block_id="td_uid_9_6957fbb915b69" data-td_filter_value="151" href="https://www.flotauto.com/financement-location/restitution-vo-vr/">Restitution VO / VR</a><a class="mega-menu-sub-cat-td_uid_9_6957fbb915b69"  id="td_uid_14_6957fbb916664" data-td_block_id="td_uid_9_6957fbb915b69" data-td_filter_value="147" href="https://www.flotauto.com/financement-location/location-courte-moyenne-duree/">LCD &amp; LMD</a></div></div><div id=td_uid_9_6957fbb915b69 class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_9_6958357b705a1_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_9_6958357b705a1" ><script>var block_td_uid_9_6958357b705a1 = new tdBlock();
+block_td_uid_9_6958357b705a1.id = "td_uid_9_6958357b705a1";
+block_td_uid_9_6958357b705a1.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"143","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_9_6958357b705a1_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_9_6958357b705a1.td_column_number = "3";
+block_td_uid_9_6958357b705a1.block_type = "td_block_mega_menu";
+block_td_uid_9_6958357b705a1.post_count = "4";
+block_td_uid_9_6958357b705a1.found_posts = "1156";
+block_td_uid_9_6958357b705a1.header_color = "";
+block_td_uid_9_6958357b705a1.ajax_pagination_infinite_stop = "";
+block_td_uid_9_6958357b705a1.max_num_pages = "289";
+tdBlocksArray.push(block_td_uid_9_6958357b705a1);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_9_6958357b705a1"  id="td_uid_10_6958357b7116c" data-td_block_id="td_uid_9_6958357b705a1" data-td_filter_value="7205" href="https://www.flotauto.com/financement-location/fleet-management/">Fleet management</a><a class="mega-menu-sub-cat-td_uid_9_6958357b705a1"  id="td_uid_11_6958357b711a4" data-td_block_id="td_uid_9_6958357b705a1" data-td_filter_value="149" href="https://www.flotauto.com/financement-location/location-longue-duree/">Location Longue Durée</a><a class="mega-menu-sub-cat-td_uid_9_6958357b705a1"  id="td_uid_12_6958357b711cb" data-td_block_id="td_uid_9_6958357b705a1" data-td_filter_value="145" href="https://www.flotauto.com/financement-location/captives/">Captives</a><a class="mega-menu-sub-cat-td_uid_9_6958357b705a1"  id="td_uid_13_6958357b711f0" data-td_block_id="td_uid_9_6958357b705a1" data-td_filter_value="151" href="https://www.flotauto.com/financement-location/restitution-vo-vr/">Restitution VO / VR</a><a class="mega-menu-sub-cat-td_uid_9_6958357b705a1"  id="td_uid_14_6958357b71213" data-td_block_id="td_uid_9_6958357b705a1" data-td_filter_value="147" href="https://www.flotauto.com/financement-location/location-courte-moyenne-duree/">LCD &amp; LMD</a></div></div><div id=td_uid_9_6958357b705a1 class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
                 <div class="td-module-thumb"><a href="https://www.flotauto.com/acquisition-vehicules-prestataire/" rel="bookmark" title="Acquisition : la parole aux prestataires"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/parcs-automobile9-218x150-derived.jpg" alt="" title=""/></a></div>                <a href="https://www.flotauto.com/financement-location/" class="td-post-category">Financement / LLD</a>            </div>
@@ -674,23 +674,23 @@ tdBlocksArray.push(block_td_uid_9_6957fbb915b69);
             <div class="item-details">
                 <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/flotte-etat-vo/" rel="bookmark" title="Flotte de l’État : un outil pour intégrer davantage de VO"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Flotte de l’État : un outil pour intégrer davantage de VO</a></span>            </div>
         </div>
-        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_9_6957fbb915b69" data-td_block_id="td_uid_9_6957fbb915b69" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_9_6957fbb915b69" data-td_block_id="td_uid_9_6957fbb915b69" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_9_6958357b705a1" data-td_block_id="td_uid_9_6958357b705a1" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_9_6958357b705a1" data-td_block_id="td_uid_9_6958357b705a1" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-1229"><a href="https://www.flotauto.com/mobilite/">Mobilité</a>
 <ul class="sub-menu">
-	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_15_6957fbb916fec_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_15_6957fbb916fec" ><script>var block_td_uid_15_6957fbb916fec = new tdBlock();
-block_td_uid_15_6957fbb916fec.id = "td_uid_15_6957fbb916fec";
-block_td_uid_15_6957fbb916fec.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"153","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_15_6957fbb916fec_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
-block_td_uid_15_6957fbb916fec.td_column_number = "3";
-block_td_uid_15_6957fbb916fec.block_type = "td_block_mega_menu";
-block_td_uid_15_6957fbb916fec.post_count = "4";
-block_td_uid_15_6957fbb916fec.found_posts = "3305";
-block_td_uid_15_6957fbb916fec.header_color = "";
-block_td_uid_15_6957fbb916fec.ajax_pagination_infinite_stop = "";
-block_td_uid_15_6957fbb916fec.max_num_pages = "827";
-tdBlocksArray.push(block_td_uid_15_6957fbb916fec);
-</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_15_6957fbb916fec"  id="td_uid_16_6957fbb917998" data-td_block_id="td_uid_15_6957fbb916fec" data-td_filter_value="165" href="https://www.flotauto.com/mobilite/transition-energetique/">Transition énergétique</a><a class="mega-menu-sub-cat-td_uid_15_6957fbb916fec"  id="td_uid_17_6957fbb9179c3" data-td_block_id="td_uid_15_6957fbb916fec" data-td_filter_value="155" href="https://www.flotauto.com/mobilite/mobilite-partagee/">Mobilité partagée</a><a class="mega-menu-sub-cat-td_uid_15_6957fbb916fec"  id="td_uid_18_6957fbb9179de" data-td_block_id="td_uid_15_6957fbb916fec" data-td_filter_value="161" href="https://www.flotauto.com/mobilite/recharge-electrique/">Recharge électrique / H2</a><a class="mega-menu-sub-cat-td_uid_15_6957fbb916fec"  id="td_uid_19_6957fbb9179f6" data-td_block_id="td_uid_15_6957fbb916fec" data-td_filter_value="157" href="https://www.flotauto.com/mobilite/carburants/">Carburants / biocarburants</a><a class="mega-menu-sub-cat-td_uid_15_6957fbb916fec"  id="td_uid_20_6957fbb917a0d" data-td_block_id="td_uid_15_6957fbb916fec" data-td_filter_value="163" href="https://www.flotauto.com/mobilite/recyclage/">Recyclage</a></div></div><div id=td_uid_15_6957fbb916fec class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_15_6958357b71c23_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_15_6958357b71c23" ><script>var block_td_uid_15_6958357b71c23 = new tdBlock();
+block_td_uid_15_6958357b71c23.id = "td_uid_15_6958357b71c23";
+block_td_uid_15_6958357b71c23.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"153","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_15_6958357b71c23_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_15_6958357b71c23.td_column_number = "3";
+block_td_uid_15_6958357b71c23.block_type = "td_block_mega_menu";
+block_td_uid_15_6958357b71c23.post_count = "4";
+block_td_uid_15_6958357b71c23.found_posts = "3305";
+block_td_uid_15_6958357b71c23.header_color = "";
+block_td_uid_15_6958357b71c23.ajax_pagination_infinite_stop = "";
+block_td_uid_15_6958357b71c23.max_num_pages = "827";
+tdBlocksArray.push(block_td_uid_15_6958357b71c23);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_15_6958357b71c23"  id="td_uid_16_6958357b722d9" data-td_block_id="td_uid_15_6958357b71c23" data-td_filter_value="165" href="https://www.flotauto.com/mobilite/transition-energetique/">Transition énergétique</a><a class="mega-menu-sub-cat-td_uid_15_6958357b71c23"  id="td_uid_17_6958357b722fb" data-td_block_id="td_uid_15_6958357b71c23" data-td_filter_value="155" href="https://www.flotauto.com/mobilite/mobilite-partagee/">Mobilité partagée</a><a class="mega-menu-sub-cat-td_uid_15_6958357b71c23"  id="td_uid_18_6958357b72316" data-td_block_id="td_uid_15_6958357b71c23" data-td_filter_value="161" href="https://www.flotauto.com/mobilite/recharge-electrique/">Recharge électrique / H2</a><a class="mega-menu-sub-cat-td_uid_15_6958357b71c23"  id="td_uid_19_6958357b7232d" data-td_block_id="td_uid_15_6958357b71c23" data-td_filter_value="157" href="https://www.flotauto.com/mobilite/carburants/">Carburants / biocarburants</a><a class="mega-menu-sub-cat-td_uid_15_6958357b71c23"  id="td_uid_20_6958357b72343" data-td_block_id="td_uid_15_6958357b71c23" data-td_filter_value="163" href="https://www.flotauto.com/mobilite/recyclage/">Recyclage</a></div></div><div id=td_uid_15_6958357b71c23 class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
                 <div class="td-module-thumb"><a href="https://www.flotauto.com/andre-pinet-audemard-prise-en-main/" rel="bookmark" title="André Pinet, groupe Audemard : « Une aide pour réajuster le catalogue de véhicules électriques »"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/pinet-audemard-andre-218x150-derived.jpg" alt="André Pinet" title="André Pinet"/></a></div>                <a href="https://www.flotauto.com/mobilite/transition-energetique/" class="td-post-category">Transition énergétique</a>            </div>
@@ -722,23 +722,23 @@ tdBlocksArray.push(block_td_uid_15_6957fbb916fec);
             <div class="item-details">
                 <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/lilia-ghodbane-logista-hometech-prise-en-main/" rel="bookmark" title="Lilia Ghodbane, Logista Hometech : « Les conducteurs ont une responsabilité à ne pas prendre à la légère »"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Lilia Ghodbane, Logista Hometech : « Les conducteurs ont une responsabilité à&#8230;</a></span>            </div>
         </div>
-        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_15_6957fbb916fec" data-td_block_id="td_uid_15_6957fbb916fec" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_15_6957fbb916fec" data-td_block_id="td_uid_15_6957fbb916fec" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_15_6958357b71c23" data-td_block_id="td_uid_15_6958357b71c23" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_15_6958357b71c23" data-td_block_id="td_uid_15_6958357b71c23" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-1243"><a href="https://www.flotauto.com/vehicules/">Véhicules</a>
 <ul class="sub-menu">
-	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_21_6957fbb918481_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_21_6957fbb918481" ><script>var block_td_uid_21_6957fbb918481 = new tdBlock();
-block_td_uid_21_6957fbb918481.id = "td_uid_21_6957fbb918481";
-block_td_uid_21_6957fbb918481.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"167","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_21_6957fbb918481_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
-block_td_uid_21_6957fbb918481.td_column_number = "3";
-block_td_uid_21_6957fbb918481.block_type = "td_block_mega_menu";
-block_td_uid_21_6957fbb918481.post_count = "4";
-block_td_uid_21_6957fbb918481.found_posts = "4257";
-block_td_uid_21_6957fbb918481.header_color = "";
-block_td_uid_21_6957fbb918481.ajax_pagination_infinite_stop = "";
-block_td_uid_21_6957fbb918481.max_num_pages = "1065";
-tdBlocksArray.push(block_td_uid_21_6957fbb918481);
-</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_21_6957fbb918481"  id="td_uid_22_6957fbb918ef5" data-td_block_id="td_uid_21_6957fbb918481" data-td_filter_value="175" href="https://www.flotauto.com/vehicules/vehicules-particuliers/">Véhicules particuliers</a><a class="mega-menu-sub-cat-td_uid_21_6957fbb918481"  id="td_uid_23_6957fbb918f34" data-td_block_id="td_uid_21_6957fbb918481" data-td_filter_value="177" href="https://www.flotauto.com/vehicules/vehicules-utilitaires/">Véhicules utilitaires</a><a class="mega-menu-sub-cat-td_uid_21_6957fbb918481"  id="td_uid_24_6957fbb918f67" data-td_block_id="td_uid_21_6957fbb918481" data-td_filter_value="219" href="https://www.flotauto.com/vehicules/vehicules-autonomes/">Véhicules autonomes</a><a class="mega-menu-sub-cat-td_uid_21_6957fbb918481"  id="td_uid_25_6957fbb918f98" data-td_block_id="td_uid_21_6957fbb918481" data-td_filter_value="7255" href="https://www.flotauto.com/vehicules/poids-lourds/">Poids lourds</a><a class="mega-menu-sub-cat-td_uid_21_6957fbb918481"  id="td_uid_26_6957fbb918fc8" data-td_block_id="td_uid_21_6957fbb918481" data-td_filter_value="179" href="https://www.flotauto.com/vehicules/essais/">Essais auto</a><a class="mega-menu-sub-cat-td_uid_21_6957fbb918481"  id="td_uid_27_6957fbb918ff8" data-td_block_id="td_uid_21_6957fbb918481" data-td_filter_value="169" href="https://www.flotauto.com/vehicules/2-roues-3-roues/">2 roues / 3 roues</a><a class="mega-menu-sub-cat-td_uid_21_6957fbb918481"  id="td_uid_28_6957fbb919028" data-td_block_id="td_uid_21_6957fbb918481" data-td_filter_value="217" href="https://www.flotauto.com/vehicules/marche-automobile/">Marché automobile</a></div></div><div id=td_uid_21_6957fbb918481 class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_21_6958357b72c4d_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_21_6958357b72c4d" ><script>var block_td_uid_21_6958357b72c4d = new tdBlock();
+block_td_uid_21_6958357b72c4d.id = "td_uid_21_6958357b72c4d";
+block_td_uid_21_6958357b72c4d.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"167","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_21_6958357b72c4d_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_21_6958357b72c4d.td_column_number = "3";
+block_td_uid_21_6958357b72c4d.block_type = "td_block_mega_menu";
+block_td_uid_21_6958357b72c4d.post_count = "4";
+block_td_uid_21_6958357b72c4d.found_posts = "4257";
+block_td_uid_21_6958357b72c4d.header_color = "";
+block_td_uid_21_6958357b72c4d.ajax_pagination_infinite_stop = "";
+block_td_uid_21_6958357b72c4d.max_num_pages = "1065";
+tdBlocksArray.push(block_td_uid_21_6958357b72c4d);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_21_6958357b72c4d"  id="td_uid_22_6958357b732cc" data-td_block_id="td_uid_21_6958357b72c4d" data-td_filter_value="175" href="https://www.flotauto.com/vehicules/vehicules-particuliers/">Véhicules particuliers</a><a class="mega-menu-sub-cat-td_uid_21_6958357b72c4d"  id="td_uid_23_6958357b732ef" data-td_block_id="td_uid_21_6958357b72c4d" data-td_filter_value="177" href="https://www.flotauto.com/vehicules/vehicules-utilitaires/">Véhicules utilitaires</a><a class="mega-menu-sub-cat-td_uid_21_6958357b72c4d"  id="td_uid_24_6958357b7330a" data-td_block_id="td_uid_21_6958357b72c4d" data-td_filter_value="219" href="https://www.flotauto.com/vehicules/vehicules-autonomes/">Véhicules autonomes</a><a class="mega-menu-sub-cat-td_uid_21_6958357b72c4d"  id="td_uid_25_6958357b73321" data-td_block_id="td_uid_21_6958357b72c4d" data-td_filter_value="7255" href="https://www.flotauto.com/vehicules/poids-lourds/">Poids lourds</a><a class="mega-menu-sub-cat-td_uid_21_6958357b72c4d"  id="td_uid_26_6958357b73339" data-td_block_id="td_uid_21_6958357b72c4d" data-td_filter_value="179" href="https://www.flotauto.com/vehicules/essais/">Essais auto</a><a class="mega-menu-sub-cat-td_uid_21_6958357b72c4d"  id="td_uid_27_6958357b7334f" data-td_block_id="td_uid_21_6958357b72c4d" data-td_filter_value="169" href="https://www.flotauto.com/vehicules/2-roues-3-roues/">2 roues / 3 roues</a><a class="mega-menu-sub-cat-td_uid_21_6958357b72c4d"  id="td_uid_28_6958357b73365" data-td_block_id="td_uid_21_6958357b72c4d" data-td_filter_value="217" href="https://www.flotauto.com/vehicules/marche-automobile/">Marché automobile</a></div></div><div id=td_uid_21_6958357b72c4d class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
                 <div class="td-module-thumb"><a href="https://www.flotauto.com/segment-d-electrifie-suv-routiers-2025-phev-et-electrique/" rel="bookmark" title="Segment D électrifié &#8211; SUV routiers 2025 : PHEV et électrique"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/polestar-4-218x150-derived.jpg" alt="Polestar 4" title="Polestar 4"/></a></div>                <a href="https://www.flotauto.com/vehicules/vehicules-particuliers/" class="td-post-category">Véhicules particuliers</a>            </div>
@@ -770,23 +770,23 @@ tdBlocksArray.push(block_td_uid_21_6957fbb918481);
             <div class="item-details">
                 <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/suv-familiaux-electrifies-2025/" rel="bookmark" title="Segment D électrifié &#8211; SUV familiaux 2025 : une offre pléthorique"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Segment D électrifié &#8211; SUV familiaux 2025 : une offre pléthorique</a></span>            </div>
         </div>
-        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_21_6957fbb918481" data-td_block_id="td_uid_21_6957fbb918481" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_21_6957fbb918481" data-td_block_id="td_uid_21_6957fbb918481" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_21_6958357b72c4d" data-td_block_id="td_uid_21_6958357b72c4d" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_21_6958357b72c4d" data-td_block_id="td_uid_21_6958357b72c4d" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-1257"><a href="https://www.flotauto.com/equipements-services/">Équipements</a>
 <ul class="sub-menu">
-	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_29_6957fbb919d5a_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_29_6957fbb919d5a" ><script>var block_td_uid_29_6957fbb919d5a = new tdBlock();
-block_td_uid_29_6957fbb919d5a.id = "td_uid_29_6957fbb919d5a";
-block_td_uid_29_6957fbb919d5a.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"181","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_29_6957fbb919d5a_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
-block_td_uid_29_6957fbb919d5a.td_column_number = "3";
-block_td_uid_29_6957fbb919d5a.block_type = "td_block_mega_menu";
-block_td_uid_29_6957fbb919d5a.post_count = "4";
-block_td_uid_29_6957fbb919d5a.found_posts = "1432";
-block_td_uid_29_6957fbb919d5a.header_color = "";
-block_td_uid_29_6957fbb919d5a.ajax_pagination_infinite_stop = "";
-block_td_uid_29_6957fbb919d5a.max_num_pages = "358";
-tdBlocksArray.push(block_td_uid_29_6957fbb919d5a);
-</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_29_6957fbb919d5a"  id="td_uid_30_6957fbb91a608" data-td_block_id="td_uid_29_6957fbb919d5a" data-td_filter_value="183" href="https://www.flotauto.com/equipements-services/amenagement/">Aménagement</a><a class="mega-menu-sub-cat-td_uid_29_6957fbb919d5a"  id="td_uid_31_6957fbb91a632" data-td_block_id="td_uid_29_6957fbb919d5a" data-td_filter_value="185" href="https://www.flotauto.com/equipements-services/entretien-reparation/">Entretien / Réparation</a><a class="mega-menu-sub-cat-td_uid_29_6957fbb919d5a"  id="td_uid_32_6957fbb91a64e" data-td_block_id="td_uid_29_6957fbb919d5a" data-td_filter_value="191" href="https://www.flotauto.com/equipements-services/pneumatiques/">Pneumatiques</a><a class="mega-menu-sub-cat-td_uid_29_6957fbb919d5a"  id="td_uid_33_6957fbb91a668" data-td_block_id="td_uid_29_6957fbb919d5a" data-td_filter_value="193" href="https://www.flotauto.com/equipements-services/telematique-embarquee/">Télématique embarquée</a><a class="mega-menu-sub-cat-td_uid_29_6957fbb919d5a"  id="td_uid_34_6957fbb91a680" data-td_block_id="td_uid_29_6957fbb919d5a" data-td_filter_value="173" href="https://www.flotauto.com/equipements-services/moteurs-composants/">Moteurs et composants</a></div></div><div id=td_uid_29_6957fbb919d5a class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_29_6958357b73cbb_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_29_6958357b73cbb" ><script>var block_td_uid_29_6958357b73cbb = new tdBlock();
+block_td_uid_29_6958357b73cbb.id = "td_uid_29_6958357b73cbb";
+block_td_uid_29_6958357b73cbb.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"181","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_29_6958357b73cbb_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_29_6958357b73cbb.td_column_number = "3";
+block_td_uid_29_6958357b73cbb.block_type = "td_block_mega_menu";
+block_td_uid_29_6958357b73cbb.post_count = "4";
+block_td_uid_29_6958357b73cbb.found_posts = "1432";
+block_td_uid_29_6958357b73cbb.header_color = "";
+block_td_uid_29_6958357b73cbb.ajax_pagination_infinite_stop = "";
+block_td_uid_29_6958357b73cbb.max_num_pages = "358";
+tdBlocksArray.push(block_td_uid_29_6958357b73cbb);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_29_6958357b73cbb"  id="td_uid_30_6958357b742d4" data-td_block_id="td_uid_29_6958357b73cbb" data-td_filter_value="183" href="https://www.flotauto.com/equipements-services/amenagement/">Aménagement</a><a class="mega-menu-sub-cat-td_uid_29_6958357b73cbb"  id="td_uid_31_6958357b742f7" data-td_block_id="td_uid_29_6958357b73cbb" data-td_filter_value="185" href="https://www.flotauto.com/equipements-services/entretien-reparation/">Entretien / Réparation</a><a class="mega-menu-sub-cat-td_uid_29_6958357b73cbb"  id="td_uid_32_6958357b74312" data-td_block_id="td_uid_29_6958357b73cbb" data-td_filter_value="191" href="https://www.flotauto.com/equipements-services/pneumatiques/">Pneumatiques</a><a class="mega-menu-sub-cat-td_uid_29_6958357b73cbb"  id="td_uid_33_6958357b7432a" data-td_block_id="td_uid_29_6958357b73cbb" data-td_filter_value="193" href="https://www.flotauto.com/equipements-services/telematique-embarquee/">Télématique embarquée</a><a class="mega-menu-sub-cat-td_uid_29_6958357b73cbb"  id="td_uid_34_6958357b74341" data-td_block_id="td_uid_29_6958357b73cbb" data-td_filter_value="173" href="https://www.flotauto.com/equipements-services/moteurs-composants/">Moteurs et composants</a></div></div><div id=td_uid_29_6958357b73cbb class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
                 <div class="td-module-thumb"><a href="https://www.flotauto.com/groupe-montparnasse-participation/" rel="bookmark" title="Dix ans de télématique pour le Groupe Montparnasse Participation"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/trafic-voitures-218x150-derived.jpg" alt="trafic voitures" title="trafic voitures"/></a></div>                <a href="https://www.flotauto.com/equipements-services/telematique-embarquee/" class="td-post-category">Télématique embarquée</a>            </div>
@@ -818,23 +818,23 @@ tdBlocksArray.push(block_td_uid_29_6957fbb919d5a);
             <div class="item-details">
                 <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/shiftmove-ocean-acquisition/" rel="bookmark" title="Shiftmove acquiert Océan">Shiftmove acquiert Océan</a></span>            </div>
         </div>
-        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_29_6957fbb919d5a" data-td_block_id="td_uid_29_6957fbb919d5a" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_29_6957fbb919d5a" data-td_block_id="td_uid_29_6957fbb919d5a" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_29_6958357b73cbb" data-td_block_id="td_uid_29_6958357b73cbb" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_29_6958357b73cbb" data-td_block_id="td_uid_29_6958357b73cbb" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-253213"><a href="https://www.flotauto.com/securite-routiere/">Sécurité routière</a>
 <ul class="sub-menu">
-	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_35_6957fbb91b15d_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_35_6957fbb91b15d" ><script>var block_td_uid_35_6957fbb91b15d = new tdBlock();
-block_td_uid_35_6957fbb91b15d.id = "td_uid_35_6957fbb91b15d";
-block_td_uid_35_6957fbb91b15d.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"139","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_35_6957fbb91b15d_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
-block_td_uid_35_6957fbb91b15d.td_column_number = "3";
-block_td_uid_35_6957fbb91b15d.block_type = "td_block_mega_menu";
-block_td_uid_35_6957fbb91b15d.post_count = "4";
-block_td_uid_35_6957fbb91b15d.found_posts = "883";
-block_td_uid_35_6957fbb91b15d.header_color = "";
-block_td_uid_35_6957fbb91b15d.ajax_pagination_infinite_stop = "";
-block_td_uid_35_6957fbb91b15d.max_num_pages = "221";
-tdBlocksArray.push(block_td_uid_35_6957fbb91b15d);
-</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_35_6957fbb91b15d"  id="td_uid_36_6957fbb91bb3c" data-td_block_id="td_uid_35_6957fbb91b15d" data-td_filter_value="7923" href="https://www.flotauto.com/securite-routiere/preventionroutiere/">Prévention routière</a><a class="mega-menu-sub-cat-td_uid_35_6957fbb91b15d"  id="td_uid_37_6957fbb91bb64" data-td_block_id="td_uid_35_6957fbb91b15d" data-td_filter_value="159" href="https://www.flotauto.com/securite-routiere/eco-conduite/">Éco-conduite</a><a class="mega-menu-sub-cat-td_uid_35_6957fbb91b15d"  id="td_uid_38_6957fbb91bb80" data-td_block_id="td_uid_35_6957fbb91b15d" data-td_filter_value="187" href="https://www.flotauto.com/securite-routiere/equipements-securite/">Équipements de sécurité</a><a class="mega-menu-sub-cat-td_uid_35_6957fbb91b15d"  id="td_uid_39_6957fbb91bb98" data-td_block_id="td_uid_35_6957fbb91b15d" data-td_filter_value="189" href="https://www.flotauto.com/securite-routiere/outils-aide-conduite/">Outils d&rsquo;aide à la conduite</a><a class="mega-menu-sub-cat-td_uid_35_6957fbb91b15d"  id="td_uid_40_6957fbb91bbb0" data-td_block_id="td_uid_35_6957fbb91b15d" data-td_filter_value="7919" href="https://www.flotauto.com/securite-routiere/chiffres-securite-routiere/">Chiffres sécurité routière</a></div></div><div id=td_uid_35_6957fbb91b15d class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_35_6958357b74c4e_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_35_6958357b74c4e" ><script>var block_td_uid_35_6958357b74c4e = new tdBlock();
+block_td_uid_35_6958357b74c4e.id = "td_uid_35_6958357b74c4e";
+block_td_uid_35_6958357b74c4e.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"139","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_35_6958357b74c4e_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_35_6958357b74c4e.td_column_number = "3";
+block_td_uid_35_6958357b74c4e.block_type = "td_block_mega_menu";
+block_td_uid_35_6958357b74c4e.post_count = "4";
+block_td_uid_35_6958357b74c4e.found_posts = "883";
+block_td_uid_35_6958357b74c4e.header_color = "";
+block_td_uid_35_6958357b74c4e.ajax_pagination_infinite_stop = "";
+block_td_uid_35_6958357b74c4e.max_num_pages = "221";
+tdBlocksArray.push(block_td_uid_35_6958357b74c4e);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="mega-menu-sub-cat-td_uid_35_6958357b74c4e"  id="td_uid_36_6958357b752b6" data-td_block_id="td_uid_35_6958357b74c4e" data-td_filter_value="7923" href="https://www.flotauto.com/securite-routiere/preventionroutiere/">Prévention routière</a><a class="mega-menu-sub-cat-td_uid_35_6958357b74c4e"  id="td_uid_37_6958357b752d9" data-td_block_id="td_uid_35_6958357b74c4e" data-td_filter_value="159" href="https://www.flotauto.com/securite-routiere/eco-conduite/">Éco-conduite</a><a class="mega-menu-sub-cat-td_uid_35_6958357b74c4e"  id="td_uid_38_6958357b752f4" data-td_block_id="td_uid_35_6958357b74c4e" data-td_filter_value="187" href="https://www.flotauto.com/securite-routiere/equipements-securite/">Équipements de sécurité</a><a class="mega-menu-sub-cat-td_uid_35_6958357b74c4e"  id="td_uid_39_6958357b7530c" data-td_block_id="td_uid_35_6958357b74c4e" data-td_filter_value="189" href="https://www.flotauto.com/securite-routiere/outils-aide-conduite/">Outils d&rsquo;aide à la conduite</a><a class="mega-menu-sub-cat-td_uid_35_6958357b74c4e"  id="td_uid_40_6958357b75322" data-td_block_id="td_uid_35_6958357b74c4e" data-td_filter_value="7919" href="https://www.flotauto.com/securite-routiere/chiffres-securite-routiere/">Chiffres sécurité routière</a></div></div><div id=td_uid_35_6958357b74c4e class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
                 <div class="td-module-thumb"><a href="https://www.flotauto.com/stephane-neviere-sodexo/" rel="bookmark" title="Stéphane Nevière, Sodexo : « Former et sensibiliser dès l’embauche »"><img width="218" height="150" class="entry-thumb" src="https://www.flotauto.com/wp-content/uploads/2025/12/neviere-218x150-derived.jpg" alt="" title=""/></a></div>                <a href="https://www.flotauto.com/securite-routiere/preventionroutiere/" class="td-post-category">Prévention routière</a>            </div>
@@ -866,7 +866,7 @@ tdBlocksArray.push(block_td_uid_35_6957fbb91b15d);
             <div class="item-details">
                 <span class="entry-title  td-module-title"><a href="https://www.flotauto.com/jean-philippe-daurut-axa/" rel="bookmark" title="Jean-Philippe Daurut, Axa France : « Former les collaborateurs à la sécurité routière »"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Jean-Philippe Daurut, Axa France : « Former les collaborateurs à la sécurité routière »</a></span>            </div>
         </div>
-        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_35_6957fbb91b15d" data-td_block_id="td_uid_35_6957fbb91b15d" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_35_6957fbb91b15d" data-td_block_id="td_uid_35_6957fbb91b15d" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_35_6958357b74c4e" data-td_block_id="td_uid_35_6958357b74c4e" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_35_6958357b74c4e" data-td_block_id="td_uid_35_6958357b74c4e" target="_blank" rel="nofollow"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-120575"><a href="https://www.flotauto.com/nos-services">Nos services</a>
@@ -936,7 +936,7 @@ tdBlocksArray.push(block_td_uid_35_6957fbb91b15d);
 
                 
                 <div class="td-module-meta-info">
-                    <div class="td-post-author-name">par Intissar El Hajj Mohamed<span class="td-post-author-separator"> - </span></div>					                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-12-05T11:43:25+00:00">Publié le 05/12/2025</time></span>                                        <div class="td-post-print"><button style="background-color:transparent; color:#bbbbbb;" onclick="window.alert('L’impression des articles est réservée aux abonnés. Connectez-vous pour imprimer cet article.')" title="L’impression des articles est réservée aux abonnés. Connectez-vous pour imprimer cet article."><i class="fa fa-print fa-2x" aria-hidden="true"></i></button></div>                                        <div class="td-post-views"><i class="td-icon-views"></i><span class="td-nr-views-347029">1838</span></div>                </div>
+                    <div class="td-post-author-name">par Intissar El Hajj Mohamed<span class="td-post-author-separator"> - </span></div>					                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-12-05T11:43:25+00:00">Publié le 05/12/2025</time></span>                                        <div class="td-post-print"><button style="background-color:transparent; color:#bbbbbb;" onclick="window.alert('L’impression des articles est réservée aux abonnés. Connectez-vous pour imprimer cet article.')" title="L’impression des articles est réservée aux abonnés. Connectez-vous pour imprimer cet article."><i class="fa fa-print fa-2x" aria-hidden="true"></i></button></div>                                        <div class="td-post-views"><i class="td-icon-views"></i><span class="td-nr-views-347029">1851</span></div>                </div>
 
             </header>
 
@@ -1048,7 +1048,7 @@ tdBlocksArray.push(block_td_uid_35_6957fbb91b15d);
   <noscript class="vamtc-embed-noscript">
     <style>noscript.vamtc-embed-noscript ~ * { display: none; }</style>
       JavaScript est désactivé dans ce navigateur.  </noscript>
-  <style>input#vamtc-c3a32c80::placeholder { color:#abb8c3 }</style>
+  <style>input#vamtc-3d20fb83::placeholder { color:#abb8c3 }</style>
   <div class="vamtc-embed" style="background-color:#ffffff;border-color:#fcc116">
     <form class="vamtc-embed-form" method="POST">
       <input type="hidden" name="settings" value="{&quot;templateId&quot;:&quot;297&quot;,&quot;pageId&quot;:&quot;228141&quot;,&quot;listAlias&quot;:&quot;fl-newsletter&quot;,&quot;sourceUrl&quot;:&quot;https://www.flotauto.com/flotte-etat-vo&quot;,&quot;formType&quot;:&quot;block:embed-form&quot;,&quot;startPath&quot;:&quot;/wp-json/vamtc/v1/subscription-start&quot;}">
@@ -1060,7 +1060,7 @@ tdBlocksArray.push(block_td_uid_35_6957fbb91b15d);
         <div class="vamtc-embed-foreword"><strong>NEWSLETTER</strong><br>Recevez chaque mardi notre récap hebdo de l'actualité des flottes</div>
         <div class="vamtc-embed-combo-container">
           <div class="vamtc-embed-combo" style="border-color:#fcc116">
-            <input required type="email" name="email" id="vamtc-c3a32c80" class="vamtc-embed-combo-input" placeholder="* votre email professionnel           " style="width:188px">
+            <input required type="email" name="email" id="vamtc-3d20fb83" class="vamtc-embed-combo-input" placeholder="* votre email professionnel           " style="width:188px">
             <button class="vamtc-embed-combo-button" style="color:#ffffff;background-color:#00519e;border-color:#fcc116">
               <svg width="16" height="16" viewBox="0 0 10 10">
                  <polygon points="0,0 10,5 0,10" fill="currentColor"></polygon>
@@ -1084,18 +1084,18 @@ tdBlocksArray.push(block_td_uid_35_6957fbb91b15d);
 
     </article> <!-- /.post -->
 
-    <div class="td_block_wrap td_block_related_posts td_uid_41_6957fbb91e880_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_41_6957fbb91e880" ><script>var block_td_uid_41_6957fbb91e880 = new tdBlock();
-block_td_uid_41_6957fbb91e880.id = "td_uid_41_6957fbb91e880";
-block_td_uid_41_6957fbb91e880.atts = '{"limit":3,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_custom_related","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_41_6957fbb91e880_rand","offset":"","css":"","live_filter":"cur_post_same_categories","live_filter_cur_post_id":347029,"live_filter_cur_post_author":"10979"}';
-block_td_uid_41_6957fbb91e880.td_column_number = "3";
-block_td_uid_41_6957fbb91e880.block_type = "td_block_related_posts";
-block_td_uid_41_6957fbb91e880.post_count = "3";
-block_td_uid_41_6957fbb91e880.found_posts = "255";
-block_td_uid_41_6957fbb91e880.header_color = "";
-block_td_uid_41_6957fbb91e880.ajax_pagination_infinite_stop = "";
-block_td_uid_41_6957fbb91e880.max_num_pages = "85";
-tdBlocksArray.push(block_td_uid_41_6957fbb91e880);
-</script><h4 class="td-related-title"><a id="td_uid_42_6957fbb91efcc" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="td_uid_41_6957fbb91e880" href="#">ARTICLES SUR LE MÊME SUJET</a><a id="td_uid_43_6957fbb91efd0" class="td-related-right" data-td_filter_value="td_related_more_from_author" data-td_block_id="td_uid_41_6957fbb91e880" href="#">Du même auteur</a></h4><div id=td_uid_41_6957fbb91e880 class="td_block_inner">
+    <div class="td_block_wrap td_block_related_posts td_uid_41_6958357b7799e_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_41_6958357b7799e" ><script>var block_td_uid_41_6958357b7799e = new tdBlock();
+block_td_uid_41_6958357b7799e.id = "td_uid_41_6958357b7799e";
+block_td_uid_41_6958357b7799e.atts = '{"limit":3,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_custom_related","td_ajax_filter_ids":"","td_filter_default_txt":"Tous","color_preset":"","border_top":"","class":"td_uid_41_6958357b7799e_rand","offset":"","css":"","live_filter":"cur_post_same_categories","live_filter_cur_post_id":347029,"live_filter_cur_post_author":"10979"}';
+block_td_uid_41_6958357b7799e.td_column_number = "3";
+block_td_uid_41_6958357b7799e.block_type = "td_block_related_posts";
+block_td_uid_41_6958357b7799e.post_count = "3";
+block_td_uid_41_6958357b7799e.found_posts = "255";
+block_td_uid_41_6958357b7799e.header_color = "";
+block_td_uid_41_6958357b7799e.ajax_pagination_infinite_stop = "";
+block_td_uid_41_6958357b7799e.max_num_pages = "85";
+tdBlocksArray.push(block_td_uid_41_6958357b7799e);
+</script><h4 class="td-related-title"><a id="td_uid_42_6958357b78380" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="td_uid_41_6958357b7799e" href="#">ARTICLES SUR LE MÊME SUJET</a><a id="td_uid_43_6958357b78383" class="td-related-right" data-td_filter_value="td_related_more_from_author" data-td_block_id="td_uid_41_6958357b7799e" href="#">Du même auteur</a></h4><div id=td_uid_41_6958357b7799e class="td_block_inner">
 
 	<div class="td-related-row">
 
@@ -1130,7 +1130,7 @@ tdBlocksArray.push(block_td_uid_41_6957fbb91e880);
                 <h4 class="entry-title  td-module-title"><a href="https://www.flotauto.com/rodolphe-tabbagh-vehiposte-vo/" rel="bookmark" title="Rodolphe Tabbagh, Véhiposte : « 85 % de nos véhicules sont vendus en l’état »"><i class="premium-lock fa fa-user" title="Ce contenu premium est réservé aux abonnés." aria-hidden="true"></i>Rodolphe Tabbagh, Véhiposte : « 85 % de nos véhicules sont vendus en l’état »</a></h4>            </div>
         </div>
         
-	</div> <!-- ./td-related-span4 --></div><!--./row-fluid--></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_41_6957fbb91e880" data-td_block_id="td_uid_41_6957fbb91e880"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_41_6957fbb91e880" data-td_block_id="td_uid_41_6957fbb91e880"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block -->
+	</div> <!-- ./td-related-span4 --></div><!--./row-fluid--></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_41_6958357b7799e" data-td_block_id="td_uid_41_6958357b7799e"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_41_6958357b7799e" data-td_block_id="td_uid_41_6958357b7799e"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block -->
                                 </div>
                             </div>
                             <div class="td-pb-span4 td-main-sidebar" role="complementary">
@@ -1146,14 +1146,14 @@ tdBlocksArray.push(block_td_uid_41_6957fbb91e880);
     <noscript class="vamtc-quick-noscript">
         <style>noscript.vamtc-quick-noscript ~ * { display: none; }</style>
         JavaScript est désactivé dans ce navigateur.    </noscript>
-    <style>input#vamtc-7ca12702::placeholder { color:#e7e7e7 }</style>
+    <style>input#vamtc-6ff00241::placeholder { color:#e7e7e7 }</style>
     <div class="vamtc-quick" style="background-color:#164d8e;color:#ffffff">
         <form class="vamtc-quick-form" method="POST">
             <input type="hidden" name="settings" value="{&quot;templateId&quot;:&quot;297&quot;,&quot;pageId&quot;:&quot;228141&quot;,&quot;listAlias&quot;:&quot;fl-newsletter&quot;,&quot;sourceUrl&quot;:&quot;https://www.flotauto.com/flotte-etat-vo&quot;,&quot;formType&quot;:&quot;widget:classic&quot;,&quot;startPath&quot;:&quot;/wp-json/vamtc/v1/subscription-start&quot;}">
             <input type="hidden" name="signature" value="2793fea8f8cfd1471dab6bfc10cadb43fea9d941f8ba6c13a0f3e207aab33744">
             <div class="vamtc-quick-foreword">RECEVEZ LA NEWSLETTER</div>
             <div class="vamtc-quick-row" style="border-color:#f7bf10">
-                <input required type="email" name="email" placeholder="votre email professionnel" class="vamtc-quick-input" style="border-color:#f7bf10" id="vamtc-7ca12702">
+                <input required type="email" name="email" placeholder="votre email professionnel" class="vamtc-quick-input" style="border-color:#f7bf10" id="vamtc-6ff00241">
                 <div class="vamtc-quick-button-cell">
                     <button class="vamtc-quick-button" style="color:#ffffff;background-color:#f7bf10">
                         ▶                    </button>
@@ -1264,7 +1264,7 @@ tdBlocksArray.push(block_td_uid_41_6957fbb91e880);
         Version: 2.22 (rara)
         Deploy mode: deploy
         
-        uid: 6957fbb922b51
+        uid: 6958357b7b2c1
     -->
 
     
@@ -1399,7 +1399,7 @@ var Getwid = {"settings":[],"ajax_url":"https:\/\/www.flotauto.com\/wp-admin\/ad
 <!-- Hostname    : prod01 (::ffff:212.83.141.158) -->
 <!-- PHP Version : 8.2.29 -->
 <!-- Performance  
-     TOTAL time: 245.4 ms 
+     TOTAL time: 224.7 ms 
      Num SQL queries: 349 
  -->
 </body>

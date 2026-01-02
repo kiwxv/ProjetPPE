@@ -1629,60 +1629,6 @@
                     </article>
                                     <article
         class="fig-ranking-profile-container fig-ranking-profile-small-picture
-         fig-ranking-profile--premium         fig-ranking-profile--suggested"
-        data-content-name="article"
-                            >
-        
-                        
-                                                                                                                                                                                                                                                            <a
-            href="https://www.lefigaro.fr/international/l-enigmatique-portrait-de-maffeo-barberini-du-caravage-bientot-expose-a-rome-20241116"
-            class="fig-ranking-profile-link"
-                            aria-label="L’énigmatique Portrait de Maffeo Barberini du Caravage, bientôt exposé à Rome (article Premium)"
-                title="L’énigmatique Portrait de Maffeo Barberini du Caravage, bientôt exposé à Rome (article Premium)"
-                                                                                    data-fig-domain="LEFIGARO"
-        >
-    
-                
-                            
-    
-    
-    
-
-
-
-        <h2
-        class="fig-ranking-profile-headline
-         fig-premium-mark        "
-    >
-        L’énigmatique <i>Portrait de Maffeo Barberini</i> du Caravage, bientôt exposé à Rome</h2>
-
-                
-                                                </a>
-    
-                
-                            
-    
-    
-        <figure class="fig-ranking-profile-media-small-picture"><div class="fig-placeholder fig-placeholder--16-9 fig-lazy"><img data-srcset="https://i.f1g.fr/media/cms/120x68_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 120w, https://i.f1g.fr/media/cms/224x126_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 224w, https://i.f1g.fr/media/cms/282x159_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 282w" sizes="(min-width: 64em) 224px, (min-width: 48em) 282px, 120px" class="fig-img fig-ranking-profile-media-small-picture__photo" alt="L’énigmatique Portrait de Maffeo Barberini du Caravage, bientôt exposé à Rome" height="720" width="1280"/><noscript><img srcset="https://i.f1g.fr/media/cms/120x68_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 120w, https://i.f1g.fr/media/cms/224x126_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 224w, https://i.f1g.fr/media/cms/282x159_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 282w" sizes="(min-width: 64em) 224px, (min-width: 48em) 282px, 120px" class="fig-img--complete fig-img fig-ranking-profile-media-small-picture__photo" alt="L’énigmatique Portrait de Maffeo Barberini du Caravage, bientôt exposé à Rome" height="720" width="1280"/></noscript></div></figure>
-    
-                
-                            
-    
-    
-    
-
-<p class="fig-ranking-profile-standfirst">
-    <strong>VU D’AILLEURS -</strong> Resté introuvable pendant plusieurs décennies, ce tableau du Caravage sera exposé pour la toute première fois à Rome, au Palazzo Barberini, à partir du 22 novembre prochain.
-</p>
-
-                
-                        
-                        
-                        
-        
-                    </article>
-                                    <article
-        class="fig-ranking-profile-container fig-ranking-profile-small-picture
                  fig-ranking-profile--suggested"
         data-content-name="newsflash"
                             >
@@ -1740,6 +1686,60 @@
 
 <p class="fig-ranking-profile-standfirst">
     Cet acte antimusulman pourrait s’apparenter à une mesure de représailles, alors que plusieurs médias, dont la chaîne américaine ABC News, ont indiqué que l’un des deux auteurs présumés de l’attentat avait fait l’objet d’une enquête pour ses liens supposés avec l’État islamique.
+</p>
+
+                
+                        
+                        
+                        
+        
+                    </article>
+                                    <article
+        class="fig-ranking-profile-container fig-ranking-profile-small-picture
+         fig-ranking-profile--premium         fig-ranking-profile--suggested"
+        data-content-name="article"
+                            >
+        
+                        
+                                                                                                                                                                                                                                                            <a
+            href="https://www.lefigaro.fr/international/l-enigmatique-portrait-de-maffeo-barberini-du-caravage-bientot-expose-a-rome-20241116"
+            class="fig-ranking-profile-link"
+                            aria-label="L’énigmatique Portrait de Maffeo Barberini du Caravage, bientôt exposé à Rome (article Premium)"
+                title="L’énigmatique Portrait de Maffeo Barberini du Caravage, bientôt exposé à Rome (article Premium)"
+                                                                                    data-fig-domain="LEFIGARO"
+        >
+    
+                
+                            
+    
+    
+    
+
+
+
+        <h2
+        class="fig-ranking-profile-headline
+         fig-premium-mark        "
+    >
+        L’énigmatique <i>Portrait de Maffeo Barberini</i> du Caravage, bientôt exposé à Rome</h2>
+
+                
+                                                </a>
+    
+                
+                            
+    
+    
+        <figure class="fig-ranking-profile-media-small-picture"><div class="fig-placeholder fig-placeholder--16-9 fig-lazy"><img data-srcset="https://i.f1g.fr/media/cms/120x68_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 120w, https://i.f1g.fr/media/cms/224x126_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 224w, https://i.f1g.fr/media/cms/282x159_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 282w" sizes="(min-width: 64em) 224px, (min-width: 48em) 282px, 120px" class="fig-img fig-ranking-profile-media-small-picture__photo" alt="L’énigmatique Portrait de Maffeo Barberini du Caravage, bientôt exposé à Rome" height="720" width="1280"/><noscript><img srcset="https://i.f1g.fr/media/cms/120x68_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 120w, https://i.f1g.fr/media/cms/224x126_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 224w, https://i.f1g.fr/media/cms/282x159_crop/2024/11/16/6768235e4c439bc0c51695bd42cf58bbcc387ed89a63a3287e0ed63b955efb32.jpg 282w" sizes="(min-width: 64em) 224px, (min-width: 48em) 282px, 120px" class="fig-img--complete fig-img fig-ranking-profile-media-small-picture__photo" alt="L’énigmatique Portrait de Maffeo Barberini du Caravage, bientôt exposé à Rome" height="720" width="1280"/></noscript></div></figure>
+    
+                
+                            
+    
+    
+    
+
+<p class="fig-ranking-profile-standfirst">
+    <strong>VU D’AILLEURS -</strong> Resté introuvable pendant plusieurs décennies, ce tableau du Caravage sera exposé pour la toute première fois à Rome, au Palazzo Barberini, à partir du 22 novembre prochain.
 </p>
 
                 

@@ -14,6 +14,9 @@ FICHIER_URLS="../URLs/${LANGUE}_url.txt"
 DOSSIER_IDOINE="../idoine/${LANGUE}"
 FICHIER_HTML="../tableaux/${LANGUE}_site.html"
 
+# on crée un sous dossier par langue dans chaque dossier pour ne pas mélanger tous les fichiers si on lance le programme plusieurs fois sur plusieurs langues
+mkdir -p "../idoine/${LANGUE}" "../dumps-text/${LANGUE}" "../contextes/${LANGUE}"
+
 
 # Vérification que le fichier d'URLs existe
 if [ ! -f "$FICHIER_URLS" ]; then
@@ -24,12 +27,8 @@ fi
 #initialisation d'une variable comptant les lignes
 compteur=1
 
-
-
-
-
 #on crée une variable qui va stocker nos données extraites dans un tableau pour les traiter ensuite
-TSV+=$'Ligne\tCode_HTTP\tEncodage\tMots\tURL\nAspiration\nDump\nContexte\n'
+TSV+=$'Ligne\tCode_HTTP\tEncodage\tMots\tURL\tAspiration\tDump Initial\tDump UTF-8\tContexte\n'
 
 echo "Traitement des urls..."
 while read -r line;
@@ -77,6 +76,7 @@ do
 		encodage_autre=$(file -b --mime-encoding "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt")
 		echo "URL $compteur : Encodage autre que UTF-8 : $encodage_autre"
 		if [[ "$encodage_autre" != "binary" && "$encodage_autre" != "unknown"* ]]; then
+            lynx -dump -nolist "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt" > "../dumps-text/${LANGUE}/${LANGUE}${compteur}_initial.txt"
             iconv -f "$encodage_autre" -t utf-8 "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt" > "../idoine/${LANGUE}/${LANGUE}${compteur}_page.tmp"
             #on remplace l'ancien fichier par celui qui vient de réencoder
 			mv "../idoine/${LANGUE}/${LANGUE}${compteur}_page.tmp" "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt"
@@ -91,8 +91,16 @@ do
 
 	mots=$(echo "$contenu"| wc -w)
 
+	lien_asp="../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt"
+    lien_dump="../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt"
+    lien_dumpinitial="../dumps-text/${LANGUE}/${LANGUE}${compteur}_initial.txt"
+    if [ ! -f "$lien_dumpinitial" ]; then
+        lien_dumpinitial="   "
+    fi
+    lien_ctx="../contextes/${LANGUE}/${LANGUE}${compteur}_contexte.txt"
+
 	#on ajoute nos infos dans la varibale TSV
-	TSV+="${compteur}"$'\t'"${code}"$'\t'"${encodage}"$'\t'"${mots}"$'\t'"${line}"$'\n'
+	TSV+="${compteur}"$'\t'"${code}"$'\t'"${encodage}"$'\t'"${mots}"$'\t'"${line}"$'\t'"${lien_asp}"$'\t'"${lien_dumpinitial}"$'\t'"${lien_dump}"$'\t'"${lien_ctx}"$'\n'
 	echo "Url $compteur traité"
 
 	#incrémentation compteur
@@ -133,14 +141,22 @@ do
         done
         echo "          </tr></thead><tbody>"
 	else
-		echo "          <tr>"
-		for col in "${colonne[@]}";
-		do
-			echo "                <td>${col}</td>"
-		done
-		echo "          </tr>"
-	fi
+        echo "          <tr>"
+        col_idx=0
+        for col in "${colonne[@]}"; do
+            if [[ $col_idx -ge 5 ]]; then
+                # On affiche uniquement le nom du fichier (ex: fr1_page.txt)
+                nom_fichier=$(basename "${col}")
+                echo "                <td><a href=\"${col}\" target=\"_blank\">${nom_fichier}</a></td>"
+            else
+                echo "                <td>${col}</td>"
+            fi
+            col_idx=$((col_idx + 1))
+        done
+        echo "          </tr>"
+    fi
 done
+
 echo "      </table>"
 echo " 		</div>"
 echo "  </body>"
@@ -148,3 +164,16 @@ echo "</html>"
 } >"../tableaux/${LANGUE}_site.html"
 
 echo "Fichier crée à : ../tableaux/${LANGUE}_site.html"
+
+#creation du wordcloud
+
+## on crée un fichier temporaire qui stock tous les texte d'une langue pour faire le wordscloud sur tous les contextes extraits
+cat ../contextes/${LANGUE}/*.txt > ../contextes/${LANGUE}/total_${LANGUE}.tmp
+if [ -s "../contextes/${LANGUE}/total_${LANGUE}.tmp" ]; then
+    # Lance la commande wordcloud_cli ici
+else
+    echo "Pas assez de texte pour générer un nuage de mots pour ${LANGUE}"
+fi
+wordcloud_cli --text ../contextes/${LANGUE}/total_${LANGUE}.tmp --imagefile ../images/wordcloud${LANGUE}.png --stopwords ../stopwords/stopwords-${LANGUE} --mask nuage.png --scale 3 --background white --contour_width 3
+
+open ../images/wordcloud${LANGUE}.png
