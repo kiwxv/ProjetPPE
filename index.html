@@ -20,13 +20,19 @@
             animation: fadeInOut 4s infinite; 
         }
 
-        /* --- MODIFICATION IMAGE DE FOND --- */
+        /* --- CORRECTION IMAGE DE FOND --- */
         #intro {
-            background-image: url("images/accueil.jpg"); 
-            background-size: cover;     
+            /* IMPORTANT : Ton image doit être dans le dossier "images" */
+            background-image: url("images/accueil.jpg") !important; 
+            
+            /* Si ton image est à côté de index.html (pas dans un dossier), utilise :
+            background-image: url("accueil.jpg") !important; */
+            
+            background-size: cover;      
             background-position: center; 
-            background-color: rgba(0,0,0,0.4); 
+            background-color: #212931; /* Couleur gris foncé de secours si l'image ne charge pas */
             background-blend-mode: overlay;
+            z-index: 1;
         }
     </style>
 </head>
@@ -55,6 +61,7 @@
                 <li><a href="tableaux.html">Tableaux</a></li>
                 <li><a href="scripts.html">Scripts</a></li>
                 <li><a href="nuages.html">Nuages de mots</a></li>
+                <li><a href="itrameur.html">iTrameur</a></li>
             </ul>
             <ul class="icons">
                 <li><a href="https://github.com/kiwxv/ProjetPPE" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
@@ -147,10 +154,12 @@
         const titles = ["FLOTTE", "FLEET", "FLÅTE"];
         let titleIndex = 0;
         const fadingTitle = document.getElementById('fadingTitle');
-        fadingTitle.addEventListener('animationiteration', () => {
-            titleIndex = (titleIndex + 1) % titles.length;
-            fadingTitle.textContent = titles[titleIndex];
-        });
+        if(fadingTitle) {
+            fadingTitle.addEventListener('animationiteration', () => {
+                titleIndex = (titleIndex + 1) % titles.length;
+                fadingTitle.textContent = titles[titleIndex];
+            });
+        }
     </script>
 </body>
 </html>
