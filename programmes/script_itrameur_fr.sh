@@ -3,7 +3,6 @@
 # 1. Vérification de l'argument
 if [ $# -ne 1 ]; then
     echo "Usage: ./script_itrameur.sh <langue>"
-    echo "Exemple: ./script_itrameur.sh fr"
     exit 1
 fi
 
@@ -11,36 +10,53 @@ LANGUE=$1
 DOSSIER_DUMPS="../dumps-text/${LANGUE}"
 OUTPUT="../itrameur/${LANGUE}_corpus.txt"
 
-# On crée le dossier itrameur s'il n'existe pas
 mkdir -p "../itrameur"
 
-# Vérification que le dossier des dumps existe
 if [ ! -d "$DOSSIER_DUMPS" ]; then
-    echo "Erreur : Le dossier $DOSSIER_DUMPS n'existe pas. Lancez d'abord le script principal."
+    echo "Erreur : Le dossier $DOSSIER_DUMPS n'existe pas."
     exit 1
 fi
 
 echo "Création du corpus pour iTrameur : $OUTPUT"
 
-# Début du fichier XML
+# Début du XML
 echo "<lang=\"$LANGUE\">" > "$OUTPUT"
 
-# On boucle sur chaque fichier texte
+# Boucle sur les fichiers
 for filepath in "$DOSSIER_DUMPS"/*.txt; do
-    # [ -s ] vérifie que le fichier existe ET n'est pas vide (évite les bugs)
     if [ -s "$filepath" ]; then
         filename=$(basename "$filepath")
         
-        # --- NETTOYAGE ---
-        # 1. iconv -c : Enlève les caractères invalides
-        # 2. 2>/dev/null : Cache les erreurs "unexpected end of file" (accents coupés)
-        # 3. tr -d '\r' : Supprime les retours chariot Windows
-        content=$(iconv -f utf-8 -t utf-8 -c "$filepath" 2>/dev/null | tr -d '\r')
+        # --- SOLUTION CIBLÉE ---
+        # 1. Decode avec 'replace' -> Crée des 
+        # 2. On remplace spécifiquement le motif "Flte" (et ses variantes) par "flåte"
         
-        # 4. Protection des balises XML pour iTrameur (<, >, &)
-        content=$(echo "$content" | sed 's/&/&amp;/g; s/</&lt;/g; s/>/&gt;/g')
+        content=$(python3 -c "
+import sys
 
-        # On écrit la structure XML
+# Lecture binaire
+raw = sys.stdin.buffer.read()
+
+# Décodage (les erreurs deviennent )
+text = raw.decode('utf-8', errors='replace')
+
+# --- RÉPARATIONS ---
+# On cible le caractère de remplacement (Unicode \ufffd est le fameux )
+text = text.replace('Fl\ufffdte', 'flåte')
+text = text.replace('fl\ufffdte', 'flåte')
+text = text.replace('Flte', 'flåte')
+text = text.replace('flte', 'flåte')
+
+# Au cas où il resterait l'ancienne erreur
+text = text.replace('FlÂte', 'flåte')
+
+# Nettoyage XML pour iTrameur
+text = text.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+
+print(text)
+" < "$filepath")
+
+        # Écriture dans le fichier final
         echo "<page=\"$filename\">" >> "$OUTPUT"
         echo "<text>" >> "$OUTPUT"
         echo "$content" >> "$OUTPUT"
@@ -49,7 +65,7 @@ for filepath in "$DOSSIER_DUMPS"/*.txt; do
     fi
 done
 
-# Fin du fichier XML
+# Fin du XML
 echo "</lang>" >> "$OUTPUT"
 
-echo "Terminé ! Le fichier est prêt ici : $OUTPUT"
+echo "Terminé ! Le fichier est réparé."
