@@ -1,4 +1,5 @@
 #!/bin/bash
+export LC_ALL=C.UTF-8
 
 # 1. Vérification de l'argument
 if [ $# -ne 1 ]; then
@@ -9,19 +10,27 @@ fi
 LANGUE=$1
 compteur=1
 
-# 2. Définition du mot clé selon la langue
+# 2. Définition du mot clé (VERSION "FILET DE PÊCHE")
 if [[ $LANGUE == "fr" ]]; then
     MOT="flotte"
 elif [[ $LANGUE == "ang" ]]; then
     MOT="fleet"
 elif [[ $LANGUE == "nrvg" ]]; then
-    MOT="flåte"
+    # EXPLICATION DU MOTIF NORVÉGIEN :
+    # fl      : le début du mot
+    # ( ... ) : parenthèses pour dire "l'une de ces options"
+    # å       : le vrai caractère
+    # &aring; : le code HTML si le nettoyage a raté
+    # &#229;  : l'autre code HTML possible
+    # .{1,2}  : 1 ou 2 caractères n'importe lesquels (pour gérer les bugs d'encodage Mac)
+    # t       : la lettre t
+    MOT="fl(å|&aring;|&#229;|.{1,2})t"
 else
     MOT=""
     echo "Attention : Langue non reconnue."
 fi
 
-# 3. Création de TOUS les dossiers nécessaires
+# 3. Création des dossiers
 mkdir -p "../URLs"
 mkdir -p "../tableaux"
 mkdir -p "../idoine/${LANGUE}"
@@ -31,13 +40,12 @@ mkdir -p "../contextes/${LANGUE}"
 FICHIER_URLS="../URLs/${LANGUE}_url.txt"
 FICHIER_HTML="../tableaux/${LANGUE}_site.html"
 
-# Vérification fichier URL
 if [ ! -f "$FICHIER_URLS" ]; then
     echo "Erreur : Le fichier $FICHIER_URLS est introuvable."
     exit 1
 fi
 
-# 4. Écriture de l'en-tête HTML
+# 4. En-tête HTML
 echo "Création de l'en-tête HTML..."
 cat <<EOF > "$FICHIER_HTML"
 <!DOCTYPE html>
@@ -53,7 +61,6 @@ cat <<EOF > "$FICHIER_HTML"
         .table-epure th, .table-epure td { border: 2px solid #1e3a8a; padding: 12px 15px; color: #000; vertical-align: middle; }
         .table-epure th { background-color: #f8f9fa; font-weight: bold; border-bottom: 3px solid #1e3a8a; text-align: center; white-space: nowrap; }
         .table-epure tr:hover { background-color: #eef2ff; }
-        /* Colonne URL large, les autres ajustées */
         .table-epure td:nth-child(5) { word-break: break-all; min-width: 200px; }
         .button.is-small { font-size: 0.8rem; }
     </style>
@@ -78,11 +85,10 @@ cat <<EOF > "$FICHIER_HTML"
             <tbody>
 EOF
 
-# 5. Boucle de traitement
-echo "Traitement des URLs pour : $MOT"
+# 5. Boucle
+echo "Traitement des URLs pour le motif : $MOT"
 
 while read -r line; do
-    # -- A. Téléchargement unique --
     code_http=$(curl -s -L -o "page_temp.html" -w "%{http_code}" "$line")
 
     if [ ! -s "page_temp.html" ]; then
@@ -91,10 +97,8 @@ while read -r line; do
         encodage="inconnu"
         nb_mots="0"
     else
-        # -- B. Encodage --
+        # Encodage
         encodage=$(file -b --mime-encoding "page_temp.html")
-
-        # Conversion si nécessaire
         if [[ "$encodage" != "utf-8" && "$encodage" != "us-ascii" ]]; then
             iconv -f "$encodage" -t utf-8 "page_temp.html" > "page_temp_utf8.html" 2>/dev/null
             if [ $? -eq 0 ]; then
@@ -103,39 +107,42 @@ while read -r line; do
             fi
         fi
 
-        # -- C. Sauvegardes --
-        # 1. Page Aspirée (HTML)
+        # Sauvegardes
         cp "page_temp.html" "../idoine/${LANGUE}/${LANGUE}-${compteur}.html"
 
-        # 2. Dump (Texte)
+        # Dump
         if command -v lynx >/dev/null 2>&1; then
             lynx -dump -nolist "page_temp.html" > "../dumps-text/${LANGUE}/${LANGUE}-${compteur}.txt"
         else
             sed 's/<[^>]*>/ /g' "page_temp.html" > "../dumps-text/${LANGUE}/${LANGUE}-${compteur}.txt"
         fi
 
-        # 3. Compte mots
+        # Compte mots
         nb_mots=$(wc -w < "../dumps-text/${LANGUE}/${LANGUE}-${compteur}.txt")
 
-        # 4. Contexte
+        # Contexte
         if [ -n "$MOT" ]; then
-            grep -i -C 2 "$MOT" "../dumps-text/${LANGUE}/${LANGUE}-${compteur}.txt" > "../contextes/${LANGUE}/${LANGUE}-${compteur}.txt"
+            CONTEXTE_OUT="../contextes/${LANGUE}/${LANGUE}-${compteur}.txt"
+            
+            # grep -E est OBLIGATOIRE ici pour que ( | ) fonctionne
+            grep -E -i -C 2 "$MOT" "../dumps-text/${LANGUE}/${LANGUE}-${compteur}.txt" > "$CONTEXTE_OUT"
+            
+            if [ ! -s "$CONTEXTE_OUT" ]; then
+                echo "Motif '$MOT' non trouvé (Vérifiez si le site contient bien le mot)." > "$CONTEXTE_OUT"
+            fi
         fi
     fi
 
-    # -- D. Écriture HTML avec les LIENS --
+    # HTML
     echo "                <tr>" >> "$FICHIER_HTML"
     echo "                    <td style=\"text-align:center\">$compteur</td>" >> "$FICHIER_HTML"
     echo "                    <td style=\"text-align:center\">$code_http</td>" >> "$FICHIER_HTML"
     echo "                    <td style=\"text-align:center\">$encodage</td>" >> "$FICHIER_HTML"
     echo "                    <td style=\"text-align:center\">$nb_mots</td>" >> "$FICHIER_HTML"
     echo "                    <td><a href=\"$line\" target=\"_blank\">Lien</a></td>" >> "$FICHIER_HTML"
-    
-    # Voici les 3 nouvelles colonnes avec liens relatifs
     echo "                    <td style=\"text-align:center\"><a href=\"../idoine/${LANGUE}/${LANGUE}-${compteur}.html\" class=\"button is-small is-link is-outlined\">html</a></td>" >> "$FICHIER_HTML"
     echo "                    <td style=\"text-align:center\"><a href=\"../dumps-text/${LANGUE}/${LANGUE}-${compteur}.txt\" class=\"button is-small is-info is-outlined\">txt</a></td>" >> "$FICHIER_HTML"
     echo "                    <td style=\"text-align:center\"><a href=\"../contextes/${LANGUE}/${LANGUE}-${compteur}.txt\" class=\"button is-small is-primary is-outlined\">contexte</a></td>" >> "$FICHIER_HTML"
-    
     echo "                </tr>" >> "$FICHIER_HTML"
 
     echo "Url $compteur traitée ($code_http)"
@@ -143,7 +150,7 @@ while read -r line; do
 
 done < "$FICHIER_URLS"
 
-# Fermeture HTML
+# Fin HTML
 echo "            </tbody>" >> "$FICHIER_HTML"
 echo "        </table>" >> "$FICHIER_HTML"
 echo "    </div>" >> "$FICHIER_HTML"
