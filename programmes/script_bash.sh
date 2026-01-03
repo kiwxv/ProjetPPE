@@ -72,7 +72,7 @@ cat <<EOF > "$FICHIER_HTML"
         <table class="table-epure">
             <thead>
                 <tr>
-                    <th>Ligne</th>
+                    <th>Numéro</th>
                     <th>Code</th>
                     <th>Encodage</th>
                     <th>Mots</th>
