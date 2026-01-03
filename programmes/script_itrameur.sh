@@ -3,7 +3,7 @@
 # 1. Vérification de l'argument
 if [ $# -ne 1 ]; then
     echo "Usage: ./script_itrameur.sh <langue>"
-    echo "Exemple: ./script_itrameur.sh nrvg"
+    echo "Exemple: ./script_itrameur.sh fr"
     exit 1
 fi
 
@@ -27,17 +27,17 @@ echo "<lang=\"$LANGUE\">" > "$OUTPUT"
 
 # On boucle sur chaque fichier texte
 for filepath in "$DOSSIER_DUMPS"/*.txt; do
-    # On vérifie que le fichier existe
-    if [ -f "$filepath" ]; then
+    # [ -s ] vérifie que le fichier existe ET n'est pas vide (évite les bugs)
+    if [ -s "$filepath" ]; then
         filename=$(basename "$filepath")
         
-        # --- CORRECTION ICI ---
-        # 1. On lit le fichier
-        # 2. iconv -c : On nettoie les caractères invalides qui font planter sed sur Mac
-        # 3. tr -d '\r' : On vire les retours chariot Windows au cas où
-        content=$(cat "$filepath" | iconv -f utf-8 -t utf-8 -c | tr -d '\r')
+        # --- NETTOYAGE ---
+        # 1. iconv -c : Enlève les caractères invalides
+        # 2. 2>/dev/null : Cache les erreurs "unexpected end of file" (accents coupés)
+        # 3. tr -d '\r' : Supprime les retours chariot Windows
+        content=$(iconv -f utf-8 -t utf-8 -c "$filepath" 2>/dev/null | tr -d '\r')
         
-        # 4. Maintenant sed ne plantera plus car le texte est propre
+        # 4. Protection des balises XML pour iTrameur (<, >, &)
         content=$(echo "$content" | sed 's/&/&amp;/g; s/</&lt;/g; s/>/&gt;/g')
 
         # On écrit la structure XML
