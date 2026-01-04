@@ -6,10 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="assets/css/main.css" />
     <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    <style>
+        .image-container { text-align: center; margin: 2em 0; }
+        .image-container img { max-width: 100%; height: auto; border: 1px solid #ddd; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        .content-box { background: #f9f9f9; padding: 2em; border-left: 5px solid #1e3a8a; margin-bottom: 2em; }
+    </style>
 </head>
 <body class="is-preload">
     <div id="wrapper">
         <header id="header"><a href="index.html" class="logo">Flotte</a></header>
+        
         <nav id="nav">
             <ul class="links">
                 <li><a href="index.html">Accueil</a></li>
@@ -17,8 +23,7 @@
                 <li><a href="scripts.html">Scripts</a></li>
                 <li><a href="nuages.html">Nuages de mots</a></li>
                 <li class="active"><a href="itrameur.html">iTrameur</a></li>
-                <li><a href="clonclusion.html">Conclusion</a></li>
-
+                <li><a href="analyse.html">Conclusion</a></li>
             </ul>
             <ul class="icons">
                 <li><a href="https://github.com/kiwxv/ProjetPPE" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
@@ -28,27 +33,59 @@
         <div id="main">
             <section class="post">
                 <header class="major">
-                    <h1>Analyse : Français</h1>
-                    <p>Étude des contextes et spécificités du mot "Flotte".</p>
+                    <h1>Analyse : Français (Flotte)</h1>
+                    <p>Étude morphologique et contextuelle.</p>
                 </header>
 
-                <div class="image main">
-                    <img src="images/itrameur_fr.png" alt="Graphique iTrameur Français" />
+                <p>Contrairement au norvégien où les variations morphologiques concernaient principalement la définitude du nom (défini/indéfini), l'analyse des variations du mot <strong>flotte</strong> dans le corpus français, via iTrameur, révèle une problématique de catégorisation grammaticale (Part of Speech).</p>
+
+                <div class="image-container">
+                    <img src="images/itrameur_fr_var.png" alt="Variations du mot flotte dans iTrameur" />
+                    <p><em>Répartition des formes et variations graphiques.</em></p>
                 </div>
 
-                <h3>Interprétation</h3>
-               <p> En français, on remarque que parmis les mots les plus fréquent en coocurrence avec notre mot, on trouve "Russie", "Ukraine", "fantôme", "Starlink". Ces mots pourtant très présents dans nos corpus français,        le sont beaucoup moins dans ceux norvégiens ou anglais. En réalités, ils viennent d'une formulation beaucoup utilisée par les médias français pour désigner une flotte russe constituée de navires civils mais utilisés à des fins militaires. <br/> Le mot "flotte" en français n'est pas d'usage courant, ce qui fait que fait que son utilisation dépend d'avantage de figures de style et de néologismes, ce qui est le cas ici. Alors que le mot "flotte" peut être remplacé dans le langage courant, "flotte fantôme" est une unité figée qui implique l'utilisation du terme flotte à chaque besoin de faire référence à la flotte fantôme. <br/>Le terme "flotte" reste tout de même associé à un registre marin, avec "navire", "pétrolier", "marine", "eau" et aussi militaire avec "guerre", "attaque", "frappe", "frappé".
-                </p>
+                <p>Le tableau de fréquences met d'abord en évidence la prédominance absolue de la forme nominale singulière <strong>flotte</strong> (351 occurrences), renforcée par sa variante avec majuscule <strong>Flotte</strong> (72 occurrences). Cette dernière suggère une forte présence d'entités nommées ou institutionnelles (titres, noms d'armées) qu'il conviendra de vérifier dans le concordancier.</p>
+
+                <div class="content-box">
+                    <p>Cependant, une divergence majeure avec l'analyse scandinave apparaît avec la forme <strong>flotter</strong> (15 occurrences). Alors que la terminaison en <em>-er</em> marque le pluriel indéfini en norvégien (<em>flåter</em>), elle marque ici l'infinitif verbal. Cette homophonie partielle constitue un piège pour l'analyse automatique : ces occurrences renvoient à l'action de "rester à la surface" et non au substantif collectif "groupe de navires". Elles devront donc être traitées séparément pour ne pas fausser l'étude sémantique du nom.</p>
+                </div>
+
+                <p>Enfin, là où le norvégien privilégiait la composition nominale (<em>redningsflåte</em>) pour créer du sens technique, le français opère ici par dérivation suffixale. Le tableau signale la présence de termes comme <strong>flotteur</strong> (4 occurrences) ou <strong>flottement</strong> (1 occurrence). Ces lemmes, bien que partageant la même racine étymologique, désignent des référents distincts (objet technique pour l'un, abstraction psychologique ou physique pour l'autre) qui s'éloignent du sens central de "marine" ou de "parc de véhicules".</p>
 
                 <hr />
-                
-                <div style="text-align: center;">
-                    <a href="itrameur.html" class="button">Retour à iTrameur</a>
+
+                <h2>Analyse en contexte du mot “flotte”</h2>
+
+                <div class="image-container">
+                    <img src="images/itrameur_fr_flotte.png" alt="Concordancier du mot flotte" />
                 </div>
+
+                <p>L'analyse contextuelle du substantif <strong>flotte</strong> à travers le concordancier (KWIC) révèle une orientation discursive radicalement différente de celle observée dans le corpus norvégien. Loin de la matérialité technique du "radeau", les occurrences françaises de cet échantillon se polarisent autour de deux axes majeurs : la géopolitique maritime et la stratégie industrielle.</p>
+
+                <p>Une écrasante majorité des lignes (3 à 10) illustre l'usage militaro-stratégique du terme. Cependant, il ne s'agit pas ici de la marine conventionnelle, mais d'une cooccurrence figée spécifique à l'actualité récente : la <strong>"flotte fantôme"</strong>.</p>
+
+                <p>Dans ce cluster sémantique, le mot pivot est systématiquement associé à la Russie ("fantôme russe", lignes 3, 5, 6, 8) et s'inscrit dans un champ lexical conflictuel ("guerre en Ukraine", "attaques", "explosions", "drones"). Le terme désigne ici un ensemble de navires opérant dans la clandestinité pour contourner des sanctions, démontrant la capacité du mot à désigner des entités organisationnelles floues ou non-étatiques, au-delà de la marine officielle.</p>
+
+                <p>Parallèlement, les premières lignes du concordancier (1 et 2) offrent, via les métadonnées d'URL, une trace tangible du glissement sémantique du mot vers le domaine terrestre et managérial. La mention "automobile-100-electrique" renvoie à la gestion de parcs de véhicules d'entreprise (gestion de flotte / fleet management).</p>
+
+                <div class="content-box">
+                    <p>Ainsi, alors que le contexte norvégien ancrait le mot dans la survie physique (le radeau que l'on manipule), le contexte français présenté ici projette le mot <strong>flotte</strong> vers une abstraction organisationnelle, qu'il s'agisse de gérer des actifs automobiles ou de mobiliser des navires dans un conflit hybride.</p>
+                </div>
+
+                <hr />
+
+                <div style="text-align: center;">
+                    <a href="itrameur.html" class="button primary">Retour à iTrameur</a>
+                </div>
+
             </section>
         </div>
-        <div id="copyright"><ul><li>&copy; Projet PPE 2025</li></ul></div>
+        
+        <div id="copyright">
+            <ul><li>&copy; Projet PPE 2025</li></ul>
+        </div>
     </div>
+    
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/jquery.scrollex.min.js"></script>
     <script src="assets/js/jquery.scrolly.min.js"></script>
