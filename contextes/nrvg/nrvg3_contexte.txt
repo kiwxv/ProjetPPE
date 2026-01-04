@@ -1,0 +1,42 @@
+   (BUTTON)
+
+flåte
+
+   Likt stavede oppslagsord
+   flåte
+   verb
+   Informasjon
+   BØYNINGflåtet, flåtet, flåting [pluss.svg] [minus.svg]
+   preteritum
+   flåtet
+   perfektum partisipp
+   flåtet
+   verbalsubstantiv
+   flåting
+   FULL BOKMÅLSNORM [pluss.svg] [minus.svg]
+   UTTALE[flå:`tə] Uttale-veiledning
+   ETYMOLOGI
+   av norrønt flota
+   BETYDNING OG BRUK
+   1
+   få (noe) til å flyte
+   2
+   føre (noe som flyter, især tømmer) av gårde (i elv og vann)
+   EKSEMPEL
+     * flåte tømmer
+
+   SITAT
+     * trelasthandlerne Backer, Bugge m. fl. flåtet tømmer i evjen ovenfor
+       Tinghaugberget … og nedenforliggende steder
+        (Numedals-Laugens Brukseierforening 1906–1931 206 1931)
+--
+   refleksivt
+
+   flåte seg
+    ta seg frem (på vann) ved å flyte (f.eks. på en flåte)
+   SITATER
+     * kanske hun [dvs. kjerringa mot strømmen] har flaadet sig opefter
+        (P.Chr. Asbjørnsen Norske Folke-Eventyr (1871) 20)
+     * Neri hadde flotet sig over fjorden til Gunhild
+        (Hans E. Kinck Masker og mennesker 45 1909)
+

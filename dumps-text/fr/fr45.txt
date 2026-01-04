@@ -1,0 +1,307 @@
+   #Transport Info » Flux Transport Info » Flux des commentaires Transport
+   Info » Gestion de flotte : comment Truckonline se prépare à doubler son
+   CA en 3 ans ? Flux des commentaires alternate alternate alternate
+
+   Menu
+
+     * Contact
+     * Devenez annonceurs
+     *
+     *
+     *
+     * OFFRES D’ABONNEMENT AU MAGAZINE
+
+   rx-france.fr chateaulesbruyeres.fr
+   http://www.radd.fr
+
+     * OFFRES D’ABONNEMENT AU MAGAZINE
+
+     * logo
+     * Stratégie & marchés
+     * Politique & réglementation
+     * Produits & services
+     * Digital & Transport
+     * Logistique urbaine
+     * Véhicules Utilitaires Légers
+     * Plus
+          + Gestion & management
+          + Essais
+          + Nominations
+          + Vidéos
+     *
+          + Search ____________________ (BUTTON) Search
+
+   AccueilRubriquesDigital & TransportGestion de flotte : comment
+   Truckonline se prépare à doubler son CA en 3 ans ?
+
+Gestion de flotte : comment Truckonline se prépare à doubler son CA en 3
+ans ?
+
+   9 décembre 2025 Renaud CHASLE Digital & Transport 0
+   Truckonline (De g. à d.) : Marc Journeux (président) et Yann Mercuri
+   (directeur général).
+
+   Passé aux mains de Cervinvest Capital, Truckonline ambitionne de
+   doubler son CA en 3 ans en ciblant les ETI ou par croissance externe.
+   Ses nouveaux dirigeants dévoilent leur stratégie de croissance axée sur
+   le développement continu de nouvelles fonctionnalités, d’un nouveau
+   boitier télématique TruckBox et du renforcement de la cybersécurité.
+
+   Fort d’une croissance à deux chiffres et de l’entrée de Cervinvest au
+   capital l’été dernier, Truckonline nourrit une forte ambition de
+   croissance sur les marchés de la télématique et de la gestion sociale.
+   Ses nouveaux dirigeants, Marc Journeux (président) et Yann Mercuri
+   (directeur général), qui succèdent à Julien Michelon et ont également
+   participé à la recapitalisation de l’entreprise, ont élaboré une
+   feuille de route claire pour soutenir l’objectif de doubler le chiffre
+   d’affaire d’ici quelques années.
+
+Élargir sa cible de clients
+
+   “La première étape consiste à structurer notre force commerciale afin
+   de pouvoir répondre aux besoins d’ETI qui jusqu’à présent nous
+   considéraient ‘trop petits’ pour nous sélectionner dans leurs appels
+   d’offres. Quatre commerciaux nous ont déjà rejoint fin 2025”, explique
+   Yann Mercuri. Dans un second temps Truckonline, avec l’appui de
+   Cervinvest Capital, prévoit de se développer par croissance externe
+   avec de potentielles acquisitions d’éditeurs du marché.
+
+   Truckonline veut également élargir sa cible notamment aux prestataires
+   logistiques, entreprises de BTP ou industriels en s’appuyant sur sa
+   badgeuse TimCollect lancée en 2022 afin de proposer une solution
+   globale de gestion des temps d’activité (GTA) des conducteurs et du
+   personnel en entrepôt. “Nous prévoyons également d’intégrer à l’offre
+   des solutions de planification d’équipes, d’ateliers ou de préparation
+   de flux logistiques qui pourraient s’interfacer à l’ERP ou au WMS des
+   entreprises”, complète Marc Journeux.
+
+Un portail de gestion enrichi dès 2026
+
+   La road map de Truckonline implique des nouveautés sur sa plateforme
+   logicielle en ligne. En 2026, elle intègrera directement les données
+   des dashcams proposées par l’éditeur. Le portail proposera une analyse
+   basée sur l’IA des comportements de conduite et une détection proactive
+   des situations dangereuses. En cas d’incident, les enregistrements
+   vidéo sont automatiquement sauvegardés et accessibles via la plateforme
+   pour une meilleure gestion des litiges.
+
+   TruckOnline
+
+   En outre, Truckonline estime que la combinaison des données de
+   géolocalisation, de temps de conduite et des preuves visuelles offre
+   une compréhension exhaustive de l’activité de la flotte. Autre
+   nouveauté : l’ajout d’alertes à destination des gestionnaires lorsqu’un
+   voyant du tableau de bord des camions s’allume. Cette fonction
+   s’inscrit dans le cadre d’un suivi proactif de la maintenance du parc.
+
+Une nouvelle TruckBox en préparation pour Solutrans 2027
+
+   A plus long terme, TruckOnline prévoit une nouvelle version de son
+   boitier télématique TruckBox, “qui pourrait être lancé à l’occasion de
+   Solutrans 2027 par exemple”, confie Marc Journeux. Il doit permettre au
+   portail web de l’éditeur de traiter un nombre croissant d’informations
+   en provenance des véhicules, à de plus forte fréquence voir quasiment
+   en temps réel.
+
+   Truckbox Truckonline
+
+   “Cette TruckBox pourra se connecter au bus Ethernet dont sont désormais
+   équipés les camions récents et qui, dans les 5 ans à venir, permettra
+   de capter plus de datas par exemple sur les véhicules électriques ou
+   des flux vidéos provenant de multiples caméras installées dans les
+   camions. Nous prévoyons également d’intégrer un processeur plus
+   puissant afin de traiter ces nouvelles données et de rendre le boitier
+   compatible avec les progrès techniques des 10 à 15 prochaines années”,
+   complète-t-il.
+
+   Le portail de gestion de flotte va lui aussi s’adapter afin de traiter,
+   bien interpréter et surtout restituer aux transporteurs de manière
+   utile les informations spécifiques aux camions électriques
+   (consommation, autonomie restante, recharge).
+
+Gestion sociale, cybersécurité et IA
+
+   En juillet 2026, avec l’installation obligatoire du chronotachygraphe
+   sur les VUL de transport international, TruckOnline compte proposer aux
+   transporteurs concernés d’installer la TruckBox sur leurs véhicules
+   pour gérer de manière uniforme la gestion sociale des conducteurs de
+   poids lourds et d’utilitaires. “Nous allons également renforcer la
+   cybersécurité du portail et du boitier dans le respect du Cyber
+   Resilience Act prévu par l’Union européenne en 2027 qui vient
+   considérablement durcir les normes de sécurité de tous les objets
+   connectés”, ajoute Yann Mercuri.
+
+   Enfin, TruckOnline, à l’instar de tous les acteurs du marché digital,
+   prévoit de renforcer l’intégration de l’intelligence artificielle à son
+   portail dans le but d’automatiser le traitement de certaines tâches et
+   de fournir des outils pour accompagner les exploitants et les aider à
+   améliorer leur marge.
+
+   Renaud Chasle
+
+   Crédit photo : S.Moraud
+     * Gestion de flotte
+
+Partagez sur vos Réseaux sociaux
+
+   Follow by Email
+   Facebook
+   fb-share-icon
+   Twitter
+   Tweet
+   LinkedIn
+   Share
+
+   Article precedent
+   Article suivant
+
+Sur le même thème
+
+   Digital & Transport
+
+Gestion de flottes : Orange Business Services et PSA ont développé une
+solution commune
+
+   9 mai 2014 0
+
+   Digital & Transport
+
+Gestion de flotte MiX Telematics lance MiX Locate
+
+   3 octobre 2014 0
+
+   SAMSARA
+   Digital & Transport
+
+Gestion de flotte : Samsara lance une fonctionnalité pour récompenser
+l’écoconduite
+
+   24 juin 2025 0
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse e-mail ne sera pas publiée. Les champs obligatoires sont
+   indiqués avec *
+
+   Commentaire *
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nom *
+   ______________________________
+
+   Courriel *
+   ______________________________
+
+   Site web
+   ______________________________
+
+   Laisser un commentaire
+
+   Δ
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   This site is protected by reCAPTCHA and the Google Privacy Policy and
+   Terms of Service apply.
+
+Les nominations
+
+     * Karin Rådström ACEA
+       Bloc-notes
+
+“Nous avons besoin d’une révision accélérée de la législation sur les
+émissions de CO2”: Karin Rådström (Pdg de Daimler) remplace Christian Levin
+(Scania) à la tête de l’ACEA
+       15 décembre 2025 0
+       Karin Rådström, Pdg de Daimler Truck depuis octobre 2024, va
+       assurer la présidence du comité véhicules industriels de
+       l’association des [...]
+     * Antoine Duclaux Renault Trucks
+       Renault Trucks : Bruno Blin quitte la présidence, remplacé par
+       Antoine Duclaux
+       1 octobre 2025 0
+     * MAN CARLA DETRIEUX
+       “Ma mission : accélérer la transition vers un transport compétitif
+       et zéro émission” : Carla Detrieux rejoint MAN après la fin de
+       l’aventure Volta Trucks
+       9 septembre 2025 0
+
+Catégories
+
+   Analyse Autres Bloc-notes Digital & Transport En bref Essais event
+   Gestion & management Le magazine Logistique urbaine Nominations non
+   classé Politique & réglementation Produits & services Revue de Presse
+   Rubriques Stratégie & marchés Vidéos Véhicules Utilitaires Véhicules
+   Utilitaires Légers
+
+Nos sites plein air
+
+     * Decisions HPA
+     * Le Monde du Camping-Car
+     * Van Life Magazine
+     * Le monde du Plein air
+
+Nos autres sites
+
+     * Editions Larivière
+     * Gazoline
+     * L’Argus du Bateau
+     * Lariviere Voyages
+     * Le Cycle
+     * Moto Services
+
+Nos autres sites
+
+     * Boutique Larivière
+     * Cheval Magazine
+     * Moto Station
+     * Rock & Folk
+     * Voile & Moteur
+
+Nos organisations
+
+     * Larivière Organisation
+     * Le Bol d’Or
+     * Le Game Fair
+     * Le Supercross de Paris
+     * Le Bol d’Or Vélo
+     * Trophées de la Moto
+     * Tir Expo
+
+     * Contacter la rédaction
+     * Mentions Légales
+     * CGU
+     * Politique de confidentialité
+     * Mediakit publicitaire
+     * Paramètres des cookies
+
+   Copyright © 2026 | Éditions Lariviere
+
+   Transport Info
+
+                      ____________________ (BUTTON) OK
+
+     * Stratégie & marchés
+     * Politique & réglementation
+     * Produits & services
+     * Digital & Transport
+     * Logistique urbaine
+     * Plus
+          + Gestion & management
+          + Essais
+          + Véhicules Utilitaires Légers
+          + Nominations
+          + Vidéos
+     * Offres d’abonnement au magazine

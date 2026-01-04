@@ -1,0 +1,755 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Tableau nrvg - Projet PPE</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="../assets/css/main.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css" />
+    <noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
+    <style>
+        body { background-color: #ffffff; color: #000; }
+        #main { background-color: white; padding: 2em; }
+        #wrapper { width: 100%; max-width: none !important; }
+        .title { color: #1e3a8a !important; }
+        .table-container { overflow-x: auto; margin-top: 20px; }
+        .table-epure { width: 100%; border-collapse: collapse; background-color: #fff; table-layout: auto; margin-bottom: 3em; min-width: 1000px;}
+        .table-epure th, .table-epure td { border: 2px solid #1e3a8a; padding: 12px 15px; color: #000; vertical-align: middle; font-family: sans-serif; font-size: 0.9em; }
+        .table-epure th { background-color: #f8f9fa; font-weight: bold; border-bottom: 3px solid #1e3a8a; text-align: center; white-space: nowrap; }
+        .table-epure tr:hover { background-color: #eef2ff; }
+        .table-epure td:nth-child(5) { word-break: break-all; min-width: 200px; }
+        .button.is-small { font-size: 0.8rem; margin: 2px; }
+    </style>
+</head>
+<body class="is-preload">
+    <div id="wrapper">
+        <header id="header"><a href="../index.html" class="logo">Flotte</a></header>
+        <nav id="nav">
+            <ul class="links">
+                <li><a href="../index.html">Accueil</a></li>
+                <li class="active"><a href="../tableaux.html">Tableaux</a></li>
+                <li><a href="../scripts.html">Scripts</a></li>
+                <li><a href="../nuages.html">Nuages de mots</a></li>
+                <li><a href="../itrameur.html">iTrameur</a></li>
+            </ul>
+            <ul class="icons">
+                <li><a href="https://github.com/kiwxv/ProjetPPE" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+            </ul>
+        </nav>
+        <div id="main">
+            <section class="post">
+                <header class="major">
+                    <h1>Tableau de données</h1>
+                    <p>Tableau crée par Capucine Leclerc et Lucy-Lou Agard. <br> Langue : <span style="text-transform:uppercase; color:#1e3a8a; font-weight:bold;">nrvg</span></p>
+                </header>
+                <div class="table-container">
+                    <table class="table-epure">
+                        <thead>
+                            <tr>
+                                <th>Ligne</th>
+                                <th>Code HTTP</th>
+                                <th>Encodage</th>
+                                <th>Mots</th>
+                                <th>URL</th>
+                                <th>Aspirations / Dumps / Contextes / Bigramme / Robot.txt</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                <tr>
+                    <td style="text-align:center">1</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">1385</td>
+                    <td><a href="https://no.wikipedia.org/wiki/Flåte" target="_blank">https://no.wikipedia.org/wiki/Flåte</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg1_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg1.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg1_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___no.wikipedia.org.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">2</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">555</td>
+                    <td><a href="https://snl.no/flåte" target="_blank">https://snl.no/flåte</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg2_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg2.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg2_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___snl.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">3</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">228</td>
+                    <td><a href="https://naob.no/ordbok/flåte_1" target="_blank">https://naob.no/ordbok/flåte_1</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg3_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg3.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg3_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___naob.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">4</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">372</td>
+                    <td><a href="https://www.skipsrevyen.no/fartoysdrift-havbruksnaeringen-helgelandskysten/fra-ett-til-atte-fartoy-pa-fire-ar/2034788" target="_blank">https://www.skipsrevyen.no/fartoysdrift-havbruksnaeringen-helgelandskysten/fra-ett-til-atte-fartoy-pa-fire-ar/2034788</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg4_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg4.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg4_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.skipsrevyen.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">5</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">590</td>
+                    <td><a href="https://www.forsvaretsforum.no/flate-romania-sjo/naermer-seg-avtale-med-tyrkia/470047" target="_blank">https://www.forsvaretsforum.no/flate-romania-sjo/naermer-seg-avtale-med-tyrkia/470047</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg5_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg5.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg5_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.forsvaretsforum.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">6</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">823</td>
+                    <td><a href="https://www.jernia.no/inspirasjon/slik-bygger-du-en-flate?srsltid=AfmBOopbUH7lkVJhfG2ufUk50kAR8sY1-hqq8PCr7uVh5no1j0gV3i4e" target="_blank">https://www.jernia.no/inspirasjon/slik-bygger-du-en-flate?srsltid=AfmBOopbUH7lkVJhfG2ufUk50kAR8sY1-hqq8PCr7uVh5no1j0gV3i4e</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg6_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg6.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg6_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.jernia.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">7</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">1563</td>
+                    <td><a href="https://scaleaq.no/produktkategorier/flater-og-fartoy/forflater/" target="_blank">https://scaleaq.no/produktkategorier/flater-og-fartoy/forflater/</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg7_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg7.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg7_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___scaleaq.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">8</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">264</td>
+                    <td><a href="https://www.havfisk.no/no/flaaten" target="_blank">https://www.havfisk.no/no/flaaten</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg8_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg8.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg8_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.havfisk.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">9</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">749</td>
+                    <td><a href="https://www.finansavisen.no/samfunn/2025/12/04/8312136/store-om-ny-forsvarsavtale-med-storbritannia-markerer-en-ny-tid?zephr_sso_ott=xMaVKa" target="_blank">https://www.finansavisen.no/samfunn/2025/12/04/8312136/store-om-ny-forsvarsavtale-med-storbritannia-markerer-en-ny-tid?zephr_sso_ott=xMaVKa</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg9_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg9.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg9_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.finansavisen.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">10</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">2462</td>
+                    <td><a href="https://www.maritim.no/redningsflate-1?size=12" target="_blank">https://www.maritim.no/redningsflate-1?size=12</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg10_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg10.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg10_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.maritim.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">11</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">472</td>
+                    <td><a href="https://www.rostein.no/flate" target="_blank">https://www.rostein.no/flate</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg11_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg11.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg11_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.rostein.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">12</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">2564</td>
+                    <td><a href="https://seatronic.no/sikkerhet/redningsflater/redningsflater" target="_blank">https://seatronic.no/sikkerhet/redningsflater/redningsflater</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg12_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg12.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg12_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___seatronic.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">13</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">1353</td>
+                    <td><a href="https://www.certex.no/produkter/maritimt-utstyr/redningsutstyr/flater-bater-og-pyroteknisk-c496028#" target="_blank">https://www.certex.no/produkter/maritimt-utstyr/redningsutstyr/flater-bater-og-pyroteknisk-c496028#</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg13_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg13.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg13_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.certex.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">14</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">650</td>
+                    <td><a href="https://sol.no/nyheter/advarer-det-som-bekymrer-meg-mest/83958025" target="_blank">https://sol.no/nyheter/advarer-det-som-bekymrer-meg-mest/83958025</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg14_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg14.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg14_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___sol.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">15</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">187</td>
+                    <td><a href="https://ordbokene.no/bm/flåte" target="_blank">https://ordbokene.no/bm/flåte</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg15_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg15.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg15_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___ordbokene.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">16</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">1243</td>
+                    <td><a href="https://froygruppen.no/flate/" target="_blank">https://froygruppen.no/flate/</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg16_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg16.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg16_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___froygruppen.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">17</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">674</td>
+                    <td><a href="https://snl.no/flåte_-_skipsfart" target="_blank">https://snl.no/flåte_-_skipsfart</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg17_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg17.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg17_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___snl.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">18</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">2249</td>
+                    <td><a href="https://www.akvagroup.no/forflater/" target="_blank">https://www.akvagroup.no/forflater/</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg18_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg18.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg18_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.akvagroup.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">19</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">709</td>
+                    <td><a href="https://www.idrettsbutikken.no/svømmeforbundet/utstyr/vannlek/flåter" target="_blank">https://www.idrettsbutikken.no/svømmeforbundet/utstyr/vannlek/flåter</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg19_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg19.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg19_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.idrettsbutikken.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">20</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">198</td>
+                    <td><a href="https://www.seilspesialisten.no/categories/flate" target="_blank">https://www.seilspesialisten.no/categories/flate</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg20_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg20.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg20_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.seilspesialisten.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">21</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">793</td>
+                    <td><a href="https://no.wikipedia.org/wiki/Flåte_(marine)" target="_blank">https://no.wikipedia.org/wiki/Flåte_(marine)</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg21_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg21.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg21_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___no.wikipedia.org.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">22</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">1071</td>
+                    <td><a href="https://kmspeider.no/speiderprogram/aktivitetsbanken/aktiviteter/tommerflate" target="_blank">https://kmspeider.no/speiderprogram/aktivitetsbanken/aktiviteter/tommerflate</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg22_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg22.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg22_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___kmspeider.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">23</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">988</td>
+                    <td><a href="https://www.finn.no/job/ad/441177595?srsltid=AfmBOooSgRlSLkuR1knVOubL4AMA-EUiJE2nnzD72Gt-IoOCQ4rmFwHj" target="_blank">https://www.finn.no/job/ad/441177595?srsltid=AfmBOooSgRlSLkuR1knVOubL4AMA-EUiJE2nnzD72Gt-IoOCQ4rmFwHj</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg23_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg23.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg23_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.finn.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">24</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">437</td>
+                    <td><a href="https://dykkershop.no/product-category/fridykkerutstyr/flate-fridykkerutstyr-nettbutikk/" target="_blank">https://dykkershop.no/product-category/fridykkerutstyr/flate-fridykkerutstyr-nettbutikk/</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg24_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg24.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg24_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___dykkershop.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">25</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">548</td>
+                    <td><a href="https://www.nordnesgruppen.no/flate/" target="_blank">https://www.nordnesgruppen.no/flate/</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg25_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg25.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg25_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.nordnesgruppen.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">26</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">313</td>
+                    <td><a href="https://www.mibau-stema.no/logistikk/vaar-flaate" target="_blank">https://www.mibau-stema.no/logistikk/vaar-flaate</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg26_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg26.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg26_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.mibau-stema.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">27</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">5</td>
+                    <td><a href="https://speiding.no/speiderprogram/speiderbasen/bygg-en-flate" target="_blank">https://speiding.no/speiderprogram/speiderbasen/bygg-en-flate</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg27_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg27.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg27_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___speiding.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">28</td>
+                    <td style="text-align:center">520</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">3</td>
+                    <td><a href="https://dictionary.cambridge.org/dictionary/norwegian-english/flate_2#google_vignette" target="_blank">https://dictionary.cambridge.org/dictionary/norwegian-english/flate_2#google_vignette</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg28_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg28.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg28_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___dictionary.cambridge.org.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">29</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">686</td>
+                    <td><a href="https://naob.no/ordbok/flåte_2" target="_blank">https://naob.no/ordbok/flåte_2</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg29_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg29.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg29_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___naob.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">30</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">437</td>
+                    <td><a href="https://dykkershop.no/product-category/fridykkerutstyr/flate-fridykkerutstyr-nettbutikk/" target="_blank">https://dykkershop.no/product-category/fridykkerutstyr/flate-fridykkerutstyr-nettbutikk/</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg30_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg30.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg30_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___dykkershop.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">31</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">2072</td>
+                    <td><a href="https://seatronic.no/magasinet/veiledning-til-redningsflate" target="_blank">https://seatronic.no/magasinet/veiledning-til-redningsflate</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg31_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg31.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg31_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___seatronic.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">32</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">375</td>
+                    <td><a href="https://www.finansavisen.no/reise-og-fritid/2025/12/05/8312563/stappfulle-fly-full-klaff-med-ny-strategi" target="_blank">https://www.finansavisen.no/reise-og-fritid/2025/12/05/8312563/stappfulle-fly-full-klaff-med-ny-strategi</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg32_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg32.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg32_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.finansavisen.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">33</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">642</td>
+                    <td><a href="https://www.viking-life.com" target="_blank">https://www.viking-life.com</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg33_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg33.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg33_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.viking-life.com.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">34</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">526</td>
+                    <td><a href="https://en.wiktionary.org/wiki/flåte" target="_blank">https://en.wiktionary.org/wiki/flåte</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg34_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg34.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg34_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___en.wiktionary.org.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">35</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">338</td>
+                    <td><a href="https://farmar.no/flate/" target="_blank">https://farmar.no/flate/</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg35_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg35.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg35_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___farmar.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">36</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">309</td>
+                    <td><a href="https://www.sognavis.no/bussjafor-flaten-eg-kan-ikkje-hugsa-at-eg-har-hatt-slikt-oppdrag-for/s/5-115-1366850" target="_blank">https://www.sognavis.no/bussjafor-flaten-eg-kan-ikkje-hugsa-at-eg-har-hatt-slikt-oppdrag-for/s/5-115-1366850</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg36_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg36.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg36_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.sognavis.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">37</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">251</td>
+                    <td><a href="https://ordbokene.no/bm,nn/flåte" target="_blank">https://ordbokene.no/bm,nn/flåte</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg37_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg37.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg37_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___ordbokene.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">38</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">410</td>
+                    <td><a href="https://www.yr.no/nb/værvarsel/daglig-tabell/1-98545/Norge/Buskerud/Nore%20og%20Uvdal/Flåte" target="_blank">https://www.yr.no/nb/værvarsel/daglig-tabell/1-98545/Norge/Buskerud/Nore%20og%20Uvdal/Flåte</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg38_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg38.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg38_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.yr.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">39</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">488</td>
+                    <td><a href="https://www.barentsgroup.no/nb/shipping-no/flaate/" target="_blank">https://www.barentsgroup.no/nb/shipping-no/flaate/</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg39_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg39.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg39_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.barentsgroup.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">40</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">436</td>
+                    <td><a href="https://no.wikipedia.org/wiki/Flåte_(innsjø)" target="_blank">https://no.wikipedia.org/wiki/Flåte_(innsjø)</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg40_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg40.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg40_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___no.wikipedia.org.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">41</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">646</td>
+                    <td><a href="https://www.proff.no/selskap/flåte-as/oslo/finans/IGF40CP0RSY" target="_blank">https://www.proff.no/selskap/flåte-as/oslo/finans/IGF40CP0RSY</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg41_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg41.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg41_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.proff.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">42</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">184</td>
+                    <td><a href="https://yrkesfiskeren.no/index.php?main_page=product_info&products_id=152" target="_blank">https://yrkesfiskeren.no/index.php?main_page=product_info&products_id=152</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg42_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg42.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg42_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___yrkesfiskeren.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">43</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">3</td>
+                    <td><a href="https://www.nb.no/items/9d45ffad0fa8c46ca8b8279b8313fb60" target="_blank">https://www.nb.no/items/9d45ffad0fa8c46ca8b8279b8313fb60</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg43_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg43.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg43_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.nb.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">44</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">1056</td>
+                    <td><a href="https://www.bergenbyarkiv.no/bergenbyleksikon/arkiv/14355835" target="_blank">https://www.bergenbyarkiv.no/bergenbyleksikon/arkiv/14355835</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg44_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg44.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg44_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.bergenbyarkiv.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">45</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">221</td>
+                    <td><a href="https://www.plastinvent.no/produkter/p/flate" target="_blank">https://www.plastinvent.no/produkter/p/flate</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg45_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg45.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg45_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.plastinvent.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">46</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">544</td>
+                    <td><a href="https://www.ark.no/produkt/boker/dokumentar-og-faktaboker/den-hvite-flate-9788281630215" target="_blank">https://www.ark.no/produkt/boker/dokumentar-og-faktaboker/den-hvite-flate-9788281630215</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg46_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg46.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg46_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.ark.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">47</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">558</td>
+                    <td><a href="https://www.dinordbok.no/norsk-nynorsk/?q=flåte" target="_blank">https://www.dinordbok.no/norsk-nynorsk/?q=flåte</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg47_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg47.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg47_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.dinordbok.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">48</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">434</td>
+                    <td><a href="https://www.aftenposten.no/verden/i/j0P3Bq/venezuela-rekrutterer-5600-nye-soldater" target="_blank">https://www.aftenposten.no/verden/i/j0P3Bq/venezuela-rekrutterer-5600-nye-soldater</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg48_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg48.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg48_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.aftenposten.no.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">49</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">249</td>
+                    <td><a href="https://www.frontlineplc.cy" target="_blank">https://www.frontlineplc.cy</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/nrvg/nrvg49_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/nrvg/nrvg49.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/nrvg/nrvg49_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_nrvg.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotnrvg/robots_https___www.frontlineplc.cy.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div style="text-align:center; margin-top:2em;">
+                    <a href="../tableaux.html" class="button" style="background-color: #1e3a8a; color: #ffffff !important; border: none;">Retour au choix des langues</a>
+                </div>
+            </section>
+        </div>
+        <div id="copyright"><ul><li>&copy; Projet PPE</li></ul></div>
+    </div>
+</body>
+</html>

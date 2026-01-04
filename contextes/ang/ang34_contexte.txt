@@ -1,0 +1,160 @@
+   alternate alternate alternate alternate alternate alternate alternate
+
+What is fleet management?
+
+   Group of vehicles driving
+--
+   IBM Think
+
+What is fleet management?
+
+   Fleet management encompasses the systems, processes and tools needed to
+   ensure an organization’s fleet of business vehicles are maintained
+   throughout their entire lifecycle.
+
+   It also involves the management of fleet drivers, optimization of fleet
+   operations, and improvement of asset utilization—all of which fall
+   under the larger umbrella of enterprise asset management.
+
+   A fleet can range from commercial vehicles to freight trucks to
+   airplanes, depending on the organization. Some organizations may build
+   their own fleet while others may hire fleet management companies. With
+   proper fleet management, organizations can improve efficiency, reduce
+   costs and ensure that their business is complying with the latest
+   regulations.
+--
+   (BUTTON) Subscribe today
+
+What are the benefits of fleet management?
+
+   A smart fleet management system can help organizations achieve their
+   environmental, social and governance (ESG) goals. For instance, fleet
+   providers can play a crucial role in minimizing their organization’s
+   economic footprint by tracking fuel consumption and other diagnostic
+   data. In doing so, they can also improve fleet performance by
+   preventing vehicles from breaking down and avoiding costly vehicle
+   acquisitions.
+
+   Fleet management can also enable more positive vehicle inspection
+   outcomes. A poor vehicle inspection can ground vehicles, even when they
+   are fully operational. Fleet management can provide either the
+   predictive or preventative maintenance that keeps vehicles in
+   circulation.
+
+   Finally, by implementing various fleet management solutions, companies
+   can improve upkeep, avoid last-minute cancellations and increase the
+   number of customers they serve. This can result in more satisfied
+--
+   Watch all episodes of Mixture of Experts
+
+What does a fleet manager do?
+
+   Fleet managers oversee fleet operations while maintaining fleet
+   efficiency. At a glance, that may seem like routine asset performance
+   management or fleet maintenance. However, a fleet manager’s
+   responsibilities include everything from:
+
+Acquiring vehicles
+
+   Fleet managers determine when a new vehicle is needed, what
+   requirements the vehicle must meet, and whether an older vehicle needs
+   to be replaced.
+
+Maintaining the fleet
+
+   Fleet managers are responsible for preventative vehicle maintenance to
+   avoid breakdowns, balancing maintenance costs with maintenance
+   schedules and handling repairs so the fleet remains operational.
+
+Managing drivers
+
+   Fleet managers recruit drivers, manage their workflows and work to
+   retain talent. They also ensure driver safety by implementing proper
+   training, monitoring driver behavior and optimizing safety procedures.
+--
+Implementing fuel programs
+
+   Fleet managers are responsible for fuel management, which includes
+   mapping out preferred fueling locations, creating processes to track
+   fuel usage and lowering fueling costs for the entire vehicle fleet.
+
+Complying with regulations
+
+   Fleet managers oversee hours of service (HOS), electronic logging
+   devices (ELDs) and other regulatory requirements to ensure that all
+   drivers are operating in full compliance.
+--
+Reducing operational costs
+
+   Fleet managers compare fleet costs, aggregate data in a central
+   location and perform route optimization to improve cost savings and
+   reduce downtime. Many use fleet management solutions or fleet
+   management software to automate and optimize these tasks.
+
+What is fleet management software?
+
+   Fleet management software provides fleet managers with a real-time
+   logistics platform that can orchestrate everything from fleet tracking
+   and driver management to weather and traffic forecasting. Fleet
+   management solutions can also improve fuel usage, provide key vehicle
+   metrics and fleet data, ensure compliance with regulatory requirements
+   and ultimately, optimize fleet operations.
+
+   While similar to a transportation management system that allows a
+   company to manage its inbound and outbound shipping, fleet management
+   software differs in that it’s more robust and focuses solely on the
+   commercial fleet.
+
+   Some common features of fleet management software include:
+     * Vehicle tracking: With GPS and OEM telematics, fleet managers are
+       gaining real-time visibility into their fleet while it’s on the
+       road. They can monitor vehicle locations, analyze driver
+       performance and mitigate potential maintenance issues through
+--
+       score or rating. For example, frequent braking or idling can impact
+       scores negatively. Some organizations may also use dash cams in the
+       cabin of their vehicles to keep an eye on their commercial fleet.
+
+     * Fuel management: Fuel efficiency can lead to significant cost
+       reductions. Fleet management software monitors fuel costs and track
+       vehicles’ fuel consumption. It may also automate the refueling
+       process to avoid unnecessary refueling or worse, running out of
+       fuel.
+
+     * Route planning: Fleet managers will often plan routes in advance
+       for optimal efficiency. Through a combination of GPS tracking and
+       telematics, fleet managers can precisely map routes, reducing fuel
+       costs while improving sustainability efforts.
+
+     * Software updates: The rise of electric vehicles means that fleet
+       operators may be expected to have a comprehensive plan to manage
+       updates to vehicle operating systems, including when to update
+       software and how to roll out the updates.
+
+Where to start with fleet management
+
+   Organizations looking to stand up a strong fleet management program
+   should consider these factors:
+   Pricing
+
+   A forward-facing fleet management strategy requires significant
+   investment out of the gate. Some initial costs include adding
+   telematics to vehicles, purchasing or licensing software and reskilling
+   the workforce.
+   Fleet complexity
+
+   Fleet sizes vary and a fleet of vehicles can range from e-bikes to
+   airplanes. Large fleets with a wide variety of vehicles will require
+   different approaches to each type of vehicle, especially when it comes
+   to preventative maintenance.
+   Technology management
+
+   As organizations move towards a more advanced and software-guided fleet
+   management approach, they’ll need to stay current on the latest
+   technologies, update and replace hardware and otherwise manage their
+--
+
+   Learn how your organization can achieve significant value by using IBM
+   Maximo to manage its fleet of assets.
+   Read the report
+   Summary IBM Maximo application suite

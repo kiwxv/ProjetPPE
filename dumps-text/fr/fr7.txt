@@ -1,0 +1,319 @@
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Géolocalisation
+     * 2 Diagnostics techniques
+     * 3 Exploitation de l'information par des applications métier
+     * 4 Gestion des conducteurs
+     * 5 Sécurité des véhicules et conducteurs
+     * 6 Remplacement de la flotte et gestion du cycle de vie
+     * 7 Gestion des tribunaux
+     * 8 Systèmes d'arrêt à distance des véhicules
+     * 9 Autre
+     * 10 Notes et références
+
+   [ ] Basculer la table des matières
+
+Gestion de flotte
+
+   [ ] 14 langues
+     * العربية
+     * Čeština
+     * Deutsch
+     * English
+     * Español
+     * עברית
+     * Bahasa Indonesia
+     * Italiano
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Српски / srpski
+     * ไทย
+     * 中文
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+
+   La gestion de flotte est la gestion de l’utilisation et/ou de la
+   maintenance d’un parc de véhicules. Par extension, elle englobe souvent
+   la gestion des conducteurs.
+
+   Ce terme désigne ainsi une vaste variété de produits et de services
+   permettant d’améliorer la productivité d’une entreprise par l’emploi
+   rationnel de sa flotte de véhicules et son optimisation^[1]^,^[2]. Elle
+   repose sur les techniques de localisation en temps réel, utilise
+   souvent l'envoi d'AVL (Automatic Vehicle Location, littéralement
+   « localisation automatique de véhicules »), et/ou temps différé
+   (récupération de l'historique de l'utilisation d'un véhicule et/ou de
+   ses conducteurs). Ces technologies reposent principalement sur les
+   technologies de positionnement (principalement GPS) et de communication
+   (GPRS, SMS, 3G, GSM Data, communication satellitaire, communication
+   UHF/VHF, réseau ZigBee ou Wi-Fi).
+
+   Un système de gestion de flotte est composé de deux principaux
+   éléments : l'ordinateur de bord équipant chacun des véhicules et le
+   logiciel de gestion de flotte exploitant les données collectées depuis
+   les véhicules.
+
+Géolocalisation
+
+   [modifier | modifier le code]
+
+   L'utilisation la plus connue de la gestion de flotte est la
+   géolocalisation des véhicules en temps réel. Cette fonctionnalité
+   utilise en général le système GPS et un moyen de télécommunication
+   (GSM/GPRS/3G, communication satellite, UHF/VHF).
+   [960px-Geolocalisation.png] Principe de géolocalisation par GPS avec
+   remontée des données via le réseau GSM/GPRS ou par les satellites de
+   télécommunication.
+
+Diagnostics techniques
+
+   [modifier | modifier le code]
+
+   Certains systèmes permettent de se connecter directement à l'ordinateur
+   de bord du véhicule pour lire les informations de maintenance
+   (kilométrage, heures moteur, consommation, codes panne…). Le système de
+   gestion de flotte peut donc alerter à distance les gestionnaires du
+   parc de véhicule de toutes les maintenances à effectuer ou des
+   problèmes techniques en cours.
+
+Exploitation de l'information par des applications métier
+
+   [modifier | modifier le code]
+
+   La centralisation des différentes informations des véhicules (position,
+   kilométrage, conducteur…) peut être couplée avec un système spécifique
+   qui exploitera ces données. C'est un point intéressant pour les
+   entreprises qui ont chacun des besoins d'information et de gestion
+   spécifiques. De la collecte de déchets aux services de livraison en
+   passant par les transporteurs, différents outils pourront permettre
+   d'améliorer la productivité de l'entreprise en centralisant
+   l'information du terrain et la redistribuant aux différents acteurs.
+
+Gestion des conducteurs
+
+   [modifier | modifier le code]
+
+   L'ordinateur de bord équipant le véhicule peut être équipé d'un système
+   d'identification du conducteur (ex: saisi d'un code personnel ou
+   utilisation d'une clé conducteur) permettant d'identifier le
+   conducteur. Une fois le conducteur identifié, les données enregistrées
+   au niveau du véhicule seront associées à ce dernier. Ceci est
+   particulièrement utile lorsqu'il faut définir quel conducteur se
+   trouvait dans le véhicule au moment d'un fait (accident, procès-verbal
+   du code de la route, événement avec un client).
+
+Sécurité des véhicules et conducteurs
+
+   [modifier | modifier le code]
+
+   L'ordinateur de bord peut aider sur différents aspects en matière de
+   sécurité. Il peut tout d'abord avertir en permanence le conducteur sur
+   les conduites inadaptées au véhicule. En cas d'accident ou autre
+   problème, le véhicule peut directement alerter sur sa position et le
+   problème en cours.
+
+Remplacement de la flotte et gestion du cycle de vie
+
+   [modifier | modifier le code]
+
+   Le remplacement en temps voulu des véhicules et des équipements est un
+   processus qui nécessite la capacité de prévoir le cycle de vie des
+   actifs sur la base d'informations relatives au coût, à l'utilisation et
+   à l'espérance de vie des actifs^[3]^,^[4]. Les organisations préfèrent
+   utiliser une nouvelle flotte dans le cadre d'une stratégie de réduction
+   des coûts lorsqu'une flotte usagée est vendue pour servir une nouvelle
+   flotte^[5]^,^[6].
+
+   Les exigences en matière de financement sont également un problème car
+   de nombreuses organisations, en particulier les organisations
+   gouvernementales, achètent des véhicules au comptant. La nature ad hoc
+   et le niveau traditionnellement bas du financement en espèces ont eu
+   pour conséquence que de nombreuses opérations ont été menées avec une
+   flotte de véhicules obsolète. L'absence de financement suffisant pour
+   le remplacement des véhicules peut également entraîner une augmentation
+   des coûts d'entretien en raison du vieillissement des véhicules.
+
+Gestion des tribunaux
+
+   [modifier | modifier le code]
+
+   La gestion de la flotte fait également référence à la gestion des
+   navires en mer^[7]^,^[8]. Les contrats de gestion de flotte maritime
+   sont généralement attribués à des sociétés de gestion de flotte qui
+   s'occupent d'aspects tels que le recrutement des équipages, la
+   maintenance et les opérations quotidiennes^[9]. L'armateur a ainsi le
+   temps de se concentrer sur la réservation de la cargaison.
+
+Systèmes d'arrêt à distance des véhicules
+
+   [modifier | modifier le code]
+
+   Les systèmes d'arrêt à distance des véhicules permettent aux
+   utilisateurs situés dans des lieux éloignés d'empêcher le moteur de
+   démarrer, d'empêcher le véhicule de se déplacer et d'arrêter ou de
+   ralentir un véhicule en marche. L'arrêt à distance permet à un
+   répartiteur ou à un autre personnel autorisé de réduire progressivement
+   la vitesse du véhicule en rétrogradant, en limitant la puissance de
+   l'accélérateur ou en purgeant le système de freinage à partir d'un
+   endroit éloigné. Certains de ces systèmes informent le conducteur à
+   l'avance qu'un arrêt du véhicule est sur le point de se produire.
+
+Autre
+
+   [modifier | modifier le code]
+
+   Désactivation du véhicule en cas de vol, contrôle des accès des
+   véhicules selon les autorisations ou licences nécessaires.
+
+Notes et références
+
+   [modifier | modifier le code]
+    1. ↑ L'optimisation de la gestion de flotte en 10 étapes
+    2. ↑ Outil de gestion de flotte
+    3. ↑ (en) « The Best Vehicle Life Cycle Strategy for Your Fleet », sur
+       managerplus.iofficecorp.com (consulté le 13 septembre 2024)
+    4. ↑ (en) « Estimate the Best Time to Replace Vehicles with Optimal
+       Replacement Analysis », sur www.fleetio.com (consulté le 13
+       septembre 2024)
+    5. ↑ (en) « Proven Strategies to Reduce Fleet Costs », sur shzoom.com
+       (consulté le 13 septembre 2024)
+    6. ↑ (en) « Cost-Reduction Strategies that Go Beyond the Asset », sur
+       www.worktruckonline.com (consulté le 13 septembre 2024)
+    7. ↑ (en) « What Is Fleet Management in Logistics-Guides And
+       Benefits », sur www.bdtask.com (consulté le 13 septembre 2024)
+    8. ↑ « L'IdO dans l'industrie maritime : optimiser la gestion de la
+       flotte et l'efficacité opérationnelle », sur smartmakers.io
+       (consulté le 13 septembre 2024)
+    9. ↑ (en) « Everything You Need to Know About Fleet Management », sur
+       www.samsara.com (consulté le 13 septembre 2024)
+
+     * icône décorative Portail des entreprises
+     * icône décorative Portail des transports
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Gestion_de_flotte&oldid=21
+   8610996 ».
+   Catégories :
+     * Gestion des flottes
+     * Logistique
+
+   Catégories cachées :
+     * Portail:Entreprises/Articles liés
+     * Portail:Économie/Articles liés
+     * Portail:Transports/Articles liés
+     * Portail:Technologies/Articles liés
+
+     * La dernière modification de cette page a été faite le 14 septembre
+       2024 à 01:01.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   Gestion de flotte
+   (BUTTON) 14 langues Ajouter un sujet

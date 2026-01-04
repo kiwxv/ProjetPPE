@@ -1,0 +1,296 @@
+     * 1 Historical development
+       (BUTTON) Toggle Historical development subsection
+          + 1.1 Ancient and medieval fleets
+               o 1.1.1 Mediterranean
+               o 1.1.2 East Asia
+--
+               o 1.2.1 Ship design
+               o 1.2.2 Tactical innovations
+               o 1.2.3 Major fleet engagements
+               o 1.2.4 Global reach
+          + 1.3 Industrial Age (1850-1914)
+--
+               o 1.3.2 Armament advances
+               o 1.3.3 Strategic shifts
+               o 1.3.4 Key fleet actions
+               o 1.3.5 Colonial fleets
+          + 1.4 Cold War to Present (1945-present)
+               o 1.4.1 Fleet revolution (1945-1991)
+                    # 1.4.1.1 Nuclear navies
+                    # 1.4.1.2 Carrier dominance
+                    # 1.4.1.3 Fleet tactics
+               o 1.4.2 Post-Cold War (1991-2020)
+                    # 1.4.2.1 Expeditionary fleets
+                    # 1.4.2.2 China's Rise
+               o 1.4.3 Emerging trends (2020-present)
+                    # 1.4.3.1 Hybrid fleets
+                    # 1.4.3.2 Arctic competition
+     * 2 Composition and organization
+--
+   [ ] Toggle the table of contents
+
+Naval fleet
+
+   [ ] 52 languages
+--
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed.
+   Find sources: "Naval fleet" – news · newspapers · books · scholar ·
+   JSTOR (December 2023) (Learn how and when to remove this message)
+   [330px-Fleet_5_nations.jpg] A rare occurrence of a 5-country
+   multinational fleet, during Operation Enduring Freedom in the Oman Sea.
+   In four descending columns, from left to right: Maestrale, De Grasse;
+   USS John C. Stennis, Charles de Gaulle, Surcouf; USS Port Royal,
+--
+   la Penne
+
+   A naval fleet is the largest operational formation of warships in a
+   navy, typically under a single command and organized for strategic
+   missions. While modern fleets are permanent, multi-role forces (e.g.,
+   carrier strike groups), historical fleets were often ad hoc assemblies
+   for specific campaigns.^[1] The term "fleet" can also synonymously
+   refer to a nation’s entire navy, particularly in smaller maritime
+   forces.^[2]
+
+   Fleets have shaped geopolitics since antiquity—from the trireme fleets
+   of Athens to the nuclear-powered carrier groups of today—enabling power
+   projection, trade protection, and deterrence.^[3] Multinational fleets,
+   such as NATO’s Standing Maritime Groups, demonstrate their continued
+   diplomatic-military role.^[4]
+--
+   [edit]
+
+Ancient and medieval fleets
+
+   [edit]
+
+   The earliest organized naval fleets emerged in the Eastern
+   Mediterranean and East Asia, where maritime trade routes and coastal
+   warfare necessitated centralized naval power.
+--
+   [edit]
+     * Phoenicians (1500–300 BCE): Established the first permanent war
+       fleets, using biremes to dominate Levantine trade routes.^[5] Their
+       shipbuilding techniques were later adopted by Greek city-states.
+     * Classical Greece: The Athenian-led Delian League relied on
+--
+     * Rome: The Classis Britannica patrolled Britain’s coasts,^[7] while
+       the Battle of Actium (31 BCE) demonstrated Rome’s transition from
+       ad hoc fleets to permanent provincial squadrons.^[8]
+
+East Asia
+
+   [edit]
+     * China: The Han dynasty (206 BCE–220 CE) deployed riverine fleets to
+       suppress rebellions,^[9] while the Ming treasure voyages
+       (1405–1433) under Zheng He projected power as far as East
+       Africa.^[10]
+     * Japan: The Mongol invasions (1274–1281) spurred Kamakura Japan to
+       develop coastal defense fleets, though naval power remained
+       secondary to samurai warfare.^[11]
+
+--
+     * Byzantium: The dromon, equipped with Greek fire, secured Byzantine
+       dominance until the 12th century.^[12]
+     * Vikings: Their longship fleets enabled raids from Newfoundland to
+       the Caspian Sea (793–1066 CE).^[13]
+
+--
+   The transition from oar-powered galleys to wind-driven sailing warships
+   revolutionized naval warfare, enabling global empires and standardized
+   fleet tactics.
+
+Ship design
+--
+   [edit]
+     * Line of battle: Adopted after the Battle of the Downs (1639),
+       requiring fleets to fight in disciplined columns.^[16]
+     * Signaling systems: The Royal Navy’s 1790 Signal Book enabled
+       complex fleet maneuvers.^[17]
+
+Major fleet engagements
+
+   [edit]
+--
+   [edit]
+     * Dutch: Protected trade in the East Indies (e.g., VOC’s 100+ ship
+       fleet).^[20]
+     * Chinese shachuan: Ming/Qing coastal fleets countered Japanese wokou
+       pirates.^[21]
+
+--
+   Symbol of naval arms race HMS Dreadnought (1906)
+
+   The Industrial Revolution fundamentally altered fleet composition and
+   strategy, replacing wooden sailing ships with steam-powered ironclads
+   and dreadnoughts, while enabling global naval dominance by
+--
+   [edit]
+     * HMS Warrior (1860): Britain’s first iron-hulled warship, rendering
+       wooden fleets obsolete.^[23]
+     * Triple-expansion engines (1880s): Extended operational range (e.g.,
+       USS Oregon’s 14,000-mile voyage in 1898).^[24]
+--
+     * Breech-loading guns: Increased firepower (e.g., French Canon de 340
+       mm).^[25]
+     * Torpedoes (1870s): Forced fleets to adopt anti-torpedo nets and
+       destroyer escorts.^[26]
+
+   CAPTION: Comparative Table: Ironclad vs. Pre-Industrial Fleets
+
+      Feature     Wooden sail fleet (1800)      Industrial fleet (1900)
+   Hull material Oak timber                  Steel armor (Krupp cemented)
+   Armament      32-pounder smoothbores      12-inch breech-loading rifles
+--
+
+   [edit]
+     * Coal stations: Fleets depended on global coaling networks (e.g.,
+       Britain’s Stations and Dockyards).
+     * Naval staffs: Professionalized command (e.g., Germany’s Admiralstab
+       vs. Britain’s Admiralty War Staff).^[27]
+
+Key fleet actions
+
+   [edit]
+     * Battle of Lissa (1866): Austrian ironclad fleet defeated Italy
+       using ramming tactics.^[28]
+     * Sino-Japanese War (1894): Japan’s modernized fleet annihilated
+       China’s Beiyang Fleet at Yalu River.^[29]
+
+Colonial fleets
+
+   [edit]
+     * "Gunboat diplomacy": Small fleets projected power (e.g., US Asiatic
+       Squadron in Japan 1853).^[30]
+
+--
+   [edit]
+
+   The nuclear revolution and digital technologies transformed fleets into
+   global power-projection systems, dominated by carrier groups and
+   submarines while integrating space and cyber capabilities.
+
+Fleet revolution (1945-1991)
+
+   [edit]
+--
+   [edit]
+     * USS Nautilus (1954): First nuclear submarine enabled indefinite
+       underwater patrols, making fleets unstoppable second-strike
+       platforms.^[31]
+     * SSBNs: Soviet Project 667B and US Ohio-class created undersea
+--
+       missiles.
+
+Fleet tactics
+
+   [edit]
+--
+   [edit]
+
+Expeditionary fleets
+
+   [edit]
+--
+   [edit]
+
+Hybrid fleets
+
+   [edit]
+     * Unmanned vessels: USN’s Ghost Fleet Overlord and China’s Type 022
+       drones.
+     * Space integration: Satellite-linked NIFC-CA targeting (USN) vs.
+--
+
+   [edit]
+     * Russian Northern Fleet reactivated Soviet-era bases (e.g.,
+       Alexandria Land).^[41]
+     * US 2nd Fleet reconstituted for North Atlantic.
+
+   CAPTION: Fleet size comparison (2025)
+
+   Nation Carriers SSBNs Destroyers Unmanned vessels
+--
+   [edit]
+
+   Modern naval fleets employ distinct organizational models tailored to
+   strategic needs, ranging from numbered fleets (U.S. system) to
+   geographic commands (commonwealth/European systems).
+
+--
+
+   [edit]
+     * Numbered fleets:^[42]
+          + Odd numbers (3rd, 5th, 7th) = Pacific Fleet
+          + Even numbers (2nd, 4th, 6th) = Atlantic Fleet
+          + Exception: 10th Fleet (Cyber Command)
+     * Chain of command:^[43]
+          + Fleet Commander (ADM/VADM) → Task Force Commander (RADM) →
+            Task Group Leader
+
+--
+   [edit]
+     * Geographic commands:^[44]
+          + Carrier Strike Group (CSG21) → Fleet Commander (NORTHWOOD HQ).
+          + Historic fleets (Home Fleet, Mediterranean Fleet) consolidated
+            into Strike Force (2019).
+
+--
+   [edit]
+     * Theater commands:^[45]
+          + Northern//Eastern/Southern Theater Fleets report directly to
+            CMC.
+          + Unique feature: Political commissars equal in rank to
+--
+
+        Role            USN rank            RN rank             PLAN rank
+   Fleet commander Admiral (O-10)     Vice-Admiral (OF-8) Rear admiral (海军少将)
+   Task force lead Rear admiral (O-8) Commodore (OF-6)    Senior captain (大校)
+
+--
+   [edit]
+
+   Modern fleets integrate specialized vessels to fulfill strategic,
+   operational, and tactical objectives. Since World War II, fleets have
+   transitioned from battleship-centered formations to carrier strike
+   groups (CSGs) and submarine-centric forces, with evolving roles for
+--
+
+   [edit]
+     * List of fleets
+
+References
+
+   [edit]
+   Wikimedia Commons has media related to Fleets.
+    1. ^ Archives, The National. "The National Archives - Homepage". The
+       National Archives. Retrieved 2025-06-21.
+    2. ^ FLEET Synonyms | Collins English Thesaurus
+    3. ^ Mahan, A. T. (Alfred Thayer). "The Influence of Sea Power Upon
+       History, 1660-1783". www.gutenberg.org. Retrieved 2025-06-21.
+--
+    6. ^ Cartwright, Mark (31 May 2012). "Trireme". World History
+       Encyclopedia. Retrieved 2025-06-21.
+    7. ^ "Classis Britannica - The British Fleet". Roman Britain.
+       Retrieved 2025-06-21.
+    8. ^ Mark, Joshua J. (18 November 2019). "Battle of Actium". World
+--
+   41. ^ "Russia's northernmost base projects its power across Arctic". AP
+       News. 2021-05-18. Retrieved 2025-06-21.
+   42. ^ "Numbered Fleets". www.globalsecurity.org. Retrieved 2025-06-22.
+   43. ^ Military Units: Navy
+   44. ^ "The Royal Navy Command Structure | RN Organisation Structure".
+--
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Naval_fleet&oldid=132625296
+   8"
+   Categories:
+     * Naval fleets
+     * Naval ships
+     * Naval units and formations
+--
+
+   [ ] Toggle the table of contents
+   Naval fleet
+   (BUTTON) 52 languages Add topic

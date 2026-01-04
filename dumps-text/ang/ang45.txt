@@ -1,0 +1,626 @@
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate
+
+     * (BUTTON) Solutions
+     * (BUTTON) Resources
+     * (BUTTON) About
+     * Pricing
+
+   (BUTTON) Ask Samsara
+     * Contact
+     * Login
+     * Check our prices
+
+     *
+          +
+               o Products
+               o Cameras and VideoAI-cameras, driver coaching, safety
+                 reports, in-cab alerts
+               o Equipment TrackingAsset tracking, location tracking,
+                 utilization, diagnostics
+               o Fleet TelematicsReal-time GPS, routing, fuel,
+                 maintenance, electrification
+               o Samsara AppsConnected workflows, compliance, training
+               o Site SecurityRemote visibility, proactive alerting,
+                 on-the-go access
+               o All Product Hardware
+          +
+               o Solutions
+               o Open Platform
+               o Samsara Intelligence
+               o Safety & Risk
+               o Compliance
+               o Fuel & Energy
+               o Security
+               o Efficiency
+               o Sustainability
+          +
+               o Industry
+               o Public Sector
+               o Construction
+               o Transportation & Logistics
+               o Field Services
+               o Food & Beverage
+               o Utilities
+               o Passenger Transit
+          +
+               o Integrations
+               o App Marketplace
+               o OEM Integrations
+               o Developer API
+               o Experts Marketplace
+               o Developer Portal
+
+     *
+          + Support
+            Customer Services
+            Support Center
+            Education & Training
+            Developer Portal
+            Contact Us
+            Developer API
+          + Resources
+            Customer Stories
+            Blog
+            Community Programs
+            Guides
+            Video Hub
+            Research and Reports
+          + Events
+            Events
+            Webinars
+
+     *
+          + Company
+            About Us
+            Investor Relations
+            Samsara Ventures
+            Contact Us
+            Partner Programs
+            Support Center
+          + Careers
+            Samsara Jobs
+
+     *
+
+    1. Products
+
+     Fleet Telematics
+
+Fleet management
+
+   Track every vehicle, streamline operations, and control fuel costs with
+   Samsara telematics.
+
+   ____________________
+   (BUTTON) Check our prices
+
+   (BUTTON)
+
+   Complete visibility icon
+
+Complete visibility
+
+   Monitor your fleet with real-time GPS tracking.
+   Workforce productivity icon
+
+Workforce productivity
+
+   Improve operational efficiency with easy-to-use workflows.
+   Risk management icon
+
+Risk management
+
+   Minimize risk and improve the driver experience with insights into
+   vehicle security, ELD compliance, and fleet safety.
+   Energy efficiency icon
+
+Energy efficiency
+
+   Improve fuel usage and electrification with data-driven insights.
+
+   Complete Visibility
+
+Optimize fleet operations
+
+   Improve fleet efficiency and customer service with Samsara’s
+   best-in-class GPS tracking, vehicle diagnostics, and routing and
+   navigation.
+
+GPS fleet tracking
+
+   Gain real-time visibility into your operations and driver behavior.
+   Learn more
+   person inspecting an enginee
+
+Vehicle diagnostics
+
+   Maximize vehicle uptime and minimize costs with real-time diagnostics.
+   Learn more
+   Samsara customer working on his computer
+
+Routing & dispatch
+
+   Reduce cost and improve safety, compliance, and customer satisfaction.
+   Learn more
+   Truck driver at wheel with digital Hours of Service display showing
+   break, drive, shift, and cycle time remaining.
+
+Commercial Navigation
+
+   Safely navigate around low bridges with directions that account for
+   vehicle restrictions like height.
+   Learn more
+
+   Person using a tablet with the Samsara dashboard on it
+
+   Workforce Productivity
+
+Work smarter with intuitive app-based workflows
+
+   Empower your team to work more efficiently with personalized mobile
+   workflows for drivers, admins, and technicians.
+   Get started with Samsara apps
+
+   Risk Management
+
+Protect your fleet with custom reports and actionable insights
+
+   Minimize risk and improve the driver experience with insights into
+   vehicle safety, ELD compliance, and fleet security.
+   Get started with ELD compliance
+
+   truck fleet reading "ecodriving score 98 up 3 points"
+
+   idling waste 8.8 gal up to 50%
+
+   Energy Efficiency
+
+Unlock fuel and energy insights across your fleet
+
+   Improve fuel efficiency and reduce operational costs with real-time
+   idling alerts, insights into driver performance, and tools to build
+   your EV strategy.
+   Optimize fuel usage
+
+   Proven Impact
+
+How customers win with fleet telematics
+
+   From cost savings to efficiency gains, learn how organizations are
+   connecting their operations to drive ROI.
+   Read more stories
+
+   $3M
+
+   Saved by monitoring idling time
+   Read case study
+   estes trucks fleet
+
+   95%
+
+   Reduction in citizen calls
+   Read case study
+   WR-FY26 Fleet Telematics [Proven Impact - City of Allentown Image]
+
+   $1.1M
+
+   Saved in maintenance and replacement costs
+   Read case study
+   WR-FY26 Fleet Telematics [Proven Impact - Sterling Crane Canada Image]
+
+   $2.5M
+
+   Saved in fuel spend
+   Read case study
+   Gordon Food Service Image
+
+   23%
+
+   Improvement in vehicle utilization
+   Read case study
+   WR-FY26 Fleet Telematics [Proven Impact - US - Sunrun Image]
+
+   $240K
+
+   Saved in operational costs
+   Read case study
+   Fraley & Schilling customer story
+
+   Workforce Benefits
+
+Best-in-class experiences<br>for every team
+
+     * Drivers
+       Engage and retain drivers with easy onboarding, intuitive tools,
+       and access to 24/7 support on the road.
+       Learn more
+       two drivers looking at a phone in front of a truck fleet
+     * Dispatch and operations
+       Give dispatch and operations full visibility into driver location,
+       route, performance, and fuel usage.
+       Learn more
+       Dispatch manager using the Samsara Connected Operations Platform
+     * Safety and compliance
+       Elevate safety and compliance management with HOS, DVIR, and IFTA
+       reporting all on a single platform.
+       Learn more
+       Accelerate issue resolution with remote diagnostics, service
+       scheduling, and built-in troubleshooting.
+     * Maintenance and IT
+       Accelerate issue resolution with remote diagnostics, service
+       scheduling, and built-in troubleshooting.
+       Learn more
+       Maintenance workers using the Samsara Connected Operations Platform
+     * Essential services
+       Empower first responders with dedicated coverage with FirstNet® and
+       Samsara, improving communication and streamlining disaster
+       response.
+       Learn more
+       Samsara and FirstNet® improve communication and disaster response
+
+Drivers
+
+   Engage and retain drivers with easy onboarding, intuitive tools, and
+   access to 24/7 support on the road.
+   Learn more
+
+Dispatch and operations
+
+   Give dispatch and operations full visibility into driver location,
+   route, performance, and fuel usage.
+   Learn more
+
+Safety and compliance
+
+   Elevate safety and compliance management with HOS, DVIR, and IFTA
+   reporting all on a single platform.
+   Learn more
+
+Maintenance and IT
+
+   Accelerate issue resolution with remote diagnostics, service
+   scheduling, and built-in troubleshooting.
+   Learn more
+
+Essential services
+
+   Empower first responders with dedicated coverage with FirstNet® and
+   Samsara, improving communication and streamlining disaster response.
+   Learn more
+
+   OEM Integrations
+
+Connect your fleet
+
+   Build together with powerful integrations and the largest partner
+   ecosystem in the industry.
+   See all integrations
+
+   Samsara’s OEM Ecosystem
+
+Maximize your visibility
+
+   Vehicle Gateway image
+
+Vehicle Gateway
+
+   Real-time telematics with GPS tracking, WiFi, and diagnostics
+   Powered Asset Gateway image
+
+Powered Asset Gateway
+
+   Real-time location and cargo condition monitoring
+   Unpowered Asset Gateway Image
+
+Unpowered Asset Gateway
+
+   Locate any asset from anywhere
+   Environmental Monitoring Image
+
+Environmental Monitoring
+
+   Live and historical temperature monitoring
+   AI Dash Cam Image
+
+AI Dash Cam
+
+   Cloud-connected HD cameras with computer vision
+
+   ai-multicam-render-hardware
+
+AI Multicam
+
+   A complete 360° multicamera visibility system
+   Vehicle Gateway image
+
+Vehicle Gateway
+
+   Real-time telematics with GPS tracking, WiFi, and diagnostics
+   Powered Asset Gateway image
+
+Powered Asset Gateway
+
+   Real-time location and cargo condition monitoring
+   Unpowered Asset Gateway Image
+
+Unpowered Asset Gateway
+
+   Locate any asset from anywhere
+   See all products
+
+   Resources
+
+Keep up with our<br>latest news & updates
+
+   Report
+   Samsara Safety Report cover with blue background featuring fleet
+   vehicles and workers, highlighting fleet safety benchmarking
+   Report
+
+Samsara AI helps reduce crash rates by nearly 75%
+
+   Based on 2.6K+ fleets, the Samsara Safety Report reveals how Samsara
+   improves crash rates, risky behaviors, and CSA scores.
+   See the report
+
+   Book cover showing a semi-truck with "Fleet Owner & Fleet Maintenance:
+   Comparison of Fleet Management Technology Providers"
+   Report
+
+Samsara rated No. 1: Satisfaction, support & service
+
+   See the report
+   IDC White paper
+   Report
+
+IDC study: Samsara delivers 8x+ ROI
+
+   Download the report
+   Book cover showing person in bright green safety vest with "Plan, Act,
+   Recover: Disaster Preparedness in Physical Operations"
+   Report
+
+Plan, act, recover: Tech is reshaping disaster preparedness
+
+   See the report
+
+   FAQs
+
+Learn more about fleet telematics
+
+   What is fleet telematics?
+
+   Fleet telematics technology is a fleet management system designed to be
+   the single command center for physical operations, enabling
+   organizations to streamline every aspect of their fleet, field, and
+   back-office operations.
+
+   With fleet telematics, you can:
+     * Unleash employee productivity with intuitive and personalized
+       workflows for your drivers, admins, and technicians.
+     * Minimize risk by delivering rich safety, compliance, maintenance,
+       and security insights you can act on immediately to protect your
+       fleet.
+     * Maximize energy efficiency with our advanced fuel, energy, and
+       emissions reporting and alerting.
+
+   How does a fleet telematics solution help improve fleet management?
+
+   With a fleet telematics solution like Samsara help improve the safety,
+   compliance, and efficiency of your fleet. With GPS tracking for
+   vehicles and assets, ELD compliance, and more, Samsara is a
+   comprehensive telematics system that helps streamline fleet management.
+
+   What are the benefits of a fleet telematics system?
+
+   There are many benefits to a fleet telematics system, including:
+     * Minimize fleet risk: Protect your people, assets, and your bottom
+       line with actionable safety, compliance, maintenance, and security
+       insights.
+     * Increase worker productivity: Empower your teams with intuitive,
+       personalized mobile app workflows for drivers, admins, and
+       technicians.
+     * Maximize energy efficiency: Future-proof your operations with
+       advanced fuel analytics, energy management, and emissions planning.
+
+   Is fleet telematics the same as GPS tracking?
+
+   Fleet telematics software enables organizations to track the location
+   of their fleet using real-time data, including to-the-second GPS data.
+   With real-time GPS location tracking, fleets gain best-in-class
+   visibility to improve route performance, fleet efficiency, and customer
+   service.
+
+   Some key features of real-time GPS tracking include:
+     * Geofencing: Automatically get notified, via text or email when your
+       assets arrive and leave specific locations, or when abnormal
+       activity occurs.
+     * Helicopter view: Eliminate guesswork with an instant aerial view of
+       your assets. Easily aid route navigation and help authorities track
+       stolen property.
+     * Smart map overlays: Monitor weather and traffic or locate the
+       nearest charging station. Quickly adapt to changing conditions so
+       your drivers can stay on schedule.
+     * Live location sharing: Deliver best-in-class customer service with
+       live location links to equip your customers with accurate ETAs.
+
+   How does fleet telematics help ensure ELD compliance?
+
+   Amidst evolving regulations, fleet telematics systems are critical to
+   helping fleet maintain compliance. Using fleet telematics, you gain
+   real-time visibility into driver status, making it easy for drivers to
+   log HOS and preventing ELD mandate violations. In addition, automated
+   ELD workflows for drivers and robust reporting for admins across HOS,
+   DVIR, and IFTA enable fleets to sail through audits with ease.
+
+   How does fleet telematics software streamline preventative maintenance?
+
+   By leveraging real-time vehicle diagnostics, fleets are able to improve
+   preventative maintenance and reduce downtime. Proactively spot issues
+   such as failing batteries and engine fault codes through over-the-air
+   vehicle diagnostics. Avoid road breakdowns and quickly identify
+   vehicles in need of service to protect vehicle health and extend
+   vehicle lifetime.
+
+   Fleet telematics systems like Samsara offer intuitive mobile workflows
+   and to help improve vehicle maintenance. Samsara Vehicle Telematics
+   help you prevent incidents before they happen with visibility into key
+   driver and vehicle safety indicators like vehicle location, speed,
+   harsh braking, and fault codes, while our Driver App helps you stay on
+   top of potential defects with DVIRs.
+
+   In addition, Samsara’s offers a robust ecosystem of integrations,
+   making it easy to connect your data to existing systems to ensure
+   reporting accuracy, maximize administrative efficiency, and make
+   smarter, informed decisions.
+
+   How does fleet telematics technology improve fuel management?
+
+   With fleet telematics, you gain real-time insights that enable you to
+   reduce fuel consumption and improve energy efficiency. Samsara Vehicle
+   Telematics helps you:
+     * Motivate drivers to idle less and save more with personalized
+       scoring and performance insights.
+     * Cut down on fuel waste, energy use, and emissions with actionable
+       alerts and advanced reporting.
+     * As EV and emissions mandates become more prevalent, Samsara’s
+       automated EV assessments and customizable suitability criteria help
+       you identify a path forward to vehicle electrification.
+
+Products that transform your business
+
+   Connect your fleets, equipment, sites, and people on the open platform
+   that users love.
+
+Fleet Telematics
+
+   Real-time GPS, routing, fuel, maintenance, electrification
+   See details
+
+Cameras and Video
+
+   AI-cameras, driver coaching, safety reports, in-cab alerts
+   See details
+
+Equipment Tracking
+
+   Asset tracking, location tracking, utilization, and diagnostics
+   See details
+
+Platform
+
+   Run all of your operations from one place
+   See details
+
+Maintenance
+
+   Maximize vehicle uptime and minimize costs with real-time diagnostics
+   See details
+
+Samsara Apps
+
+   Connected workflows, compliance, training
+   See details
+
+Ready to get in touch?
+
+   We’re here to help transform your operations
+   Contact us
+
+     * Products
+     * Cameras and Video
+     * AI Multicam
+     * Driver Coaching
+     * Drowsiness Detection
+     * Safety Reporting & Insights
+     * Equipment Tracking
+     * Trailer Tracking
+     * Asset Tracking
+     * Asset Tag
+     * Fleet Telematics
+     * GPS Fleet Tracking
+     * Fleet Maintenance
+     * Routing & Dispatch
+     * Electric Vehicles
+     * First Net
+     * Samsara Apps
+     * DVIR
+     * ELD Compliance
+     * Connected Training
+     * Connected Workflows
+     * Samsara Platform
+     * Samsara Intelligence
+     * Site Security
+     * All Product Hardware
+
+     * Industries
+     * Transportation & Logistics
+     * Construction
+     * Food & Beverage
+     * Utilities
+     * Passenger Transit
+     * Field Services
+     * Public Sector
+     * K-12
+     * Government
+     * Higher Education
+
+     * Integrations
+     * OEM Integrations
+     * App Marketplace
+     * Expert Marketplace
+
+     * For Developers
+     * Developer APIs
+     * API Changelog
+     * Developer Portal
+
+     * Resources
+     * Customer Stories
+     * Support Center
+     * Customer Referral Program
+     * Partner Programs
+     * Events
+     * Webinars
+     * Guides
+     * Unrivaled AI
+     * Brand Assets
+     * Customer Webstore
+
+     * Company
+     * Pricing and Plans
+     * About Us
+     * Careers
+     * Belonging
+     * Investor Relations
+     * Samsara Ventures
+     * News
+     * Blog
+     * Privacy
+     * Security
+     * Contact
+     * Why Choose Samsara
+
+   [English (US)_________]
+     *
+     *
+     *
+     *
+     *
+
+     * Privacy Policy
+     * Candidate Privacy Notice
+     * Website Terms of Service
+     * Cookie Policy
+     * Your Privacy Choices
+     * Hardware Warranty
+     * Product Terms of Service
+     * Hosted Software SLA
+     * Partner Code of Conduct
+     * Data Protection Addendum
+     * Modern Slavery Statement
+
+   © 2026 Samsara Inc.
+
+   Check our prices

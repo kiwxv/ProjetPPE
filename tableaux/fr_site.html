@@ -1,0 +1,775 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Tableau fr - Projet PPE</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="../assets/css/main.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css" />
+    <noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
+    <style>
+        body { background-color: #ffffff; color: #000; }
+        #main { background-color: white; padding: 2em; }
+        #wrapper { width: 100%; max-width: none !important; }
+        .title { color: #1e3a8a !important; }
+        .table-container { overflow-x: auto; margin-top: 20px; }
+        .table-epure { width: 100%; border-collapse: collapse; background-color: #fff; table-layout: auto; margin-bottom: 3em; min-width: 1000px;}
+        .table-epure th, .table-epure td { border: 2px solid #1e3a8a; padding: 12px 15px; color: #000; vertical-align: middle; font-family: sans-serif; font-size: 0.9em; }
+        .table-epure th { background-color: #f8f9fa; font-weight: bold; border-bottom: 3px solid #1e3a8a; text-align: center; white-space: nowrap; }
+        .table-epure tr:hover { background-color: #eef2ff; }
+        .table-epure td:nth-child(5) { word-break: break-all; min-width: 200px; }
+        .button.is-small { font-size: 0.8rem; margin: 2px; }
+    </style>
+</head>
+<body class="is-preload">
+    <div id="wrapper">
+        <header id="header"><a href="../index.html" class="logo">Flotte</a></header>
+        <nav id="nav">
+            <ul class="links">
+                <li><a href="../index.html">Accueil</a></li>
+                <li class="active"><a href="../tableaux.html">Tableaux</a></li>
+                <li><a href="../scripts.html">Scripts</a></li>
+                <li><a href="../nuages.html">Nuages de mots</a></li>
+                <li><a href="../itrameur.html">iTrameur</a></li>
+            </ul>
+            <ul class="icons">
+                <li><a href="https://github.com/kiwxv/ProjetPPE" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+            </ul>
+        </nav>
+        <div id="main">
+            <section class="post">
+                <header class="major">
+                    <h1>Tableau de données</h1>
+                    <p>Tableau crée par Capucine Leclerc et Lucy-Lou Agard. <br> Langue : <span style="text-transform:uppercase; color:#1e3a8a; font-weight:bold;">fr</span></p>
+                </header>
+                <div class="table-container">
+                    <table class="table-epure">
+                        <thead>
+                            <tr>
+                                <th>Ligne</th>
+                                <th>Code HTTP</th>
+                                <th>Encodage</th>
+                                <th>Mots</th>
+                                <th>URL</th>
+                                <th>Aspirations / Dumps / Contextes / Bigramme / Robot.txt</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                <tr>
+                    <td style="text-align:center">1</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">389</td>
+                    <td><a href="https://www.larousse.fr/dictionnaires/francais/flotte/34238" target="_blank">https://www.larousse.fr/dictionnaires/francais/flotte/34238</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr1_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr1.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr1_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.larousse.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">2</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">2472</td>
+                    <td><a href="https://fr.wiktionary.org/wiki/flotte" target="_blank">https://fr.wiktionary.org/wiki/flotte</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr2_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr2.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr2_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___fr.wiktionary.org.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">3</td>
+                    <td style="text-align:center">403</td>
+                    <td style="text-align:center">us-ascii (conv)</td>
+                    <td style="text-align:center">15</td>
+                    <td><a href="https://www.linternaute.fr/dictionnaire/fr/definition/flotte-1/" target="_blank">https://www.linternaute.fr/dictionnaire/fr/definition/flotte-1/</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr3_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr3_initial.txt" class="button is-small is-warning is-outlined">initial</a>
+                        <a href="../dumps-text/fr/fr3.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr3_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.linternaute.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">4</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">1183</td>
+                    <td><a href="https://fr.wikipedia.org/wiki/Flotte" target="_blank">https://fr.wikipedia.org/wiki/Flotte</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr4_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr4.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr4_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___fr.wikipedia.org.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">5</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">589</td>
+                    <td><a href="https://langue-francaise.tv5monde.com/decouvrir/dictionnaire/f/flotte" target="_blank">https://langue-francaise.tv5monde.com/decouvrir/dictionnaire/f/flotte</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr5_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr5.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr5_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___langue-francaise.tv5monde.com.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">6</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">906</td>
+                    <td><a href="https://www.flotteoceanographique.fr/" target="_blank">https://www.flotteoceanographique.fr/</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr6_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr6.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr6_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.flotteoceanographique.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">7</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">1549</td>
+                    <td><a href="https://fr.wikipedia.org/wiki/Gestion_de_flotte" target="_blank">https://fr.wikipedia.org/wiki/Gestion_de_flotte</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr7_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr7.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr7_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___fr.wikipedia.org.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">8</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">688</td>
+                    <td><a href="https://www.defense.gouv.fr/marine/actualites/porte-avions-charles-gaulle-renouvelle-sa-flotte-tracteurs-pont-denvol" target="_blank">https://www.defense.gouv.fr/marine/actualites/porte-avions-charles-gaulle-renouvelle-sa-flotte-tracteurs-pont-denvol</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr8_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr8.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr8_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.defense.gouv.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">9</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">2895</td>
+                    <td><a href="https://www.flotauto.com/flotte-etat-vo/" target="_blank">https://www.flotauto.com/flotte-etat-vo/</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr9_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr9.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr9_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.flotauto.com.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">10</td>
+                    <td style="text-align:center">403</td>
+                    <td style="text-align:center">us-ascii (conv)</td>
+                    <td style="text-align:center">16</td>
+                    <td><a href="https://www.lesechos.fr/thema/articles/edf-mise-sur-une-flotte-automobile-100-electrique-a-horizon-2030-2202074" target="_blank">https://www.lesechos.fr/thema/articles/edf-mise-sur-une-flotte-automobile-100-electrique-a-horizon-2030-2202074</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr10_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr10_initial.txt" class="button is-small is-warning is-outlined">initial</a>
+                        <a href="../dumps-text/fr/fr10.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr10_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.lesechos.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">11</td>
+                    <td style="text-align:center">000</td>
+                    <td style="text-align:center">Absence d'encodage</td>
+                    <td style="text-align:center">0</td>
+                    <td><a href="https://www.msccroisieres.fr/nos-croisieres/navires" target="_blank">https://www.msccroisieres.fr/nos-croisieres/navires</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr11_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr11.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr11_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.msccroisieres.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">12</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">2108</td>
+                    <td><a href="https://www.france24.com/fr/afrique/20251202-petrolier-russie-mersin-ukraine-explosion-senegal-flotte-fantome-guerre" target="_blank">https://www.france24.com/fr/afrique/20251202-petrolier-russie-mersin-ukraine-explosion-senegal-flotte-fantome-guerre</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr12_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr12.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr12_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.france24.com.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">13</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">1050</td>
+                    <td><a href="https://www.lesnumeriques.com/voiture/stellantis-s-associe-a-bolt-pour-deployer-une-flotte-de-robotaxis-autonomes-n247890.html" target="_blank">https://www.lesnumeriques.com/voiture/stellantis-s-associe-a-bolt-pour-deployer-une-flotte-de-robotaxis-autonomes-n247890.html</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr13_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr13.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr13_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.lesnumeriques.com.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">14</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">1231</td>
+                    <td><a href="https://www.meretmarine.com/fr/defense/la-norvege-confirme-sa-volonte-de-conserver-une-flotte-a-six-sous-marins" target="_blank">https://www.meretmarine.com/fr/defense/la-norvege-confirme-sa-volonte-de-conserver-une-flotte-a-six-sous-marins</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr14_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr14.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr14_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.meretmarine.com.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">15</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">1662</td>
+                    <td><a href="https://www.bfmtv.com/economie/replay-emissions/french-tech/video-french-tech-shark-robotics-une-flotte-de-robots-pompiers-10-12_VN-202512100270.html" target="_blank">https://www.bfmtv.com/economie/replay-emissions/french-tech/video-french-tech-shark-robotics-une-flotte-de-robots-pompiers-10-12_VN-202512100270.html</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr15_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr15.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr15_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.bfmtv.com.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">16</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">0</td>
+                    <td><a href="https://www.aa.com.tr/fr/monde/airbus-annonce-la-mise-%C3%A0-jour-de-la-flotte-a320-apr%C3%A8s-un-rappel-mondial/3767246" target="_blank">https://www.aa.com.tr/fr/monde/airbus-annonce-la-mise-%C3%A0-jour-de-la-flotte-a320-apr%C3%A8s-un-rappel-mondial/3767246</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr16_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr16.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr16_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.aa.com.tr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">17</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">2676</td>
+                    <td><a href="https://www.numerama.com/vroom/2137759-stellantis-et-bolt-sattaquent-a-tesla-et-waymo-pour-creer-une-flotte-de-taxis-autonomes.html" target="_blank">https://www.numerama.com/vroom/2137759-stellantis-et-bolt-sattaquent-a-tesla-et-waymo-pour-creer-une-flotte-de-taxis-autonomes.html</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr17_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr17.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr17_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.numerama.com.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">18</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">3170</td>
+                    <td><a href="https://www.channelnews.fr/bien-piloter-sa-flotte-mobile-un-projet-qui-ne-simprovise-pas-153283" target="_blank">https://www.channelnews.fr/bien-piloter-sa-flotte-mobile-un-projet-qui-ne-simprovise-pas-153283</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr18_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr18.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr18_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.channelnews.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">19</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">984</td>
+                    <td><a href="https://dictionnaire.lerobert.com/definition/flotte" target="_blank">https://dictionnaire.lerobert.com/definition/flotte</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr19_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr19.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr19_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___dictionnaire.lerobert.com.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">20</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">1218</td>
+                    <td><a href="https://www.francebleu.fr/infos/transports/un-bateau-construit-en-vendee-rejoindra-la-flotte-de-la-compagnie-vendeenne-pour-les-traversees-vers-l-ile-d-yeu-5405653" target="_blank">https://www.francebleu.fr/infos/transports/un-bateau-construit-en-vendee-rejoindra-la-flotte-de-la-compagnie-vendeenne-pour-les-traversees-vers-l-ile-d-yeu-5405653</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr20_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr20.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr20_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.francebleu.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">21</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">2180</td>
+                    <td><a href="https://www.svp.com/livre-blanc/optimisez-la-fiscalite-de-votre-flotte-de-vehicules" target="_blank">https://www.svp.com/livre-blanc/optimisez-la-fiscalite-de-votre-flotte-de-vehicules</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr21_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr21.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr21_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.svp.com.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">22</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">content-type: text/html
+UTF-8</td>
+                    <td style="text-align:center">65</td>
+                    <td><a href="https://www.auto-infos.fr/article/etude-la-pression-reglementaire-pousse-64-des-entreprises-a-modifier-leurs-flottes-automobiles.289829" target="_blank">https://www.auto-infos.fr/article/etude-la-pression-reglementaire-pousse-64-des-entreprises-a-modifier-leurs-flottes-automobiles.289829</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr22_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr22.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr22_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.auto-infos.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">23</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">1463</td>
+                    <td><a href="https://www.tf1.fr/tf1/jt-20h/videos/flotte-fantome-lukraine-attaque-deux-petroliers-russes-36028126.html" target="_blank">https://www.tf1.fr/tf1/jt-20h/videos/flotte-fantome-lukraine-attaque-deux-petroliers-russes-36028126.html</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr23_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr23.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr23_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.tf1.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">24</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">3270</td>
+                    <td><a href="https://www.lefigaro.fr/international/un-petrolier-attaque-par-un-drone-naval-au-large-des-cotes-turques-en-mer-noire-20251129" target="_blank">https://www.lefigaro.fr/international/un-petrolier-attaque-par-un-drone-naval-au-large-des-cotes-turques-en-mer-noire-20251129</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr24_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr24.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr24_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.lefigaro.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">25</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">1333</td>
+                    <td><a href="https://www.media.stellantis.com/fr-fr/leasys/press/3-dirigeants-sur-5-prets-a-faire-evoluer-leur-flotte-le-tournant-des-mobilites-s-intensifie-sous-la-pression-reglementaire" target="_blank">https://www.media.stellantis.com/fr-fr/leasys/press/3-dirigeants-sur-5-prets-a-faire-evoluer-leur-flotte-le-tournant-des-mobilites-s-intensifie-sous-la-pression-reglementaire</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr25_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr25.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr25_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.media.stellantis.com.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">26</td>
+                    <td style="text-align:center">403</td>
+                    <td style="text-align:center">us-ascii (conv)</td>
+                    <td style="text-align:center">16</td>
+                    <td><a href="https://www.lesoir.be/715744/article/2025-12-09/les-navires-de-la-flotte-fantome-russe-reussissent-se-rendre-de-plus-en-plus" target="_blank">https://www.lesoir.be/715744/article/2025-12-09/les-navires-de-la-flotte-fantome-russe-reussissent-se-rendre-de-plus-en-plus</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr26_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr26_initial.txt" class="button is-small is-warning is-outlined">initial</a>
+                        <a href="../dumps-text/fr/fr26.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr26_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.lesoir.be.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">27</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">1413</td>
+                    <td><a href="https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-touche-par-des-frappes-de-kiev-le-navire-de-la-flotte-fantome-russe-kairos-sest-echoue-a-1-km-de-la-bulgarie-09-12-2025-VBUUCHIDSNHJZFQBWMHRTB6KOI.php" target="_blank">https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-touche-par-des-frappes-de-kiev-le-navire-de-la-flotte-fantome-russe-kairos-sest-echoue-a-1-km-de-la-bulgarie-09-12-2025-VBUUCHIDSNHJZFQBWMHRTB6KOI.php</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr27_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr27.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr27_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.leparisien.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">28</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">2013</td>
+                    <td><a href="https://www.geo.fr/geopolitique/l-ukraine-part-en-guerre-contre-la-flotte-fantome-russe-dans-les-eaux-internationales-229817" target="_blank">https://www.geo.fr/geopolitique/l-ukraine-part-en-guerre-contre-la-flotte-fantome-russe-dans-les-eaux-internationales-229817</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr28_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr28.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr28_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.geo.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">29</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8
+x-content-type-options: nosniff</td>
+                    <td style="text-align:center">2</td>
+                    <td><a href="https://www.emploi-collectivites.fr/offre-emploi-territoriale-conseil-departemental-val-oise/gestionnaire-flotte-102924" target="_blank">https://www.emploi-collectivites.fr/offre-emploi-territoriale-conseil-departemental-val-oise/gestionnaire-flotte-102924</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr29_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr29.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr29_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.emploi-collectivites.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">30</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">1925</td>
+                    <td><a href="https://www.rfi.fr/fr/europe/20251205-les-frappes-ukrainiennes-contre-la-flotte-fant%C3%B4me-russe-font-craindre-une-escalade-en-mer-noire" target="_blank">https://www.rfi.fr/fr/europe/20251205-les-frappes-ukrainiennes-contre-la-flotte-fant%C3%B4me-russe-font-craindre-une-escalade-en-mer-noire</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr30_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr30.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr30_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.rfi.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">31</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">1463</td>
+                    <td><a href="https://www.tf1.fr/player/6ef28e11-6669-4676-9801-83fb2ac4ad94" target="_blank">https://www.tf1.fr/player/6ef28e11-6669-4676-9801-83fb2ac4ad94</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr31_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr31.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr31_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.tf1.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">32</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">1395</td>
+                    <td><a href="https://www.paybyphone.fr/entreprises" target="_blank">https://www.paybyphone.fr/entreprises</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr32_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr32.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr32_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.paybyphone.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">33</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">2074</td>
+                    <td><a href="https://pro.free.fr/mobile/" target="_blank">https://pro.free.fr/mobile/</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr33_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr33.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr33_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___pro.free.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">34</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">1246</td>
+                    <td><a href="https://www.slate.fr/monde/europe-allies-flotte-fantome-navires-petroliers-russie-ukraine-drone" target="_blank">https://www.slate.fr/monde/europe-allies-flotte-fantome-navires-petroliers-russie-ukraine-drone</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr34_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr34.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr34_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.slate.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">35</td>
+                    <td style="text-align:center">403</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">9</td>
+                    <td><a href="https://corporate.airfrance.com/fr/actualites/avec-larrivee-de-son-50-airbus-a220-et-de-son-40-airbus-a350-air-france-poursuit-le" target="_blank">https://corporate.airfrance.com/fr/actualites/avec-larrivee-de-son-50-airbus-a220-et-de-son-40-airbus-a350-air-france-poursuit-le</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr35_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr35.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr35_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___corporate.airfrance.com.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">36</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">1984</td>
+                    <td><a href="https://www.air-journal.fr/2025-12-05-aeroflot-demonte-les-avions-cargos-de-volga%E2%80%91dnepr-pour-maintenir-sa-flotte-boeing-en-vie-5269836.html" target="_blank">https://www.air-journal.fr/2025-12-05-aeroflot-demonte-les-avions-cargos-de-volga%E2%80%91dnepr-pour-maintenir-sa-flotte-boeing-en-vie-5269836.html</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr36_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr36.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr36_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.air-journal.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">37</td>
+                    <td style="text-align:center">403</td>
+                    <td style="text-align:center">us-ascii (conv)</td>
+                    <td style="text-align:center">17</td>
+                    <td><a href="https://figaronautisme.meteoconsult.fr/actus-nautisme-escales/2025-12-05/44536-croisieres-en-bateau-spa-quand-le-jacuzzi-flotte-et-vous-emmene" target="_blank">https://figaronautisme.meteoconsult.fr/actus-nautisme-escales/2025-12-05/44536-croisieres-en-bateau-spa-quand-le-jacuzzi-flotte-et-vous-emmene</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr37_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr37_initial.txt" class="button is-small is-warning is-outlined">initial</a>
+                        <a href="../dumps-text/fr/fr37.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr37_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___figaronautisme.meteoconsult.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">38</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">1190</td>
+                    <td><a href="https://lepetitjournal.com/shanghai/comprendre-chine/porte-avions-fujian-ou-en-est-la-flotte-chinoise-428438" target="_blank">https://lepetitjournal.com/shanghai/comprendre-chine/porte-avions-fujian-ou-en-est-la-flotte-chinoise-428438</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr38_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr38.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr38_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___lepetitjournal.com.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">39</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">1196</td>
+                    <td><a href="https://sih.ifremer.fr/Actus/ObsMer-rapidite-clarte-et-collaboration-pour-un-nouveau-souffle" target="_blank">https://sih.ifremer.fr/Actus/ObsMer-rapidite-clarte-et-collaboration-pour-un-nouveau-souffle</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr39_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr39.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr39_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___sih.ifremer.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">40</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">3144</td>
+                    <td><a href="https://www.bfmtv.com/economie/replay-emissions/french-tech/french-tech-shark-robotics-une-flotte-de-robots-pompiers-10-12_EN-202512100267.html" target="_blank">https://www.bfmtv.com/economie/replay-emissions/french-tech/french-tech-shark-robotics-une-flotte-de-robots-pompiers-10-12_EN-202512100267.html</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr40_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr40.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr40_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.bfmtv.com.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">41</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">1200</td>
+                    <td><a href="https://www.welcometothejungle.com/fr/companies/thales/jobs/qam-pour-activites-flotte-m2000-exp_bordeaux" target="_blank">https://www.welcometothejungle.com/fr/companies/thales/jobs/qam-pour-activites-flotte-m2000-exp_bordeaux</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr41_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr41.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr41_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.welcometothejungle.com.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">42</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">4760</td>
+                    <td><a href="https://www.20minutes.fr/monde/4190497-20251209-guerre-ukraine-sait-kairos-petrolier-flotte-fantome-russe-perdition-bulgarie" target="_blank">https://www.20minutes.fr/monde/4190497-20251209-guerre-ukraine-sait-kairos-petrolier-flotte-fantome-russe-perdition-bulgarie</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr42_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr42.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr42_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.20minutes.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">43</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">1816</td>
+                    <td><a href="https://www.air-journal.fr/2025-12-05-qatar-executive-mise-sur-starlink-la-flotte-de-jets-prives-passe-au-tres-haut-debit-en-vol-5269751.html" target="_blank">https://www.air-journal.fr/2025-12-05-qatar-executive-mise-sur-starlink-la-flotte-de-jets-prives-passe-au-tres-haut-debit-en-vol-5269751.html</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr43_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr43.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr43_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.air-journal.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">44</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">997</td>
+                    <td><a href="https://jdlgroupe.com/2025/12/09/veolia-france-generalise-la-solution-goodyear-tires-as-a-service-a-toute-sa-flotte/" target="_blank">https://jdlgroupe.com/2025/12/09/veolia-france-generalise-la-solution-goodyear-tires-as-a-service-a-toute-sa-flotte/</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr44_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr44.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr44_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___jdlgroupe.com.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">45</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">1342</td>
+                    <td><a href="https://www.transportinfo.fr/gestion-de-flotte-comment-truckonline-se-prepare-a-doubler-son-ca-en-3-ans/" target="_blank">https://www.transportinfo.fr/gestion-de-flotte-comment-truckonline-se-prepare-a-doubler-son-ca-en-3-ans/</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr45_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr45.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr45_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.transportinfo.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">46</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">2588</td>
+                    <td><a href="https://www.ladepeche.fr/2025/12/03/guerre-en-ukraine-comment-grace-a-ses-drones-navals-sea-baby-kiev-veut-faire-tomber-la-flotte-fantome-russe-13087735.php" target="_blank">https://www.ladepeche.fr/2025/12/03/guerre-en-ukraine-comment-grace-a-ses-drones-navals-sea-baby-kiev-veut-faire-tomber-la-flotte-fantome-russe-13087735.php</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr46_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr46.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr46_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.ladepeche.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">47</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">1131</td>
+                    <td><a href="https://www.midilibre.fr/2025/12/04/assemblee-generale-de-la-mini-flotte-gardoise-13089510.php" target="_blank">https://www.midilibre.fr/2025/12/04/assemblee-generale-de-la-mini-flotte-gardoise-13089510.php</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr47_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr47.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr47_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.midilibre.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">48</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">778</td>
+                    <td><a href="https://www.france24.com/fr/vid%C3%A9o/20251203-flotte-fant%C3%B4me-russe-la-guerre-en-ukraine-export%C3%A9e-au-large-de-l-afrique" target="_blank">https://www.france24.com/fr/vid%C3%A9o/20251203-flotte-fant%C3%B4me-russe-la-guerre-en-ukraine-export%C3%A9e-au-large-de-l-afrique</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr48_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr48.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr48_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.france24.com.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">49</td>
+                    <td style="text-align:center">403</td>
+                    <td style="text-align:center">utf-8</td>
+                    <td style="text-align:center">8</td>
+                    <td><a href="https://www.liberation.fr/international/sanctions-europeennes-entre-le-marche-legal-du-petrole-et-la-flotte-fantome-de-moscou-une-frontiere-poreuse-20251224_2PTYAU7SV5HC5PQCT3M7JG7KKM/" target="_blank">https://www.liberation.fr/international/sanctions-europeennes-entre-le-marche-legal-du-petrole-et-la-flotte-fantome-de-moscou-une-frontiere-poreuse-20251224_2PTYAU7SV5HC5PQCT3M7JG7KKM/</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr49_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr49.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr49_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___www.liberation.fr.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center">50</td>
+                    <td style="text-align:center">200</td>
+                    <td style="text-align:center">UTF-8</td>
+                    <td style="text-align:center">4454</td>
+                    <td><a href="https://fr.wikipedia.org/wiki/Flotte_fant%C3%B4me_russe" target="_blank">https://fr.wikipedia.org/wiki/Flotte_fant%C3%B4me_russe</a></td>
+                    <td style="text-align:center">
+                        <a href="../aspirations/fr/fr50_page.html" class="button is-small is-link is-outlined">html</a>
+                        <a href="../dumps-text/fr/fr50.txt" class="button is-small is-info is-outlined">txt</a>
+                        <a href="../contextes/fr/fr50_contexte.txt" class="button is-small is-primary is-outlined">contexte</a>
+                        <a href="../contextes/bigrammes/bigrammes_fr.txt" class="button is-small is-primary is-outlined">bigramme</a>
+                        <a href="../aspirations/robotfr/robots_https___fr.wikipedia.org.txt" class="button is-small is-primary is-outlined">robot.txt</a>
+                    </td>
+                </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div style="text-align:center; margin-top:2em;">
+                    <a href="../tableaux.html" class="button" style="background-color: #1e3a8a; color: #ffffff !important; border: none;">Retour au choix des langues</a>
+                </div>
+            </section>
+        </div>
+        <div id="copyright"><ul><li>&copy; Projet PPE</li></ul></div>
+    </div>
+</body>
+</html>
