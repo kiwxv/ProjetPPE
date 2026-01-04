@@ -1,0 +1,23 @@
+   [ ] Hovedmeny
+   Hovedmeny
+   (BUTTON) flytt til sidefeltet (BUTTON) skjul
+   Navigasjon
+     * Forside
+--
+Innhold
+
+   (BUTTON) flytt til sidefeltet (BUTTON) skjul
+     * (Til toppen)
+     * 1 Referanser
+--
+   [ ] Verktøy
+   Verktøy
+   (BUTTON) flytt til sidefeltet (BUTTON) skjul
+   Handlinger
+     * Les
+--
+
+   Utseende
+   (BUTTON) flytt til sidefeltet (BUTTON) skjul
+   Koordinater: 59°03'43''N 9°27'54''Ø
+   Fra Wikipedia, den frie encyklopedi

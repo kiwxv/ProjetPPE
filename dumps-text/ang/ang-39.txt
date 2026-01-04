@@ -1,0 +1,440 @@
+
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KG7PVKB
+
+   Skip to main content
+
+   National Laboratory of the Rockies
+   (BUTTON)
+   Search Site by keywords
+   ____________________ [BUTTON Input] (not implemented)______
+   Search Site by keywords
+   ____________________ [BUTTON Input] (not implemented)______
+
+   (BUTTON)  Menu Close
+   Transportation & Mobility Research
+     * Research
+          + Research
+          + Aviation Energy Futures
+          + Commercial Vehicle Technologies
+          + Electric Vehicle Grid Integration
+          + Energy Storage
+          + Fuels & Combustion
+          + Vehicle Systems Analysis
+          + Mobility Systems
+          + Power Electronics & Electric Machines
+          + Transportation Technology Integration
+          + Vehicle Thermal Management
+     * Staff
+     * Impacts
+     * Publications
+          + Publications
+          + Newsletter
+     * Data & Tools
+     * Facilities
+          + Facilities
+          + Electric Vehicle Infrastructure Facilities
+          + Energy Storage Facilities
+          + Infrastructure Perception & Control Laboratory
+          + Power Electronics & Electric Machines Facilities
+     * Work With Us
+
+     *
+     * Transportation and Mobility Research
+     * Fleet DNA: Commercial Fleet Vehicle Operating Data
+
+Fleet DNA: Commercial Fleet Vehicle Operating Data
+
+   Fleet DNA logo
+
+   The Fleet DNA database of commercial fleet vehicle operating data helps
+   vehicle manufacturers and developers optimize vehicle designs and helps
+   fleet managers choose advanced technologies.
+
+   A subset of data shown in this online tool provides data summaries and
+   visualizations similar to real-world "genetics" for medium- and
+   heavy-duty fleet vehicles, which helps users understand the broad
+   operational range of commercial vehicles across vocations and weight
+   classes.
+
+   FleetDNA is part of the FleetREDI platform.
+     * Delivery Vans Delivery Vans
+     * Delivery Trucks Delivery Trucks
+     * School Buses School Buses
+     * Transit Buses Transit Buses
+
+Delivery Vans
+
+   Photo of a delivery van
+
+   The delivery van category includes data for walk-in and step vans
+   ranging in size from class 3 to class 6 with primary vocations of
+   delivering parcels, food, linens, or beverages.
+
+   Fleet DNA has 974 days of driving data from 94 delivery vans operating
+   in the United States.
+
+   Composite Data
+
+   Data Summary and Visualizations
+
+   (BUTTON) Show More Charts
+
+Related Studies
+
+   Learn more about the operation of delivery vans through these studies.
+
+   Hydraulic Hybrid and Conventional Parcel Delivery Vehicles' Measured
+   Laboratory Fuel Economy on Targeted Drive Cycles
+
+   Project Results: Evaluating FedEx Express Hybrid-Electric Delivery
+   Trucks
+
+   FedEx Express Gasoline Hybrid Electric Delivery Truck Evaluation:
+   12-Month Report
+
+   FedEx Gasoline Hybrid Electric Delivery Truck Evaluation: 6-Month
+   Interim Report
+
+   Eighteen-Month Final Evaluation of UPS Second Generation Diesel
+   Hybrid-Electric Delivery Vans
+
+   Measured Laboratory and In-Use Fuel Economy Observed over Targeted
+   Drive Cycles for Comparable Hybrid and Conventional Package Delivery
+   Vehicles
+
+   Thirty-Six Month Evaluation of UPS Diesel Hybrid-Electric Delivery Vans
+
+   Interim Project Results: United Parcel Service's Second-Generation
+   Hybrid-Electric Delivery Vans
+
+   Project Overview: United Parcel Service's Second-Generation
+   Hybrid-Electric Delivery Vans
+
+   United Parcel Service Evaluates Hybrid Electric Delivery Vans
+
+   Twelve-Month Evaluation of UPS Diesel Hybrid Electric Delivery Vans
+
+Delivery Trucks
+
+   Photo of a delivery truck
+
+   The delivery truck category includes data for city delivery, straight
+   trucks, stake body vehicles, furniture trucks, rack trucks, and
+   beverage delivery trucks ranging in size from class 3 to class 7 with
+   primary vocations of delivering parcels, food, linens, beverages, or
+   warehouse items.
+
+   Fleet DNA has 553 days of driving data from 36 delivery trucks
+   operating in the United States.
+
+   Composite Data
+
+   Data Summary and Visualizations
+
+   (BUTTON) Show More Charts
+
+Related Studies
+
+   Learn more about the operation of delivery trucks through these
+   studies.
+
+   In-Use and Vehicle Dynamometer Evaluation and Comparison of Class 7
+   Hybrid Electric and Conventional Diesel Delivery
+
+School Buses
+
+   Photo of a school bus
+
+   The school bus category includes data for a wide range of school bus
+   types, including class A to class D body types sized from class 3 to
+   class 6.
+
+   Fleet DNA has 857 days of driving data from 204 school buses operating
+   in the United States.
+
+   Composite Data
+
+   Data Summary and Visualizations
+
+   (BUTTON) Show More Charts
+
+Related Studies
+
+   Learn more about the operation of school buses through these studies.
+
+   A Statistical Characterization of School Bus Drive Cycles Collected via
+   Onboard Logging Systems
+
+   Drive Cycle Analysis, Measurement of Emissions and Fuel Consumption of
+   a PHEV School Bus
+
+Transit Buses
+
+   Photo of a transit bus
+
+   The transit bus category includes a wide range of data for buses
+   operating on shorter-distance public transport bus services, which
+   include single- and double-deck buses, articulated buses and midibuses.
+   The typical operating weight range for this category is class 7 and 8
+   with the primary vocation being mass transit.
+
+   Fleet DNA has 472 days of driving data from 19 transit buses operating
+   in the United States.
+
+   Composite Data
+
+   Data Summary and Visualizations
+
+   (BUTTON) Show More Charts
+
+Related Studies
+
+   Learn more about the operation of transit buses through these studies.
+
+   St. Louis Metro Biodiesel (B20) Transit Bus Evaluation
+
+   King County Metro Transit Hybrid Articulated Buses: Final Evaluation
+   Results
+
+   Case Study: Ebus Hybrid Electric Buses and Trolleys
+
+   Long Beach Transit: Two-Year Evaluation of Gasoline-Electric Hybrid
+   Transit Buses
+
+   In-Use Performance Comparison of Hybrid Electric, CNG, and Diesel Buses
+   at New York City Transit
+
+   BAE/Orion Hybrid Electric Buses at New York City Transit
+
+   New York City Transit Hybrid and CNG Transit Buses: Final Evaluation
+   Results
+     * Bucket Trucks Bucket Trucks
+     * Service Vans Service Vans
+     * Tractors Tractors
+     * Refuse Trucks Refuse Trucks
+
+Bucket Trucks
+
+   Photo of a bucket truck
+
+   The bucket truck category includes data for a wide range of vehicle
+   chassis builds that have a powered overhead boom with a bucket
+   attachment. The sizes of the vehicles in the database range from class
+   3 to class 7 with vocational applications in the utility and
+   telecommunications fields.
+
+   Fleet DNA has 283 days of driving data from 20 bucket trucks operating
+   in the United States.
+
+   Composite Data
+
+   Data Summary and Visualizations
+
+   (BUTTON) Show More Charts
+
+Service Vans
+
+   Photo of a service van
+
+   The service van category includes data for both service and utility
+   vans ranging in size from class 2 to class 3 with vocational
+   applications in the utility and telecommunications fields.
+
+   Fleet DNA has 29 days of driving data from 4 service vans operating in
+   the United States.
+
+   Composite Data
+
+   Data Summary and Visualizations
+
+   (BUTTON) Show More Charts
+
+Tractors
+
+   Photo of a tractor
+
+   The tractor category includes data for a wide range of vehicle types
+   and configurations, including beverage delivery tractors, semis,
+   sleeper semis, and refrigerated trucks that each have a removable
+   trailer and range in size from class 7 to class 8. Vehicles in this
+   category also include a wide range of vocations, such as beverage,
+   fuel, and food delivery, and regional and long-hauling activities.
+
+   Fleet DNA has 1,150 days of driving data collected from 70 tractors
+   operating in the United States.
+
+   Composite Data
+
+   Data Summary and Visualizations
+
+   (BUTTON) Show More Charts
+
+Related Studies
+
+   Learn more about the operation of tractors through these studies.
+
+   Effect of Platooning on Fuel Consumption of Class 8 Vehicles Over a
+   Range of Speeds, Following Distances, and Mass
+
+   Coca-Cola Refreshments Class 8 Diesel Electric Hybrid Tractor
+   Evaluation: 13-Month Final Report
+
+   Project Startup: Evaluating Coca-Cola's Class 8 Hybrid-Electric
+   Delivery Trucks
+
+Refuse Trucks
+
+   Photo of a refuse truck
+
+   The refuse truck category includes data for a wide range of
+   refuse-hauling vehicles, including front-, side-, and real-loading
+   refuse trucks in addition to dumpster-hauling trucks. The typical
+   operating weight range for this category is class 8, and the primary
+   vocation is refuse pickup.
+
+   Fleet DNA has 387 days of driving data from 39 refuse trucks operating
+   in the United States.
+
+   Composite Data
+
+   Data Summary and Visualizations
+
+   (BUTTON) Show More Charts
+
+
+Composite Data for All Categories
+
+   View charts with data for all the vehicle categories above or download
+   the composite data for all vehicles.
+
+   (BUTTON) Show More Charts
+
+Connect With Clean Cities and Communities
+
+   Clean Cities and Communities is a U.S. Department of Energy partnership
+   to foster transportation energy choices nationwide. More than 75
+   coalitions work with fleets to deliver objective technical expertise
+   based on a unique understanding of local markets. Connect with your
+   local coalition.
+
+Tools and Resources
+
+   Use these tools to analyze and sort transportation data.
+
+   FleetREDI: Fleet Research, Energy Data, and Insights
+   Access our interactive online portal for commercial vehicle data and
+   energy insights.
+
+   DRIVE: Drive-Cycle Rapid Investigation, Visualization, and Evaluation
+   Analysis Tool
+   Produce drive cycles from real-world vehicle data to cut evaluation and
+   analysis time.
+
+   U.S. Department of Energy Fleet DNA Data Summaries
+   Access daily duty cycle summaries for every vehicle day within NLR's
+   Fleet DNA database using the Livewire Data Platform.
+
+   T3CO: Transportation Technology Total Cost of Ownership
+   Explore fast, customizable commercial vehicle total cost of ownership
+   analyses.
+
+   Browse our complete list of data and tools.
+
+How To Use the Data
+
+   Use these resources to understand the data and get ideas on how to use
+   drive cycle metrics.
+
+Documentation
+
+   Fleet DNA Composite Data Dictionary
+
+   How Road Grade Data Is Added to Fleet DNA
+
+Examples
+
+   FleetREDI Insights
+
+   Map Matching and Real World Integrated Sensor Data Warehousing
+
+   Overcoming the Range Limitation of Medium-Duty Battery Electric
+   Vehicles Through the Use of Hydrogen Fuel Cells
+
+   Contribution of Road Grade to the Energy Use of Modern Automobiles
+   Across Large Datasets of Real-World Drive Cycles
+
+How To Contribute Your Data
+
+   You can contribute your fleet's data to FleetREDI's Fleet DNA database
+   to advance commercial vehicle technologies. Email us at
+   [email protected].
+
+How To Cite the Data
+
+   Publications that use data from Fleet DNA should include a citation
+   consistent with the following format:
+
+     "Fleet DNA Project Data." ([YEAR]). NLR. Accessed [DATE]:
+     www.nrel.gov/fleetdna
+
+   If you use the data in a publication, please notify Andrew Kotz so we
+   can gauge the reach of the data.
+
+Contact
+
+   Contact us at [email protected] for more information.
+
+NLR's Transportation and Mobility Research News Quarterly to Your Inbox
+
+   (BUTTON) ×
+
+   Be the first to know about the latest NLR transportation and mobility
+   news, including research projects, partnerships, data and tool
+   launches, and publications. See an example before you sign up.
+   Email (Required) ____________________
+   ____________________
+   Subscribe
+
+   Your personal data will only be used for as long as you are subscribed.
+   For more information, review theNLR security and privacy policy.
+     __________________________________________________________________
+
+   Share
+   Share on Threads
+
+   Last Updated Dec. 6, 2025
+
+   (BUTTON)
+
+   National Laboratory of the Rockies
+     * About
+     * Research
+     * Partner With Us
+     * News
+     * Careers
+
+   Contact Us
+   Visit
+   Subscribe to NLR
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * Accessibility
+     * Disclaimer
+     * Security and Privacy
+     * Site Feedback
+
+     * Developers
+     * Employees
+     __________________________________________________________________
+
+   Alliance for Sustainable Energy, LLC U.S. Department of Energy
+
+   The National Laboratory of the Rockies is a national laboratory of the
+   U.S. Department of Energy, Office of Critical Minerals and Energy
+   Innovation, operated under Contract No. DE-AC36-08GO28308.

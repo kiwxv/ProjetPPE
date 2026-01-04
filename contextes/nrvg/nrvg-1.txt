@@ -1,0 +1,29 @@
+   [ ] Hovedmeny
+   Hovedmeny
+   (BUTTON) flytt til sidefeltet (BUTTON) skjul
+   Navigasjon
+     * Forside
+--
+Innhold
+
+   (BUTTON) flytt til sidefeltet (BUTTON) skjul
+     * (Til toppen)
+     * 1 Historie
+--
+   [ ] Verktøy
+   Verktøy
+   (BUTTON) flytt til sidefeltet (BUTTON) skjul
+   Handlinger
+     * Les
+--
+
+   Utseende
+   (BUTTON) flytt til sidefeltet (BUTTON) skjul
+   Fra Wikipedia, den frie encyklopedi
+
+--
+
+   Flåte (norrønt: floti, «noe som flyter»)^[1] er en hvilken som helst
+   flat farkost uten skrog for transport over vann.^[2] En flåte er gjerne
+   et primitivt fartøy av sammenfestede stokker, gjerne enkel flat og bred
+   farkost som stakes fram eller driver på vann.^[1] Flåter er en

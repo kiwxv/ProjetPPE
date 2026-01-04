@@ -1,0 +1,491 @@
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KSV5KNRK
+
+     * Nous rejoindre
+     * Contactez-nous
+     * Portail Client
+
+   SVP
+   (BUTTON) Rechercher
+   (BUTTON) Menu principal
+     * SVP IA
+     * Nos offres
+       (BUTTON) Retour Nos offres
+          + (BUTTON) Accompagnement juridique et réglementaire
+            (BUTTON) Retour Accompagnement juridique et réglementaire
+               o Entretien téléphonique avec un expert
+               o Veille métier ressources humaines
+               o Veille métier direction générale - DAF
+               o Veille métier expert-comptable
+               o Veille métier secteur public
+               o Conventions collectives
+               o (BUTTON) Gestion des procédures RH Agrume
+                 (BUTTON) Retour Gestion des procédures RH Agrume
+                    # Agrume procédures individuelles
+                    # Agrume gestion du CSE
+               o Élections du CSE
+               o Audit social
+               o Mairie Infos Service
+               o (BUTTON) Les Formations SVP
+                 (BUTTON) Retour Les Formations SVP
+                    # Développez votre stratégie avec l'intelligence
+                      économique
+                    # Savoir négocier et rédiger son bail commercial
+                    # Maîtrisez et sécurisez vos relations avec les
+                      associations
+                    # Maîtrisez la négociation et la rédaction du bail
+                      commercial
+                    # L'inaptitude en entreprise
+                    # Le recrutement d'un jeune diplômé étranger
+                    # Sécurisez vos élections CSE
+                    # Salariés et réseaux sociaux
+                    # Comment évaluer la santé économique de vos
+                      partenaires ?
+                    # Locations meublées - Réglementation et fiscalité
+                    # Maîtriser la procédure de passation d'un marché
+                      public
+                    # La révision de prix dans les marchés publics
+                    # Taxe de séjour : comprendre, collecter et maîtriser
+                      la taxe
+                    # Comprendre le calcul de la DGF d'une commune de
+                      métropole
+                    # Réaliser une analyse financière prospective de
+                      collectivité
+                    # Les techniques de l'intelligence économique
+                      territoriale
+          + (BUTTON) Conseil en intelligence économique
+            (BUTTON) Retour Conseil en intelligence économique
+               o (BUTTON) Veilles business
+                 (BUTTON) Retour Veilles business
+                    # Veille marché
+                    # Veille concurrent
+                    # Veille comptes-clés
+                    # Veille juridique et réglementaire
+                    # Veille juridique et réglementaire - Secteur public
+                    # Veille intelligence territoriale
+               o (BUTTON) Études
+                 (BUTTON) Retour Études
+                    # Étude intelligence territoriale
+                    # Audit financier des collectivités
+                    # Étude e-réputation - Secteur public
+                    # Étude financière - Secteur public
+                    # Étude sourcing - Secteur public
+                    # Étude marché
+                    # Étude entreprise
+                    # Étude sourcing
+                    # Étude risque portefeuille fournisseurs
+                    # Étude compliance
+                    # Étude e-réputation
+                    # Étude financière
+                    # Étude valorisation d'entreprise
+                    # Étude sur-mesure
+          + (BUTTON) Digitalisation RH : solutions pour des RH plus
+            performantes
+            (BUTTON) Retour Digitalisation RH : solutions pour des RH plus
+            performantes
+               o (BUTTON) Paie et Rémunération
+                 (BUTTON) Retour Paie et Rémunération
+                    # Paie Accompagnée
+                    # Paie Externalisée
+                    # Coffre-fort électronique
+                    # Formations paie et RH
+               o (BUTTON) Administration et Portail RH
+                 (BUTTON) Retour Administration et Portail RH
+                    # Portail RH
+                    # Gestion administrative RH - Core RH
+                    # Portail collaboratif salarié
+               o (BUTTON) Compétences et Parcours Collaborateurs
+                 (BUTTON) Retour Compétences et Parcours Collaborateurs
+                    # Entretiens et objectifs
+                    # Suivi du parcours collaborateur
+                    # Onboarding et self-service salarié
+                    # SIRH modulaire
+                    # Logiciel de recrutement
+                    # Gestion de la Formation
+               o (BUTTON) Temps et Activités
+                 (BUTTON) Retour Temps et Activités
+                    # Congés et absences
+                    # Suivi de l'activité et des temps de travail
+                    # Planification, temps et activités
+                    # Télétravail et flex office
+               o (BUTTON) Pilotage RH
+                 (BUTTON) Retour Pilotage RH
+                    # Dématérialisation des notes de frais
+                    # Suivi des indicateurs RH et BDESE
+                    # Pilotage financier des projets
+                    # Revue salariale
+          + (BUTTON) Ergonomie, handicap et prévention
+            (BUTTON) Retour Ergonomie, handicap et prévention
+               o (BUTTON) Diversité et Inclusion
+                 (BUTTON) Retour Diversité et Inclusion
+                    # Accompagnement de la politique handicap
+                    # Bilan de reconversion professionnelle
+                    # Sensiflash Handicap
+                    # Se professionnaliser sur le handicap
+               o (BUTTON) Ergonomie, Santé et Prévention des risques
+                 professionnels
+                 (BUTTON) Retour Ergonomie, Santé et Prévention des
+                 risques professionnels
+                    # Création et Mise à jour de votre DUERP
+                    # Maintien et insertion dans l'emploi de
+                      collaborateurs
+                    # Prévention des TMS
+               o Formation santé, sécurité au travail et handicap
+          + (BUTTON) Traduction et interprétariat
+            (BUTTON) Retour Traduction et interprétariat
+               o Traduction libre et certifiée
+               o Interprétariat et assistance technique
+               o Transcription vidéo, audio et sous-titrage
+          + (BUTTON) Intermédiation
+            (BUTTON) Retour Intermédiation
+               o Hotline juridique
+               o Hotline juridique - Immobilier
+               o Formations juridiques et fiscales
+               o Rédaction de contenus juridiques immobilier
+               o Rédaction de contenus juridiques
+       Besoin de réponses sur vos problématiques professionnelles
+       quotidiennes ?
+       Besoin de réponses sur vos problématiques professionnelles
+       quotidiennes ? Découvrez nos services
+       Nos offres
+          + Accompagnement juridique et réglementaire
+               o Entretien téléphonique avec un expert
+               o Veille métier ressources humaines
+               o Veille métier direction générale - DAF
+               o Veille métier expert-comptable
+               o Veille métier secteur public
+               o Conventions collectives
+               o Gestion des procédures RH Agrume
+               o Élections du CSE
+               o Audit social
+               o Mairie Infos Service
+               o Les Formations SVP
+          + Conseil en intelligence économique
+               o Veilles business
+               o Études
+          + Digitalisation RH : solutions pour des RH plus performantes
+               o Paie et Rémunération
+               o Administration et Portail RH
+               o Compétences et Parcours Collaborateurs
+               o Temps et Activités
+               o Pilotage RH
+          + Ergonomie, handicap et prévention
+               o Diversité et Inclusion
+               o Ergonomie, Santé et Prévention des risques professionnels
+               o Formation santé, sécurité au travail et handicap
+          + Traduction et interprétariat
+               o Traduction libre et certifiée
+               o Interprétariat et assistance technique
+               o Transcription vidéo, audio et sous-titrage
+       Besoin de réponses sur vos problématiques professionnelles
+       quotidiennes ?
+       Besoin de réponses sur vos problématiques professionnelles
+       quotidiennes ? Découvrez nos services
+     * Votre métier
+       (BUTTON) Retour Votre métier
+          + (BUTTON) Entreprise
+            (BUTTON) Retour Entreprise
+               o Direction générale
+               o Direction administrative et financière
+               o Direction des ressources humaines
+               o Direction juridique
+               o Direction des achats
+               o Direction marketing
+               o Professionnels de l'immobilier
+          + (BUTTON) Expertise comptable
+            (BUTTON) Retour Expertise comptable
+               o Expert-comptable
+          + (BUTTON) Secteur public
+            (BUTTON) Retour Secteur public
+               o Élu
+               o Direction générale des services
+               o Direction des ressources humaines - Secteur public
+               o Direction des services techniques
+       En quoi SVP est le partenaire idéal pour augmenter votre
+       performance quotidienne ?
+       En quoi SVP est le partenaire idéal pour augmenter votre
+       performance quotidienne ? On vous en parle
+       Votre métier
+          + Entreprise
+               o Direction générale
+               o Direction administrative et financière
+               o Direction des ressources humaines
+               o Direction juridique
+               o Direction des achats
+               o Direction marketing
+               o Professionnels de l'immobilier
+          + Expertise comptable
+               o Expert-comptable
+          + Secteur public
+               o Élu
+               o Direction générale des services
+               o Direction des ressources humaines - Secteur public
+               o Direction des services techniques
+       En quoi SVP est le partenaire idéal pour augmenter votre
+       performance quotidienne ?
+       En quoi SVP est le partenaire idéal pour augmenter votre
+       performance quotidienne ? On vous en parle
+     * Actualités & Publications
+       (BUTTON) Retour Actualités & Publications
+          + (BUTTON) Ressources Humaines
+            (BUTTON) Retour Ressources Humaines
+               o Qualité de vie et conditions de travail
+               o Droit social, emploi et recrutement
+               o Paie et cotisations sociales
+               o Pilotage RH
+               o Digitalisation RH
+               o Gestion des compétences
+               o CSE et relations sociales
+               o Santé et sécurité au travail
+          + (BUTTON) Gestion financière administrative et fiscale
+            (BUTTON) Retour Gestion financière administrative et fiscale
+               o Fiscalité et comptabilité des entreprises
+               o Corporate et Gouvernance
+               o Fiscalité des rémunérations
+               o Gestion immobilière et patrimoniale
+          + (BUTTON) Conformité réglementaire et juridique
+            (BUTTON) Retour Conformité réglementaire et juridique
+               o Droit du commerce et de l'artisanat
+               o Concurrence et distribution
+               o Droit des marques et propriété intellectuelle
+               o Contrat d'affaires
+               o Conformité produit
+               o Droit des associations et des fondations
+               o Conformité RGPD
+          + (BUTTON) Secteur Public
+            (BUTTON) Retour Secteur Public
+               o Fonction publique
+               o Marchés publics
+               o Urbanisme et environnement
+               o Organisation administrative et intercommunalité
+               o Réglementation technique
+               o Finances publiques et fiscalité
+               o Développement économique
+               o Services publics
+               o Gestion du patrimoine
+               o Élections municipales
+          + (BUTTON) Développement économique et international
+            (BUTTON) Retour Développement économique et international
+               o Analyse marché et international
+               o Travailler avec l'étranger
+               o Financement de projets
+               o Achats & Supply Chain
+               o Stratégie concurrentielle
+          + (BUTTON) Intelligence artificielle
+            (BUTTON) Retour Intelligence artificielle
+               o Performances et innovations
+               o Sécurité et réglementations
+       Bénéficiez de l'accompagnement de nos experts dès maintenant !
+       Bénéficiez de l'accompagnement de nos experts dès maintenant !
+       Contactez-nous !
+       Actualités & Publications
+          + Ressources Humaines
+               o Qualité de vie et conditions de travail
+               o Droit social, emploi et recrutement
+               o Paie et cotisations sociales
+               o Pilotage RH
+               o Digitalisation RH
+               o Gestion des compétences
+               o CSE et relations sociales
+               o Santé et sécurité au travail
+          + Gestion financière administrative et fiscale
+               o Fiscalité et comptabilité des entreprises
+               o Corporate et Gouvernance
+               o Fiscalité des rémunérations
+               o Gestion immobilière et patrimoniale
+          + Conformité réglementaire et juridique
+               o Droit du commerce et de l'artisanat
+               o Concurrence et distribution
+               o Droit des marques et propriété intellectuelle
+               o Contrat d'affaires
+               o Conformité produit
+               o Droit des associations et des fondations
+               o Conformité RGPD
+          + Secteur Public
+               o Fonction publique
+               o Marchés publics
+               o Urbanisme et environnement
+               o Organisation administrative et intercommunalité
+               o Réglementation technique
+               o Finances publiques et fiscalité
+               o Développement économique
+               o Services publics
+               o Gestion du patrimoine
+               o Élections municipales
+          + Développement économique et international
+               o Analyse marché et international
+               o Travailler avec l'étranger
+               o Financement de projets
+               o Achats & Supply Chain
+               o Stratégie concurrentielle
+          + Intelligence artificielle
+               o Performances et innovations
+               o Sécurité et réglementations
+       Bénéficiez de l'accompagnement de nos experts dès maintenant !
+       Bénéficiez de l'accompagnement de nos experts dès maintenant !
+       Contactez-nous !
+     * Notre Groupe
+       (BUTTON) Retour Notre Groupe
+          + (BUTTON) Pourquoi SVP ?
+            (BUTTON) Retour Pourquoi SVP ?
+               o SVP Lab : devenez panéliste, testez nos nouveautés !
+          + (BUTTON) Presse et Médias
+            (BUTTON) Retour Presse et Médias
+               o SVP dans les médias
+               o News & Événements SVP
+          + (BUTTON) Nous rejoindre
+            (BUTTON) Retour Nous rejoindre
+               o 5 bonnes raisons de nous rejoindre
+               o (BUTTON) Travailler chez SVP
+                 (BUTTON) Retour Travailler chez SVP
+                    # Les témoignages de nos collaborateurs
+               o Postulez !
+       Découvrez la société SVP, une équipe de professionnels à votre
+       service.
+       Découvrez la société SVP, une équipe de professionnels à votre
+       service. On se présente !
+       Notre Groupe
+          + Pourquoi SVP ?
+               o SVP Lab : devenez panéliste, testez nos nouveautés !
+          + Presse et Médias
+               o SVP dans les médias
+               o News & Événements SVP
+          + Nous rejoindre
+               o 5 bonnes raisons de nous rejoindre
+               o Travailler chez SVP
+               o Postulez !
+       Découvrez la société SVP, une équipe de professionnels à votre
+       service.
+       Découvrez la société SVP, une équipe de professionnels à votre
+       service. On se présente !
+     * (BUTTON) Rechercher
+
+     * Nous rejoindre
+     * Contactez-nous
+     * Portail Client
+
+   SVP (BUTTON) Fermer
+   ____________________ (BUTTON) Rechercher
+
+    1. Accueil
+
+     Actualités & Publications
+
+     Vos livres blancs
+
+     ...
+
+     Optimisez la fiscalité de votre flotte de véhicules Livre Blanc
+
+              Optimisez la fiscalité de votre flotte de véhicules
+
+   Date de publication
+          9 déc. 2025
+
+   Temps de lecture
+          2min
+
+   Auteur
+          Walid ESSAFI
+
+   Optimisez la fiscalité de votre flotte de véhicules
+
+   La fiscalité des flottes automobiles n'a jamais été aussi complexe.
+
+   La fiscalité des flottes automobiles n'a jamais été aussi complexe.
+   Entre l'évolution des taxes, les nouvelles obligations liées aux
+   émissions, les règles de TVA et les changements de doctrine
+   administrative, il devient difficile pour les entreprises d'y voir
+   clair et de faire les bons choix.
+
+   Ce livre blanc vous offre une vision simple, structurée et
+   opérationnelle de l'ensemble des dispositifs fiscaux applicables aux
+   véhicules d'entreprise en 2025.
+
+   Dans ce livre blanc, vous découvrirez :
+     * Les règles actualisées de la taxe sur l'affectation des véhicules
+       de tourisme (ex-TVS)
+     * La liste des véhicules taxables, exonérés et les nouveautés 2025
+       (pick-up, CTTE, hybrides, électriques...)
+     * Le détail des barèmes CO_2 et des taxes sur les polluants
+       atmosphériques
+     * Les obligations déclaratives selon votre régime de TVA
+     * Le régime complet de la TVA sur les véhicules mis à disposition des
+       salariés, clarifié par le dernier rescrit de l'administration
+     * Les impacts directs pour votre entreprise et les bonnes pratiques
+       pour optimiser votre flotte
+
+
+Téléchargez gratuitement le livre blanc des Experts SVP
+
+   Pour télécharger notre livre blanc veuillez renseigner quelques
+   informations personnelles
+   Civilité
+   (*) Mme
+   ( ) M.
+   Prénom ____________________
+   Nom ____________________
+   Adresse mail professionnelle ____________________
+   Structure[Vous êtes...______________________]
+   [ ]
+   J'accepte le traitement de mes données par SVP
+   (BUTTON) Téléchargez le document
+
+Articles qui pourraient vous intéresser
+
+   Droit des sociétés : la réglementation applicable aux opérations de
+   trésorerie
+   Livre Blanc 28 oct. 2025
+
+Droit des sociétés : la réglementation applicable aux opérations de
+trésorerie
+
+   Élections municipales 2026 : Quelles sont les conditions pour être
+   candidat ?
+   Livre Blanc 3 nov. 2025
+
+Élections municipales 2026 : Quelles sont les conditions pour être candidat ?
+
+   Comprendre la réforme de la saisie sur salaire dès aujourd'hui
+   Livre Blanc 4 nov. 2025
+
+Comprendre la réforme de la saisie sur salaire dès aujourd'hui
+
+   Contactez-nous
+
+   (BUTTON)
+
+   SVP Toujours à vos côtés
+     * Nos offres
+          + Accompagnement juridique et réglementaire
+          + Conseil en intelligence économique
+          + Digitalisation RH : solutions pour des RH plus performantes
+          + Ergonomie, handicap et prévention
+          + Traduction et interprétariat
+          + Intermédiation
+     * Votre métier
+          + Entreprise
+          + Expertise comptable
+          + Secteur public
+     * Actualités & Publications
+          + Ressources Humaines
+          + Gestion financière administrative et fiscale
+          + Conformité réglementaire et juridique
+          + Secteur Public
+          + Développement économique et international
+          + Intelligence artificielle
+     * Notre Groupe
+          + Pourquoi SVP ?
+          + Presse et Médias
+          + Nous rejoindre
+
+   Suivez-nous :
+     * Linkedin
+     * YouTube
+
+   Contactez-nous
+   Accréditation : Certification ISQ-OPQF
+     * Mentions légales
+     * Certificats Qualiopi
+     * Protection des données personnelles
+     * Politique de gestion de cookies
+     * Notes d'experts

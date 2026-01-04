@@ -1,0 +1,11 @@
+Mot	Frequence
+button	6
+logg	2
+inn	2
+proff	2
+as____________	1
+velg	1
+bransje	1
+segmentering	1
+sammenlign	1
+nettverkskkonkurser	1

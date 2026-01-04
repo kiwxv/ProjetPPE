@@ -1,0 +1,117 @@
+     *
+     * Transportation and Mobility Research
+     * Fleet DNA: Commercial Fleet Vehicle Operating Data
+
+Fleet DNA: Commercial Fleet Vehicle Operating Data
+
+   Fleet DNA logo
+
+   The Fleet DNA database of commercial fleet vehicle operating data helps
+   vehicle manufacturers and developers optimize vehicle designs and helps
+   fleet managers choose advanced technologies.
+
+   A subset of data shown in this online tool provides data summaries and
+   visualizations similar to real-world "genetics" for medium- and
+   heavy-duty fleet vehicles, which helps users understand the broad
+   operational range of commercial vehicles across vocations and weight
+   classes.
+
+   FleetDNA is part of the FleetREDI platform.
+     * Delivery Vans Delivery Vans
+     * Delivery Trucks Delivery Trucks
+--
+   delivering parcels, food, linens, or beverages.
+
+   Fleet DNA has 974 days of driving data from 94 delivery vans operating
+   in the United States.
+
+--
+   warehouse items.
+
+   Fleet DNA has 553 days of driving data from 36 delivery trucks
+   operating in the United States.
+
+--
+   class 6.
+
+   Fleet DNA has 857 days of driving data from 204 school buses operating
+   in the United States.
+
+--
+   with the primary vocation being mass transit.
+
+   Fleet DNA has 472 days of driving data from 19 transit buses operating
+   in the United States.
+
+--
+   telecommunications fields.
+
+   Fleet DNA has 283 days of driving data from 20 bucket trucks operating
+   in the United States.
+
+--
+   applications in the utility and telecommunications fields.
+
+   Fleet DNA has 29 days of driving data from 4 service vans operating in
+   the United States.
+
+--
+   fuel, and food delivery, and regional and long-hauling activities.
+
+   Fleet DNA has 1,150 days of driving data collected from 70 tractors
+   operating in the United States.
+
+--
+   vocation is refuse pickup.
+
+   Fleet DNA has 387 days of driving data from 39 refuse trucks operating
+   in the United States.
+
+--
+   Clean Cities and Communities is a U.S. Department of Energy partnership
+   to foster transportation energy choices nationwide. More than 75
+   coalitions work with fleets to deliver objective technical expertise
+   based on a unique understanding of local markets. Connect with your
+   local coalition.
+--
+   Use these tools to analyze and sort transportation data.
+
+   FleetREDI: Fleet Research, Energy Data, and Insights
+   Access our interactive online portal for commercial vehicle data and
+   energy insights.
+--
+   analysis time.
+
+   U.S. Department of Energy Fleet DNA Data Summaries
+   Access daily duty cycle summaries for every vehicle day within NLR's
+   Fleet DNA database using the Livewire Data Platform.
+
+   T3CO: Transportation Technology Total Cost of Ownership
+--
+Documentation
+
+   Fleet DNA Composite Data Dictionary
+
+   How Road Grade Data Is Added to Fleet DNA
+
+Examples
+
+   FleetREDI Insights
+
+   Map Matching and Real World Integrated Sensor Data Warehousing
+--
+How To Contribute Your Data
+
+   You can contribute your fleet's data to FleetREDI's Fleet DNA database
+   to advance commercial vehicle technologies. Email us at
+   [email protected].
+--
+How To Cite the Data
+
+   Publications that use data from Fleet DNA should include a citation
+   consistent with the following format:
+
+     "Fleet DNA Project Data." ([YEAR]). NLR. Accessed [DATE]:
+     www.nrel.gov/fleetdna
+
+   If you use the data in a publication, please notify Andrew Kotz so we

@@ -1,0 +1,829 @@
+   [tr?id=1114148002123471&ev=PageView&noscript=1]
+   [tr?id=1001044860460466&ev=PageView&noscript=1]
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KN33H4Q
+
+   logo-img
+     * Car Leasing
+          + Top car lease deals
+          + Browse by manufacturer
+          + Search all car lease deals
+          + Electric car lease deals
+          + Request a quote
+          + Deals Under £200
+          + Deals £200-£300
+          + Deals £300-£400
+          + Deals Above £400
+     * Van Leasing
+          + View all van deals
+          + Browse by manufacturer
+          + Van Leasing guide
+          + Electric Vans
+     * Hybrid & Electric
+          + Electric
+          + Petrol/Electric Hybrid
+          + Petrol/Plugin Hybrid
+          + Diesel/Plugin Hybrid
+     * In Stock
+     * Used Vehicles
+          + Used Cars
+          + Used Vans
+          + Used Lease Deals
+     * Finance
+          + Personal Credit Application
+          + Business Credit Application
+     * Part Exchange
+     * More
+          + About Us
+          + Contact Us
+          + Meet the Team
+          + Refer a friend for £100
+          + News
+          + FAQs
+          + Useful Guides
+          + Traffic Management Vehicles
+          + Wheelchair Accessible Vehicles (WAVS)
+
+   Call 02392 245570
+   ash.jackson@fleetuk.com
+   Your Account
+   ____________________ ____________________ (BUTTON) Login
+   Login details incorrect, please try again.
+   Forgot your password?
+
+   Cars Vans
+   (*) Personal lease
+   ( ) Business lease
+   Man
+   [ ] Any Make
+   [ ] Abarth
+   [ ] Alfa Romeo
+   [ ] Audi
+   [ ] BMW
+   [ ] Byd
+   [ ] Changan
+   [ ] Chery
+   [ ] Citroen
+   [ ] Cupra
+   [ ] Dacia
+   [ ] Ds
+   [ ] Fiat
+   [ ] Ford
+   [ ] Genesis
+   [ ] Gwm Ora
+   [ ] Honda
+   [ ] Hyundai
+   [ ] Jaecoo
+   [ ] Jeep
+   [ ] Kgm
+   [ ] Kia
+   [ ] Land Rover
+   [ ] Leapmotor
+   [ ] Lexus
+   [ ] Lotus
+   [ ] Mazda
+   [ ] Mercedes-benz
+   [ ] Mg Motor Uk
+   [ ] Mini
+   [ ] Nissan
+   [ ] Omoda
+   [ ] Peugeot
+   [ ] Polestar
+   [ ] Porsche
+   [ ] Renault
+   [ ] Seat
+   [ ] Skoda
+   [ ] Smart
+   [ ] Subaru
+   [ ] Suzuki
+   [ ] Tesla
+   [ ] Toyota
+   [ ] Vauxhall
+   [ ] Volkswagen
+   [ ] Volvo
+   [ ] Xpeng
+   Mod
+   [ ] Any Model
+   Budget
+   [ ] Any Budget
+   [ ] All Monthly Rentals
+   [ ] Under £150
+   [ ] £150 - £249
+   [ ] £250 - £349
+   [ ] £350 - £449
+   [ ] £450 - £549
+   [ ] Above £550
+   (BUTTON) Search
+   Advanced Search
+   X
+   Man
+   [ ] Any Make
+   [ ] Abarth
+   [ ] Alfa Romeo
+   [ ] Audi
+   [ ] BMW
+   [ ] Byd
+   [ ] Changan
+   [ ] Chery
+   [ ] Citroen
+   [ ] Cupra
+   [ ] Dacia
+   [ ] Ds
+   [ ] Fiat
+   [ ] Ford
+   [ ] Genesis
+   [ ] Gwm Ora
+   [ ] Honda
+   [ ] Hyundai
+   [ ] Jaecoo
+   [ ] Jeep
+   [ ] Kgm
+   [ ] Kia
+   [ ] Land Rover
+   [ ] Leapmotor
+   [ ] Lexus
+   [ ] Lotus
+   [ ] Mazda
+   [ ] Mercedes-benz
+   [ ] Mg Motor Uk
+   [ ] Mini
+   [ ] Nissan
+   [ ] Omoda
+   [ ] Peugeot
+   [ ] Polestar
+   [ ] Porsche
+   [ ] Renault
+   [ ] Seat
+   [ ] Skoda
+   [ ] Smart
+   [ ] Subaru
+   [ ] Suzuki
+   [ ] Tesla
+   [ ] Toyota
+   [ ] Vauxhall
+   [ ] Volkswagen
+   [ ] Volvo
+   [ ] Xpeng
+   Mod
+   [ ] Any Model
+   Model Range
+   [ ] Any Range
+   Budget
+   [ ] Any Budget
+   [ ] All Monthly Rentals
+   [ ] Under £150
+   [ ] £150 - £249
+   [ ] £250 - £349
+   [ ] £350 - £449
+   [ ] £450 - £549
+   [ ] Above £550
+   Body Type
+   [ ] Any Body Type
+   [ ] 4x4/SUV
+   [ ] City-Car
+   [ ] Coupe
+   [ ] Estate
+   [ ] Hatchback
+   [ ] MPV
+   [ ] Saloon
+   [ ] Sports
+   Lease Type
+   [ ] Any Lease Type
+   [ ] Contract Hire
+   [ ] Finance Lease
+   Transmission
+   [ ] Any Transmission
+   [ ] Automatic
+   [ ] Manual
+   Fuel Type
+   [ ] Any Fuel Type
+   [ ] Diesel
+   [ ] Diesel/Electric Hybrid
+   [ ] Diesel/PlugIn Electric Hybrid
+   [ ] Electric
+   [ ] Electric Petrol REX
+   [ ] Hydrogen
+   [ ] Petrol
+   [ ] Petrol/Bio-Ethanol (E85)
+   [ ] Petrol/CNG
+   [ ] Petrol/Electric Hybrid
+   [ ] Petrol/LPG
+   [ ] Petrol/PlugIn Electric Hybrid
+   Doors
+   [ ] Any Doors
+   [ ] 2
+   [ ] 3
+   [ ] 4
+   [ ] 5
+   Term [Any Term_]
+   Initial Rental [Any Initial Rental]
+   Mileage [Any Mileage]
+   CO2 Levels
+   [ ] All CO2
+   [ ] Band A (0-100g/km)
+   [ ] Band B (101-110g/km)
+   [ ] Band C (111-120g/km)
+   [ ] Band D (121-130g/km)
+   [ ] Band E (131-140g/km)
+   [ ] Band F (141-150g/km)
+   [ ] Band G (151-165g/km)
+   [ ] Band H (166-175g/km)
+   [ ] Band I (176-185g/km)
+   [ ] Band J (186-200g/km)
+   [ ] Band K (201-225g/km)
+   [ ] Band L (226-255g/km)
+   [ ] Band M (Over 255g/km)
+   In Stock [In Stock_________________]
+   Special Offers [Special Offers__________]
+   (BUTTON) Reset all Filters
+   (BUTTON) Search
+
+Search Reset Filters (BUTTON) (BUTTON) X
+
+     * Any Make 0
+          + [ ] Abarth
+          + [ ] Alfa Romeo
+          + [ ] Audi
+          + [ ] BMW
+          + [ ] Byd
+          + [ ] Changan
+          + [ ] Chery
+          + [ ] Citroen
+          + [ ] Cupra
+          + [ ] Dacia
+          + [ ] Ds
+          + [ ] Fiat
+          + [ ] Ford
+          + [ ] Genesis
+          + [ ] Gwm Ora
+          + [ ] Honda
+          + [ ] Hyundai
+          + [ ] Jaecoo
+          + [ ] Jeep
+          + [ ] Kgm
+          + [ ] Kia
+          + [ ] Land Rover
+          + [ ] Leapmotor
+          + [ ] Lexus
+          + [ ] Lotus
+          + [ ] Mazda
+          + [ ] Mercedes-benz
+          + [ ] Mg Motor Uk
+          + [ ] Mini
+          + [ ] Nissan
+          + [ ] Omoda
+          + [ ] Peugeot
+          + [ ] Polestar
+          + [ ] Porsche
+          + [ ] Renault
+          + [ ] Seat
+          + [ ] Skoda
+          + [ ] Smart
+          + [ ] Subaru
+          + [ ] Suzuki
+          + [ ] Tesla
+          + [ ] Toyota
+          + [ ] Vauxhall
+          + [ ] Volkswagen
+          + [ ] Volvo
+          + [ ] Xpeng
+     *
+     * Any Model 0
+     *
+     * Any Trim 0
+     *
+     * Any Bodytype 0
+          + [ ] 4x4/SUV
+          + [ ] City-Car
+          + [ ] Coupe
+          + [ ] Estate
+          + [ ] Hatchback
+          + [ ] MPV
+          + [ ] Saloon
+          + [ ] Sports
+     *
+     * Any Lease Type 0
+          + [ ] Finance Lease
+          + [ ] Contract Hire
+     *
+     * Budget 0
+          + [ ] All Monthly Rentals
+          + [ ] Under £150
+          + [ ] £150 - £249
+          + [ ] £250 - £349
+          + [ ] £350 - £449
+          + [ ] £450 - £549
+          + [ ] Above £550
+     *
+     * Term 1
+          + (*) 24 Months
+          + ( ) 36 Months
+          + ( ) 48 Months
+     *
+     * Initial Rental 1
+          + (*) 1 Month
+          + ( ) 3 Months
+          + ( ) 6 Months
+          + ( ) 9 Months
+          + ( ) 12 Months
+     *
+     * Mileage 1
+          + (*) 5000 pa
+          + ( ) 6000 pa
+          + ( ) 7000 pa
+          + ( ) 8000 pa
+          + ( ) 9000 pa
+          + ( ) 10000 pa
+          + ( ) 11000 pa
+          + ( ) 12000 pa
+          + ( ) 13000 pa
+          + ( ) 14000 pa
+          + ( ) 15000 pa
+          + ( ) 16000 pa
+          + ( ) 17000 pa
+          + ( ) 18000 pa
+          + ( ) 19000 pa
+          + ( ) 20000 pa
+          + ( ) 21000 pa
+          + ( ) 22000 pa
+          + ( ) 23000 pa
+          + ( ) 24000 pa
+          + ( ) 25000 pa
+          + ( ) 26000 pa
+          + ( ) 27000 pa
+          + ( ) 28000 pa
+          + ( ) 29000 pa
+          + ( ) 30000 pa
+     *
+     * Doors 0
+          + [ ] 2
+          + [ ] 3
+          + [ ] 4
+          + [ ] 5
+     *
+     * Transmission 0
+          + [ ] Automatic
+          + [ ] Manual
+     *
+     * Fuel type 0
+          + [ ] Diesel
+          + [ ] Diesel/Electric Hybrid
+          + [ ] Diesel/PlugIn Electric Hybrid
+          + [ ] Electric
+          + [ ] Electric Petrol REX
+          + [ ] Hydrogen
+          + [ ] Petrol
+          + [ ] Petrol/Bio-Ethanol (E85)
+          + [ ] Petrol/CNG
+          + [ ] Petrol/Electric Hybrid
+          + [ ] Petrol/LPG
+          + [ ] Petrol/PlugIn Electric Hybrid
+     * Co2 0
+          + [ ] Band A (0-100g/km)
+          + [ ] Band B (101-110g/km)
+          + [ ] Band C (111-120g/km)
+          + [ ] Band D (121-130g/km)
+          + [ ] Band E (131-140g/km)
+          + [ ] Band F (141-150g/km)
+          + [ ] Band G (151-165g/km)
+          + [ ] Band H (166-175g/km)
+          + [ ] Band I (176-185g/km)
+          + [ ] Band J (186-200g/km)
+          + [ ] Band K (201-225g/km)
+          + [ ] Band L (226-255g/km)
+          + [ ] Band M (Over 255g/km)
+     *
+     * In Stock 1
+          + [ ] Show in stock offers only
+     *
+     * Special Offer 1
+          + [ ] Show special offers only
+     *
+
+   (BUTTON) Search Vehicles
+
+Welcome to Fleet UK
+
+   The UK's Leading New & Used Vehicle Finance Experts
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+
+Omoda 9
+
+1.5T SHS Noble 5dr 3DHT
+
+   In Stock Hot Deal
+   Delivery within 2 weeks
+   Omoda 9 1.5T SHS Noble 5dr 3DHT
+
+   Personal Leasing
+
+   £364.12
+
+   pm inc VAT
+
+   Initial Rental £4,369.45 - 36 months - 5000 miles pa
+   (BUTTON) Enquire (BUTTON) View Details
+
+   36 month contract, 5000 miles pa
+     * MPG
+     *
+     * g/km
+     *
+
+Volkswagen TIGUAN
+
+1.5 eTSI Match 5dr DSG
+
+   In Stock Hot Deal
+   Delivery within 2 weeksFree Metallic Paint
+   Volkswagen TIGUAN 1.5 eTSI Match 5dr DSG
+
+   Personal Leasing
+
+   £313.38
+
+   pm inc VAT
+
+   Initial Rental £3,760.58 - 24 months - 5000 miles pa
+   (BUTTON) Enquire (BUTTON) View Details
+
+   24 month contract, 5000 miles pa
+     * MPG
+     *
+     * g/km
+     *
+
+Volkswagen TOUAREG
+
+3.0 V6 TDI 4Motion 286 Black Edition 5dr Tip Auto
+
+   In Stock Hot Deal
+   Delivery within 2 weeks
+   Volkswagen TOUAREG 3.0 V6 TDI 4Motion 286 Black Edition 5dr Tip Auto
+
+   Personal Leasing
+
+   £529.92
+
+   pm inc VAT
+
+   Initial Rental £6,359.07 - 36 months - 5000 miles pa
+   (BUTTON) Enquire (BUTTON) View Details
+
+   36 month contract, 5000 miles pa
+     * MPG
+     *
+     * g/km
+     *
+
+Volkswagen POLO
+
+2.0 TSI GTI 5dr DSG
+
+   In Stock Hot Deal
+   Delivery within 2 weeks
+   Volkswagen POLO 2.0 TSI GTI 5dr DSG
+
+   Personal Leasing
+
+   £263.75
+
+   pm inc VAT
+
+   Initial Rental £3,164.95 - 48 months - 5000 miles pa
+   (BUTTON) Enquire (BUTTON) View Details
+
+   48 month contract, 5000 miles pa
+     * MPG
+     *
+     * g/km
+     *
+
+Volkswagen POLO
+
+1.0 TSI Match 5dr
+
+   In Stock Hot Deal
+   Delivery within 2 weeks
+   Volkswagen POLO 1.0 TSI Match 5dr
+
+   Personal Leasing
+
+   £207.04
+
+   pm inc VAT
+
+   Initial Rental £2,484.42 - 36 months - 5000 miles pa
+   (BUTTON) Enquire (BUTTON) View Details
+
+   36 month contract, 5000 miles pa
+     * MPG
+     *
+     * g/km
+     *
+
+Volkswagen POLO
+
+1.0 TSI Match 5dr DSG
+
+   In Stock Hot Deal
+   Delivery within 2 weeksFree Metallic Paint
+   Volkswagen POLO 1.0 TSI Match 5dr DSG
+
+   Personal Leasing
+
+   £228.51
+
+   pm inc VAT
+
+   Initial Rental £2,742.10 - 48 months - 5000 miles pa
+   (BUTTON) Enquire (BUTTON) View Details
+
+   48 month contract, 5000 miles pa
+     * MPG
+     *
+     * g/km
+     *
+
+Volkswagen POLO
+
+1.0 TSI Match 5dr DSG
+
+   Hot Deal
+   Volkswagen POLO 1.0 TSI Match 5dr DSG
+
+   Personal Leasing
+
+   £216.17
+
+   pm inc VAT
+
+   Initial Rental £2,594.06 - 36 months - 5000 miles pa
+   (BUTTON) Enquire (BUTTON) View Details
+
+   36 month contract, 5000 miles pa
+     * MPG
+     *
+     * g/km
+     *
+
+Seat IBIZA
+
+1.0 TSI 115 FR First Edition 5dr
+
+   In Stock Hot Deal
+   Delivery within 2 weeksFree Metallic Paint
+   Seat IBIZA 1.0 TSI 115 FR First Edition 5dr
+
+   Personal Leasing
+
+   £220.18
+
+   pm inc VAT
+
+   Initial Rental £2,642.19 - 24 months - 5000 miles pa
+   (BUTTON) Enquire (BUTTON) View Details
+
+   24 month contract, 5000 miles pa
+     * MPG
+     *
+     * g/km
+     *
+
+Seat IBIZA
+
+1.0 TSI 115 FR First Edition 5dr DSG
+
+   In Stock Hot Deal
+   Delivery within 2 weeksFree Metallic Paint
+   Seat IBIZA 1.0 TSI 115 FR First Edition 5dr DSG
+
+   Personal Leasing
+
+   £241.59
+
+   pm inc VAT
+
+   Initial Rental £2,899.12 - 48 months - 5000 miles pa
+   (BUTTON) Enquire (BUTTON) View Details
+
+   48 month contract, 5000 miles pa
+     * MPG
+     *
+     * g/km
+     *
+
+Seat ARONA
+
+1.0 TSI 115 FR First Edition 5dr
+
+   In Stock Hot Deal
+   Delivery within 2 weeksFree Metallic Paint
+   Seat ARONA 1.0 TSI 115 FR First Edition 5dr
+
+   Personal Leasing
+
+   £228.21
+
+   pm inc VAT
+
+   Initial Rental £2,738.54 - 48 months - 5000 miles pa
+   (BUTTON) Enquire (BUTTON) View Details
+
+   48 month contract, 5000 miles pa
+     * MPG
+     *
+     * g/km
+     *
+
+Seat ARONA
+
+1.0 TSI 115 FR First Edition 5dr DSG
+
+   In Stock Hot Deal
+   Delivery within 2 weeksFree Metallic Paint
+   Seat ARONA 1.0 TSI 115 FR First Edition 5dr DSG
+
+   Personal Leasing
+
+   £246.77
+
+   pm inc VAT
+
+   Initial Rental £2,961.25 - 48 months - 5000 miles pa
+   (BUTTON) Enquire (BUTTON) View Details
+
+   48 month contract, 5000 miles pa
+     * MPG
+     *
+     * g/km
+     *
+
+   View Car Hot DealsView Van Hot Deals
+
+RE:FLEET USED ELECTRIC & HYBRID LEASING
+
+   Discover Our Latest Used Electric & Hybrid Leasing Deals
+   Switch to a low-cost, eco-friendly vehicle today and start saving! All
+   cars are in stock for immediate delivery and include full maintenance
+   for complete peace of mind.
+
+   Why choose us?
+     * Affordable monthly payments
+     * Eco-friendly driving with lower emissions
+     * Hassle-free maintenance included
+     * 26 Years Trading
+     * Industry leading 5-star Google reviews
+     * Part Exchange Welcome
+
+   Browse our deals now and make the smart switch to sustainable driving.
+
+   View Used Car Leasing
+   (BUTTON)
+
+   Google reviews
+
+Why choose Fleet UK?
+
+   At Fleet UK, we make car leasing affordable, easy, and bespoke to your
+   requirements. Authorised and regulated by the FCA, and proud members of
+   the BVRLA. 25+ Years trading and over 60 years combined experience.
+   (BUTTON) Contact Us
+
+What is Personal Contract Hire?
+
+   Personal Contract Hire (PCH) is a long-term leasing agreement that
+   allows you to drive a brand new or nearly new vehicle over an agreed
+   period and mileage.
+   (BUTTON) Read More
+
+What is Business Contract Hire?
+
+   Business Contract Hire (BCH) is a long-term leasing agreement that
+   allows you to drive a brand-new vehicle over an agreed period and
+   mileage.
+   (BUTTON) Read More
+
+Request a call back today
+
+   Call 02392 245570 to speak with one of our leasing experts, who will be
+   happy to offer advice and source the best value vehicle, to meet your
+   requirements.
+   (BUTTON) Request a Call Back
+
+   Take a look at our amazing leasing deals and see the savings you could
+   make by switching to electric.
+
+   View Electric Offers
+   (BUTTON)
+
+Traffic Management Vehicles
+
+   We provide high-quality traffic management vehicles designed for road
+   safety, highways maintenance, and traffic control. Whether you're
+   looking for an off-the-shelf stock unit or a bespoke build tailored to
+   your specific requirements, we can help.
+   (BUTTON) Learn More
+
+Just Moved to the UK?
+
+   If you've recently relocated to the UK, purchasing a car is likely at
+   the top of your to-do list. At Fleet UK, we specialise in providing
+   flexible and affordable car finance options to help you get on the road
+   swiftly and smoothly.
+   (BUTTON) Learn More
+
+   Subscribe to our Newsletter
+
+   Receive weekly emails and the best offers from the Fleet UK team.
+   ____________________
+   ____________________
+   ____________________
+   (BUTTON) Submit
+
+
+ENQUIRE NOW
+
+or call 02392 245570
+
+   You are enquiring about the
+   (*) Personal ( ) Business
+   Company Name* ____________________
+   Company Type* [Select____________]
+   ____________________
+   ____________________
+   ____________________
+   ____________________
+   [How did you find us?]
+   Please state below the nature of your enquiry *
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Preferred contact method * (*) Phone ( ) Email
+   I would like to receive future promotions, newsletters and offers by my
+   chosen methods below.
+   [ ] E-mail [ ] Phone [ ] SMS Text [ ] Post [ ] No offers or promotions
+   to be sent
+
+   (BUTTON) Send Enquiry
+   (BUTTON) Close
+
+Legal & Compliance
+
+     * Terms & Conditions
+     * Initial Disclosure Document
+     * Privacy Policy
+     * Cookie Policy
+     * Commission Disclosure
+     * Complaints Procedure
+     * Treating Customers Fairly
+     * Financial Promotions & Advertising
+     * Vulnerable Persons Policy
+     * Code of Conduct
+     * Consumer Duty
+
+Useful Links
+
+     * Apply for finance
+     * Request a Quote
+     * Order Process
+     * What is Personal Car Leasing
+     * What is Business Car Leasing
+     * Contact us
+     * Site map
+     * End of Contract Guide
+     * Cancellation Policy
+
+02392 245570
+ash.jackson@fleetuk.com
+
+   7 Stratfield Park
+   Elettra Avenue
+   Waterlooville
+   Hampshire
+   PO7 7XN
+
+   OPENING TIMES
+   Mon-Fri 08.30-17.30, Sat 9.00-16.00, Sun 10.00-16.00
+
+   Fleet UK are a credit broker and not a lender. We are authorised and
+   regulated by the Financial Conduct Authority. FCA Registered No:
+   682714. Fleet UK is a trading name of Fleet UK.com Ltd. Registered in
+   England & Wales with Company Number: 4018111 | Data Protection No:
+   Z6393738 | VAT No: 755080825. Registered Office is 9 Stratfield Park,
+   Elettra Avenue, Waterlooville, Hampshire, PO7 7XN (Trading Address: 7
+   Stratfield Park, Elettra Avenue, Waterlooville, Hampshire PO7 7XN).
+   Disclaimer: All vehicle images and descriptions are only for
+   illustration and reference purposes. All vehicle leases are subject to
+   credit approval and subject to change at any time. E&OE. Copyright ©
+   2025 Fleet UK. All rights reserved.
+
+   The Financial Conduct Authority (FCA) expects any intermediary to
+   disclose any financial remuneration that maybe payable by a supplier
+   and/or Lender if a customer requests such information, and the
+   intermediary should do this without delay, please make your request to
+   our head office address (at the above trading address) or by emailing
+   sales@fleetuk.com or by calling 02392 245 570.

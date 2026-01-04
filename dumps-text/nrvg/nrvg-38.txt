@@ -1,0 +1,152 @@
+   Gå til innholdet
+
+   Et samarbeid mellom NRK og Meteorologisk institutt
+   SøkSøk
+   (BUTTON)
+   (BUTTON) Meny
+
+Flåte
+
+   Gårdsbruk, Nore og Uvdal (Buskerud), 716 moh.
+   (BUTTON)
+   (BUTTON) Trykk for å vise informasjon om dette stedet
+   (left) (right)
+    1. VærvarselVærvarsel
+    2. Andre varslerAndre varsler
+    3. KartKart
+    4. 21-dagersvarsel21-dagersvarsel
+    5. DetaljerDetaljer
+    6. HistorikkHistorikk
+
+   Det ser ut til at du bruker en gammel nettleser. For å få tilgang til
+   alt av innhold på Yr anbefaler vi at du oppdaterer nettleseren din.
+   Det ser ut til at JavaScript er skrudd av i nettleseren din. For å få
+   tilgang til alt av innhold på Yr anbefaler vi at du skrur på
+   JavaScript.
+
+   Været nå
+   skyet
+   Temperatur-12°
+   -12°
+   Føles som -17°
+   Nedbør 0mm
+   2 m/s svak vind fra nord med vindkast på 5 m/s2 (5)m/s
+   TabellGraf
+
+Værvarsel for neste 9 dager
+
+   NattMorgenDagEttermiddagKveld
+   Temperatur høy/lavVindNedbør
+    1.
+
+Søndag 4. jan.
+         1. Natt: skyet
+         2. Morgen: lett snø
+         3. Ettermiddag: lett snø
+         4. Kveld: lett snø
+       Maksimum/minimum temperatur:-11°/-13°
+       Nedbør 2,7mm
+       Vind:2m/s
+    2.
+
+Mandag 5. jan.
+         1. Natt: lett snø
+         2. Morgen: lett snø
+         3. Ettermiddag: skyet
+         4. Kveld: skyet
+       Maksimum/minimum temperatur:-12°/-15°
+       Nedbør 1,2mm
+       Vind:2m/s
+    3.
+
+Tirsdag 6. jan.
+         1. Natt: delvis skyet
+         2. Morgen: delvis skyet
+         3. Ettermiddag: klarvær
+         4. Kveld: delvis skyet
+       Maksimum/minimum temperatur:-14°/-19°
+       Nedbør 0mm
+       Vind:2m/s
+    4.
+
+Onsdag 7. jan.
+         1. Natt: skyet
+         2. Morgen: skyet
+         3. Ettermiddag: snø
+         4. Kveld: snø
+       Maksimum/minimum temperatur:-9°/-14°
+       Nedbør 3,5mm
+       Vind:2m/s
+    5.
+
+Torsdag 8. jan.
+         1. Natt: snø
+         2. Morgen: skyet
+         3. Ettermiddag: skyet
+         4. Kveld: snø
+       Maksimum/minimum temperatur:-8°/-9°
+       Nedbør 5,2mm
+       Vind:2m/s
+    6.
+
+Fredag 9. jan.
+         1. Natt: snø
+         2. Morgen: snø
+         3. Ettermiddag: skyet
+         4. Kveld: snø
+       Maksimum/minimum temperatur:-7°/-8°
+       Nedbør 5,6mm
+       Vind:2m/s
+    7.
+
+Lørdag 10. jan.
+         1. Natt: skyet
+         2. Morgen: skyet
+         3. Ettermiddag: skyet
+         4. Kveld: skyet
+       Maksimum/minimum temperatur:-7°/-10°
+       Nedbør 0mm
+       Vind:2m/s
+    8.
+
+Søndag 11. jan.
+         1. Natt: skyet
+         2. Morgen: skyet
+         3. Ettermiddag: skyet
+         4. Kveld: delvis skyet
+       Maksimum/minimum temperatur:-9°/-14°
+       Nedbør 0mm
+       Vind:2m/s
+    9.
+
+Mandag 12. jan.
+         1. Natt: skyet
+         2. Morgen: skyet
+         3. Ettermiddag: skyet
+         4. Kveld: skyet
+       Maksimum/minimum temperatur:-10°/-13°
+       Nedbør 0mm
+       Vind:2m/s
+
+   Oppdatert kl. 22:27.
+
+Bunntekst
+
+   Se alle hjelpeartiklerKontakt ossChoose language / velg
+   språk[Bokmål_________]
+   Yr er et samarbeid mellom
+   Opphavsrett © NRK og Meteorologisk institutt 2007-2026
+   Yr-sjef: Ingrid Støver Jensen
+   Ansvarlig redaktør: Vibeke Fürst Haugen
+   Meteorologisk ansvarlig: Roar Skålin
+     * Personvern
+     * Informasjonskapsler
+     * Samarbeidspartnere
+
+     * App for iOS
+     * App for Android
+     * Yr for utviklere
+     * Badetemperaturer
+
+     * Yr på Facebook
+     * Yr på Instagram

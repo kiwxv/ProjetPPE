@@ -1,0 +1,45 @@
+   [ ] Hovedmeny
+   Hovedmeny
+   (BUTTON) flytt til sidefeltet (BUTTON) skjul
+   Navigasjon
+     * Forside
+--
+Innhold
+
+   (BUTTON) flytt til sidefeltet (BUTTON) skjul
+     * (Til toppen)
+     * 1 Marineflåte
+--
+   [ ] Verktøy
+   Verktøy
+   (BUTTON) flytt til sidefeltet (BUTTON) skjul
+   Handlinger
+     * Les
+--
+
+   Utseende
+   (BUTTON) flytt til sidefeltet (BUTTON) skjul
+   Fra Wikipedia, den frie encyklopedi
+   [250px-Greek_Galleys.jpg] Flåte av greske triremer. Bildet er
+   rekonstruert basert på den moderne replikaen i
+   Olympias.[250px-Fleet_5_nations.jpg] Flåte med moderne skip fra fem
+   forskjellige nasjoner i Omanbukta.
+
+--
+   flere betydninger:
+    1. Sjøfart: Enkel flat og bred farkost som stakes fram eller driver på
+       vann; flyteplattform til et bestemt formål; redningsflåte.^[1]
+    2. Sjømilitært: et lands samlede antall krigsskip; krigsflåte. Det kan
+       også benyttes om samlet antall skip som eies av en stat eller et
+--
+       form av en plattform av tømmer, betong og lignende.^[1]
+    4. Det tilsvarende begrepet på engelsk, fleet (fra angelsaksisk
+       fleot), har samme betydning som på norsk.^[2] Det angelsaksiske
+       ordet betydde også «elvemunning, innløp, vannstrøm», spesielt den
+       som går ut i Themsen nær Ludgate Hill, som ga navnet sitt til Fleet
+--
+
+   [rediger | rediger kilde]
+     * (en) Fleets - kategori av bilder, video eller lyd på Commons
+       Rediger på Wikidata
+

@@ -1,0 +1,104 @@
+   Downloading data...
+   (BUTTON) Cancel
+
+   European Commission logo
+   en English
+   Search Search this website ______________________________
+   (BUTTON) Search
+   (BUTTON) Close
+   Select your language
+     * b"lgarski
+     * español
+     * cestina
+     * dansk
+     * Deutsch
+     * eesti
+     * ellynika'
+     * English
+     * français
+     * Gaeilge
+     * hrvatski
+     * italiano
+
+     * latviesu
+     * lietuviu
+     * magyar
+     * Malti
+     * Nederlands
+     * polski
+     * português
+     * româna
+     * slovencina
+     * slovenscina
+     * suomi
+     * svenska
+
+   Menu
+   Close
+    1. Food, Farming, Fisheries
+    2. Fisheries
+    3. Fleet Register
+
+   Fleet Register
+     * Presentation
+     * Search
+     * Statistics
+          + EU Fleet Ceilings
+          + EU Fleet in a Glimpse
+     * Contact
+
+   DG MARE
+
+Fleet Register
+
+   The EU Fleet Register is a database where all the fishing vessels
+   flying the flag of an EU country have to be be registered. Any changes
+   in the status of a fishing vessel, for example if it has been scrapped,
+   need to be registered by the member country in the Fleet Register.
+
+   The main objective of the Fleet Register is to enable any EU fishing
+   vessel with key characteristics to be identified, with the aim of:
+     * Monitoring the implementation of capacity management countries
+     * Being a source of information for the officials of the European
+       Commission and EU countries in charge of control and inspection
+     * Serving as an accurate source of statistical data on the European
+       fishing fleet
+     * Serving as a reference database for vessels characteristics for
+       other applications that manage information on fishing vessels
+
+   The data contained in the Fleet Register can be classified in three
+   categories:
+     * Administrative identifications Vessel name, registration port,
+       external marking, Unique Vessel Identifier number (IMO number),
+       International RadioCallSign, etc.
+     * Technical characteristics Length, tonnage, power, fishing gear,
+       etc.
+     * Historical events Entry into and exit from the fleet, modifications
+       of characteristics
+
+   Loading...
+   Fleet Register 1.2.0.1
+   This site is managed by the Directorate-General for Maritime Affairs
+   and Fisheries
+     * Accessibility
+
+   Contact us
+     * Feedback form
+
+   About us
+     * Maritime Affairs and Fisheries
+
+   Follow us on
+     * Facebook
+     * Twitter
+
+   European Commission
+     * Contact the European Commission
+     * Follow the European Commission on social media
+     * Resources for partners
+     * Legal notice
+
+     * Language policy
+     * Cookies
+     * Privacy statement
+     * Privacy policy

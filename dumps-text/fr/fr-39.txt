@@ -1,0 +1,226 @@
+   #Système d'informations halieutiques Système d'informations
+   halieutiques Système d'informations halieutiques Système d'informations
+   halieutiques
+
+   Espace privé
+
+   Retour à l'accueil
+
+Système d'informations halieutiques
+
+Observer la pêche et les ressources pour mieux les préserver
+
+     * Le SIH
+     * Actus
+     * Écosystèmes
+     * Ressources
+     * Activité de pêche
+     * Socio-économie
+     * Pêche de loisir
+     * Publications
+     * Données
+
+   ×
+
+Le SIH
+
+   C'est quoi ? Cliquez ici pour le savoir.
+
+Actus
+
+Écosystèmes
+
+   Comment l'écosystème est-il exploré ? Cliquez ici pour le savoir.
+   Banc de poisson
+
+Ressources
+
+   Comment mieux connaître les ressources ? Cliquer ici pour le savoir.
+
+Activité de pêche
+
+   Comment mieux connaître les tonnages de poisson débarqués et les moyens
+   mis en oeuvre ? Cliquez ici pour le savoir.
+
+Socio-économie
+
+Publications
+
+   Qu'est-ce que le SIH publie chaque année ? Cliquez ici pour le savoir.
+
+Données
+
+   Quelles données sont produites par le SIH et comment y accéder ?
+   Cliquez ici pour le savoir.
+
+   Les données du SIH sont stockées dans la base Harmonie de l'Ifremer.
+   Certaines sont en accès libre comme la majorité des données de
+   campagnes halieutiques. D'autres sont individuelles et confidentielles,
+   leur accès et leur utilisation sont encadrés.
+     * Le SIH
+     * Actus
+          + Archives
+     * Écosystèmes
+     * Ressources
+     * Activité de pêche
+     * Socio-économie
+     * Pêche de loisir
+     * Publications
+     * Données
+
+     * Espace privé
+
+     *
+     * Actus
+          + ObsMer : rapidité, clarté et collaboration pour un nouveau
+            souffle
+          + À Brest, 26 scientifiques européens réunis à l'Ifremer ont
+            travaillé sur l'optimisation des méthodes de suivi des
+            pêcheries
+          + Nouvelle rubrique : les guides des points de débarquement !
+          + La France structure la coordination des données halieutiques à
+            l'Ifremer de Nantes
+          + Une étude européenne pour lever le voile sur la petite pêche
+            côtière
+          + Outre-mer : la hausse des prélèvements biologiques porte ses
+            fruits
+          + Loop, pour mieux formuler votre demande de données
+          + Pêche de loisir : une distraction à la loupe
+          + Votre carnet de pêche loisir !
+          + La précision, une affaire de mensuration
+          + Qui est-ce ?
+          + Les mystères de l'halieutique élucidés par le public
+          + Pêcheurs et observateurs vous embarquent en Martinique !
+          + Archives
+     * ObsMer : rapidité, clarté et collaboration pour un nouveau souffle
+
+ObsMer : rapidité, clarté et collaboration pour un nouveau souffle
+
+   Décembre 2025 marque un tournant pour ObsMer : « après trois ans sans
+   publication, le programme révèle enfin ses résultats 2023 sous un
+   format inédit, plus rapide, plus visuel et plus représentatif des
+   réalités de la pêche » se réjouit Marion Scavinner, travaillant pour le
+   programme depuis 15 ans.
+
+Des chiffres vertigineux pour 10% de la flotte française observée
+
+   La France compte environ 6 000 navires de pêche professionnelle, dont
+   4 000 en Hexagone. Même si seulement 10% de la flotte[1] embarque des
+   observateurs à son bord, cela suffit à estimer les débarquements et
+   rejets de la plupart des flottilles de pêche. « La diversité des
+   métiers de pêche pratiqués en France rend le programme ObsMer le plus
+   ambitieux en Europe », souligne Marion. C'est pourquoi, la flotte
+   ciblée est répartie en 26 strates, que les observateurs doivent cibler
+   selon un planning trimestriel. Chaque année, ils sont d'ailleurs une
+   soixantaine et mesurent plus de 300 000 individus.
+
+Quarto : l'outil qui change la donne
+
+   La grande variété d'engins utilisés et d'espèces pêchées rend ardue
+   l'exploitation et l'interprétation des résultats. C'est pourquoi les
+   résultats n'ont pas été publiés ces trois dernières années, bien qu'ils
+   aient été transmis aux scientifiques en charge des évaluations de
+   stocks de poisson.
+
+   Face à la complexité des données, l'équipe statistique d'ObsMer,
+   dirigée par Thomas Cloâtre, a adopté Quarto, un outil de publication
+   scientifique qui combine texte, code et visualisations interactives.
+   Résultat : le rapport annuel est désormais produit en quelques semaines
+   au lieu de plusieurs mois, tout en offrant des analyses plus fines et
+   des graphiques plus parlants. Pour la version 2024, Marion coordonnera
+   une analyse approfondie de chaque strate par les experts régionaux,
+   enrichissant les résultats de commentaires structurants.
+
+   Plus agréable à lire, plus précise, avec un focus sur les chiffres les
+   plus pertinents
+
+   Marion Scavinner
+    Coordinatrice du programme ObsMer
+
+Transparence et collaboration : les clés de la représentativité
+
+   Afficher des taux de rejets n'a de sens que si le contexte est clair.
+   Chaque résultat s'accompagne ainsi de commentaires, fruit d'un travail
+   collectif entre pêcheurs, observateurs et Administration. « Les
+   représentants des pêcheurs apportent par exemple des éléments sur les
+   consommations de quotas et leurs impacts ou encore le contexte des
+   pêcheries, les observateurs sur les conditions météo et d'observation
+   en mer, et l'Administration précise les évolutions réglementaires »,
+   détaille Marion.
+
+   Pour faciliter la compréhension du rapport, les représentations
+   graphiques ont été simplifiées, tout en conservant le même niveau
+   d'information. « Plus agréable à lire, plus précise, avec un focus sur
+   les chiffres les plus pertinents », Marion se réjouit de ces atouts qui
+   donnent un nouvel élan à ObsMer. Les graphiques simplifiés permettent
+   aux pêcheurs d'identifier en un clin d'oeil les tendances par espèce et
+   par zone. Une attention particulière est accordée à la représentativité
+   spatiale, aux volumes débarqués par rapport à la moyenne habituelle, à
+   la durée des marées, ou encore aux tailles minimales de captures. Les
+   facteurs humains sont aussi pris en compte sur l'effort de prise de
+   contact des observateurs avec les pêcheurs puis sur le taux
+   d'acceptation des pêcheurs. De cette manière, les facteurs pouvant
+   biaiser les résultats sont anticipés et rendus transparents pour
+   garantir une qualité optimale des résultats.
+
+2023 : des espèces rejetées identiques à celles débarquées
+
+   L'analyse très fine de ces 1700 jours de mer montre, pour 2023, des
+   proportions rejetées très variables pour un même métier de pêche ou un
+   même navire. Dans l'ensemble, les rejets sont composés des mêmes
+   espèces que celles débarquées. Les raisons identifiées de la remise à
+   l'eau des captures restent inchangées : individus de trop petite
+   taille, valeur commerciale faible ou contrainte réglementaire (quota de
+   pêche atteint, pêche fermée etc.).
+
+Et après ?
+
+   Marion et son équipe espèrent toujours embarquer plus de pêcheurs dans
+   l'aventure ObsMer. Plus la diversité de navires observés sera élevée,
+   meilleures seront les estimations de capture. En 2022, à l'occasion des
+   20 ans du programme, Vincent, pêcheur à Sète rappelait tout l'intérêt
+   de cette belle collaboration : « Je suis fier d'être partisan d'un
+   travail main dans la main avec les scientifiques qui veulent comprendre
+   notre métier et l'évolution des ressources ».
+
+   [1] La flotte observée dans le cadre du programme ObsMer couvre les
+   façades Mer-du-Nord - Manche - Atlantique et Méditerranée, hors Corse.
+   Cette exception pour l'île de beauté tient du fait que les observations
+   sont réalisées par l'Office de l'Environnement de la Corse (OEC). Ces
+   résultats sont intégrés à ceux de la façade Méditerranée pour être pris
+   en compte dans les évaluations des stocks de poisson.
+
+     * A partir du 8 décembre
+     * Façades Mer-du-Nord - Manche - Atlantique et Méditerranée
+
+   Site Web
+          Restitution annuelle du programme ObsMer - Année 2023
+
+Partager
+
+   (BUTTON)
+     * Pinterest
+     * Reddit
+
+   Dernière modification le 08/12/2025
+
+Nos rubriques
+
+     * Le SIH
+     * Actus
+     * Écosystèmes
+     * Ressources
+     * Activité de pêche
+     * Socio-économie
+     * Pêche de loisir
+     * Publications
+     * Données
+
+Outils
+
+   Contact
+   S'identifier
+    Plan du site
+   Plan du site
+   Accessibilité
+   Mentions légales / Crédits
