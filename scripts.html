@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Scripts - Projet PPE</title>
+    <title>Nos Scripts - Projet PPE</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="assets/css/main.css" />
@@ -15,7 +15,12 @@
             <ul class="links">
                 <li><a href="index.html">Accueil</a></li>
                 <li><a href="tableaux.html">Tableaux</a></li>
-                <li class="active"><a href="scripts.html">Scripts</a></li> <li><a href="nuages.html">Nuages de mots</a></li>
+                <li class="active"><a href="scripts.html">Scripts</a></li>
+                <li><a href="nuages.html">Nuages de mots</a></li>
+                <li><a href="itrameur.html">iTrameur</a></li>
+            </ul>
+            <ul class="icons">
+                <li><a href="https://github.com/kiwxv/ProjetPPE" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
             </ul>
         </nav>
 
@@ -23,20 +28,41 @@
             <section class="post">
                 <header class="major">
                     <h1>Nos Scripts</h1>
+                    <p>Accédez aux différents codes sources et outils développés pour le projet.</p>
                 </header>
 
-                <h3>Script Bash Principal</h3>
-                <p>Voici le code utilisé pour générer les tableaux et aspirer les données :</p>
-                
-                <pre><code><a href="programmes/script.sh" class="button icon solid fa-download">Télécharger le fichier .sh</a></code></pre>
-                
-                <p>Vous pouvez consulter l'intégralité du code sur notre dépôt GitHub.</p>
-                <ul class="actions">
-                     <li><a href="https://github.com/kiwxv/ProjetPPE" class="button primary">Voir sur GitHub</a></li>
-                </ul>
+                <section>
+                    <h3>Script Bash Principal</h3>
+                    <p>Le script principal utilisé pour le traitement des URLs, l'aspiration et la génération des tableaux HTML.</p>
+                    <ul class="actions">
+                        <li><a href="programmes/script_bash.sh" class="button primary icon solid fa-download" download>Télécharger le fichier .sh</a></li>
+                    </ul>
+                </section>
+
+                <hr />
+
+                <section>
+                    <h3>Code Source HTML</h3>
+                    <p>L'intégralité du code du site web (HTML, CSS, JS) est disponible sur notre dépôt GitHub.</p>
+                    <ul class="actions">
+                        <li><a href="https://github.com/kiwxv/ProjetPPE" class="button icon brands fa-github" target="_blank">Voir sur GitHub</a></li>
+                    </ul>
+                </section>
+
+                <hr />
+
+                <section>
+                    <h3>Script iTrameur</h3>
+                    <p>Le script permettant de préparer les fichiers pour l'analyse iTrameur (nettoyage, formatage XML, contexte).</p>
+                    <ul class="actions">
+                        <li><a href="programmes/script_itrameur.sh" class="button primary icon solid fa-download" download>Télécharger le fichier .sh</a></li>
+                    </ul>
+                </section>
+
             </section>
         </div>
     </div>
+    
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/jquery.scrollex.min.js"></script>
     <script src="assets/js/jquery.scrolly.min.js"></script>

@@ -20,13 +20,14 @@
             animation: fadeInOut 4s infinite; 
         }
 
-        /* --- MODIFICATION IMAGE DE FOND --- */
+        /* --- IMAGE DE FOND --- */
         #intro {
-            background-image: url("images/accueil.jpg"); 
-            background-size: cover;     
+            background-image: url("images/accueil.jpg") !important; 
+            background-size: cover;      
             background-position: center; 
-            background-color: rgba(0,0,0,0.4); 
+            background-color: #212931; 
             background-blend-mode: overlay;
+            z-index: 1;
         }
     </style>
 </head>
@@ -55,6 +56,7 @@
                 <li><a href="tableaux.html">Tableaux</a></li>
                 <li><a href="scripts.html">Scripts</a></li>
                 <li><a href="nuages.html">Nuages de mots</a></li>
+                <li><a href="itrameur.html">iTrameur</a></li>
             </ul>
             <ul class="icons">
                 <li><a href="https://github.com/kiwxv/ProjetPPE" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
@@ -72,7 +74,7 @@
                     <strong>Français (flotte)</strong>, <strong>Anglais (fleet)</strong> et <strong>Norvégien (flåte)</strong>.</p>
                 </header>
                 <ul class="actions special">
-                    <li><a href="#detail" class="button large scrolly">Lire l'analyse détaillée</a></li>
+                    <li><a href="itrameur.html" class="button large">Lire l'analyse détaillée</a></li>
                 </ul>
             </article>
 
@@ -106,7 +108,8 @@
                         <span class="date">Étudiante à Paris Nanterre</span>
                         <h2><a href="https://github.com/Cappiexlcq">Capucine Leclercq</a></h2>
                     </header>
-                    <p>Étudiante en Master 1 de Traitement Automatique des Langues, diplômée d’une Licence Sciences du Langage à l’Université de Caen Normandie.</p>
+                    <p>Étudiante en Master 1 de Traitement Automatique des Langues, diplômée d’une Licence Sciences du Langage à l’Université de Caen Normandie. Passionnée par l’étymologie, elle s’intéresse particulièrement à la diversité linguistique et a étudié plusieurs langues, dont le norvégien, le finnois et le latin.<br />
+                    Elle souhaite poursuivre son parcours dans le domaine du traitement automatique de la parole, notamment appliqué aux langues peu dotées.</p>
                     <ul class="actions special">
                         <li><a href="https://github.com/Cappiexlcq" class="button">Mon GitHub</a></li>
                     </ul>
@@ -147,10 +150,12 @@
         const titles = ["FLOTTE", "FLEET", "FLÅTE"];
         let titleIndex = 0;
         const fadingTitle = document.getElementById('fadingTitle');
-        fadingTitle.addEventListener('animationiteration', () => {
-            titleIndex = (titleIndex + 1) % titles.length;
-            fadingTitle.textContent = titles[titleIndex];
-        });
+        if(fadingTitle) {
+            fadingTitle.addEventListener('animationiteration', () => {
+                titleIndex = (titleIndex + 1) % titles.length;
+                fadingTitle.textContent = titles[titleIndex];
+            });
+        }
     </script>
 </body>
 </html>
