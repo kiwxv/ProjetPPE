@@ -1,4 +1,4 @@
    REFRESH(360 sec):
-   file://localhost/tmp/lynxXXXXTrI8NU/L94319-4163TMP.html
+   file://localhost/tmp/lynxXXXXeUNMPd/L190820-9014TMP.html
 
    Enable JavaScript and cookies to continue

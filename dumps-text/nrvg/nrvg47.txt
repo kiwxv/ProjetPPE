@@ -156,7 +156,7 @@ Dine siste søk
 
 Siste søk
 
-   flåte skal joga jåle valisisk
+   flåte skrømt abduction Kobe se på TV
 
 Hjelp oss å bli bedre
 
@@ -165,19 +165,19 @@ Hjelp oss å bli bedre
    foreslått ord rett eller galt.
    Legg til en oversettelse
 
-   Vet du hva den nynorske oversettelsen for det norske ordet "få ro til
-   noe" er?
-   få ro til noe_______
+   Vet du hva den nynorske oversettelsen for det norske ordet "bakteppe"
+   er?
+   bakteppe____________
    ____________________
    [X] La meg vite hva som skjer med mitt forslag
    ____________________
    Send forslag [BUTTON Input] (not implemented)________
    Stem dette riktig eller galt
 
-   Er det nynorske ordet ver varsam en god oversettelse for det norske
-   ordet vær forsiktig?
-   vær forsiktig_______
-   ver varsam__________
+   Er det norske ordet innføye en god oversettelse for det nynorske ordet
+   interkalere?
+   interkalere_________
+   innføye_____________
    [BUTTON Input] (not implemented)__ [BUTTON Input] (not implemented)___
    [BUTTON Input] (not implemented)________
    Vær vennlig å logg inn for å øke troverdigheten til ditt bidrag.

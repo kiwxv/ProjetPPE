@@ -53,9 +53,9 @@
    Journal de 20 heures
    Journal de 20 heures
    Regarder
-   Le 20 heures du 3 janvier 2026
+   Le 20 heures du 4 janvier 2026
      * Information
-     * 6 Émissions
+     * 7 Émissions
 
      * Journal télévisé
      *
@@ -67,7 +67,7 @@ Journal de 20 heures
    Regarder
    (BUTTON) Ma liste
    (BUTTON) Partager
-   Le 20 heures du 3 janvier 2026
+   Le 20 heures du 4 janvier 2026
    (BUTTON) Ma liste
    (BUTTON) Partager
      * (BUTTON) Encore +
@@ -76,6 +76,13 @@ Journal de 20 heures
 
 Les 20H
 
+   Voir plus
+     *
+   Le JT de 20 heures de TF1 du dimanche 4 janvier 2026
+       45m
+       45m
+       Le JT de 20 heures de TF1 du dimanche 4 janvier 2026
+       Journal de 20 heures
      *
    Le JT de 20 heures de TF1 du samedi 3 janvier 2026
        44m
@@ -113,15 +120,27 @@ Les 20H
        Le JT de 20 heures de TF1 du lundi 29 décembre 2025
        Journal de 20 heures
      *
-   Le JT de 20 heures de TF1 du samedi 3 janvier 2026
-       44m
-       44m
-       Le JT de 20 heures de TF1 du samedi 3 janvier 2026
+   Le JT de 20 heures de TF1 du dimanche 4 janvier 2026
+       45m
+       45m
+       Le JT de 20 heures de TF1 du dimanche 4 janvier 2026
        Journal de 20 heures
 
 Tous les extraits du 20h
 
    Voir plus
+     *
+   Facture d'électricité : vers une baisse… de quelques euros
+       1m47
+       1m47
+       Facture d'électricité : vers une baisse… de quelques euros
+       Journal de 20 heures
+     *
+   Maduro emprisonné à New York
+       1m51
+       1m51
+       Maduro emprisonné à New York
+       Journal de 20 heures
      *
    Crans-Montana : l’hommage aux victimes
        2m18
@@ -228,17 +247,6 @@ Tous les extraits du 20h
        2m44
        2m44
        Cannettes : pourquoi un sur deux n'est pas recyclée
-       Journal de 20 heures
-     *
-   Galette des rois : une voiture en guise de fève ! 1m56
-       1m56
-       Galette des rois : une voiture en guise de fève !
-       Journal de 20 heures
-     *
-   Déchetteries : restons zen !
-       2m01
-       2m01
-       Déchetteries : restons zen !
        Journal de 20 heures
 
 Si vous aimez Journal de 20 heures
