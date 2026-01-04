@@ -330,7 +330,7 @@ Schedule a call back
           + [ ] Send me your best deals by SMS
      * CAPTCHA
      *
-     * Comments
+     * Name
        ____________________
        This field is for validation purposes and should be left unchanged.
 

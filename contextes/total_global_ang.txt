@@ -356,14 +356,13 @@ Le fleet management, une solution qui s'adapte à toutes les entreprises
 --
 Ce que disent nos clients
 
-     "Webfleet est un outil complet, parfaitement adapté au secteur
-     transport."
-
---
-   Peter Kelly, ELIS UK
-
      "Nous avons choisi la solution Webfleet car c’était la seule à nous
      proposer la levée de toutes nos contraintes."
+
+   Fabrice Leroux, Groupe DANIEL
+
+     "Webfleet est un outil complet, parfaitement adapté au secteur
+     transport."
 
 --
     2. Gestion de flotte
@@ -2123,7 +2122,7 @@ The Magic of Free Tuesday
    Image
 
 --
-   620
+   1,830
 
    Fleet Science Center Logo
      *
@@ -4240,6 +4239,14 @@ More From The World's Largest Fleet Publisher
 
    ©2025 Element Fleet Management Corp., all rights reserved
 
+Driven by purpose, powered by intelligence
+--
+   What moves us is what moves you—your people, your goals, and your
+   business. Get trusted advice, personalized experiences, and innovative
+   solutions across your fleet lifecycle. Stay ahead of the curve with
+   Element.
+   (BUTTON) Thumbnail: Video - Intelligence in Motion
+
 Fleet management solutions built for the future.
 
 $1.4B
@@ -4254,12 +4261,6 @@ Ready to connect?
 
    Get tailored intelligent mobility solutions to your fleet's needs.
    Message usCall (800) 665-9744
-
---
-   What moves us is what moves you—your people, your goals, and your
-   business. Get trusted advice, personalized experiences, and innovative
-   solutions across your fleet lifecycle. Stay ahead of the curve with
-   Element.
 
    Manage
 
@@ -4292,6 +4293,7 @@ Unleash your potential with trusted expertise
          4. Fleet electrification
          5. Sale leaseback
 
+--
     1. Explore more
          1. Financing
          2. Fleet partnership solutions

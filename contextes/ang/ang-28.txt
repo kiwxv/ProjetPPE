@@ -1,7 +1,0 @@
-     * Menu
-
-View fleet vehicles
-
-Login to view your fleet vehicles
-
-   Username ____________________

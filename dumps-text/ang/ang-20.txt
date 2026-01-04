@@ -1,5 +1,0 @@
-   REFRESH(360 sec):
-   file://localhost/Users/capucine/Documents/github/ProjetPPE/programmes/p
-   age_temp.html
-
-   Enable JavaScript and cookies to continue

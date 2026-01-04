@@ -129,14 +129,13 @@ Le fleet management, une solution qui s'adapte à toutes les entreprises
 --
 Ce que disent nos clients
 
-     "Webfleet est un outil complet, parfaitement adapté au secteur
-     transport."
-
---
-   Peter Kelly, ELIS UK
-
      "Nous avons choisi la solution Webfleet car c’était la seule à nous
      proposer la levée de toutes nos contraintes."
+
+   Fabrice Leroux, Groupe DANIEL
+
+     "Webfleet est un outil complet, parfaitement adapté au secteur
+     transport."
 
 --
     2. Gestion de flotte

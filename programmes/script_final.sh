@@ -13,6 +13,7 @@ FICHIER_HTML="../tableaux/${LANGUE}_site.html"
 
 # on crée un sous dossier par langue dans chaque dossier pour ne pas mélanger tous les fichiers si on lance le programme plusieurs fois sur plusieurs langues
 mkdir -p "../aspirations/${LANGUE}" "../dumps-text/${LANGUE}" "../contextes/${LANGUE}" "../images" "../contextes/bigrammes" "../aspirations/robot${LANGUE}"
+rm -rf "../dumps-text/${LANGUE}/"* rm -rf "../contextes/${LANGUE}/"*
 
 # Vérification que le fichier d'URLs existe
 if [ ! -f "$FICHIER_URLS" ]; then
@@ -33,6 +34,8 @@ else
     exit 1
 fi
 
+#on vide le fichier bigramme pour qu'il n'accumule pas les bigrammes à chaque fois qu'on lance le script
+> "../contextes/bigrammes/bigrammes_${LANGUE}.txt"
 cat <<EOF > "$FICHIER_HTML"
 <!DOCTYPE HTML>
 <html>
@@ -167,7 +170,6 @@ while read -r line; do
             egrep -i -C 2 "$mot" "../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt" > "../contextes/${LANGUE}/${LANGUE}${compteur}_contexte.txt"
 		else
 		echo "Encodage non reconnu, pas d'extraction de contextes"
-        lynx -dump -nolist "../aspirations/${LANGUE}/${LANGUE}${compteur}_page.html" > "../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt"
         fi
     fi
 
@@ -181,10 +183,21 @@ while read -r line; do
 
     #on récupère si le fichier dump a bien pu être crée
     if [ -f "$lien_dump" ]; then
-        #récupération du bigramme, mot précédant et suivant notre mot
-        grep -ioP "\w+\W+$mot\W+\w+" "$lien_dump" >> "../contextes/bigrammes/bigrammes_${LANGUE}.txt"
-        bigramme_html=$(grep -ioP "\w+\W+$mot\W+\w+" "$lien_dump" | head -n 1)
+        #récupération des bigrammes, mot précédant et suivant notre mot
+        grep -ioP "\w+\W+$mot" "$lien_dump" >> "../contextes/bigrammes/bigrammes_${LANGUE}.txt"
+        grep -ioP "$mot\W+\w+" "$lien_dump" >> "../contextes/bigrammes/bigrammes_${LANGUE}.txt"
+        bigramme_html=$(grep -ioP "$mot\W+\w+" "$lien_dump" | head -n 1)
+        bigramme_html=$(grep -ioP "\w+\W+$mot" "$lien_dump" | head -n 1)
         mots=$(wc -w < "$lien_dump")
+        #récupérations info concordancier
+        grep -ioP "(\w+\W+){0,4}$mot(\W+\w+){0,4}" "$lien_dump" | while read -r line_conco; do
+            #sépare le gauche le pivot et le droit
+            #utilise sed pour isoler ce qui est avant et après le mot
+            gauche=$(echo "$line_conco" | sed -E "s/(.*)($mot)(.*)/\1/I")
+            pivot=$(echo "$line_conco" | sed -E "s/(.*)($mot)(.*)/\2/I")
+            droite=$(echo "$line_conco" | sed -E "s/(.*)($mot)(.*)/\3/I")
+            echo "<tr><td class='gauche'>$gauche</td><td class='pivot'>$pivot</td><td class='droite'>$droite</td></tr>" >> "$FICHIER_CONCO"
+        done
     else
         bigramme_html="-"
         mots="0"
@@ -200,15 +213,6 @@ while read -r line; do
         curl -s -f "$domaine/robots.txt" > "../aspirations/robot${LANGUE}/robots_${domaine_clean}.txt"
     fi
 
-    #récupérations info concordancier
-    grep -ioP "(\w+\W+){0,4}$mot(\W+\w+){0,4}" "$lien_dump" | while read -r line_conco; do
-        #sépare le gauche le pivot et le droit
-        #utilise sed pour isoler ce qui est avant et après le mot
-        gauche=$(echo "$line_conco" | sed -E "s/(.*)($mot)(.*)/\1/I")
-        pivot=$(echo "$line_conco" | sed -E "s/(.*)($mot)(.*)/\2/I")
-        droite=$(echo "$line_conco" | sed -E "s/(.*)($mot)(.*)/\3/I")
-        echo "<tr><td class='gauche'>$gauche</td><td class='pivot'>$pivot</td><td class='droite'>$droite</td></tr>" >> "$FICHIER_CONCO"
-    done
 
     #on ajoute nos infos dans la varibale TSV
 	TSV+="${compteur}"$'\t'"${code}"$'\t'"${encodage}"$'\t'"${mots}"$'\t'"${line}"$'\t'"${lien_asp}"$'\t'"${lien_dumpinitial}"$'\t'"${lien_dump}"$'\t'"${lien_ctx}"$'\n'
