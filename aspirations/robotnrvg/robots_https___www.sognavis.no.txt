@@ -1,0 +1,38 @@
+User-agent: * 
+Allow: /
+
+
+# Start AI crawler block
+
+# AI Crawler
+User-agent: CCBot
+User-agent: GPTBot
+User-agent: anthropic-ai
+User-agent: Google-Extended
+User-agent: Amazonbot
+User-agent: Claude-SearchBot
+User-agent: Meta-ExternalAgent
+User-agent: Bytespider
+User-agent: PetalBot
+User-agent: ClaudeBot
+User-agent: Timpibot
+User-agent: OAI-SearchBot
+User-agent: Claude-User
+Disallow: /
+
+# AI Search
+User-agent: Google-CloudVertexBot
+User-agent: Applebot
+User-agent: PerplexityBot
+Disallow: /
+
+# AI Assistant
+User-agent: ChatGPT-User
+User-agent: DuckAssistBot
+User-agent: Perplexity-User
+User-agent: MistralAI-User
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+# End AI crawler block
+

@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /min-side/
+Disallow: /search
+
+Sitemap: https://www.ark.no/sitemap.xml

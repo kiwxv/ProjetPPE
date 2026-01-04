@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+Disallow: /sveacheckout*
+Disallow: /handlekurv
+Disallow: /min-konto/
+Disallow: /*.pdf$
+Sitemap: https://seatronic.no/sitemaps/sitemap.xml

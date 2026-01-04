@@ -1,0 +1,59 @@
+# robots.txt
+User-agent: *
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User # It appears ChatGPT-User user agent will use the GPTBot rules unless explicitly set
+Disallow: /.search*
+Disallow: /.version*
+Disallow: /.bruker*
+Disallow: /.admin*
+Disallow: /.versionviewdiff*
+Disallow: /.improvements*
+
+Sitemap: https://snl.no/.sitemap/sitemap.xml
+
+# AI/LLM CRAWLERS
+# We do not permit unlicensed use of our content for training large language models or other
+# artificial intelligence technology. All use, reproductions and extractions of our content for such
+# purposes require specific approval. Please contact the encyclopedia office if you have questions.
+
+# Common Crawl
+User-agent: CCBot
+Disallow: /
+
+# OpenAI
+User-agent: GPTBot
+Disallow: /
+
+# Anthropic
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+# Bytedance
+User-agent: Bytespider
+Disallow: /
+
+# Hive
+User-agent: ImagesiftBot
+Disallow: /
+
+# Webz
+User-agent: OmigiliBot
+Disallow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Disallow: /
+
+# Diffbot
+User-agent: Diffbot
+Disallow: /
+
+# Diffbot
+User-agent: cohere-ai
+Disallow: /

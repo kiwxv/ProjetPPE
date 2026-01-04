@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /Media/
+Disallow: /*?
+
+Sitemap: https://www.flotteoceanographique.fr/sitemap.xml

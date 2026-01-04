@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin
+Disallow: /pdf/download
+
+sitemap: https://www.certex.no/var/sitemaps/certex-no/sitemap.xml

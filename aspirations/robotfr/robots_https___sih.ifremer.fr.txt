@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /Media/
+Disallow: /*?
+
+Sitemap: https://sih.ifremer.fr/sitemap.xml

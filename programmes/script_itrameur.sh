@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# 1. Vérification de l'argument
+# Vérification de l'argument
 if [ $# -ne 1 ]; then
-    echo "Usage: ./script_itrameur.sh <langue>"
-    echo "Exemple: ./script_itrameur.sh fr"
+    echo "Usage: bash script_itrameur.sh <langue>"
+    echo "Exemple: bash script_itrameur.sh fr"
     exit 1
 fi
 
@@ -31,13 +31,12 @@ for filepath in "$DOSSIER_DUMPS"/*.txt; do
     if [ -s "$filepath" ]; then
         filename=$(basename "$filepath")
         
-        # --- NETTOYAGE ---
-        # 1. iconv -c : Enlève les caractères invalides
-        # 2. 2>/dev/null : Cache les erreurs "unexpected end of file" (accents coupés)
-        # 3. tr -d '\r' : Supprime les retours chariot Windows
+        # iconv -c : Enlève les caractères invalides
+        # 2>/dev/null : Cache les erreurs "unexpected end of file" (accents coupés)
+        # tr -d '\r' : Supprime les retours chariot Windows
         content=$(iconv -f utf-8 -t utf-8 -c "$filepath" 2>/dev/null | tr -d '\r')
         
-        # 4. Protection des balises XML pour iTrameur (<, >, &)
+        # Protection des balises XML pour iTrameur (<, >, &)
         content=$(echo "$content" | sed 's/&/&amp;/g; s/</&lt;/g; s/>/&gt;/g')
 
         # On écrit la structure XML

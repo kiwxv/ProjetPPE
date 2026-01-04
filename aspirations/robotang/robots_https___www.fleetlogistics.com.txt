@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Host: www.fleetlogistics.com
+Sitemap: https://www.fleetlogistics.com/sitemap.xml
+

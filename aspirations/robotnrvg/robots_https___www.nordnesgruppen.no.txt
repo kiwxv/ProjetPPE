@@ -1,0 +1,12 @@
+# OpenAI crawler rate limit - once per 3 minutes
+User-agent: GPTBot
+Crawl-delay: 180
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.nordnesgruppen.no/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

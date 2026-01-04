@@ -1,0 +1,25 @@
+
+Sitemap: https://www.sol.no/sitemapindex.xml
+Sitemap: https://sol.no/app/jw-api-proxy/sitemap/index/sol.xml
+
+User-agent: *
+Disallow: /youtube-player/
+Disallow: /video/playlist/
+Disallow: /video/popular/
+Disallow: /video/*
+Disallow: /app/*
+Allow: /app/cyclops-router-api/api/v1/
+Allow: /app/jw-api-proxy/sitemap/index/sol.xml
+Allow: /video/*/*
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /

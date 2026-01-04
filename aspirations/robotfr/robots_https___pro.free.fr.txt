@@ -1,0 +1,11 @@
+# Free Pro
+User-agent : *
+Disallow : /non-eligible/
+Disallow : /cart/confirm
+Disallow : /*?network
+
+User-agent: Googlebot
+Disallow : /non-eligible/
+Disallow : /cart/confirm
+Disallow : /*?network
+Sitemap: https://pro.free.fr/sitemap.xml

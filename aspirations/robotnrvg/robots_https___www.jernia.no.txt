@@ -1,0 +1,25 @@
+# For all robots
+User-agent: *
+
+Disallow: /*/c/*?*=*
+Disallow: /merker/*?q=*
+Disallow: /search
+Disallow: /search?*=*
+Disallow: /*?queryID=*
+Disallow: /*&queryID=*
+Disallow: /*?order=*
+Disallow: /*&order=*
+Disallow: /*?post_type=*
+Disallow: /*&post_type=*
+Disallow: /wishlist/*
+Disallow: /cart
+Disallow: /checkout
+Disallow: /my-account
+Disallow: /my-company
+
+Request-rate: 1/10              # maximum rate is one page every 10 seconds
+Crawl-delay: 10                 # 10 seconds between page requests
+Visit-time: 0400-0845           # only visit between 04:00 and 08:45 UTC
+
+# Allow search crawlers to discover the sitemap
+Sitemap: https://www.jernia.no/sitemap.xml

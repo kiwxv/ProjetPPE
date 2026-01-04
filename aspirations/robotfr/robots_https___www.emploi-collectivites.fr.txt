@@ -1,0 +1,32 @@
+User-agent: *
+Disallow: /*print-tarif*
+Disallow: /*Print-tarif*
+Disallow: /*impression-grille-indiciaire*
+Disallow: /mobilites-territoriales-*
+Disallow: /esp_recruteurs/
+Disallow: /images/brochure-recruteur-territorial.pdf
+Sitemap: https://www.emploi-collectivites.fr/sitemap.xml
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: / 
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Crawl-delay: 5
+
+Disallow: /?qu=
+Disallow: /&qu=
+
+Disallow: /?sdsearchparams=
+Disallow: /&sdsearchparams=
+
+Disallow: /?lat=
+Disallow: /&lat=

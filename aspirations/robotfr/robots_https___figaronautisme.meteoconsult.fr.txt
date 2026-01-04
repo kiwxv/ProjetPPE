@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /ajax/*
+Disallow: /monitoring/*
+Disallow: /webhook/*
+Disallow: /pro/*
+Sitemap: https://figaronautisme.meteoconsult.fr/sitemap/sitemap-index.xml
+
+

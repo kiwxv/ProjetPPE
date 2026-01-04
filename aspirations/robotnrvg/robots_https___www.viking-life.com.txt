@@ -1,0 +1,4 @@
+    User-agent: *
+    Allow: /
+    Disallow: /umbraco
+    Sitemap: https://www.viking-life.com/sitemap

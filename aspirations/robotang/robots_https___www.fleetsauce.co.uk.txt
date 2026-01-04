@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /leasing/van-leasing-main-page/?makes=
+Disallow: /car-lease-deals/?makes=
+
+Sitemap: https://www.fleetsauce.co.uk/sitemap.xml
+Sitemap: https://www.fleetsauce.co.uk/sitemap-pages.xml	
+Sitemap: https://www.fleetsauce.co.uk/sitemap-news.xml	
+Sitemap: https://www.fleetsauce.co.uk/sitemap-manufacturers.xml
+Sitemap: https://www.fleetsauce.co.uk/sitemap-models.xml	
+Sitemap: https://www.fleetsauce.co.uk/sitemap-vehicles.xml

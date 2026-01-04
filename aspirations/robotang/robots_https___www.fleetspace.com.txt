@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://www.fleetspace.com/sitemap.xml
+
+Sitemap: https://www.fleetspace.com/sitemap.xml

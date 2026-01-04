@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/uploads/2021/06/Lloyd-Latchford-Terms-of-Business.pdf
+Disallow: /wp-content/uploads/2021/07/Salary-Sacrifice-Terms-and-Conditions.pdf
+Disallow: /wp-content/uploads/2021/07/NIG-Policy.pdf
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.fleetalliance.co.uk/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

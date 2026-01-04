@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-content/uploads/2025/05/DHL_Freight-Technology_Roadmap_Whitepaper_DE.pdf
+Disallow: /wp-content/uploads/2025/05/RZ_DHL_Freight-Technology_Roadmap_Whitepaper_EN_V5.pdf
+Disallow: /wp-content/uploads/2025/05/RZ_DHL_Freight-Technology_Roadmap_Whitepaper_DE_V8.pdf
+Disallow: /wp-content/uploads/2024/08/2024-DHL-Freight-Packing-Guide-FINAL.pdf
+Disallow: /wp-content/uploads/2021/12/FRT_Technology-Brochure-Final_EN.pdf
+Disallow: /wp-content/uploads/2020/10/DHL_Freight_WhitePaper_GreenLogistics.pdf
+Disallow: /wp-content/uploads/2024/08/2024-DHL-Freight-Packing-Guide-FINAL.pdf
+Disallow: /wp-content/uploads/2020/10/DHL_Freight_WhitePaper_GruneLogistik.pdf
+
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://dhl-freight-connections.com/en/sitemap_index.xml

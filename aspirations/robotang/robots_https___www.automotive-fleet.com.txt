@@ -1,0 +1,159 @@
+# =========================
+# Major Search Engine Crawlers
+# =========================
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: Bingbot
+Disallow:
+
+User-agent: DuckDuckBot
+Disallow:
+
+User-agent: Slurp
+Disallow:
+
+User-agent: Applebot
+Disallow:
+
+# Semrush
+User-agent: Semrush
+Disallow:
+User-agent: SiteAuditBobit
+Disallow:
+
+# Social scheduling / previews
+User-agent: Loomly
+Disallow:
+
+User-agent: facebookexternalhit
+Disallow:
+
+User-agent: Facebot
+Disallow:
+
+# =========================
+# AI-Related Crawlers
+# =========================
+
+User-agent: Google-Extended
+Disallow:
+
+User-agent: Applebot-Extended
+Disallow:
+
+User-agent: GPTBot
+Disallow:
+
+User-agent: OAI-SearchBot
+Disallow:
+
+User-agent: ChatGPT-User
+Disallow:
+
+User-agent: Claude-User
+Disallow:
+
+User-agent: Claude-WebSearch
+Disallow:
+
+User-agent: PerplexityBot
+Disallow:
+
+User-agent: Perplexity-User
+Disallow:
+
+User-agent: GrokBot
+Disallow:
+
+User-agent: GeminiBot
+Disallow:
+
+
+# =========================
+# Block All Other Crawlers
+# =========================
+
+User-agent: *
+Disallow: /
+
+# =========================
+# Global Path-Based Disallows (Applies to ALL)
+# These won't override above, but reinforce across all bots
+# =========================
+
+# Query string and parameter filtering
+Disallow: *&authorEmail=
+Disallow: *&email=
+Disallow: *&f_*=
+Disallow: *&field=
+Disallow: *&name=
+Disallow: *&oly_enc_id=
+Disallow: *&pagenum=
+Disallow: *&path=
+Disallow: *&prestitial=
+Disallow: *&view=
+Disallow: *&website=
+Disallow: *?daterange=
+Disallow: *?n2page=
+Disallow: *?pagenum=
+Disallow: *?prestitial=
+Disallow: *?q=
+Disallow: *?returnurl=
+Disallow: *?sort=
+Disallow: *?submitted=
+Disallow: *?submitted=y
+Disallow: *?view=
+
+# File patterns and utility endpoints
+Disallow: /*.n2.ashx
+Disallow: /AuthSignInAuthToken.n2.ashx
+Disallow: /GetLatestComments.n2.ashx
+Disallow: /GetMoreComments.n2.ashx
+Disallow: /PostComment.n2.ashx
+
+# Low-value or duplicate content paths
+Disallow: /AddEdit.aspx
+Disallow: /Download
+Disallow: /Download?
+Disallow: /Download?id=
+Disallow: /GetForItem?id=
+Disallow: /Login
+Disallow: /Login?
+Disallow: /Login?returnurl=
+Disallow: /signin/
+Disallow: /signup/
+Disallow: /signup?returnurl=
+Disallow: /privacy.aspx
+Disallow: /sitemap.aspx
+Disallow: /search/
+Disallow: /search
+Disallow: /search?*
+Disallow: /Search/
+Disallow: /Search
+Disallow: /Search?*
+
+# Infinite scroll, archives, non-content
+Disallow: /*/moreevents
+Disallow: /*/moreposts
+Disallow: /moreposts?id=
+Disallow: /N2/
+Disallow: /n2/
+Disallow: /News/Archive/
+Disallow: /news/archive/
+Disallow: /news/list/tag/buy-here-pay-here2.aspx
+Disallow: /fc_resources/
+Disallow: /fifi/
+Disallow: /FIFI/
+Disallow: /print/
+Disallow: /relatedcontent/
+Disallow: /spaspecifics/
+Disallow: /conscious
+Disallow: /giveaway/
+Disallow: /2010project
+Disallow: /Don-t-Go-Overboard-with-Bright-Hues.aspx
+Disallow: /tags?tag=buy-here%2c+pay-here+
+
+# Sitemap
+Sitemap: https://www.automotive-fleet.com/sitemap.xml

@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /bin/
+Disallow: /obj/
+Disallow: /fckeditor/
+Disallow: /Services/
+Disallow: /WebUserControls/
+Disallow: /XSLT/
+Disallow: /Logginn.aspx
+Disallow: /Kasse/
+Disallow: /Info/Kundesenter/MinSide.aspx
+Disallow: /Info/Kundesenter/Ordrehistorikk.aspx
+Disallow: /WebPages/Edm/
+Disallow: /search
+Disallow: /*?*Filter=
+Disallow: /*?*deviceSize= 
+
+Allow: /
+
+sitemap: https://www.idrettsbutikken.no/sitemap.xml

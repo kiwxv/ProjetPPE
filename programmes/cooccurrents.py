@@ -5,7 +5,6 @@ import glob
 import re
 from collections import Counter
 
-# --- SCRIPT ALTERNATIF ROBUSTE ---
 # Ce script remplace PALS pour générer les données du Nuage de Mots.
 # Il est insensible à la casse (Flåte = flåte) et nettoie la ponctuation.
 

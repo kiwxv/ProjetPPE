@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.wheels.com/public/wp-sitemap.xml
+Disallow: /wp-content/pdfs/*
+Disallow: /public/wp-sitemap-posts-popup-1.xml
+Disallow: /public/wp-sitemap-posts-bwg_gallery-1.xml

@@ -1,0 +1,3 @@
+Sitemap: https://www.media.stellantis.com/sitemap.xml
+User-agent: *
+Allow: /

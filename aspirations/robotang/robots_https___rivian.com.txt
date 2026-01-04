@@ -1,0 +1,12 @@
+user-agent: *
+allow: /
+disallow: /404
+disallow: /api/
+disallow: /rccg-support
+disallow: /experience/r1t
+disallow: /experience/r1s
+disallow: /trip-visualizer
+disallow: /offers/api/
+sitemap: https://rivian.com/sitemap.xml
+sitemap: https://rivian.com/offers/sitemap.xml
+host: rivian.com

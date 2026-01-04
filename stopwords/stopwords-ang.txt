@@ -1,4 +1,5 @@
 fleet
+fleets
 'll
 'tis
 'twas

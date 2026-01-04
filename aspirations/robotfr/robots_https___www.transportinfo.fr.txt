@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+
+User-agent: CCBot
+Disallow: /
+
+Sitemap: https://www.transportinfo.fr/sitemap_index.xml

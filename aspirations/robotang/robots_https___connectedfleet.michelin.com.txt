@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /sample-*
+Disallow: /blog/sample-*
+Disallow: /hubfs/tcs/*
+Disallow: /hubfs/WEBSITE/UK/UK%20-%20TCS/UK%20-%20Docx/Non_index_DOCx/*
+Disallow: /hubfs/WEBSITE/UK/UK%20-%20TCS/UK%20-%20PDFs/Non_index_PDF/*
+Disallow: /hubfs/WEBSITE/FR/FR%20-%20TCS/FR%20-%20DOCx/Non_index_DOCx/*
+Disallow: /hubfs/WEBSITE/FR/FR%20-%20TCS/FR%20-%20PDFs/Non_index_PDF/*
+Disallow: /hubfs/WEBSITE/DE/DE%20-%20TCS/UK%20-%20Docx/Non_index_DOCx/*
+Disallow: /hubfs/WEBSITE/DE/DE%20-%20TCS/UK%20-%20Docx/Non_index_PDF/*
+Disallow: /hubfs/WEBSITE/ES/ES%20-%20TCS/UK%20-%20Docx/Non_index_PDF/*
+Disallow: /hubfs/WEBSITE/UK/UK%20-%20Campaigns/UK%20-%20CO2/Non_index_Images/*
+Disallow: /hubfs/WEBSITE/FR/FR%20-%20Campaigns/FR%20-%20Co2/Non_index_Images/*
+
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow: /hs/preferences-center/
+Disallow: /*?*hs_preview=*
+Disallow: /*?*hsCacheBuster=*

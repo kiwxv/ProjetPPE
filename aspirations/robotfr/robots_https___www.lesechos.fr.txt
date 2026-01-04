@@ -1,0 +1,282 @@
+User-agent: *
+Disallow: /internal
+Disallow: /recherche
+
+User-agent: 5emeRue
+Disallow: /
+
+User-agent: 5erue
+Disallow: /
+
+User-agent: adequat
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: AmiSoftware
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: Argus
+Disallow: /
+
+User-agent: Ask n read
+Disallow: /
+
+User-agent: asknread.com
+Disallow: /
+
+User-agent: Augure
+Disallow: /
+
+User-agent: auramundi
+Disallow: /
+
+User-agent: Bloodhound
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Claude-web
+Disallow: /
+
+User-agent: coexel
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: ConveraCrawler
+Disallow: /
+
+User-agent: Corporama
+Disallow: /
+
+User-agent: cydralspider
+Disallow: /
+
+User-agent: Digimind
+Disallow: /
+
+User-agent: downloadexpress
+Disallow: /
+
+User-agent: EDD
+Disallow: /
+
+User-agent: eureka
+Disallow: /
+
+User-agent: Europresse
+Disallow: /
+
+User-agent: Explore
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Factiva
+Disallow: /
+
+User-agent: Fetch
+Disallow: /
+
+User-agent: gammaSpider
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: ia_archiver-web.archive.org
+Disallow: /
+
+User-agent: indexer
+Disallow: /
+
+User-agent: Jetbot
+Disallow: /
+
+User-agent: k2spider
+Disallow: /
+
+User-agent: Kantar
+Disallow: /
+
+User-agent: kbcrawl
+Disallow: /
+
+User-agent: Knowings
+Disallow: /
+
+User-agent: leadbox
+Disallow: /
+
+User-agent: libwww
+Disallow: /
+
+User-agent: linkfluence
+Disallow: /
+
+User-agent: linko
+Disallow: /
+
+User-agent: manageo
+Disallow: /
+
+User-agent: mediacompil
+Disallow: /
+
+User-agent: Meltwater
+Disallow: /
+
+User-agent: mention
+Disallow: /
+
+User-agent: Moreover
+Disallow: /
+
+User-agent: MSIECrawler
+Disallow: /
+
+User-agent: mytwip
+Disallow: /
+
+User-agent: NewsNow
+Disallow: /
+
+User-agent: Newzbin
+Disallow: /
+
+User-agent: NPBot
+Disallow: /
+
+User-agent: ObjectsSearch
+Disallow: /
+
+User-agent: opinion-tracker
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Pimptrain
+Disallow: /
+
+User-agent: proxem
+Disallow: /
+
+User-agent: Qwam content intelligence
+Disallow: /
+
+User-agent: Raven
+Disallow: /
+
+User-agent: readability.com
+Disallow: /
+
+User-agent: scoop.it
+Disallow: /
+
+User-agent: score3
+Disallow: /
+
+User-agent: Sindup
+Disallow: /
+
+User-agent: sitecheck.internetseer.com
+Disallow: /
+
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: Synthesio
+Disallow: /
+
+User-agent: Talkwater
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: trendeo
+Disallow: /
+
+User-agent: trendybuzz
+Disallow: /
+
+User-agent: TunitinBot
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: vecteurplus
+Disallow: /
+
+User-agent: verticalsearch
+Disallow: /
+
+User-agent: vsw
+Disallow: /
+
+User-agent: wapspider
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebZinger
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: Wget
+Disallow: /
+
+User-agent: winello
+Disallow: /
+
+User-agent: Zealbot
+Disallow: /
+
+User-agent: Zite
+Disallow: /
+
+User-agent: ZyBORG
+Disallow: /
+
+Sitemap: https://sitemap.lesechos.fr/sitemap_index.xml
+Sitemap: https://www.lesechos.fr/sitemap_news.xml

@@ -1,0 +1,1 @@
+# Report security bugs to ordbok-teknisk@uib.no

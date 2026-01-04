@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /feeds/
+Disallow: /admin
+Disallow: /reviews/
+
+User-agent: AhrefsBot 
+Disallow: /

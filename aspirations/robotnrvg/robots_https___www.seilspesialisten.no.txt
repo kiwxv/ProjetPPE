@@ -1,0 +1,51 @@
+User-agent: *
+Allow: /
+Disallow: /kontrollpanel
+Disallow: /search
+Disallow: /search_result
+Disallow: /search_result?*
+Disallow: /cookie_usage
+Disallow: /htmlpackingmanifest.php
+Disallow: /htmlpackingmanifest.php?*
+Disallow: /htmlpackingslip_new.php
+Disallow: /htmlpackingslip_new.php?*
+Disallow: /htmlpackingslip.php
+Disallow: /htmlpackingslip.php?*
+Disallow: /htmlpackingslip_meters.php
+Disallow: /htmlpackingslip_meters.php?*
+Disallow: /order_confirmation.php
+Disallow: /order_confirmation.php?*
+Disallow: /pdfinvoice.php
+Disallow: /pdfinvoice.php?*
+Disallow: /pdf_kredittnota.php
+Disallow: /pdf_kredittnota.php?*
+Disallow: /pdf_angreskjema.php
+Disallow: /pdf_angreskjema.php?*
+Disallow: /htmlreturnsform.php
+Disallow: /htmlreturnsform.php?*
+Disallow: /htmlinvoice_new.php
+Disallow: /htmlinvoice_new.php?*
+Disallow: /htmlgiftcard.php
+Disallow: /htmlgiftcard.php?*
+Crawl-delay: 5
+
+User-agent: msnbot
+Crawl-delay: 3
+
+User-Agent: Googlebot
+Allow: /
+
+User-Agent: Googlebot-image
+Allow: /
+
+User-agent: SemrushBot
+Crawl-delay: 5
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /

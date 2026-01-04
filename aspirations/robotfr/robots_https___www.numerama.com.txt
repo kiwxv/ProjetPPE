@@ -1,0 +1,42 @@
+User-agent: *
+
+Disallow: /search/
+Disallow: /wp/wp-admin/
+Disallow: /wp/wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /numeramaplus/refresh/
+Disallow: /wp-content/themes/numerama-next/misc/
+Disallow: /cdn-cgi/
+Disallow: /plsbl/
+Disallow: /wp-content/mu-plugins/humanoid-core/includes/Core/Ajax/
+Disallow: /*?show_reader_reports*
+Disallow: /*&show_reader_reports*
+
+Allow: /videos/$
+Allow: /videos/page/*
+Disallow: /videos/*/page/*
+Disallow: /videos/*/
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: CCBot
+Disallow: /
+
+# TODO: remove after postViews deletion (24/03/2020)
+Disallow: /ajax-postviews.php
+
+Sitemap: https://www.numerama.com/sitemap_index.xml
+Sitemap: https://www.numerama.com/news-sitemap.xml

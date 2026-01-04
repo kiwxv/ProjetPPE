@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /ajax?action=add
+Disallow: /ajax?action=change
+Disallow: /ajax?action=copy
+Disallow: /ajax?action=filter
+Disallow: /ajax?action=remove
+Disallow: /ajax?action=search
+Disallow: /ajax?action=set
+Disallow: /ajax?action=update
+Disallow: /admin*
+Sitemap: https://www.maritim.no/sitemap.xml

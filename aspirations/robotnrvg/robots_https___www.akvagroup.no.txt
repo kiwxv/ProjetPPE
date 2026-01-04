@@ -1,0 +1,26 @@
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: *
+Disallow: 
+Allow: /
+Crawl-delay: 5
+
+Sitemap: https://www.akvagroup.no/sitemap.xml
+Disallow: /getfile.php/1321711-1744028101/Dokumenter/02.%20IKKE%20LOGIN%20-%20DOKUMENTER/02.%20Konsern/Investor%20relations/Annual%20Reports/2024%20Annual%20Report%20eng%20ESEF.zip
+Disallow: /getfile.php/1321712-1744028192/Dokumenter/02.%20IKKE%20LOGIN%20-%20DOKUMENTER/02.%20Konsern/Investor%20relations/Annual%20Reports/2024%20Annual%20Report%20eng.pdf
+Disallow: /getfile.php/1321718-1744028462/Dokumenter/02.%20IKKE%20LOGIN%20-%20DOKUMENTER/02.%20Konsern/Investor%20relations/General%20meeting%20-%20alle%20filer/2024%20Annual%20Report%20eng.pdf
+Disallow: /getfile.php/1321828-1745907047/Dokumenter/02.%20IKKE%20LOGIN%20-%20DOKUMENTER/02.%20Konsern/Investor%20relations/General%20meeting%20-%20alle%20filer/Innkalling%20til%20ordin%C3%A6r%20general%20forsamling%20%20AKVA%20group%202025.pdf
+Disallow: /getfile.php/1321831-1745907097/Dokumenter/02.%20IKKE%20LOGIN%20-%20DOKUMENTER/02.%20Konsern/Investor%20relations/General%20meeting%20-%20alle%20filer/Notice%20of%20annual%20general%20meeting%20-%20AKVA%20group%202025.pdf
+Disallow: /getfile.php/1321834-1745907142/Dokumenter/02.%20IKKE%20LOGIN%20-%20DOKUMENTER/02.%20Konsern/Investor%20relations/General%20meeting%20-%20alle%20filer/Recommendations%20from%20the%20Nomination%20Committee%202025.pdf
+Disallow: /getfile.php/1321837-1745907264/Dokumenter/02.%20IKKE%20LOGIN%20-%20DOKUMENTER/02.%20Konsern/Investor%20relations/General%20meeting%20-%20alle%20filer/Remuneration%20report%20-%20AKVA%20group%202024.pdf
+Disallow: /getfile.php/1321840-1745907328/Dokumenter/02.%20IKKE%20LOGIN%20-%20DOKUMENTER/02.%20Konsern/Investor%20relations/General%20meeting%20-%20alle%20filer/Guidelines%20executive%20remuneration%202025%20-%20AKVA%20group.pdf
+Disallow: /getfile.php/1321915-1746770760/Dokumenter/02.%20IKKE%20LOGIN%20-%20DOKUMENTER/02.%20Konsern/Investor%20relations/Quarterly%20reports%20%26%20presentations/2025%20Q1%20AKVA%20group%20presentation.pdf
+Disallow: /getfile.php/1321918-1762503091/Dokumenter/02.%20IKKE%20LOGIN%20-%20DOKUMENTER/02.%20Konsern/Investor%20relations/Quarterly%20reports%20%26%20presentations/2025%20Q1%20AKVA%20Group%20report.pdf
+Disallow: /getfile.php/1323452-1762503212/Dokumenter/02.%20IKKE%20LOGIN%20-%20DOKUMENTER/02.%20Konsern/Investor%20relations/Quarterly%20reports%20%26%20presentations/2025%20Q2%20AKVA%20group%20Report.pdf
+Disallow: /getfile.php/1323695-1762503245/Dokumenter/02.%20IKKE%20LOGIN%20-%20DOKUMENTER/02.%20Konsern/Investor%20relations/Quarterly%20reports%20%26%20presentations/2025%20Q2%20AKVA%20group%20presentation.pdf
+Disallow: /getfile.php/1324180-1762503271/Dokumenter/02.%20IKKE%20LOGIN%20-%20DOKUMENTER/02.%20Konsern/Investor%20relations/Quarterly%20reports%20%26%20presentations/2025%20Q3%20AKVA%20group%20Report.pdf
+Disallow: /getfile.php/1324183-1762506837/Dokumenter/02.%20IKKE%20LOGIN%20-%20DOKUMENTER/02.%20Konsern/Investor%20relations/Quarterly%20reports%20%26%20presentations/2025%20Q3%20AKVA%20group%20Presentation.pdf
