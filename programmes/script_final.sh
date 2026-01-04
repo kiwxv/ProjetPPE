@@ -93,6 +93,38 @@ cat <<EOF > "$FICHIER_HTML"
                         <tbody>
 EOF
 
+#créa concordancier
+#avant la boucle while, on initialise le fichier HTML du concordancier
+FICHIER_CONCO="../concordances/concordancier_${LANGUE}.html"
+
+cat <<EOF > "$FICHIER_CONCO"
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css" />
+    <style>
+        .conco-table { width: 100%; border-collapse: collapse; }
+        .conco-table td, .conco-table th { padding: 8px; border: 1px solid #dbdbdb; }
+        .gauche { text-align: right; width: 45%; }
+        .pivot { text-align: center; width: 10%; font-weight: bold; color: green; background-color: #fff9f9; }
+        .droite { text-align: left; width: 45%; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title is-3 has-text-centered">Concordancier : $LANGUE</h1>
+        <table class="conco-table">
+            <thead>
+                <tr>
+                    <th class="gauche">Contexte Gauche</th>
+                    <th class="pivot">Mot</th>
+                    <th class="droite">Contexte Droit</th>
+                </tr>
+            </thead>
+            <tbody>
+EOF
+
 #initialisation d'une variable comptant les lignes
 compteur=1
 echo "Traitement des urls..."
@@ -135,6 +167,7 @@ while read -r line; do
             egrep -i -C 2 "$mot" "../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt" > "../contextes/${LANGUE}/${LANGUE}${compteur}_contexte.txt"
 		else
 		echo "Encodage non reconnu, pas d'extraction de contextes"
+        lynx -dump -nolist "../aspirations/${LANGUE}/${LANGUE}${compteur}_page.html" > "../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt"
         fi
     fi
 
@@ -167,6 +200,16 @@ while read -r line; do
         curl -s -f "$domaine/robots.txt" > "../aspirations/robot${LANGUE}/robots_${domaine_clean}.txt"
     fi
 
+    #récupérations info concordancier
+    grep -ioP "(\w+\W+){0,4}$mot(\W+\w+){0,4}" "$lien_dump" | while read -r line_conco; do
+        #sépare le gauche le pivot et le droit
+        #utilise sed pour isoler ce qui est avant et après le mot
+        gauche=$(echo "$line_conco" | sed -E "s/(.*)($mot)(.*)/\1/I")
+        pivot=$(echo "$line_conco" | sed -E "s/(.*)($mot)(.*)/\2/I")
+        droite=$(echo "$line_conco" | sed -E "s/(.*)($mot)(.*)/\3/I")
+        echo "<tr><td class='gauche'>$gauche</td><td class='pivot'>$pivot</td><td class='droite'>$droite</td></tr>" >> "$FICHIER_CONCO"
+    done
+
     #on ajoute nos infos dans la varibale TSV
 	TSV+="${compteur}"$'\t'"${code}"$'\t'"${encodage}"$'\t'"${mots}"$'\t'"${line}"$'\t'"${lien_asp}"$'\t'"${lien_dumpinitial}"$'\t'"${lien_dump}"$'\t'"${lien_ctx}"$'\n'
 
@@ -194,6 +237,7 @@ while read -r line; do
 	#pour éviter de recevoir le code 429 "too many request" on impose un temps de latence d'une seconde entre les requêtes
 	sleep 1
 done < "$FICHIER_URLS"
+echo "Tableau créé à : $FICHIER_HTML"
 
 cat <<EOF >> "$FICHIER_HTML"
                         </tbody>
@@ -210,6 +254,8 @@ cat <<EOF >> "$FICHIER_HTML"
 </html>
 EOF
 
+echo "</tbody></table></div></body></html>" >> "$FICHIER_CONCO"
+echo "Concordancier crée à $FICHIER_CONCO"
 #creation du wordcloud
 ## on crée un fichier temporaire qui stock tous les texte d'une langue pour faire le wordscloud sur tous les contextes extraits
 
@@ -227,5 +273,3 @@ if [ -s "../contextes/total_global_${LANGUE}.txt" ]; then
 else
     echo "Pas assez de texte pour le nuage de mots."
 fi
-
-echo "Tableau créé à : $FICHIER_HTML"
