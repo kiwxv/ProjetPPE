@@ -11,11 +11,11 @@ LANGUE=$1
 
 #Définition des chemins (Respect de l'arborescence)
 FICHIER_URLS="../URLs/${LANGUE}_url.txt"
-DOSSIER_IDOINE="../idoine/${LANGUE}"
+DOSSIER_IDOINE="../aspirations/${LANGUE}"
 FICHIER_HTML="../tableaux/${LANGUE}_site.html"
 
 # on crée un sous dossier par langue dans chaque dossier pour ne pas mélanger tous les fichiers si on lance le programme plusieurs fois sur plusieurs langues
-mkdir -p "../idoine/${LANGUE}" "../dumps-text/${LANGUE}" "../contextes/${LANGUE}"
+mkdir -p "../aspirations/${LANGUE}" "../dumps-text/${LANGUE}" "../contextes/${LANGUE}"
 
 
 # Vérification que le fichier d'URLs existe
@@ -39,8 +39,8 @@ do
 
 	#utiliser plusieur curl faisait bloquer wikimedia car trop de requêtes, j'en utilise donc seulement 1 que je met dans une variable contenu
 	contenu=$(curl -s -L "$line")
-	#on stock chaque page dans le dossier idoine, avec un sous dossier par langue. Grace a notre variable "LANGUE" on peut directement naviguer entre ces dossiers sans avoir à spécifier le chemin en argument
-	echo "$contenu" > "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt"
+	#on stock chaque page dans le dossier aspirations, avec un sous dossier par langue. Grace a notre variable "LANGUE" on peut directement naviguer entre ces dossiers sans avoir à spécifier le chemin en argument
+	echo "$contenu" > "../aspirations/${LANGUE}/${LANGUE}${compteur}_page.html"
 
 
 	encodage=$(echo "$contenu" | grep -ioP "charset=[\"']?\K[\w-]+" | head -n 1)
@@ -72,16 +72,16 @@ do
 		#si l'encodage n'est pas UTF-8
 	else
 		#on trouve l'encodage pas en UTF-8
-		encodage_autre=$(file -b --mime-encoding "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt")
+		encodage_autre=$(file -b --mime-encoding "../aspirations/${LANGUE}/${LANGUE}${compteur}_page.html")
 		echo "URL $compteur : Encodage autre que UTF-8 : $encodage_autre"
 		if [[ "$encodage_autre" != "binary" && "$encodage_autre" != "unknown"* ]]; then
-            lynx -dump -nolist "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt" > "../dumps-text/${LANGUE}/${LANGUE}${compteur}_initial.txt"
-            iconv -f "$encodage_autre" -t utf-8 "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt" > "../idoine/${LANGUE}/${LANGUE}${compteur}_page.tmp"
+            lynx -dump -nolist "../aspirations/${LANGUE}/${LANGUE}${compteur}_page.html" > "../dumps-text/${LANGUE}/${LANGUE}${compteur}_initial.txt"
+            iconv -f "$encodage_autre" -t utf-8 "../aspirations/${LANGUE}/${LANGUE}${compteur}_page.html" > "../aspirations/${LANGUE}/${LANGUE}${compteur}_page.tmp"
             #on remplace l'ancien fichier par celui qui vient de réencoder
-			mv "../idoine/${LANGUE}/${LANGUE}${compteur}_page.tmp" "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt"
+			mv "../aspirations/${LANGUE}/${LANGUE}${compteur}_page.tmp" "../aspirations/${LANGUE}/${LANGUE}${compteur}_page.html"
 			echo "Fichier URL $compteur converti de $encodage_autre vers UTF-8"
 			encodage="$encodage_autre (converti)"
-			lynx -dump -nolist "../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt" > "../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt"
+			lynx -dump -nolist "../aspirations/${LANGUE}/${LANGUE}${compteur}_page.html" > "../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt"
 			egrep -i -C 2 "$mot" "../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt" > "../contextes/${LANGUE}/${LANGUE}${compteur}_contexte.txt"
 		else
 		echo "Encodage non reconnu, pas d'extraction de contextes"
@@ -90,7 +90,7 @@ do
 
 	mots=$(echo "$contenu"| wc -w)
 
-	lien_asp="../idoine/${LANGUE}/${LANGUE}${compteur}_page.txt"
+	lien_asp="../aspirations/${LANGUE}/${LANGUE}${compteur}_page.html"
     lien_dump="../dumps-text/${LANGUE}/${LANGUE}${compteur}.txt"
     lien_dumpinitial="../dumps-text/${LANGUE}/${LANGUE}${compteur}_initial.txt"
     if [ ! -f "$lien_dumpinitial" ]; then
@@ -176,6 +176,7 @@ if [ -s "../contextes/${LANGUE}/total_${LANGUE}.tmp" ]; then
 		--scale 3 \
         --background white \
         --contour_width 3
+	echo "Nuage de mot crée à "../images/nuage_${LANGUE}.png"
 else
 	echo "Pas assez de texte pour générer un nuage de mots pour ${LANGUE}"
 fi

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>EC2 Fleet and Spot Fleet - Amazon Elastic Compute Cloud</title><meta name="viewport" content="width=device-width,initial-scale=1" /><meta name="assets_root" content="/assets" /><meta name="target_state" content="Fleets" /><meta name="default_state" content="Fleets" /><link rel="icon" type="image/ico" href="/assets/images/favicon.ico" /><link rel="shortcut icon" type="image/ico" href="/assets/images/favicon.ico" /><link rel="canonical" href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Fleets.html" /><meta name="description" content="You can use an EC2 Fleet or Spot Fleet to launch tens, hundreds, or thousands of Spot Instances and On-Demand Instances on different instance types and across multiple Availability Zones in a single request." /><meta name="deployment_region" content="IAD" /><meta name="product" content="Amazon Elastic Compute Cloud" /><meta name="guide" content="User Guide" /><meta name="abstract" content="Use Amazon EC2 to configure, launch, and manage virtual servers in the AWS cloud." /><meta name="guide-locale" content="en_us" /><meta name="tocs" content="toc-contents.json" /><link rel="canonical" href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Fleets.html" /><link rel="alternative" href="https://docs.aws.amazon.com/id_id/AWSEC2/latest/UserGuide/Fleets.html" hreflang="id-id" /><link rel="alternative" href="https://docs.aws.amazon.com/id_id/AWSEC2/latest/UserGuide/Fleets.html" hreflang="id" /><link rel="alternative" href="https://docs.aws.amazon.com/de_de/AWSEC2/latest/UserGuide/Fleets.html" hreflang="de-de" /><link rel="alternative" href="https://docs.aws.amazon.com/de_de/AWSEC2/latest/UserGuide/Fleets.html" hreflang="de" /><link rel="alternative" href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Fleets.html" hreflang="en-us" /><link rel="alternative" href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Fleets.html" hreflang="en" /><link rel="alternative" href="https://docs.aws.amazon.com/es_es/AWSEC2/latest/UserGuide/Fleets.html" hreflang="es-es" /><link rel="alternative" href="https://docs.aws.amazon.com/es_es/AWSEC2/latest/UserGuide/Fleets.html" hreflang="es" /><link rel="alternative" href="https://docs.aws.amazon.com/fr_fr/AWSEC2/latest/UserGuide/Fleets.html" hreflang="fr-fr" /><link rel="alternative" href="https://docs.aws.amazon.com/fr_fr/AWSEC2/latest/UserGuide/Fleets.html" hreflang="fr" /><link rel="alternative" href="https://docs.aws.amazon.com/it_it/AWSEC2/latest/UserGuide/Fleets.html" hreflang="it-it" /><link rel="alternative" href="https://docs.aws.amazon.com/it_it/AWSEC2/latest/UserGuide/Fleets.html" hreflang="it" /><link rel="alternative" href="https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/UserGuide/Fleets.html" hreflang="ja-jp" /><link rel="alternative" href="https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/UserGuide/Fleets.html" hreflang="ja" /><link rel="alternative" href="https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/Fleets.html" hreflang="ko-kr" /><link rel="alternative" href="https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/Fleets.html" hreflang="ko" /><link rel="alternative" href="https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/Fleets.html" hreflang="pt-br" /><link rel="alternative" href="https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/Fleets.html" hreflang="pt" /><link rel="alternative" href="https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/Fleets.html" hreflang="zh-cn" /><link rel="alternative" href="https://docs.aws.amazon.com/zh_tw/AWSEC2/latest/UserGuide/Fleets.html" hreflang="zh-tw" /><link rel="alternative" href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Fleets.html" hreflang="x-default" /><meta name="feedback-item" content="EC2" /><meta name="this_doc_product" content="Amazon Elastic Compute Cloud" /><meta name="this_doc_guide" content="User Guide" /><head xmlns="http://www.w3.org/1999/xhtml"> <script defer="" src="/assets/r/awsdocs-doc-page.2.0.0.js"></script><link href="/assets/r/awsdocs-doc-page.2.0.0.css" rel="stylesheet"/></head>
+<script defer="" id="awsc-panorama-bundle" type="text/javascript" src="https://prod.pa.cdn.uis.awsstatic.com/panorama-nav-init.js" data-config="{'appEntity':'aws-documentation','region':'us-east-1','service':'ec2'}"></script><meta id="panorama-serviceSubSection" value="User Guide" /><meta id="panorama-serviceConsolePage" value="EC2 Fleet and Spot Fleet" /></head><body class="awsdocs awsui"><div class="awsdocs-container"><awsdocs-header></awsdocs-header><awsui-app-layout id="app-layout" class="awsui-util-no-gutters" ng-controller="ContentController as $ctrl" header-selector="awsdocs-header" navigation-hide="false" navigation-width="$ctrl.navWidth" navigation-open="$ctrl.navOpen" navigation-change="$ctrl.onNavChange($event)" tools-hide="$ctrl.hideTools" tools-width="$ctrl.toolsWidth" tools-open="$ctrl.toolsOpen" tools-change="$ctrl.onToolsChange($event)"><div id="guide-toc" dom-region="navigation"><awsdocs-toc></awsdocs-toc></div><div id="main-column" dom-region="content" tabindex="-1"><awsdocs-view class="awsdocs-view"><div id="awsdocs-content"><head><title>EC2 Fleet and Spot Fleet - Amazon Elastic Compute Cloud</title><meta name="pdf" content="/pdfs/AWSEC2/latest/UserGuide/ec2-ug.pdf#Fleets" /><meta name="rss" content="amazon-ec2-release-notes.rss" /><meta name="forums" content="https://repost.aws/tags/TAO-wqN9fYRoyrpdULLa5y7g" /><meta name="feedback" content="https://docs.aws.amazon.com/forms/aws-doc-feedback?hidden_service_name=EC2&amp;topic_url=https://docs.aws.amazon.com/en_us/AWSEC2/latest/UserGuide/Fleets.html" /><meta name="feedback-yes" content="feedbackyes.html?topic_url=https://docs.aws.amazon.com/en_us/AWSEC2/latest/UserGuide/Fleets.html" /><meta name="feedback-no" content="feedbackno.html?topic_url=https://docs.aws.amazon.com/en_us/AWSEC2/latest/UserGuide/Fleets.html" /><meta name="keywords" content="EC2,Amazon EC2,EC2 instance,EC2 Linux instance,EC2 Windows instance,instance,VM,virtual machine,EC2 Fleet,Spot Fleet,launch Amazon EC2 instances" /><script type="application/ld+json">
+{
+    "@context" : "https://schema.org",
+    "@type" : "BreadcrumbList",
+    "itemListElement" : [
+      {
+        "@type" : "ListItem",
+        "position" : 1,
+        "name" : "AWS",
+        "item" : "https://aws.amazon.com"
+      },
+      {
+        "@type" : "ListItem",
+        "position" : 2,
+        "name" : "Amazon EC2",
+        "item" : "https://docs.aws.amazon.com/ec2/index.html"
+      },
+      {
+        "@type" : "ListItem",
+        "position" : 3,
+        "name" : "User Guide",
+        "item" : "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide"
+      },
+      {
+        "@type" : "ListItem",
+        "position" : 4,
+        "name" : "EC2 Fleet and Spot Fleet",
+        "item" : "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Fleets.html"
+      }
+    ]
+}
+</script></head><body><div id="main"><div style="display: none"><a href="/pdfs/AWSEC2/latest/UserGuide/ec2-ug.pdf#Fleets" target="_blank" rel="noopener noreferrer" title="Open PDF"></a></div><div id="breadcrumbs" class="breadcrumb"><a href="/index.html">Documentation</a><a href="/ec2/index.html">Amazon EC2</a><a href="concepts.html">User Guide</a></div><div id="page-toc-src"><a href="#ec2-fleet-features-and-benefits">Features and benefits</a></div><div id="main-content" class="awsui-util-container"><div id="main-col-body"><awsdocs-language-banner data-service="$ctrl.pageService"></awsdocs-language-banner><h1 class="topictitle" id="Fleets">EC2 Fleet and Spot Fleet</h1><div class="awsdocs-page-header-container"><awsdocs-page-header></awsdocs-page-header><awsdocs-filter-selector id="awsdocs-filter-selector"></awsdocs-filter-selector></div><p>EC2 Fleet and Spot Fleet are designed to be a useful way to launch a fleet of tens, hundreds, or
+        thousands of Amazon EC2 instances in a single operation. Each instance in a fleet is either
+        configured by a <a href="./ec2-launch-templates.html">launch template</a> or a set of
+        launch parameters that you configure manually at launch.</p><div class="highlights"><h6>Topics</h6><ul><li><p><a href="#ec2-fleet-features-and-benefits">Features and benefits</a></p></li><li><p><a href="./which-fleet-method-to-use.html">Which is the best fleet method to
+                use?</a></p></li><li><p><a href="./ec2-fleet-configuration-strategies.html">Configuration options for your EC2 Fleet or
+			Spot Fleet</a></p></li><li><p><a href="./manage-ec2-fleet.html">Work with EC2 Fleet</a></p></li><li><p><a href="./work-with-spot-fleets.html">Work with Spot Fleet</a></p></li><li><p><a href="./fleet-monitor.html">Monitor your EC2 Fleet or Spot Fleet</a></p></li><li><p><a href="./fleet-tutorials.html">Tutorials for EC2 Fleet</a></p></li><li><p><a href="./ec2-fleet-examples.html">Example CLI configurations for EC2 Fleet</a></p></li><li><p><a href="./spot-fleet-examples.html">Example CLI configurations Spot Fleet</a></p></li><li><p><a href="./fleet-quotas.html">Quotas for EC2 Fleet and Spot Fleet</a></p></li></ul></div>
+        <h2 id="ec2-fleet-features-and-benefits">Features and benefits</h2>
+        <p>Fleets provide the following features and benefits, enabling you to maximize cost
+            savings and optimize availability and performance when running applications on multiple
+            EC2 instances.</p>
+        <div class="variablelist">
+             
+             
+             
+             
+             
+        <dl>
+                <dt><b><span class="term">Multiple instance types</span></b></dt>
+                <dd>
+                    <p>A fleet can launch multiple instance types, ensuring it isn't dependent on
+                        the availability of any single instance type. This increases the overall
+                        availability of instances in your fleet.</p>
+                </dd>
+            
+                <dt><b><span class="term">Distributing instances across Availability Zones</span></b></dt>
+                <dd>
+                    <p>A fleet can launch into multiple Availability Zones, enabling you to
+                        reduce costs and improve availability. If your fleet includes Spot Instances, the
+                        fleet automatically selects Availability Zones based on your preferences
+                        regarding price and interruptions.</p>
+                </dd>
+            
+                <dt><b><span class="term">Multiple purchasing options</span></b></dt>
+                <dd>
+                    <p>A fleet can launch multiple purchase options (Spot and On-Demand Instances), allowing
+                        you to optimize costs through Spot Instance usage. You can also take advantage of
+                        Reserved Instance and Savings Plans discounts by using them in conjunction with On-Demand Instances in
+                        the fleet. </p>
+                </dd>
+            
+                <dt><b><span class="term">Automated replacement of Spot Instances</span></b></dt>
+                <dd>
+                    <p>If your fleet includes Spot Instances, it can automatically request replacement
+                        Spot capacity if your Spot Instances are interrupted. Through <a href="./ec2-fleet-capacity-rebalance.html">Capacity Rebalancing</a>, a
+                        fleet can also monitor and proactively replace your Spot Instances that are at an
+                        elevated risk of interruption.</p>
+                </dd>
+            
+                <dt><b><span class="term">Reserve On-Demand capacity</span></b></dt>
+                <dd>
+                    <p>A fleet can use an <a href="./ec2-fleet-on-demand-capacity-reservations.html">On-Demand Capacity Reservation</a> to
+                        reserve On-Demand capacity. A fleet can also include <a href="./ec2-capacity-blocks.html">Capacity Blocks for ML</a>, allowing you to reserve
+                        GPU instances on a future date to support short duration machine
+                        learning (ML) workloads.</p>
+                </dd>
+            </dl></div>
+    <awsdocs-copyright class="copyright-print"></awsdocs-copyright><awsdocs-thumb-feedback right-edge="{{$ctrl.thumbFeedbackRightEdge}}"></awsdocs-thumb-feedback></div><noscript><div><div><div><div id="js_error_message"><p><img src="https://d1ge0kk1l5kms0.cloudfront.net/images/G/01/webservices/console/warning.png" alt="Warning" /> <strong>Javascript is disabled or is unavailable in your browser.</strong></p><p>To use the Amazon Web Services Documentation, Javascript must be enabled. Please refer to your browser's Help pages for instructions.</p></div></div></div></div></noscript><div id="main-col-footer" class="awsui-util-font-size-0"><div id="doc-conventions"><a target="_top" href="/general/latest/gr/docconventions.html">Document Conventions</a></div><div class="prev-next"><div id="previous" class="prev-link" accesskey="p" href="./tutorial-ec2-rds-option3.html">Option 3: Manually connect</div><div id="next" class="next-link" accesskey="n" href="./which-fleet-method-to-use.html">Which fleet method to
+                use?</div></div></div><awsdocs-page-utilities></awsdocs-page-utilities></div><div id="quick-feedback-yes" style="display: none;"><div class="title">Did this page help you? - Yes</div><div class="content"><p>Thanks for letting us know we're doing a good job!</p><p>If you've got a moment, please tell us what we did right so we can do more of it.</p><p><awsui-button id="fblink" rel="noopener noreferrer" target="_blank" text="Feedback" click="linkClick($event)" href="https://docs.aws.amazon.com/forms/aws-doc-feedback?hidden_service_name=EC2&amp;topic_url=https://docs.aws.amazon.com/en_us/AWSEC2/latest/UserGuide/Fleets.html"></awsui-button></p></div></div><div id="quick-feedback-no" style="display: none;"><div class="title">Did this page help you? - No</div><div class="content"><p>Thanks for letting us know this page needs work. We're sorry we let you down.</p><p>If you've got a moment, please tell us how we can make the documentation better.</p><p><awsui-button id="fblink" rel="noopener noreferrer" target="_blank" text="Feedback" click="linkClick($event)" href="https://docs.aws.amazon.com/forms/aws-doc-feedback?hidden_service_name=EC2&amp;topic_url=https://docs.aws.amazon.com/en_us/AWSEC2/latest/UserGuide/Fleets.html"></awsui-button></p></div></div></div></body></div></awsdocs-view><div class="page-loading-indicator" id="page-loading-indicator"><awsui-spinner size="large"></awsui-spinner></div></div><div id="tools-panel" dom-region="tools"><awsdocs-tools-panel id="awsdocs-tools-panel"></awsdocs-tools-panel></div></awsui-app-layout><awsdocs-cookie-banner class="doc-cookie-banner"></awsdocs-cookie-banner></div></body></html>
